@@ -1,0 +1,29 @@
+{{Meeting
+|Date=2010-05-26
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100526 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 13.2 on Ben Brown: convert website design to drupal template 
+## Health & Safety Committee
+### Update for 29.2 on Everyone: bring in phone for H&S; activate with Eric's SIM
+### Board Procedure and Committee Appointments 
+## Space Expansion
+### Update for 30.1 on Eric: Write letter to Landlord asking for signed copy of the lease
+### Plan of action for the Tool Room 
+## Workshops
+### Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors. 
+## Ubuntu Lucid Lynx Release Party
+## Art Wall
+### Update for 30.2 on Gus: Email members clarifying the Art Wall's ownership 
+# New Business
+## Non-members in the space 
+## Member Withdrawal: Michael Hiemstra
+# Action item review
+# Adjournment

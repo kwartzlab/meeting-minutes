@@ -1,0 +1,25 @@
+{{Meeting
+|Date=2010-06-10
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100610 Board Meeting Minutes.pdf
+}}
+
+# Call to Order
+# Approval of the Agenda
+# Approval of Previous Minutes
+# Report from the Treasurer
+# Old Business
+## Website & Mailing Lists
+## Health & Safety Committee
+## Space Expansion
+## Workshops
+## Art Wall
+## Bylaws & Elections
+## Maker Faire Detroit
+## Fire Inspection
+# New Business
+## New Members
+# Action Item Review
+# Adjournment

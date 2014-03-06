@@ -1,0 +1,31 @@
+{{Meeting
+|Date=2010-06-24
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100624 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of previous minutes
+# Report from the Treasurer# Old Business
+## Website and Mailing Lists
+### Update for action 13.2 on Ben Brown: convert website design to drupal template 
+## Health & Safety Committee
+### Update for 29.2 on Everyone: bring in phone for H&S; activate with Eric's SIM
+### Board Procedure and Committee Appointments
+### Update for ACTION 36.1 on Stephanie Smith: implement administracrap calendar module in drupal. 
+## Space Expansion
+### Plan of action for the Tool Room 
+## Workshops
+### Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors. 
+## Bylaws and Elections
+### Update for ACTION 36.2 on Eric Gerlach: revise the Bylaws Draft, and post to the Members' list for feedback.
+### Update for ACTION 36.3 on Eric Gerlach: open nominations for Board Elections.
+## 2010 Board Elections 
+## New Members
+### Update for ACTION 36.4 on Stephanie Smith: notify Chris of his admittance. 
+## Maker Faire Detroit 
+# New Business
+# Action item review
+# Adjournment

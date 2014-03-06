@@ -1,0 +1,40 @@
+{{Meeting
+|Date=2010-07-22
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100722 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+#  Approval of previous minutes
+## Approval of the June 24 Board Meeting Minutes
+##  Approval of the June 29 Board Meeting Minutes
+##  Approval of the July 8 AGM Minutes
+##  Approval of the July 9 Board Meeting Minutes 
+#  Report from the Treasurer
+#  Report from the Art Wall Curator
+#  Report From President - Gus
+#  Old Business
+##  Website and Mailing Lists
+### Update for action 13.2 on Ben Brown: convert website design to drupal template 
+##  Health & Safety Committee
+### Update for action 36.1 on Ben Brown: Activate the Nokia phone with a pay-as-you-go SIM
+### Set Board Procedure and Committee Appointments 
+##  Workshops
+### Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors. 
+##  Maker Faire Detroit
+##  KwartzLab Sign 
+# New Business
+##  Need of alarm system and anti-burglary system. -added by Gus
+##  Marion Call concert
+##  Returning Members (Application/Vetting Process & Fees)
+##  Review existing Board Procedures (should be done after every AGM)
+##  KwartzLab Store
+##  KwartzCon
+##  People's personal belongings and projects (20 minutes, time boxed)
+##  How can we start fully using the Heavy Equipment Lab
+##  Mark Smith's hiatus (change to inquiry into his status - Gus)
+## Ubuntu LAN Party - Allow inviting of guests 
+#  Action item review
+# Adjournment

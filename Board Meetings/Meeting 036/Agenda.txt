@@ -1,0 +1,13 @@
+{{Meeting
+|Date=2010-06-29
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=201000629 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of General Members Meeting Minutes
+# New Member: Bernie Rohde
+# Membership Withdrawal: Cheryl Mok
+# Adjournment

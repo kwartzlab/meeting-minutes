@@ -1,0 +1,38 @@
+{{Meeting
+|Date=2010-04-29
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100429 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 13.2 on Ben Brown: convert website design to drupal template 
+## Health & Safety Committee
+### Update for action 27.1 on Gus: Find and mount H&S bulletin board
+### Update for 29.2 on Ben: bring in phone for H&S; activate with Eric's SIM
+### Update on 29.3 on Cedric: bring in bulletin board for H&S
+## Board Procedure and Committee Appointments 
+## Space Expansion
+### Plan of action for the Tool Room 
+## Workshops
+### Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors.
+### Statement from Jessica Clayman 
+## Door Access Control / Reimbursement for James' DigiKey Order for doors
+### 29.4 on Ben: give James the RS485 controller he needs for the front door access control. 
+## Ubuntu Lucid Lynx Release Party
+## GST Return
+### Update for 29.1 on Eric: get GST return for Ben. 
+# New Business
+## Art Wall
+### Anonymous Statement 
+## New memberships
+### Rob Adlers
+### Joel Larose 
+### Membership Hiatus: Kyle Spaans
+## Alex using space for volunteer meeting Friday 
+# Action item review
+# Adjournment

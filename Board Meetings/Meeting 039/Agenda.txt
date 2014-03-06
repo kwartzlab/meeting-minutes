@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2010-08-03
+|Time=2000
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100803 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Mitch Altman's Soldering Workshop
+# Adjournment

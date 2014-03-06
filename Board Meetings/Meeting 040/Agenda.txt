@@ -1,0 +1,40 @@
+{{Meeting
+|Date=2010-08-05
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100805 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of previous minutes
+# Report from the Treasurer
+# Report From President
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.1 on Steph Smith: Replace staging site with WordPress
+### Update for action 39.2 on Ben Brown: build new site in WordPress 
+## Health & Safety Committee
+### Update for action 36.1 on Ben Brown: Bring in sim and pre-paid phone card; Eric will activate Nokia phone
+### Set Board Procedure and Committee Appointments 
+## Workshops
+### Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors. 
+## Maker Faire Detroit
+## Trillium Grants
+## KwartzLab Sign
+## Need of alarm system and anti-burglary system
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
+## Marion Call concert
+### Update on action 39.4 on Robert Gissing: contact Marion Call regarding the possibility of doing a concert at the Lab. 
+## Review existing Board Procedures (should be done after every AGM)
+## KwartzLab Store
+### Update on action 39.5 on Steph Smith & Paul Walker: make shop.kwartzlab.ca happen 
+## KwartzCon
+## How can we start fully using the Heavy Equipment Lab
+## Mark Smith's hiatus 
+# New Business
+## People's personal belongings and projects (20 minutes, time boxed)
+## New Applicant: Ralph Janke
+## Ubuntu Global Jam 
+# Action item review
+# Adjournment

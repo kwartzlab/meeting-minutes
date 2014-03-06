@@ -1,0 +1,24 @@
+{{Meeting
+|Date=2010-05-13
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100513 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Busines
+## Website
+## Health & Safety
+## Space Expansion
+## Workshops
+## Ubuntu Release party
+## Art Wall
+# New Business
+## Non-Members in the Space
+## Python Night
+## Board Elections
+# Next Board Meeting
+# A Comment from Rob Adler
+# Adjournment
