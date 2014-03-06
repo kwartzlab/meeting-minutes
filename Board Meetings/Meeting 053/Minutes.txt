@@ -1,0 +1,48 @@
+{{Meeting
+|Date=2011-01-20
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+=== Director RSVP ===
+
+Please RSVP by end of day January 18. A minimum of 4 Directors are needed to may quorum. 
+
+==== Attending ====
+Steph, Cedric, Alex, Gus
+
+==== Regrets ====
+Eric, Paul
+
+==== Unknown ====
+Ben
+
+# Call to Order
+# Approval of the Agenda
+# Approval of Oct 12 Board Meeting minutes
+# Approval of Nov 4 Board Meeting minutes
+# Approval of Dec 9 Board Meeting minutes
+# Approval of Dec 23 Board Meeting minutes
+# Approval of Jan 6 Board Meeting minutes
+# Approval of Jan 11 Board Meeting minutes
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Need of alarm system and anti-burglary system
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## Heavy Equipment Lab
+### Electrical Work
+#### Review Quotes
+#### Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
+### Security of Boiler Room Door
+## Health & Safety
+### Health & Safety Policy
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+# New Business
+## KW Little Theatre Request to use Space
+## Bill C-32 Comment
+# Action item review
+# Adjournment
