@@ -1,0 +1,34 @@
+{{Meeting
+|Date=December 9, 2010
+|Time=7:30pm
+|Address=Kwartzlab
+|Meeting Type=Board Meeting
+}}
+# Call to Order
+# Approval of Last Meetings Minutes
+# Approval of the Agenda
+# Report From President
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Need of alarm system and anti-burglary system
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## KwartzLab Store
+### Update for action 41.2 on Paul Walker: organize arduino order for shop
+## Heavy Equipment Lab
+### Electrical Work
+#### Update for action 48.2 on Robert Gissing: call Waterloo Mechanical re electrical work quote.
+#### Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+## Health & Safety
+### Emergency Phone
+#### Update for action 43.3 on Ben Brown: Sell Nokia on eBay
+### Health & Safety Policy
+#### Update for action 48.1 on Stephanie Smith: post the not H&S summary to Bod for discussion
+## Micro Mondays
+# New Business
+## Christmas/Festivus Party on Dec 17
+# Action item review
+# Adjournment

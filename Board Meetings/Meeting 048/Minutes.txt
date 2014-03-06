@@ -1,0 +1,15 @@
+{{Meeting
+|Date=2010-11-25
+|Time=1930
+|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# New Business
+## Health & Safety Policy 
+## New Member Applicant: Mark Pitcher
+## Electrical Quote
+## Space Concerns (Darin White)
+# Action Item Review
+# Adjournment

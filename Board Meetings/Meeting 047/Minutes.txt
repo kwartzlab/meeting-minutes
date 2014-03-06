@@ -1,0 +1,22 @@
+{{Meeting
+|Date=2010-11-04
+|Time=1930
+|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Business
+## Website & Mailing List
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Alarm & Anti-Burglary System
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## KwartzLab Store
+### Update for action 41.2 on Paul Walker: organize arduino order for shop
+### Update for 45.1 Ben to forward new distributor agreement for Arduinos to BoD
+# New Business
+## Micro Mondays
+## NaNoWriMo
+# Action Item Review
+# Adjournment

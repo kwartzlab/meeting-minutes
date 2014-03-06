@@ -1,0 +1,40 @@
+{{Meeting
+|Date=2010-08-19
+|Time=1730
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+#Call to Order
+#Approval of the Agenda
+#Approval of Previous Minutes
+#Report from the Treasurer
+#Report from the President
+#Old Business
+##Website & Mailing Lists
+###Update for action 39.2 on Ben Brown: build new site in WordPress
+##Health & Safety Committee
+###Update for action 41.1 on Alex Williams: bring in mobile phone
+###Set Board Procedure and Committee Appointments
+##Workshops
+###Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors.
+##Need of alarm system and anti-burglary system
+###Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+##Marion Call concert
+###Update on action 39.4 on Robert Gissing: contact Marion Call regarding the possibility of doing a concert at the Lab.
+##Review existing Board Procedures
+##KwartzLab Store
+###Update for action 41.2 on Paul Walker: organize arduino for shop
+###Update for action 41.3 on Steph Smith: review Ladyada's wholesale pricing
+##KwartzCon
+##How can we start fully using the Heavy Equipment Lab
+###Update for action 41.4 on Steph Smith: ping Gus regarding ventilation project
+##People's personal belongings and projects
+###Update for action 41.5 on Paul: generate some story examples to illustrate good communication, and make a friend collage.
+#New Business
+##Public Event: Software Freedom Day
+##Public Event: Central Art Walk
+##SoOnCon
+##Internet Radio Station
+##Steel Rails Session
+#Action Item Review
+#Adjournment

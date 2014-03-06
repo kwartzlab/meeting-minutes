@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2010-08-10
+|Time=2100
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100810 Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# New Members: Jonathan Lamothe
+# Adjournment

@@ -1,0 +1,33 @@
+{{Meeting
+|Date=2010-10-21
+|Time=1930
+|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Website & Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Health & Safety Committee
+### Emergency Phone
+#### Update on action 43.2 on Ben Brown: Bring in SIM for Nokia
+#### Update on action 43.3 on Ben Brown: Sell Nokia on eBay
+### Set Board Procedure and Committee Appointments
+#### Update on action 43.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion.
+## Alarm & Anti-Burglary System
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## KwartzLab Store
+### Update for action 41.2 on Paul Walker: organize arduino order for shop
+### Update for 45.1 Ben to forward new distributor agreement for Arduinos to BoD
+## Heavy Equipment Lab
+## People's personal belongings and projects
+## Budget Revision
+### Update for 45.2 Ben to post new budget to Board list for review.
+## Public Event: Ubuntu Release Party (Oct 16)
+# New Business
+## Open Data Hackathon
+# Action Item Review
+# Adjournment

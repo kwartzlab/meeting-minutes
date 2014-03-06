@@ -1,0 +1,25 @@
+{{Meeting
+|Date=2010-12-23
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+
+#Call to Order
+#Approval of the Agenda
+#Report From President
+#Old Business
+##KwartzLab Store
+###Update for action 41.2 on Paul Walker: organize arduino order  for shop 
+##Heavy Equipment Lab
+###Electrical Work
+####Update for action 48.2 on Robert Gissing: get an additional electrical work quote.
+####Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
+##Health & Safety
+###Health & Safety Policy
+####Update for action 49.1 on Stephanie Smith: Post proposed policy to members' list. 
+##Micro Mondays 
+#New Business
+##kLARP Report 
+#Action item review
+#Adjournment
