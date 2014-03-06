@@ -1,0 +1,12 @@
+{{Meeting
+|Date=2010-04-13
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=201000413 Board Meeting Minutes.pdf
+}}
+
+# Call to Order
+# Approval of the Agenda
+# Lease Contract
+# Adjournment

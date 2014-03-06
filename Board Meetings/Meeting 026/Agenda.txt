@@ -1,0 +1,31 @@
+{{Meeting
+|Date=2010-03-11
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20100311 Board Meeting Minutes.pdf
+}}
+#Call to Order
+#Approval of the Agenda
+#Report from the Treasurer
+#Old Business
+##Website and Mailing Lists
+###Update for action 13.2 on Ben Brown: convert website design to drupal template
+###Update for action 26.2 on Steph Smith: create discuss@kwartzlab.ca mailing list and change archives of members to private 
+##Lease contract for borrowing member equipment
+###Update for action 26.3 on Steph Smith: setup equipment@kwartzlab.ca email forward
+###Update for action 26.4 on Steph Smith: print copies of lease and place in Board locker 
+##Health & Safety Committee
+###Update for action 26.5 on Eric & Gus: bring in phone and SIM card and try to activate 
+##Workroom Floor
+##Space Expansion
+###Update for action 26.6 on Ben & Gus: meet with Kapley re: spaces 
+##Tool Committee
+###Update on action 26.1 on Eric Gerlach: Write up tool committee procedure 
+##Frequency and dates of Board Meetings
+###Update on action 26.7 on Eric Gerlach: Post notice re: Board meeting on the 11th 
+##Report on Arduino workshop
+##Membership Vetting Procedures 
+#New Business
+#Action item review
+#Adjournment

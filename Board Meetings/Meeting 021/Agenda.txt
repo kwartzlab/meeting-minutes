@@ -1,0 +1,56 @@
+{{Meeting
+|Date=2010-01-20
+|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
+|Meeting Type=Board Meeting
+|Minutes=20100120 Board Meeting Minutes.pdf
+}}
+1. Call to order
+2. Approval of the agenda
+3. Approval of the October 21 Board Meeting Minutes
+4. Report from the Treasurer
+  4.1. Update for action 21.1 on Ben will follow up on rent cheque, if 
+       it hasn't gone through in a couple of days.
+5. Old Business
+  5.1. Website/mailing lists
+    5.1.1. Update for action 13.2 on Ben: convert website design to 
+           drupal template
+  5.2. Lease contract for borrowing member equipment
+    5.2.1. Update for action 17.1 on Eric: Post draft of lease agreement to 
+           members list asking for comment
+  5.3. Metal brake/shear from RIM
+    5.3.1. Training
+    5.3.2. Other H&S considerations
+    5.3.3. Asset Tag
+  5.4. Budget Revision
+    5.4.1.  Update for action 17.2 on Ben & Eric: New draft of budget 
+            incorporating new language for funds
+  5.5. Health & Safety Committee
+    5.5.1. Emergency phone
+    5.5.2. Lab & Equipment training needed
+  5.6. Drink Order
+  5.7. Workroom Floor
+  5.8. Large Tools
+    5.8.1.  Update for action 17.5 on Darin: Summarize discussion about 
+            large tools and email members list with a few options to get 
+            feedback about it.
+  5.9. Policies & procedures for bringing in new equipment
+  5.10. Public in the space & semi-external groups
+  5.11. Trillium Grants
+  5.12. Membership Vetting Procedures
+    5.12.1. Update for action 21.2 on Gus will wrote up a proposed motion 
+            for new member approvals, and post to BOD for discussion
+  5.13. Outreach to Local Arts Community
+  5.14. New Equipment Acquisition:
+    5.14.1. LPKF Cabinet (James Bastow)
+    5.14.2. Radial Arm Saw (Darin White)
+    5.14.3. Supply Closet (Cedric Puddy)
+  5.15. Space Expansion
+    5.15.1. Update for action 21.3 on Gus & Ben to start talking with 
+            Kaplay regarding that unit.
+  5.16. Site 3
+6. New Business
+  6.1. Reimbursements
+  6.2. Arduino Workshop
+  6.3. Purchasing a 50' VGA cable ($50.85)
+7. Action item review
+8. Adjournment

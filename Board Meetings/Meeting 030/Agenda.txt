@@ -1,0 +1,14 @@
+{{Meeting
+|Date=2010-04-15
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=201000415 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Suspension of Michael Kowalski's membership
+# Termination of Michael Kowalski's membership
+# Call of General Meeting
+# Next Board Meeting
+# Adjournment

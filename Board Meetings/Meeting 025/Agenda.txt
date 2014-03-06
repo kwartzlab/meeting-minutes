@@ -1,0 +1,30 @@
+{{Meeting
+|Date=2010-02-24
+|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
+|Meeting Type=Board Meeting
+|Minutes=20100224 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Business
+## Website
+### Update for action 13.2 on Ben Brown: convert website design to drupal template 
+## Lease contract for borrowing member equipment
+### Update for action 17.1 on Eric Gerlach: Post draft of lease agreement to members list asking for comment 
+## Health & Safety Committee
+### Update on action 22.3 on Eric Gerlach: bring in his cell phone & activate it. 
+## Workroom Floor
+## Trillium Grants
+## Membership Vetting Procedures
+### Update for action 21.2 on Gus will wrote up a proposed motion for new member approvals, and post to BOD for discussion 
+## Space Expansion
+## Signage
+## Ubuntu Global Jam
+## Member Meeting
+### Update on action 24.2 on Eric Gerlach: post to members that we'll be holding a members meeting on the 17. 
+# New Business
+## Tool Committee
+## Frequency and dates of Board Meetings 
+# Action item review
+# Adjournment
