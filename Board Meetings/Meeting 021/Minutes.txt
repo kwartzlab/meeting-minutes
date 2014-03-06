@@ -1,0 +1,293 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, January 20, 2010
+* Time: 7:30pm
+* Location: 
+* Meeting #22
+
+BOARD MEMBER
+
+* Present:  Alexandra Dysinski, Ben Brown, Cedric Puddy, Darin White, Eric Gerlach, Stephanie Smith
+* Absent: Robert Gissing
+* Quorum: Yes (6/7)
+
+OTHERS
+
+* KwartzLab Members: Bevan Lantz, Jessica Clayman, Andrew Mackie, Darcy Casselman (arrived during 5.15 Space Expansion)
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1947 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2.  Approval of the Agenda
+--------------------------
+
+The agenda was presented by the Chair, with the addition of "Signage" under "New Business". The agenda, with this addition, was approved by the general consent of the Board.
+
+3. Approval of the October 21 Board Meeting Minutes
+---------------------------------------------------
+The October 21 Board Meeting Minutes were approved by the general consent of the Board.
+
+4. Report from the Treasurer
+----------------------------
+The Treasurer presented a current financial report to the Board. See attached Appendix A. 
+
+4.1. Update for action 21.1 on Ben will follow up on rent cheque, if 
+it hasn't gone through in a couple of days.
+
+  Closed: Our rent cheque has cleared.
+
+5. Old Business
+---------------
+
+  5.1 Website/mailing lists
+  -------------------------
+  5.1.1 Update for action 13.2 on Ben: convert website design to drupal 
+  template
+
+    Continuing: Ben Brown presented to the board that he is in the final 
+    stages of transforming website content for the new template. He is 
+    currently co-ordinating with Katrina Somers regarding the front page 
+    content.
+
+  5.2 Lease contract for borrowing member equipment
+  --------------------------------------------------
+
+  5.2.1. Update for action 17.1 on Eric: Post draft of lease agreement to 
+  members list asking for comment
+
+    Continuing: No update.
+
+  5.3 Metal Brake/Shear from RIM
+  ------------------------------
+
+  Jessica Claymen reported to the Board that the necessary Health & Safety 
+  policies are not yet in place, so we cannot implement anything yet. She's 
+  posted draft policies, which need to be review and approved by the Board 
+  before she can proceed.
+
+  >> Action 22.1 on Eric Gerlach: post a reminder to the members' mailing 
+  list to review the draft Health & Safety policy document.
+
+  5.4 Budget Revision
+  -------------------
+  5.4.1.  Update for action 17.2 on Ben & Eric: New draft of budget 
+  incorporating new language for funds
+
+    Closed: Ben Brown presented the Board with the new draft budget. 
+    (Appendix A shows incomplete wording.) In addition to the requested 
+    revision for the emergency fund, a $30/month promotional expenses item 
+    has been added. 
+
+  >> Action 22.2 on Ben Brown: post the new draft budget to the members' 
+  list for final discussion.
+
+  5.5 Health & Safety Committee
+  ------------------------------
+  There was a brief discussion by the Board regarding the use of Eric's 
+  cell phone as an emergency phone. The expense of the phone can fall under 
+  the "Misc" variable expenses budget for now.
+
+  5.5.1 Emergency Phone
+  >> Action 22.3 on Eric Gerlach: activate and bring in the emergency cell 
+  phone.
+
+  5.5.2 Lab & Equipment training needed
+  Jessica Claymen presented to the Board a brief overview of how new 
+  equipment will be managed by Health & Safety. The Health & Safety 
+  Committee will classify all incoming equipment as either "red" or 
+  "green". "Red" equipment will be identified with a sticker, and will 
+  require specific training. Some form of signage or documentation will be 
+  provided for all "red" equipment, indicating how members can obtain the 
+  necessary training.
+
+  >> Action 22.4 on Jessica Claymen & Robert Gissing: review all equipment 
+  currently in the lab, and identify which items are "red".
+
+  5.6 Drink Order
+  ---------------
+  Cedric Puddy presented the Board with a update on how the drink 
+  order/donation fund is going. We're not making as much money as we 
+  expected to make, however we're also not losing any money. Cedric expects 
+  that drinks will be self-funding by the next order.
+
+  5.7 Workroom Floor
+  ------------------
+  There was a brief discussion by the Board regarding the urgency of the 
+  workroom floor. Epoxy paint is the best available option.
+
+  >> Action 22.5 on Robert Gissing: find out what area the 5 galloon bucket 
+  of paint will cover.
+
+  5.8 Large Tools
+  --------------- 
+  Darin White presented to the Board a quick summary of the member 
+  responses received to his "large tools" post.  Laser cutter was the top 
+  pick, and where we should focus our energy.
+
+  5.9 Policies & Procedures for Bringing in New Equipment
+  -------------------------------------------------------
+  Nothing further for this item.
+
+  5.10 Public in the Space & Semi-External Groups
+  -----------------------------------------------
+  There was a brief discussion summarizing where the Board left this topic 
+  in December. The outstanding question is whether or not "member guests" 
+  should be considered welcome at "member-only" events. Rather than 
+  legislating this, the consensus of the Board was to leave it up to the 
+  event organizer, and ensure that organizers clearly specify whether their 
+  events are for members plus guest(s), or just members. 
+
+  Regarding the earlier question of allowing external/semi-external groups 
+  use the space -- Eric Gerlach reported to the Board that he ran the 
+  question by other hackerspaces at the December call-in. The consensus of  
+  the other hackerspaces on the call was that cool things happening in the 
+  space was good, so if it was a cool group, and a one-off event, they 
+  would let it happen.
+
+
+  5.11 Trillium Grants
+  --------------------
+  No update.
+
+  5.12 Membership Vetting Procedures
+  ----------------------------------
+  There was an in depth discussion regarding the various options being 
+  considered, to involve the general membership in new-member vetting. 
+
+  In order to work within our current bylaws, the Board could hold a member 
+  "poll" regarding potential new members, and then the Board could formally 
+  ratify the results of that poll. The question remaining is how high to 
+  set the bar. There were some concerns about requiring a unanimous 
+  decision by the members.
+  
+  5.12.1 Update for action 21.2 on Gus will wrote up a proposed motion for 
+  new member approvals, and post to BOD for discussion 
+
+  NOT CLOSED!!
+
+    Closed: action no longer necessary at this time.
+
+  5.13 Outreach to Local Arts Community
+  -------------------------------------
+  Darin White presented an update to the Board, regarding his networking 
+  with CAFKA and CrimeLab. The January 26 joint event is now being 
+  organized entirely by KwartzLab; CAFKA and CrimeLab will just be 
+  attending as guests. The event will comprise of 5 KwartzLabber and 5 
+  outside artist lightning talks. Darin has been reaching out to some of 
+  our artist-neighbours in the building to provide the artist talks. 
+
+  5.14 New Equipment Acquisition
+  ------------------------------
+  The Radial Arm Saw which Darin is sourcing for us is actually being 
+  lent, not donated; the Board will need to revise our acceptance motion. 
+  We will do that once the lease contract is ready.
+
+  5.15 Space Expansion
+  --------------------
+
+  5.15.1. Update for action 21.3 on Gus & Ben to start talking with Kaplay 
+  regarding the unit off of our kitchen.
+
+    No update.
+
+  5.16 Site 3
+  ------------
+
+  Darin White reported to the Board on the Site 3 inaugural meeting. The 
+  meeting had a good turn-out, and he looks forward to KwartzLab and Site 3 
+  having a long and fruitful relationship. 
+
+6. New Business
+---------------
+
+  6.1 Reimbursements
+  ------------------
+  No reimbursement requests are currently before the Board.
+
+  6.2 Arduino Workshop
+  --------------------
+  Bevan Lanz presented to the Board that he and Andrew Mackie would like to 
+  host a public Arduino workshop on February 27, from 1-4pm. The event will 
+  cost $20/person, and any profit made will go to KwartzLab.
+
+  Motion: Be it resolved that the Board approves Bevan & Andrew's arduino 
+  workshop for February 27, from 1-4pm, which will be open to the public.
+
+    Motion Moved: Eric Gerlach
+    Motion Seconded: Stephanie Smith
+    In Favour: 6
+    Opposed: 0
+
+  6.3 Purchasing a 50' VGA Cable
+  ------------------------------
+  Motion: Be it resolved that the Board approves the purchase of a 50' VGA 
+  cable for the lab.
+
+    Motion Moved: Darin White
+    Motion Seconded: Eric Gerlach
+    In Favour: 6
+    Opposed: 0
+
+  6.4 Signage
+  -----------
+  There was a brief discussion regarding the need for exterior signage for 
+  the lab. There is currently nothing on the outside of the building which 
+  indicates we are here. Creating signage could be a large group project. 
+
+  There was also a discussion regarding signage inside the building. We 
+  need to be careful with any signs which we put on doors inside the 
+  building -- they can cause confusion for visitors to other tenants. 
+
+  >> Action 22.6 on Jessica Claymen: begin a brain-storming thread 
+  regarding signage on the members' list
+
+  6.5 Ubuntu Global Jam
+  ---------------------
+  Darcey Casselman presented to the Board that a date has been set for the 
+  Ubuntu Global Jam -- March 26-28. He would like to organize a public 
+  event during that time. More details to follow.
+
+7. Action Item Review
+---------------------
+
+Action 13.2 on Ben Brown: convert website design to drupal template
+
+Action 21.3 on Robert Gissing & Ben Brown: start talking with Kaplay regarding the unit off of our kitchen.
+
+Action: 22.1 on Eric Gerlach: post reminder Board & Members to review draft Health & Safety policy
+
+Action 22.2 on Ben Brown: to post the current budget draft to the member's list for final approval.
+
+Action 22.3 on Eric Gerlach: bring in his cell phone & activate it.
+
+Action 22.4 on Jessica Claymen & Robert Gissing: review everything currently in the lab, and designate which items are "red".
+
+Action 22.5 on Robert Gissing: figure out how many square feet 1 bucket of epoxy paint will cover.
+
+Action 22.6 on Jessica Claymen:  start brain-storming conversation on ML.
+
+8. Adjournment
+--------------
+The meeting was adjourned at 2125EDT
+Motion Moved: Eric Gerlach
+Motion Seconded: Cedric Puddy
+In Favour: 6
+Opposed: 0

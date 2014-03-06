@@ -1,0 +1,256 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, June 10, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #34
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Robert Gissing, Stephanie Smith, Cedric 
+  Puddy, Ben Brown
+* Absent: Alexandra Dysinski, Darin White
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Paul Walker, Darcy Casselman, Andrew Mackie, 
+  Jessica Clayman
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1948 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President. As the topic of "Bylaws" appears under both Old and New Business, the Secretary proposed that the entire Bylaw discussion be held under Old Business. The agenda, with this amendment, was approved by the general consent of the Board.
+
+3. Approval of Previous Minutes
+-------------------------------
+
+The Board unanimously approved the submitted meeting minutes for November 11, 2009, November 18, 2009, November 27, 2009, December 2, 2009, and December 17, 2009.
+
+Robert Gissing requested that the remaining 16 meeting minutes, to be considered at the next Board Meeting, be approved via a drinking game.
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer submitted a financial report to the Board, for review. He also confirmed that the membership has been notified regarding HST-related dues increase. He has canceled all outstanding PayPal subscriptions.
+
+There was further discussion regarding Milkman Dan & the Mailman. Although a favourite, the provided comic was not of that oeuvre.
+
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+  
+  Update for action 13.2 on Ben Brown: convert website design to drupal 
+  template.
+  
+    No update.
+    
+  5.2. Health & Safety Committee
+  ------------------------------
+    
+    5.2.1. Update for 29.2 on Everyone: bring in phone for H&S; 
+    activate with Eric's SIM. 
+    
+      Katrina Somers has donated a Nokia smartphone to the Board; it 
+      was accepted with thanks.
+      
+      As this phone is overkill for what we need in an emergency cell 
+      phone, it was suggested that with Katrina's approval we might 
+      sell the phone, and use the money to (1) purchase a cheaper 
+      phone, and (2) purchase some additional shelving/storage solution 
+      for the lab.
+      
+    5.2.2. Board Procedure and Committee Appointments 
+    
+      No update.
+      
+    5.2.3. Report from the Health & Safety Committee
+    
+      Jessica Clayman reported that the Health & Safety Committee will 
+      conduct a yearly inspection of the premises, timed around the 
+      KwartzLab anniversary party (September/October). A check-list for 
+      this inspection is still pending.
+      
+      There was a brief discussion regarding the usefulness of an 
+      "Administracrap" calendar for all the things which need to be 
+      done on a routine basis. Ideally, this calendar could send out 
+      automated reminders to the appropriate parties.
+      
+      ACTION 36.1 on Stephanie Smith: implement administracrap calendar 
+      module in drupal.
+      
+  5.3. Space Expansion
+  --------------------
+  
+    5.3.1. Plan of Action for the Tool Room
+    
+    Ben Brown reported to the Board that the rool room is much cleaner 
+    now. The Board thanks Ben, Alex, karl, Paul, Bevan, and Gus for 
+    their hard work.
+    
+    Ed Blanchard will be in to work on the wiring.
+    
+    Alex Williams has begun working on an inventory of tools.
+    
+  5.4. Workshops
+  --------------
+  
+    5.4.1. Update for action 27.3 on Eric: Read through insurance 
+    policy and figure out workshops and instructors. 
+    
+    No update
+    
+  5.5. Art Wall
+  -------------
+  
+  Robert Gissing reported to the Board that he will be on CKWR Monday 
+  evening at 1930 (Monday Night with the Arts), with Bernie, to talk 
+  about Bernie's installation at the lab. He will also introduce 
+  Jessica, as the new curator for the Art Wall project at KwartzLab.
+  
+  5.6. Bylaws and Elections
+  -------------------------
+  
+    5.6.1. Update on action 35.2 on Ben Brown: Post poll to membership 
+    regarding whether they would prefer to vote directly on offices, or 
+    have the newly appointed board appoint offices.
+    
+      Done
+      
+  Eric Gerlach presented the Board with a draft of the Bylaws which 
+  amalgamates the old Bylaws, and both his and Ben Brown's additions. 
+  There was a detailed discussion, specifically regarding the new 
+  clauses pertaining to nominations and elections.
+  
+  It was noted that these nomination procedures will not apply to the 
+  coming election, and the election procedures will only apply if the 
+  Bylaws are passed before the AGM.
+  
+  Topics of note:
+  
+    i) There was some disagreement regarding whether or not an election 
+    should be called in the event of a vacancy on the board. 
+    Alternatively, the Board could appoint an interim Director, or even 
+    operate with a diminished Board, provided quorum was still met.
+    
+    ii) The question of whether to use a binary or ranged voting system 
+    was very divisive. Is it better to allow for greater expressiveness 
+    in voting, or to keep the system as simple as possible?
+    
+    iii) Should 24 hours necessarily be given for Board meetings, when 
+    not all directors are present to consent? There have been instances 
+    this past year where the Board has needed to call a meeting on 
+    short notice, and not all Directors were able to be reached (i.e., 
+    for the signing of the lease). This clause does help protect 
+    individual directors from specific "shady" scenarios, but is 
+    potentially more restrictive than we need to be.
+    
+    iv) The Bylaws should explicitly state that one director may hold 
+    more than one office (i.e., the President may also be the Chair of 
+    the Board.)
+    
+    v) An abandonment clause needs to be added which allows the Board 
+    to terminated a member who stops paying dues but does not actively 
+    withdraw.
+    
+  ACTION 36.2 on Eric Gerlach: revise the Bylaws Draft, and post to the 
+  Members' list for feedback.
+  
+  ACTION 36.3 on Eric Gerlach: open nominations for Board Elections.
+  
+  5.7. Maker Faire Detroit
+  ------------------------
+  
+  Ben Brown indicated that response to Maker Faire Detroit, both within 
+  KwartzLab, and among the larger community, has been disappointing. 
+  KwartzLab likely won't be organizing any sort of formal presence at 
+  the Faire.
+  
+  5.8. Fire Inspection
+  --------------------
+  
+    5.8.1. Update on action 35.3 on Ben Brown: ensure we have 3 good 
+    fire extinguishers in our unit. 
+    
+      Done
+      
+6. New Business
+---------------
+
+  6.1. New Members
+  ----------------
+  
+  Motion: Be it resolved that Christopher Villock is admitted to 
+  membership in KwartzLab Society Inc. 
+  
+  So moved by Eric Gerlach
+  Seconded by Stephanie Smith
+  
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  The Board was reminded, after the vote, that all membership status 
+  votes are supposed to be conducted via secret ballot.
+  
+  Motion: Be it resolved that the Board retro-actively suspends the 
+  Board procedure requiring a secret ballot for new member admittances.
+  
+  So move by the President.
+  Seconded by Stephanie Smith.
+  
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  ACTION 36.4 on Stephanie Smith: notify Chris of his admittance.
+  
+7. Action Item Review
+---------------------
+
+  13.2 on Ben Brown: convert website design to drupal template 
+
+  27.3 on Eric: Read through insurance policy and figure out workshops 
+  and instructors.
+  
+  36.1 on Stephanie Smith: implement administracrap calendar 
+  module in drupal.
+  
+  36.2 on Eric Gerlach: revise the Bylaws Draft, and post to the 
+  Members' list for feedback.
+  
+  36.3 on Eric Gerlach: open nominations for Board Elections.
+  
+  36.4 on Stephanie Smith: notify Chris of his admittance.
+
+8. Adjournment
+--------------
+
+The meeting was adjourned at 2109EST.
+
+So moved by Eric Gerlach.
+Seconded by Ben Brown.
+In Favour: 5
+Opposed: 0

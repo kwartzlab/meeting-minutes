@@ -1,0 +1,426 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, July 22, 2010
+* Time: 1930 EDT
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #39
+
+BOARD MEMBERS
+
+* Present:  Alex Williams, Ben Brown, Cedric Puddy, 
+		Eric Gerlach, Paul Walker, Robert Gissing, 
+		Stephanie Smith
+* Quorum:   Yes (7/7)
+
+OTHERS
+
+* KwartzLab Members: Alexandra Dysinski, Jessica Clayman,
+    Doug Moen, Bevan Lantz, Bernie Rohde (arrived late),
+    Chris Brunner (arrived late)
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+Board Chair Eric Gerlach called the meeting to order at 1936 EDT. Secretary Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the Agenda to the Board. The Board unanimously agreed to postpone the following New Business items to a later date:
+
+  * Trillium Grants
+  * Sign
+  * Board Procedures
+  
+  
+3. Approval of Previous Meeting Minutes
+---------------------------------------
+
+The Secretary presented minutes for the following meetings:
+
+  * June 24 Board Meeting Minutes
+  * June 29 Board Meeting Minutes
+  * July 8 AGM Minutes
+  * July 9 Board Meeting Minutes
+  
+Be it resolved that the minutes for the June 24, June 29, and July 9 Board Meetings, and the minutes for the July 8 Annual General Meeting, be accepted as presented.
+
+  So moved by the Chair
+  Seconded by the Secretary
+  In favour: 6
+  Opposed: 0
+  Abstained: 1
+  Motion Carries
+  
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer presented the Board with a current account statement and financial report. This report was accepted unanimously by the Board.
+
+5. Report from the Art Wall Curator
+-----------------------------------
+
+Jessica Clayman addressed the Board regarding the status of her Art Wall project. She will be hanging a new exhibit, by Craig Musselman in August, and is pursuing a lead for September's exhibit. Two artists have been lined up for a double hanging in October.
+
+Jessica also indicated that she will be posting an announcement to the members' list, to keep everyone appraised of what's happening with the Art Wall.
+
+6. Report from the President
+----------------------------
+
+The President made a couple of brief announcements to the Board. 
+
+He attended the open house at TreeHaus, a co-working space which has opened downtown Kitchener. KwartzLab first met the people behind TreeHaus at the TedX Waterloo event. They took inspiration in what we've built, and applied some of those ideas to a professional environment. TreeHaus is exploring the possibility of holding regular "open nights" (similar to KwartzLab's TON events), and would like to do so on a night which does not conflict with our own.
+
+The President also talked about Rob Green's Dalek project. Rob has agreed to bring the Dalek to KwartzLab for the July 27 TON. Gus said he will call Rogers Community Television, to see if they want to film the event.
+
+The President also briefly mentioned that discussions regarding this year's SoOnCon have started up again. He will be talking with Seth (of Site3) about this in more detail at the Site3 open house.
+
+There was a brief discussion regarding KwartzLab's involvement in SoOnCon versus organizing a KwartzLab-specific con event, and when the ideal time to hold such an event would be. Preference was given for early September.
+
+7. Old Business
+---------------
+
+  7.1. Website
+  ------------
+  
+  Ben Brown indicated that there have been some unspecific complaints
+  regarding the performance of the website. Unfortunately, because no 
+  formal complaints have been received, with no specific details 
+  regarding what's"broken", no action can be made at this time. The 
+  Board stressed the need for better communication, especially where 
+  "bug reports" are concerned. Stephanie Smith will attempt to follow 
+  up on these issues.
+  
+  Ben Brown further indicated that the reason he hasn't made progress 
+  on the website overhaul is because he does not like the Drupal 
+  framework. He indicated that he would like to switch the site to 
+  WordPress instead. As our most popular content is the blogs, having 
+  a framework which is more blog-focused may better suit our needs. 
+  Additionally, some of our bloggers are considering setting up their 
+  own personal WordPress-based blogs. By using WordPress ourselves, 
+  we'll be able to seamlessly aggregate their content on our site.
+  
+  There was a brief discussion regarding the functionality which would
+  be lost with a move to WordPress -- calendars, event sign-ups, etc.
+  Ben will try implementing these using third-party services.
+  
+  ACTION 39.1 on Steph Smith: Replace staging site with WordPress 
+  ACTION 39.2 on Ben Brown: build new site in WordPress 
+  
+  7.2. Health & Safety Committee
+  ------------------------------
+  
+    7.2.1. Update for action 36.1 on Ben Brown: Activate the Nokia 
+    phone with a pay-as-you-go SIM
+  
+    Ben Brown indicated that he has purchased pay-as-you-go minutes, 
+    but has not yet activated the phone. He will bring in the minutes, 
+    and the SIM, and Eric Gerlach will complete the activation.
+    
+  7.3. Workshops
+  ----------------
+  
+    7.3.1. Update for action 27.3 on Eric Gerlach: Read through 
+    insurance policy and figure out workshops and instructors. 
+    
+    Outstanding. 
+    
+  The Board briefly discussed workshops as a possible revenue stream 
+  for KwartzLab, and reviewed the various tax and insurance 
+  implications for the benefit of the new Directors.
+  
+  There was a brief discussion regarding how to encourage more 
+  workshops to happen in the space. 
+    
+  7.4. Maker Faire Detroit
+  ------------------------
+  
+  Ben Brown reported to the Board that 7 KwartzLab members are coming 
+  to Maker Faire Detroit, and all of them have volunteered to staff 
+  the KwartzLab booth. 
+  
+  Ben further indicated that he is soliciting projects and demo ideas, 
+  to help make our booth interactive. He has decided against 
+  electronic kits, as Mitch Altman will have that well covered. Andrew 
+  Mackie may do a stained glass demo.
+  
+  Ben also announced that he will be representing KwartzLab at the 
+  Hackerspaces panel.
+    
+8. New Business
+---------------
+
+  8.1. Alarm System and Anti-Burglary System
+  ------------------------------------------
+  
+  The President informed the Board that we have had at least one 
+  (interrupted) break-in attempt. 
+  
+  There was a detailed discussion regarding how best to increase our 
+  physical security, and better monitor the space. The following items 
+  were identified for immediate action:
+  
+  1) A dead-bolt needs to be installed on the boiler room door.
+  
+  2) A switch needs to be added to our main door, which will notify 
+  Directors if the door is opened from the outside with a card swipe.
+  
+  3) A camera needs to be installed to record traffic outside our 
+  front door. This camera should also be clearly labelled, to deter 
+  mischief.
+  
+  Ben Brown, Eric Gerlach, Cedric Puddy, Robert Gissing, and Chris 
+  Brunner all volunteered to implement better security and monitoring 
+  systems. Ben Brown and Robert Gissing indicated that they all ready 
+  have relevant equipment.
+  
+  The Board identified the security camera as the top priority -- this 
+  needs to be installed within the week.
+  
+  ACTION 39.3 on Ben Brown: install webcam security cam outside our 
+  front door 
+  
+  8.2. Marion Call Concert
+  ------------------------
+  
+  Motion: Be it resolved that the Board approves a potential Marion 
+  Call concert, in our space, open to the public
+  
+    So moved by Ben Brown.
+    Seconded by Cedric Puddy.
+    In favour: 6
+    Opposed: 0
+    Abstained: 0
+    Motion Carries.
+    
+  ACTION 39.4 on Robert Gissing: contact Marion Call regarding the 
+  possibility of doing a concert at the Lab.
+  
+  
+  8.3. Returning Members (Application/Vetting Process & Fees)
+  -----------------------------------------------------------
+  
+  The Board discussed in detail various ways of dealing with returning
+  members, and their implications. While we want to be as welcoming as 
+  possible to returning members, and ensure that re-admission is a 
+  smooth process, we also want to discourage members from coming and 
+  going on any sort of frequent or casual basis. Our budget depends 
+  upon having a predictable income. 
+  
+  The Treasurer indicated that he has all ready been approached by 
+  members, asking to only pay for months when they use the lab. At our 
+  current numbers, we cannot sustain that sort of "pay-as-you-go" 
+  arrangement, and so any special consideration awarded to returning 
+  members needs to guard against that.
+  
+  Motion: Be it resolved that when a member gives up their membership, 
+  and then returns, they will have to re-pay the initial 
+  contributions.
+	
+	So moved by the President.
+	Seconded by Alex Williams
+
+	Discussion: The Board was reminded that members have all ready 
+	withdrawn from KwartzLab, with the intent of returning at a later 
+	date. These members have done so with the full expectation of 
+	re-paying the $100 initial contribution.
+	
+	In favour: 7
+	Opposed: 0
+	Abstained: 0
+  Motion Carries.
+  
+  8.4 KwartzLab Store
+  -------------------
+  
+  Paul Walker reported to the Board that he has created a Shopify 
+  storefront for KwartzLab. Shopify provides an attractive and 
+  professional-looking storefront, which has a number of useful 
+  features. However, it costs $25/month.
+  
+  The Board briefly discussed other, cheaper options. We could run 
+  free, open-source e-commerce software directly on our website, such 
+  as OSCommerce or ZenCart.
+  
+  ACTION 39.5 on Steph Smith & Paul Walker: make shop.kwartzlab.ca 
+  happen 
+  
+  Ben Brown reported to the Board that he has established distributer 
+  accounts with Arduino and other vendors, in his own name. He should 
+  be able to transfer these to KwartzLab. Ben also indicated that 
+  there is a sizeable market for Arduino products in the area, which 
+  we could market to.
+  
+  8.5. KwartzCon
+  --------------
+  
+  The Board continued the earlier discussion regarding a 
+  KwartzLab-specific con event, possibly timed to coincide with the 
+  anniversary of our opening.
+  
+  November was suggested, so as not to conflict with Hallowe'en (which 
+  is a busy time for some members).
+  
+  Specific plans will be put on hold until SoOnCon is decided.
+  
+  8.6. People's personal belongings and projects
+  ----------------------------------------------
+  
+  The Board agreed to postponed this discussion until the next Board 
+  Meeting.
+  
+  8.7. Heavy Equipment
+  --------------------
+  
+  The Board held a lengthy discussion regarding what's needed to open 
+  up heavy equipment use to the membership. Specifically:
+  
+  1) Ventilation
+  2) Hydro
+  3) H&S Procedures
+  
+  Hydro: We do not have enough circuits available in the Tool Room. We 
+  have either a dead or a deactivated transformer. Access to the hydro 
+  is through the room on the other side of the Art Wall; we need 
+  access to investigate further.
+  
+  H&S Procedures: Jessica Clayman reported that the Tool Committee has 
+  started compiling an asset list, but as far as she knows, this is 
+  not completed yet.
+  
+  There was a detailed discussion regarding the current Health & 
+  Safety procedures, and whether or not they are appropriate for our 
+  needs.
+  
+  The Board decided unanimously that the current Health & Safety 
+  procedures need to be revised, and that as the Board of Directors 
+  (and only the Board of Directors) are personally liable in case of 
+  an accident, it should be up to the Board to draft the new 
+  procedures.
+  
+  The Board will schedule a special meeting to decide what the Health 
+  & Safety Procedures & Policies should be. This meeting may either be 
+  held in camera, or with members present in silent audience. While 
+  the Board wishes to be transparent, given the magnitude and personal 
+  liability involved, the Board feels its important they are able to 
+  arrive at a decision without undue influence from the membership. 
+  
+  Some specific points for consideration:
+  
+  We need to be careful with the language used in our Policies and our 
+  discussions. We have been borrowing language from corporate Health & 
+  Safety, which is inappropriate and misleading for our situation. We 
+  can not "instruct" anybody on how to use equipment, nor formally 
+  certify anybody's qualifications, and we need make that clear in 
+  what we say and do.
+  
+  The purpose behind our Health & Safety policies are to encourage 
+  safe practices by our members and guests, and to ensure that the 
+  equipment is reasonably maintained and cared for. The purpose of any 
+  Health & Safety policy is never to cover our ass; no amount of 
+  diligence will reduce the Directors' liability in the event of an 
+  accident.
+
+  The Board was reminded that KwartzLab has purchased DOLI. As long as 
+  the Board doesn't do something stupid, DOLI will take care of 
+  everything in the event of a suit. 
+  
+  With regards to assessing competency before allowing members to use 
+  tools, an apprenticeship model was suggested, involving some sort of 
+  orientation for the Tool Room and specific tools.
+  
+  The Board recognizes a need for individual pieces of heavy equipment 
+  to have a "custodian", who is responsible for the equipment's care 
+  and feeding, and who is familiar with its safe-use. Any policies 
+  regarding custodianship need to account for absentee custodians, and 
+  recognize that ultimately the Board is responsible for all 
+  equipment.
+  
+  The Board also stressed that communication between the Health & 
+  Safety Committee, the Tool Committee, and the Board needs to 
+  improve.
+  
+  8.8. Mark Smith's Hiatus
+  ------------------------
+  
+  The Board reviewed Mark Smith's membership status. According to the 
+  Secretary's records, Mark Smith went on 4-month hiatus beginning 
+  January of this year. He ended that hiatus early, and resumed normal 
+  membership in March. On April 8, the Treasurer contacted Mark 
+  regarding late dues. Mark replied with an email which the Board 
+  understood to be a withdrawal notice. 
+  
+  Mark has not paid dues since March, 2010, and he is not currently on 
+  hiatus. He is welcome to apply for re-admission at any point.
+  
+  8.9. Ubuntu LAN Party
+  ---------------------
+  
+  Motion: Be it resolved that non-member guests are allowed to attend 
+  the August 7th Ubuntu LAN Party.
+  
+  So moved by Robert Gissing.
+  Seconded by Ben Brown
+  
+  Discussion: The Board was reminded that while Ubuntu-users are 
+  well-meaning, they are filthy animals, and they must help out with 
+  any after-party clean-up.
+  
+  The Board also affirmed that the motion allows guests of members, 
+  not the general public.
+  
+  In favour: 6
+  Opposed: 0
+  Abstained: 0
+  Motion Carries.
+  
+  8.10. UnLondon
+  --------------
+  
+  Chris Bruner asked to address the Board regarding his recent visit 
+  to London's new hackerspace. The Board agreed by general consent.
+  
+  Chris recently attended an organizational meeting for the UnLondon 
+  hackerspace. He reported that they have a physical space, and 
+  approximately 50 members paying $20/month. They do not yet have much 
+  in the way of tools or other resources. UnLondon has partnered with 
+  the University of Western, and is exploring avenues for corporate 
+  sponsorship.
+  
+  Chris also reported that UnLondon is interested in establishing some 
+  sort of formal relationship with KwartzLab, possibly in the form of 
+  an exchange (members of one space could have complimentary access to 
+  the other). As their dues are so much cheaper than our own, and they 
+  don't vet members, there may be concerns that the exchange would not 
+  be equitable.
+  
+  UnLondon is planning on coming down to one of our TON events.
+  
+9. New Action item review
+-------------------------
+
+ACTION 39.1 on Steph Smith: Replace staging site with WordPress
+ACTION 39.2 on Ben Brown: build new site in WordPress
+ACTION 39.3 on Ben Brown: install webcam security cam outside our front door 
+ACTION 39.4 on Robert Gissing: contact Marion Call regarding the possibility of doing a concert at the Lab. 
+ACTION 39.5 on Steph Smith & Paul Walker: make shop.kwartzlab.ca happen 
+
+10. Adjournment
+---------------
+
+The meeting was adjourned at 2206EDT by the general consent of the Board.

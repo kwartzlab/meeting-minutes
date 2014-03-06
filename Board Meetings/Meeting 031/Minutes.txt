@@ -1,0 +1,401 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, April 29, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #31
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Alexandra Dysinski, Robert Gissing, Stephanie   
+  Smith, Cedric Puddy, Ben Brown, 
+* Absent: Darin White
+* Quorum: Yes (6/7)
+
+OTHERS
+
+* KwartzLab Members: James Bastow, Bevan Lantz, Darcy Casselman, Doug Moen, 
+  Pawel, Kyle Spaans, Chris Brunner, Matt Smith
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 2000 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President.
+
+Alexandra Dysinksi asked to move her New Business item to the beginning of the meeting.
+
+The President also requested to move Old Business items Door Access Control and Space Expansion to the beginning of Old Business.
+
+The agenda was approved, with these requested amendments, by the general consent of the Board.
+
+3. Pre-Emptive New Business: Request for Event
+-----------------------------------------------
+
+Eric Gerlach declared himself to be in conflict of interest for this item. The Board asked that he remain as chair.
+
+Alexandra Dysinski reported to the Board that she is working on a large project, which will involve the help of a number of teenage volunteers. She asks the Board for permission to hold a one-time informational meeting for her volunteers and their parents, in the space. The meeting would take place next Friday evening, and would last for only 30 minutes.
+
+Both Eric Gerlach & Alexandra Dysinski have recused themselves from the vote.
+
+MOTION: Be it resolved that the Board approves Alexandra Dysinski's use of the space for a one-time informational meeting of her Anime North volunteers and their parents.
+
+So moved by Stephanie Smith.
+Seconded by Ben Brown.
+
+In Favour: 4
+Opposed: 0
+Abstained: Eric Gerlach; Alexandra Dysinski
+
+Motion Passed.
+
+4. Memberships
+
+  4.1. New Members
+  ----------------
+  
+  4.1.1. Rob Adler
+  
+    MOTION: Be it resolved that Rob Adler is admitted to membership in 
+    KwartzLab Society Inc.
+  
+    So moved by Robert Gissing.
+    Seconded by Ben Brown.
+    
+    In Favour: 6
+    Opposed: 0
+    Abstained: none
+    
+    Motion Passed.
+    
+  4.1.1. Joel Larose
+
+    MOTION: Be it resolved that Joel Larose is admitted to membership in 
+    KwartzLab Society Inc.
+
+    So moved by Robert Gissing.
+    Seconded by Ben Brown.
+
+    In Favour: 6
+    Opposed: 0
+    Abstained: none
+
+    Motion Passed.
+  
+  4.2. Membership Hiatus
+  ----------------------
+  
+  MOTION: Be it resolved that Kyle Spaans' membership status be put on 
+  hiatus from May through August 2010.
+  
+  So moved by Alexandra Dysinski.
+  Seconded by Cedric Puddy.
+  
+  In favour: 6
+  Opposed: 0
+  Abstained: none
+
+  Motion Passed.
+
+4. Pre-Emptive Old Business
+---------------------------
+
+  4.1. Space Expansion
+  --------------------
+  
+  4.1.1. Plan of action for the Tool Room
+  
+  There was a detailed discussion regarding the need for an organized plan 
+  of action regarding the tool room, in order to make it useable.
+  
+  The first priority is to clean the walls -- the blistered material which 
+  is peeling off of the wall is an agitant. 
+  
+  Additional work that needs to be completed:
+  
+    * general cleaning of the walls and floor
+    * electrical work needs to be evaluated/brought up to code
+    * lighting needs to be upgraded
+    
+  Robert Gissing stressed the need to appoint somebody to oversee the 
+  necessary work, and to set a deadline for when it needs to be completed.
+  
+  Ben Brown volunteers to oversee the work in the Tool Room. James Bastow 
+  volunteers to help oversee as well.
+
+  MOTION: Be it resolved that the blistering wall be scraped before any 
+  other work is begun in the tool room.
+  
+  So moved by Alexandra Dysinski.
+  
+  Discussion: The Board agrees that while this is a priority, it does not 
+  require a decision by the Board. It just requires action.
+  
+  Alexandra Dysinski withdraws her motion.
+  
+  There was further discussion regarding power tools being moved into the 
+  room. There are not yet any Health & Safety procedures in place for 
+  evaluating suitable knowledge. Additionally, we do not have an up to date 
+  Asset List. Insurance should also be brought up to date regarding what 
+  tools we have. Although we don't expect anything we have will change our 
+  premiums, we did promise to keep them appraised of any new acquisitions.
+  
+  Alexandra Dysinski and Ben Brown both indicated that they have access to 
+  WHMIS and other "shop room safety" resources, which they can bring in for 
+  us.
+  
+  ACTION 32.1 on Ben Brown: Organize clean-up of tool room.
+  
+  4.2. Door Access Control
+  ------------------------
+  
+  4.2.1. Update on action 29.4 on Ben Brown: give James Bastow the RS485 
+  controller he needs for the front door access control.
+  
+    Completed.
+    
+  James Bastow reported that he has a laptop in place, to run the software 
+  needed for the access control system. He will need a network drop for the 
+  laptop.
+
+  The Board briefly discussed the urgency in getting the door access 
+  control installed. Specifically, there have been concerned expressed 
+  regarding the Building Superintendent enjoying free, unannounced access 
+  to the new unit. While this is in contravention of our lease agreement, 
+  the Board was reminded that we do not yet have a signed copy of that 
+  lease agreement.
+
+  ACTION 32.2 on Eric Gerlach: Draw up a letter indicating we need signed 
+  copy of the lease, and that we will present them with cheques once we 
+  have the signed lease in hand.
+
+
+5. Report from the Treasurer
+----------------------------
+
+The Treasurer present the Board with current financial statements, which were accepted by the general consent of the Board.
+
+MOTION: Be it resolved that Darin White will be reimbursed $17.00 for dumping fees incurred on behalf of the corporation, and that Ben Brown will be reimbursed $31.00 for dumping fees incurred on behalf of the corporation.
+
+So moved by Stephanie Smith
+Seconded by Robert Gissing
+
+In Favour: 5
+Opposed: 0
+Abstained: Ben Brown
+
+6. Remaining Old Business
+-------------------------
+
+  6.1. Website and Mailing Lists
+  ------------------------------
+  
+  6.6.1. Update for action 13.2 on Ben Brown: convert website design to 
+  drupal template
+  
+    On-going: Ben reported that we now have a staging site set up, for 
+    testing the new template.
+  
+  6.2. Health & Safety Committee
+  ------------------------------
+  
+  6.2.1. Update for action 27.1 on Robert Gissing: Find and mount H&S 
+  bulletin board
+  
+    No update.
+    
+  6.2.2. Update for 29.2 on Ben Brown: bring in phone for H&S; activate 
+  with Eric's SIM
+  
+    Ben reported that he did not have a suitable phone after all. Pawel, 
+    Kyle, and Doug each indicated that they may have one.
+    
+  6.2.3. Update on 29.3 on Cedric Puddy: bring in bulletin board for H&H
+  
+    Completed: Alexandra Dysinski reported that she has
+    found a suitable cork board, and it is currently hanging in the 
+    kitchen.
+    
+  6.2.4. Board Procedure and Committee Appointments 
+  
+  Eric Gerlach indicated that he has not yet had a chance to locate the 
+  Health & Safety procedure and appointment records.
+  
+  6.3. Workshops
+  --------------
+  
+  6.3.1. Update for action 27.3 on Eric: Read through insurance policy and 
+  figure out workshops and instructors.
+  
+    Pending: no update.
+    
+  6.3.2. Member Statement from Jessica Claymen
+  
+    The President read Jessica Claymen's statement regarding the recent 
+    Arduino Workshop (APPENDIX B).
+    
+    There was a detailed discussion regarding the distinction between 
+    KwartzLab sanctioned workshops, versus unsanctioned workshops organized 
+    by members or third parties, and how promotions and pricing might be 
+    handled for each.
+    
+    In the specific case of the recent Arduino workshop, although the 
+    workshop was billed as a "KwartzLab" workshop, the profit went to the 
+    organizers, not KwartzLab. There was a disconnect between participants 
+    expectations of where their money was going, and where it actually 
+    went. In this case, although the workshop was billed as a "KwartzLab" 
+    workshop, it in fact was not.
+    
+    It is important to be clear regarding whether a workshop is officially 
+    a "KwartzLab" event, or merely an event organized by one of our 
+    members, for legal, tax, and insurance purposes. The distinction 
+    ultimately comes down to how money flows -- if KwartzLab collects fees, 
+    and then pays organizers for their time and materials, it is a 
+    KwartzLab event. If organizers collect fees, and then give a portion to 
+    KwartzLab (as a donation or fee), then its not a KwartzLab event. If it 
+    is a KwartzLab event, our insurance will cover it. If its not a 
+    KwartzLab event, our insurance will not. Additionally, if its a 
+    KwartzLab event, then any workshop fees are taxable.
+    
+    There was further discussion regarding whether or not any profit should 
+    be made from workshops. A number of members expressed the preference 
+    that workshops only operate on a cost-recovery basis.
+    
+    There was further discussion regarding the value of feedback on 
+    workshops. We are all inexperienced in organizing these sorts of 
+    events, and should expect that there are areas where we can improve. 
+    Good feedback is helpful in identifying those areas, but shouldn't be 
+    used to penalize organizers. 
+    
+    The discussion was capped due to time.
+    
+    6.4. Ubuntu Lucid Lynx Release Party
+    -----------------------------------
+    
+    Darcy reported that he has ordered a cake for the party, will be 
+    burning LE CDs again. It should be awesome.
+    
+    There was a brief discussion regarding some of the network glitches at 
+    the last release party, and how they may be alleviated this time. 
+    
+    6.5. GST Return
+    ---------------
+    
+    6.5.1. Update for 29.1 on Eric Gerlach: get GST return for Ben Brown.
+    
+     Completed.
+     
+    Ben reported that the GST has been completed, and we owe the government 
+    $37.00.
+    
+    6.6. Member Statement Regarding Art Wall
+    ---------------------------------------
+    
+    The President informed the Board that he has received an Anonymous 
+    Statement regarding the Art Wall.
+    
+    The Board held a lengthy discussion regarding whether or not to accept 
+    an anonymous statement, and whether the statement should be heard in 
+    camera. There were a number of concerns regarding why a member might 
+    want to make their statement anonymously, and whether or not that would 
+    (or should) impact the Board's reception of the statement. A number of 
+    directors indicated that while they were open to hearing an anonymous 
+    statement, they had reservations against taking action based on an 
+    anonymous statement.
+    
+    MOTION: Be it resolved that the Board will receive the submitted 
+    anonymous statement.
+    
+    So moved by Alexandra Dysinski.
+    Seconded by Cedric Puddy.
+    
+    Robert Gissing requests that a roll call vote for this motion.
+    The Board accepts this request by general consent.
+    
+    Alexandra Dysinski: Yae
+    Ben Brown: Yae
+    Cedric Puddy: Yae
+    Robert Gissing: Nay
+    Stephanie Smith: Yae
+    
+    Motion carries.
+    
+    Anonymous Members Statement is attached as Appendix C.
+    
+    Robert Gissing provided additional comment regarding the current 
+    exhibition of the Art Wall. The Art Wall is his personal project, but 
+    the current exhibit was hung without his knowledge. He is disappointed 
+    in how it transpired, but has all ready spoken to the involved parties 
+    and is satisfied.
+    
+    There was a more general discussion regarding art in the space, and the 
+    fact that not everybody is going to like every installation that's 
+    hung, and that should be okay. Art can be controversial, but the Board 
+    doesn't want to start vetting or censoring artists, or member projects.
+    
+    Eric Gerlach commented that he never thought he'd see a board meeting 
+    turn in to an art critique.
+    
+    All art critiquing aside, the Art Wall in particular is the personal 
+    project of one of our members, and that needs to be recognized and 
+    respected. We have been very vocal about encouraging the do-acracy in 
+    our space, and so its understandable if members aren't clear on which 
+    things they can just do, and which things they can't. Better 
+    communication will help. 
+    
+    ACTION 32.2 on Robert Gissing: post an email to the members' list, 
+    clarifying the ownership and installation details of his Art Wall 
+    project
+    
+7. Action Item Review
+---------------------
+
+  13.2 on Ben Brown: convert website design to 
+  drupal template
+
+  27.1 on Robert Gissing: Find and mount H&S 
+  bulletin board
+    
+  29.2 on Ben Brown: bring in phone for H&S; activate 
+  with Eric's SIM
+
+  27.3 on Eric: Read through insurance policy and 
+  figure out workshops and instructors.
+  
+  32.1 on Ben Brown: Organize clean-up of tool room.
+  
+  32.2 on Eric Gerlach: Draw up a letter indicating we need signed 
+  copy of the lease, and that we will present them with cheques once we 
+  have the signed lease in hand.
+
+  32.3 on Robert Gissing: post an email to the members' list, clarifying 
+  the ownership and installation details of his Art Wall project
+
+8. Adjournment
+--------------
+
+The meeting was adjourned at 2152 EST.
+
+  Motion Moved By: Ben Brown
+  Motion Seconded: Stephanie Smith
+  In Favour: 6
+  Opposed: 0
+  Abstained:

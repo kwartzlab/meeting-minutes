@@ -1,0 +1,312 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, April 8, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #28
+
+BOARD MEMBERS
+
+* Present:  Stephanie Smith, Cedric Puddy, Eric Gerlach, Robert 
+  Gissing, Ben Brown
+* Arrived Late: Alexandra Dysinski, Darin White
+* Absent: 
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Bevan Lantz, Chris Bruner, Jessica Clayman, 
+  Darcy Casselman, Ed Blanchard
+
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President, Eric Gerlach, acted as Chair for this meeting, and called the meeting to order at 1944. The Secretary, Stephanie Smith, recorded the minutes.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President, and approved by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer presented the board with the attached Financial Report (see APPENDIX A).
+
+The Treasurer also indicated that it is time to file our GST return, however he does not have the actual filing. We owe the government approximately $40.
+
+The Board agreed by general consent to allow Darin White to join the meeting by video chat. Darin White joined the meeting at 1953.
+
+ACTION 29.1 on Eric Gerlach to Deliver GST return to Ben Brown.
+
+4. Old Business
+---------------
+
+   1. Website and Mailing Lists
+   ----------------------------
+   
+      1. Update for action 13.2 on Ben: convert website design to
+         drupal template
+         
+         Still pending: Ben Brown reported that he just needs to 
+         finish the template for the member wiki pages.
+
+   2. Health & Safety Committee
+   ----------------------------
+   
+      1. Update for action 26.5 on Eric & Gus: bring in phone and SIM
+         card and try to activate
+         
+         Eric Gerlach reported to the Board that his cell phone is 
+         too old, and cannot be activated with a pay-as-you-go plan.
+         We will need to locate an alternate phone.
+         
+         Ben Brown indicated that he can get an old cell phone from 
+         his brother.
+         
+         ACTION 29.2 on Ben Brown to Bring in cell phone.
+         
+      2. Update for action 27.1 on Gus: Find and mount H&S bulletin
+         board
+         
+         Still pending.
+         
+         Cedric Puddy indicated that he has a spare bulliten board, 
+         which he can bring in.
+         
+         Jessica Clayman also reported that the Health & Safety 
+         Policy is currently posted to the kitchen wall. She has also 
+         claimed locker #13 as the Health & Safety locker. The Health 
+         & Safety Committee needs to compile a list of tools 
+         currently in the lab.
+        
+        Jessica Claymen also announced that the Health & Safety 
+        Committee will be hosting a Zombie-themed party to introduce 
+        the Health & Safety policy.
+         
+      3. Board Procedure & Appointments
+
+      The Secretary reported to the Board that she does not have 
+      record of the Board Procedure & appointments for the Health & 
+      Safety Committee. Were these items passed when she was away?
+      
+      Eric Gerlach indicated that he remembers passing them, and will 
+      locate the specifics for her.
+      
+
+   3. Space Expansion
+   ------------------
+   
+   There was a detailed discussion regarding the feasibility of the 
+   space expansion plan. In particular representative from the 
+   membership asked why the Board was proceeding with the expansion 
+   before we had the membership numbers to support it.
+
+   The Board acknowledges that the situation is less than ideal, 
+   however believes that KwartzLab membership numbers are stagnating 
+   because of the limited resources currently available. It is the 
+   Board's belief that by expanding space, and thus being able to 
+   bring in more tools, KwartzLab will be able to increase its 
+   membership numbers.
+
+   The Treasurer confirmed that we currently have enough surplus to 
+   cover a couple months went on the new unit. Additionally, if we 
+   cut all discretionary spending, we'll be able to finance the room. 
+   The board agreed that the current emergency fund could not be 
+   touched for this purpose, and that we need to be able to continue 
+   making contributions to the emergency fund.
+
+   There are additional concerns that if we make initial investment 
+   in the space, but did not achieve the expected membership 
+   increase, and have to let go of the new space, it will negatively 
+   impact our negotiating position should we want to expand again in 
+   the future. For this to work, the expansion needs to co-incide 
+   with an effective membership-drive campaign.
+   
+   The board explored alternate ways of financing the expansion, 
+   including taking on member guarantors for the budget, or premium 
+   levels of membership which would be awarded dedicated space for 
+   higher dues. Concerns were expressed regarding what sort of power 
+   dynamic that might create.
+
+   Alternatively, the board also discussed the possibility of raising 
+   dues across the board. This suggestion was divisive, and doing so 
+   would likely result in our losing some members we already have.
+
+   MOTION: Be it resolved that the Board will immediately pursue the 
+   space known as the "Hobo Room" for $450 or less, with the intent 
+   of taking possession as soon as possible. 
+   
+    So moved by Robert Gissing.
+    Seconded by Ben Brown.
+
+    Discussion: The Board confirms that this motion does not 
+    pre-approve the lease contract. The Board will still need to 
+    convene to approve any contract before it can be signed.
+
+    Question Called: Alexandra Dysinski
+    In Favour: 7
+    Opposed: 0
+    Abstained: 0
+
+    MOTION CARRIES.
+    
+    The meeting was recessed by the general consent for the Board, at 
+    2047, for the duration of Robert Gissing's phone conversation 
+    with Bhuran.
+    
+    Re-convened at 2054.
+
+   4. Workshops
+   ------------
+   
+      1. Update for action 27.3 on Eric: Read through insurance 
+         policy and figure out workshops and instructors.
+
+        Still pending.
+         
+5. New Business
+---------------
+
+   1. Membership Hiatus
+   --------------------
+
+   MOTION: Be it resolved that the Board Procedure on 
+    Membership Hiatus be amended to read:
+    
+     Only approve hiatus for members who are going to be out of 
+     town for a period of 2 months longer, and for a period no 
+     longer than 8 months. 
+     
+     So moved by Eric Gerlach.
+     Seconded by Stephanie Smith.
+
+     In Favour: 6
+     Opposed: 1
+     Abstained: 0
+
+     MOTION CARRIES.
+
+
+   2. Reimbursement for James' DigiKey Order for doors
+   ---------------------------------------------------
+
+   The Board is postponing this reimbursement, until we receive 
+   delivery of the goods.
+   
+   3. Tool Committee Appointment
+   -----------------------------
+   
+   MOTION: Be it resolved that Karl Williams and Jessica Clayman be 
+   appointed to the Tool Committee.
+   
+    So moved by Stephanie Smith.
+    Seconded by Robert Gissing.
+
+    In Favour: 6
+    Opposed: 0
+    Abstained: 1
+
+    MOTION CARRIES.
+    
+    4. Ubuntu Lucid Lynx Release Party 
+    ----------------------------------
+    
+    Darcy Casselman asked to speak to the Board regarding a public 
+    event he would like to hold. The Board approved by general 
+    consent.
+
+    Darcy represented to the Board is plan to hold a Ubuntu Lucid 
+    Lynx Release Party on either April 29, or May 1.
+
+    There was a brief discussion regarding the previous Ubuntu 
+    Release Party. Concerns were raised regarding the state the lab 
+    was left in after the party.
+
+    MOTION: Be it resolved that Board approves the request to host a 
+    public Ubuntu Lucid Lynx Release Party, on or around April 29.
+    
+      So moved by Eric Gerlach.
+      Seconded by Robert Gissing.
+
+      In Favour: 7
+      Opposed: 0
+      Abstained: 0
+
+      MOTION CARRIES.
+
+
+      5. Monitoring System for the Building
+      -------------------------------------
+      
+      The Board agreed, by general consent, to discuss a project 
+      proposal received by Bhuran, regarding a monitoring system for 
+      the whole building.
+      
+      Bhuran has noticed the security camera which we have outside of 
+      our unit, and is interested in installing similar cameras on 
+      all of the public entrances, and throughout specific corridors 
+      of the building. They have asked if we would be interested in 
+      putting something together for them, and will pay parts and 
+      labour.
+      
+      Cedric Puddy & Ben Brown will follow-up with them on this.
+      
+      6. Art Wall
+      -----------
+      
+      Ed Blanchard asked to address the Board regarding the current 
+      art wall installation. The Board agreed, by general consent.
+      
+      Ed expressed concerns regarding how the current installation 
+      had been facilitated, and asked for confirmation that it would 
+      not be up indefinitely. Robert Gissing confirmed that the 
+      current installation was scheduled for the remainder of the 
+      month, and that a new artist had all ready been selected for 
+      May. 
+      
+
+6. Action item review
+---------------------
+
+13.2 on Ben: convert website design to drupal template
+   
+26.5 on Eric & Gus: bring in phone and SIM card and try to activate
+
+27.1 on Gus: Find and mount H&S bulletin board
+
+27.3 on Eric: Read through insurance policy and figure out workshops and instructors.
+
+29.1 Eric will get GST return for Ben.
+
+29.2 Ben's going to bring in a phone (from his brother)
+
+29.3 Cedric to bring in bulletin board
+
+29.4 Ben has a controller James needs for the project. Get it to him.
+
+7. Adjournment
+--------------
+
+Meeting adjourned at 1920
+So moved by Alexandra Dysinski.
+Seconded by Robert Gissing
+In Favour: 0
+Opposed: 0
+Abstained: 0

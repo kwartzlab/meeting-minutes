@@ -1,0 +1,242 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, June 24, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #35
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Darin White, Stephanie Smith, Cedric 
+  Puddy, Ben Brown
+* Late: Alexandra Dysinski
+* Absent: Robert Gissing
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Paul Walker, Darcy Casselman
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1948 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the agenda for the meeting, which was accepted by the general consent of the Board.
+
+3. Approval of Previous Meeting Minutes
+---------------------------------------
+
+Motion: Approve all minutes between Jan 13 and June 10, 2010.
+Moved: Eric Gerlach
+Second: Ben Brown
+Discuss: Board thanks Stephanie Smith for her work on the minutes.
+In favour: 5 
+Opposed: 0
+Abstained: 0
+
+Motion: The two decisions made at the Jan 7, 2010 meeting were to approve the CAFKA event, and Kyle Spaans membership.
+Moved: Eric Gerlach
+Second: Darin White
+In Favour: 6 
+Opposed: 0
+Abstained: 0
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer presented a financial report to the Board, which was approved by general consent.
+
+Ben also indicated that he would send a reminder out to the membership tomorrow, regarding the HST-related increase to the dues.
+
+Director Alexandra Dysinski arrives.
+
+5. Old Business
+---------------
+
+  5.1. Website
+  ------------
+  
+  Update for action 13.2 on Ben Brown: convert website design to drupal 
+  template
+  
+  No update. There was a brief discussion regarding recent downtime on the 
+  website.
+
+  5.2. Health & Safety Committee
+  ------------------------------
+  
+  5.2.1. Update for 29.2 on Everyone: bring in phone for H&S; activate with 
+  Eric's SIM
+  
+  In progress: having decided that the donated Nokia smartphone will be sold, 
+  the Board acknowledged that somebody needs to take the lead in actually 
+  selling the device. There were no volunteers. In the meantime, the Board 
+  agreed by general consent that a sim card should be installed & activated in 
+  the Nokia, and KwartzLab will use that phone for the interim.
+
+  ACTION 36.1 on Ben Brown: Get the Nokia phone working with a pay-as-you-go 
+  SIM
+  
+  5.2.2 Board Procedure and Committee Appointments
+  
+  The Board acknowledges that a Board Procedure and Committee Appointments for 
+  the Health & Safety Committee need to be made. As the current Board will be 
+  dissolving in 2-weeks time, this task will be left for the new Board.
+
+   5.2.3. Update for ACTION 36.1 on Stephanie Smith: implement administracrap 
+   calendar module in drupal.
+   
+   Completed.
+   
+   5.3. Space Expansion
+   --------------------
+   
+   Completed.
+   
+   5.4. Workshops
+   --------------
+   
+   Update for action 27.3 on Eric: Read through insurance policy and figure 
+   out workshops and instructors.
+   
+   No update.
+   
+   5.5. Bylaws and Elections
+   -------------------------
+   
+   Update for ACTION 35.2 on Eric Gerlach: revise the Bylaws Draft, and post 
+   to the Members' list for feedback.
+   
+   Completed.
+   
+   Update for ACTION 36.3 on Eric Gerlach: open nominations for Board 
+   Elections.
+   
+   Completed.
+   
+   5.6. 2010 Board Elections
+   -------------------------
+   
+   The Board briefly discussed the upcoming elections. 9 nominations have been 
+   received. An election coordinator needs to be appointed, to oversee the 
+   process. No volunteers were present at the meeting, therefore a call needs 
+   to be put out on the mailing list.
+   
+   ACTION 36.2 on Stephanie Smith: Post to the members' list asking for a 
+   volunteer to act as election coordinator.
+   
+   5.7. Bylaws
+   -----------
+   
+   The President asked the Board if they were willing to vote on the proposed 
+   new Bylaws at this time. The Board agreed by general consent.
+   
+   MOTION: Be it resolved that the following be accepted as KwartzLab Society 
+   Inc.'s Bylaws (see attached Appendix B)
+   
+   So moved by the President.
+   Seconded by Stephanie Smith
+   
+   Discussion: The bylaws were agreed to be awesome by all present.
+   
+   In Favour: 6
+   Opposed: 0
+   Abstained: 0
+   
+   Motion Carries.
+   
+   5.8. New Members
+   ----------------
+   
+   Update for ACTION 36.4 on Stephanie Smith: notify Chris of his admittance.
+   
+   Completed.
+   
+   5.9. Maker Faire Detroit
+   ------------------------
+   
+   Ben Brown reported to the Board that Maker Faire Detroit is still a go. He 
+   has been strong-arming members into participating, and has paid the $100 
+   vendor fee (for a table) out of pocket. 
+   
+   i3 has graciously offered KwartzLab members crash space during the event.
+   
+6. New Business
+---------------
+
+ 6.1. New Members
+ ----------------
+ 
+ The Board has just received a membership application for Bernie Rohde. 
+ Although the next regularly scheduled Board Meeting would be held on July 8, 
+ the Board agreed by general consent to hold a meeting on June 29 so that 
+ Bernie's application can be processed more quickly.
+
+
+ 6.2. 5+5
+ --------
+ 
+ Ben Brown asked the Board if $50 could be earmarked for food at the coming 
+ 5+5 event.
+ 
+ Motion: Be it resolved that the Board approves a budget of $50, to be spent 
+ on catering for the 5+5 event on Tuesday June 29, 2010.
+ 
+ So moved by Ben Brown
+ Seconded by Alexandra Dysinski
+ In Favour: 6
+ Opposed: 0
+ Abstained: 0
+ 
+ 6.3. Annual General Meeting
+ ---------------------------
+ 
+ The President proposed the following agenda for the AGM to be held July 8, 
+ 2010 7:30pm:
+ 
+ 1. Presidents Remarks
+ 
+ 2.  Financial Report for 2009
+ 
+ 3. Adoption of the By-laws
+ 
+ 4. Board Elections
+ 
+ 5. Adjournment
+ 
+ The Board approved this agenda proposal by general consent.
+ 
+ The Board was reminded that 2 members still need to indicate before the AGM 
+ whether or not they KwartzLab may waive its audit requirement.
+ 
+ ACTION 36.3 on Eric Gerlach: post the agenda for the AGM.
+ 
+ 6.4 Action Item Review
+ ----------------------
+ 
+ ACTION 36.1 on Ben Brown: Get the Nokia phone working with a pay-as-you-go 
+ SIM
+ 
+ ACTION 36.2 on Stephanie Smith: Post to the members' list asking for a 
+ volunteer to act as election coordinator.
+ 
+ ACTION 36.3 on Eric Gerlach: post the agenda for the AGM.

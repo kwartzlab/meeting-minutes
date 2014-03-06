@@ -1,0 +1,108 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, May 13, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #32
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Alexandra Dysinski, Ben Brown, Robert Gissing
+* Absent: Cedric Puddy, Darin White, Stephanie Smith
+* Quorum: Yes (4/7)
+
+OTHERS
+
+* KwartzLab Members: James Bastow, Bevan Lantz, Darcy Casselman, Doug Moen, 
+  Pawel, Kyle Spaans, Chris Brunner, Matt Smith
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President, Eric Gerlach, acted as Chair for the meeting. Director Robert Gissing recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+The agenda was approved by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The check for new space is not delivered yet; Ben will do that very soon.Motion Passed: The Board approves reimbursing Chris Bruner $13.82 for tools purchased on behalf of the Tool Committee, and reimbursing Ben Brown $84.74 for a new door lock.
+  
+  Motion Moved: Eric Gerlach
+  Motion Seconded: Alexandra Dysinski
+  In Favour: 3
+  Opposed: 0
+  Abstained: 1
+
+4. Old Business
+---------------
+
+4.1. Website
+No update
+
+4.2. Health & Safety Committee
+We still don’t have a working phone in the space.
+
+4.3. Space Expansion
+We have the signed lease.We’ve received an offer to get a power washer to clean the windows and floors. Tool room planning is in process, and the floor plan is online.
+
+4.4. Workshops
+No update.
+
+4.5. Ubuntu Release PartyThe party is awesome. We expect to hold another one for the next release.
+
+4.6. Art Wall
+Robert Gissing still needs to draft an ownership statement.
+
+5. New Business
+---------------
+
+5.1. Non-Members in the Space
+The non-member survey has not yet been posted, so there is no feedback to review yet.
+
+5.2. Python Night
+Darcy Casselman would like to hold a regular Python Night, for members interested in programming. He plans on bringing in some experts to give lightning talks on related topics.
+
+5.3. Board Elections
+The Board needs to draft bylaws outlining the rules for Board elections. Eric Gerlach will do the necessary research regarding what needs to be included.
+
+Motion Passed: Organize a Board of Directors election, to be announced by June 17, 2010
+  Motion Moved: Ben Brown
+  Motion Seconded: Alexandra Dysinski
+  In Favour: 4
+  Opposed: 0
+  Abstained: 0
+  Motion Carries by three arms and a leg.
+
+6. Next Board Meeting
+---------------------
+The next board meeting will be held on May 26, 2010. Alexandra Dysinski commented with a hearty belch.
+
+7. A Comment from Rob Adler
+---------------------------
+Rob Adler would like to hold a music-related demo night. This would be scheduled for a Tuesday Open Night.
+
+8. Adjournment
+--------------
+  Motion Moved: Eric Gerlach
+  Motion Seconded: Ben Brown
+  In Favour: 4
+  Opposed: 0
+  Abstained: 0
+  Motion Carries by three arms and a leg.

@@ -1,0 +1,248 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, March 11, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #26
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Alexandra Dysinski, Stephanie Smith, Cedric 
+  Puddy, Darin White
+* Arrived Late: Robert Gissing, Ben Brown
+* Absent: 
+* Quorum: Yes (5/7)
+
+
+OTHERS
+
+* KwartzLab Members: Paul Walker, Darcy Casselman
+
+Distribution: To all KwartzLab Society Board Members
+
+---------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+The President, Eric Gerlach, acted as Chair for this meeting, and called the meeting to order at 1943. The Secretary, Stephanie Smith, recorded the minutes.
+
+2. Approval of the Agenda
+-------------------------
+The agenda was presented by the President, and accepted by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+The Treasurer presented the Board with the attached Financial Report. It was accepted by the general consent of the Board.
+
+4. Old Business
+---------------
+
+  4.1. Website and Mailing Lists
+  ------------------------------
+  
+    4.1.1. Update for action 13.2 on Ben Brown: convert website 
+    design to drupal template
+    
+    Still pending: Ben Brown requested permission to reorganize 
+    content on the website; the Board approved by general consent.
+    
+    4.1.2. Update for action 26.2 on Steph Smith: create 
+    discuss@kwartzlab.ca mailing list and change archives of members 
+    to private 
+    
+    Stephanie Smith reported to the Board that the public 
+    discuss@kwartzlab.ca mailing list has been created, and that the 
+    members' mailing list archives are now private.
+    
+  4.2. Lease contract for borrowing member equipment
+  --------------------------------------------------
+  
+    4.2.1. Update for action 26.3 on Steph Smith: setup 
+    equipment@kwartzlab.ca email forward
+    
+    Stephanie Smith reported to the Board that this is completed.
+    
+    4.2.2. Update for action 26.4 on Steph Smith: print copies of 
+    lease and place in Board locker 
+    
+    Still pending.
+    
+  4.3. Health & Safety Committee
+  ------------------------------
+
+    4.3.1. Update for action 26.5 on Eric & Gus: bring in phone and 
+    SIM card and try to activate 
+    
+    Still pending.
+    
+    ACTION 27.1 on Robert Gissing to install a Health & Safety 
+    bulletin board in the Lab.
+  
+  4.4. Workroom Floor
+  -------------------
+  
+  Refinishing the workroom floor is stalled, pending improved 
+  finances.
+  
+  4.5. Space Expansion
+  --------------------
+  
+    4.5.1. Update for action 26.6 on Ben Brown & Robert Gissing: meet 
+    with Kapley re: spaces 
+  
+    Ben Brown report to the Board is not yet received a reply from 
+    Kapley.
+  
+  4.6. Tool Committee
+  -------------------
+
+    4.6.1. Update on action 26.1 on Eric Gerlach: Write up tool 
+    committee procedure 
+    
+    Eric Gerlach presented the Board with his draft of the tool 
+    committee procedure.
+
+    There was a discussion regarding suggested revisions. 
+    Specifically, should the Tool Committee also oversee tool 
+    donations and loans? I.e. should all tool acquisitions be 
+    filtered through the Tool Committee.
+
+    The accountability of the Tool Committee should also be made more 
+    explicit. Purchase receipts, warrantees and any other paperwork 
+    related to the tool acquisition needs to be included in the 
+    report to the Board. Additionally the Tool Committee should 
+    report new acquisitions to the Health and Safety Committee as 
+    well as to the Board.
+    
+    ACTION 27.2 on Eric Gerlach to revise Tool Committee Procedure, 
+    per feedback from the Board.
+    
+  4.7. Frequency and dates of Board Meetings
+  ------------------------------------------
+  
+    4.7.1. Update on action 26.7 on Eric Gerlach: Post notice re: 
+    Board meeting on the 11th 
+    
+    Erig Gerlach reported to the Board that this item was completed.
+      
+  4.8. Report on Arduino workshop
+  -------------------------------
+
+  Ben Brown presented the board with report of the recent Arduino 
+  workshop.
+
+  The workshop had a good turnout and the event went well. There was 
+  $40 in surplus revenue which has been donated to the lab.
+
+  There was a detailed discussion regarding facilitators making money 
+  off of events. Generally speaking, the board has no problem with 
+  event organizers being financially compensated for their efforts. 
+  However there were some concerns regarding the specific logistics, 
+  and to what degree these arrangements should be formalized.
+
+  Regardless of any rules or procedures which KwartzLab decides to 
+  adopt, the Board agrees that the spirit of entrepreneurship should 
+  be kept firmly in mind.
+
+  From a financial perspective, insurance and taxation are the 
+  Board's primary concerns. If KwartzLab is directly responsible for 
+  workshop, related fees will be taxable. Likewise, if KwartzLab is 
+  directly responsible for workshop, the event will be covered by our 
+  insurance.
+  
+  ACTION 27.3 on Eric Gerlach to determine whether or not there is a 
+  reasonable way to extend insurance to non-KwartzLab events in the 
+  space.
+      
+  4.9. Membership Vetting Procedures 
+  ----------------------------------
+  
+  There is a detailed discussion regarding the new vetting procedure 
+  proposal. The current proposal is to hold an initial vote for a new 
+  applicant, and if that vote is not unanimous, hold a second vote in 
+  one week's time. The second vote would not need to be unanimous, in 
+  order for the new applicant be accepted. However, it would force a 
+  "pause" and further discussion should a Director not support the 
+  applicant.
+
+  There were concerns that this new procedure is too complicated, and 
+  doesn't specifically address the issue which the Board was 
+  originally trying to respond to -- specifically, how to ensure that 
+  new applicants won't be blocked simply because enough Directors 
+  don't know them.
+
+  The membership has indicated that they don't want to be directly 
+  involved in approving new applicants -- this responsibility should 
+  stay with the Board. However, the Board still actively wants to 
+  receive feedback from the membership regarding new applicants. In 
+  this way, Directors can vote on an applicant based on feedback 
+  they've received, in cases where they don't have direct knowledge 
+  of the applicant.
+
+  The Board is also concerned with how best to respond to objections 
+  received by the membership. There are numerous reasons why somebody 
+  may object to a new applicant, some legitimate, others not. There 
+  are also potential privacy concerns related to requiring members to 
+  divulge the nature of their objection. We need to balance due 
+  diligence with sensitivity towards all involved, and ultimately use 
+  wisdom when evaluating objections.
+  
+  MOTION: Be it resolved that when an applicant is being voted on for   
+  membership to KwartzLab Society Inc., if any objections have been 
+  raised to a Director about the applicant, this must be stated for 
+  the record. The exact nature of the objection does not need to be 
+  stated, however the number of members posing objections does.
+  
+    So moved by Robert Gissing.
+    Seconded by Ben Brown.
+
+    Discussion:
+
+    In Favour: 7
+    Opposed: 0
+    Abstained: 0
+
+    MOTION CARRIES
+  
+5. New Business
+---------------
+
+No new business was presented to the Board.
+
+
+6. Action item review
+---------------------
+
+13.2 on Ben Brown: convert website design to drupal template
+
+26.4 on Steph Smith: print copies of lease and place in Board locker
+
+26.5 on Eric & Gus: bring in phone and SIM card and try to activate
+
+26.6 on Ben Brown & Robert Gissing: meet with Kapley re: spaces
+
+27.1 on Robert Gissing to install a Health & Safety bulletin board in the Lab.
+
+27.2 on Eric Gerlach to revise Tool Committee Procedure, per feedback from the Board.
+
+27.3 on Eric Gerlach to determine whether or not there is a reasonable way to extend insurance to non-KwartzLab events in the 
+space.
+
+7. Adjournment
+--------------
+Meeting adjourned at 2047.
+So moved by Alexandra Dysinski.
+Seconded by Ben Brown
+In Favour: 0
+Opposed: 0
+Abstained: 0

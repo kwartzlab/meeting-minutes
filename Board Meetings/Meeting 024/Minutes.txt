@@ -1,0 +1,272 @@
+KWartzLab Society Inc. 
+======================
+    Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, February 10, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #25
+
+BOARD MEMBERS
+
+* Present:  Alexandra Dysinski, Ben Brown, Cedric Puddy, Darin White, Eric Gerlach, Robert Gissing, Stephanie Smith
+* Absent: 
+* Quorum: Yes (/7)
+
+OTHERS
+
+* KwartzLab Members: Alex Williams, Jessica Claymen
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1.Call to Order
+---------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1938 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+The agenda was presented by the President, and approved by the general consensus of the Board.
+
+3. Report from the Treasurer
+----------------------------
+The Treasurer, Ben Brown, presented the Board with a current financial report. There were no note-worthy items on this report, and it was accepted by the general consensus of the Board. See attached Appendix A.
+
+4. Old Business
+---------------
+
+  4.1. Website
+  ------------
+
+    4.1.1. Update for action 13.2 on Ben Brown: convert website design to 
+    drupal template 
+    
+    Outstanding.
+    
+    The Board agreed by general consensus that Ben could make any 
+    necessary changes to the front page content without waiting on 
+    input from Katrina Somers.
+
+  4.2. Lease contract for borrowing member equipment
+  --------------------------------------------------
+
+    4.2.1. Update for action 17.1 on Eric Gerlach: Post draft of lease 
+    agreement to members list asking for comment 
+    
+    Outstanding.
+    
+    The Board acknowledged that as lease arrangements will be approved on 
+    a case-by-case basis, nothing needs to be formally approved as far as 
+    the boiler plate document goes. However, we would still like the 
+    membership to be aware of what the boiler plate document looks like. 
+    To this end, although the we would like to have the draft posted to the 
+    members' list, no business is currently being held up.
+
+  4.3. Health & Safety Committee
+  ------------------------------
+
+    4.3.1. Update on action 22.1 on Stephanie Smith: post reminder Board & 
+    Members to review draft Health & Safety policy
+
+    Completed: Stephanie Smith reported to the Board that a last call to 
+    review the Health & Safety draft policies was posted to the members' 
+    list on February 5, 2010.
+
+    4.3.2. Update on action 22.3 on Eric Gerlach: bring in his cell phone & 
+    activate it. 
+    
+    Outstanding: Eric Gerlach reported to the Board that he has brought his 
+    cell phone and its charger into the lab. The cell phone still needs to 
+    be activated.
+
+    4.3.3 Health & Safety Policy
+    
+    See attached Appendix B.
+    
+    Motion: Be it resolved that the Board accepts the Health & Safety 
+    Policy, as drafted, allowing for edits which do not materially change 
+    the policy.
+
+      Motion Moved By: Eric Gerlach
+      Motion Seconded By: Alexandra Dysinski
+      In Favour: 7
+      Opposed: 0
+      Abstained: 0
+      
+  4.4. Workroom Floor
+  -------------------
+
+    4.4.1. Update on action 24.1 on Robert Gissing: get second quote on 
+    epoxy paint. 
+    
+    Completed: Robert Gissing presented the Board with an update regarding 
+    workroom floor repair solutions. Epoxy paint cannot be applied to wood 
+    floors. However, Home Hardware sells an acrylic floor paint, which will 
+    probably meet our needs. The paint sells for $34/gallon/400sqf, and we 
+    will probably need 4 gallons to cover the workroom floor.
+    
+    The Board continued discussing whether or not this was a space 
+    improvement which needed to be done now, or if it could be postponed 
+    until Fall 2010. There was question over whether this was primarily an 
+    aesthetic issue, or if permanent damage is being done to the floor.
+
+  4.5. Trillium Grants
+  --------------------
+  
+  No update.
+
+  4.6. Membership Vetting Procedures
+  ----------------------------------
+
+    4.6.1. Update for action 21.2 on Robert Gissing: write up a proposed 
+    motion for new member approvals, and post to BOD for discussion 
+    
+    Outstanding: no update at this time.
+    
+
+  4.7. Space Expansion
+  --------------------
+
+    4.7.1. Update for action 21.3 on Robert Gissing & Ben Brown: start 
+    talking with Kapley regarding that unit. 
+    
+    Outstanding: Ben Brown reported to the Board that he and Robert Gissing 
+    will be meeting with Kapley in the following week.
+
+  4.8. Signage
+  ------------
+  
+  Ben Brown reported to the Board that he is obtaining quotes to have the 
+  sign cut out of metal. He's looking at industrial grade, dark steel which 
+  will need to be painted, and is hoping to be able to get it done for just 
+  the cost of materials.
+
+  4.9. Ubuntu Global Jam
+  ----------------------
+  No update.
+  
+  4.10. Member Meeting
+  --------------------
+
+  4.11. Update on action 24.2 on Eric Gerlach: post to members that we'll 
+  be holding a members meeting on the 17. 
+
+  Completed: Eric Gerlach reported to the Board that an announcement had 
+  been posted to the members' list on February 4, 2010.
+  
+  The Board discussed feedback that's been provided regarding the meeting 
+  agenda -- some members have indicated that they won't be coming, because 
+  they are not interested in the procedural items. If motivation and 
+  visioning is our main goal for the meeting, and we can't motivate we 
+  members to come out to talk about them, then we've all ready failed. It 
+  was proposed that the agenda be modified to focus on visioning, and make 
+  the procedural items optional.
+
+  Action 25.1 on Eric Gerlach:  post to list stating our intent to change 
+  the agenda at the meeting -- move vision to the top, and only talk about 
+  the rest if people are interested.
+
+5. New Business
+---------------
+
+  5.1. New Equipment Acquisitions:
+  --------------------------------
+  
+    5.1.1. The Knight Kiln
+    
+    Darin White presented the Board with Cathy Farwell's generous offer to 
+    donate a Knight Kiln to KwartzLab Society Inc.
+    
+    The Board discussed the value that the kiln would bring to the lab 
+    and our membership. This is a "red sticker" item, however, and training 
+    will be required. We don't currently have anybody in-house who has 
+    "expert knowledge" on using and maintaining a kiln, so we will need to 
+    arrange outside training. 
+    
+    The Board further discussed space considerations for the kiln, and 
+    whether or not the kitchen would be an appropriate location for it. 
+    Cathy has said that we can postpone physically accepting it until our 
+    space issues are resolved.
+    
+    Motion Moved: Be it resolved that the Board accept the donation of the 
+    Knight Kiln, with a planned installation of June, 2010.
+
+    	Motion Moved By: Darin White
+    	Motion Seconded: Ben Brown
+    	In Favour: 7
+    	Opposed: 0
+    	Abstained: 0
+    
+    5.1.2. Industrial Sewing Machine
+
+  	Motion: Be it resolved that the Board agreeing to lease an Industrial 
+  	Sewing Machine from Alexandra Dysinski, under the terms of the draft 
+  	lease.
+    
+    	Motion Moved By: Stephanie Smith
+    	Motion Seconded: Darin White
+      In Favour: 5
+      Opposed: 0
+      Abstained: Alexandra Dysinski & Eric Gerlach
+      
+    5.1.3 Radial Arm Saw
+
+  	Motion: Be it resolved that we get that radial arm saw in here for meat 
+  	cutting
+    
+    	Motion Moved By: Robert Gissing
+    	Motion Seconded: Ben Brown
+
+    	Discussion: Although we are not a licensed facility for cutting meat, 
+    	Alex does like meat.
+
+  	  In Favour: 2
+  	  Opposed: 5
+  	  Abstained: 0
+
+    Motion: Be it resolved that we bring the radial saw arm in, under the 
+    terms of the draft lease agreement, and that it is to be operated under 
+    the terms of our health & safety policies
+  
+      	Motion Moved By: Cedric Puddy
+      	Motion Seconded: Darin White
+
+      	Discussion: Gus says butchering is classified as a "making thing".
+
+      	In Favour: 6
+      	Opposed: 1
+      	Abstained: 0
+
+6. Action item review
+---------------------
+
+13.2 on Ben Brown: convert website design to drupal template 
+
+17.1 on Eric Gerlach: post draft of lease agreement to members list asking for comment
+
+22.3 on Eric Gerlach: activate cell phone. 
+
+21.2 on Robert Gissing: wrote up a proposed motion for new member approvals, and post to BOD for discussion
+
+25.1 Eric post to list stating our intent to change the agenda at the meeting -- move vision to the top, and only talk about the rest if people are interested.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2033EST.
+
+  Motion Moved By: Stephanie Smith
+  Motion Seconded: Cedric Puddy
+  In Favour: 6
+  Opposed: 1
+  Abstained: 0

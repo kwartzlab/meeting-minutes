@@ -1,0 +1,256 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday December 2, 2009
+* Time: 1934 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+* Meeting #17
+
+BOARD MEMBER
+
+* Present: Ben Brown, Cedric Puddy, Eric Gerlach, Stephanie Smith, Alexandra Dysinski, Darin White, Robert Gissing
+* Quorum: Yes (7/7)
+
+OTHERS
+
+* Kwartzlab Members: Jessica Clayman
+
+Distribution: To all KWartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The President, Eric Gerlach, called the meeting to order at 1934 EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the President. Laser Cutter Procurement was added to New Business, and the agenda was approved by the general consensus of the Board.
+
+3. Report from the Treasurer
+----------------------------
+The Treasurer, Ben Brown, presented a financial report to the Board. Only two members were late with membership dues for December. He also presented a draft for the revised budget. 
+
+There was a brief discussion regarding long term plans and goals for the emergency & tool fund contributions, as well as options for putting such funds in interest-generating accounts. Discussion continued at 4.5 Budget Revision under Old Business.
+
+4. Old Business
+---------------
+
+  4.1 Website/mailing lists
+  -------------------------
+  >> Update on Action 13.2 on Ben Brown: convert website design to Drupal 
+  template
+  
+  Ben presented to the Board that he now has the FTP credentials for 
+  uploading his template to the site, but does not currently have internet 
+  access. He estimates that once he has internet, it will take 
+  approximately 2 weeks to get the template ready for review.
+
+  4.2. Lease contract for borrowing member equipment
+  --------------------------------------------------
+  >> Update for Action 13.3 on Eric Gerlach: draft "lease" agreement for 
+  borrowed equipment 
+  
+  Eric reported to the Board that he had posted his draft to BOD mailing 
+  list last week; no concerns were raised, so we are ready to share it with
+  the general membership.
+  
+  >>  ACTION 17.1 on Eric Gerlach: post draft lease to members list, asking 
+  for comment.
+
+  4.3 Metal brake/shear from RIM
+  ------------------------------
+  >> Update for Action 15.1 on Robert Gissing: Organize truck and post to 
+  list asking for help moving brake.
+
+  Gus reported to the Board that it will cost $129, plus fuel and ramp 
+  materials cost, to move the brake. We've budgeted $200 for the move
+  and should come in under that. 
+  
+  4.4 Garbage & Maintenance
+  -------------------------
+  >> Update for Action 13.7 on Robert Gissing: create a check list of 
+  cleaning tasks to be completed weekly, plus less frequent tasks for 
+  long-distance members
+
+  Gus reported to the Board that he has posted a list of weekly cleaning 
+  tasks to his blog. This has been linked to from the duty roster web page 
+  as well. He also provided the following items as less-frequent tasks that 
+  long-distance members could do: cleaning windows, dusting ceiling pipes & 
+  lights.
+  
+  Alexandra Dysinski offered to launder our towels on a regular basis.
+
+  4.5 Budget Revision
+  -------------------
+  >> Update for Action 15.2 on Ben Brown: Post budget to mailing list
+  
+  Ben reported to the Board that he has posted the budget draft to the 
+  mailing list, and there is an active discussion thread regarding it 
+  there.
+
+  There was a detailed discussion regarding the funds listed in the budget, 
+  and how to budget for other discretionary spending we might want to save 
+  up for. 
+  
+  The general consensus of the Board was to quickly save up an emergency 
+  fund valued at 3 months expenses, and then more slowly build that to (and 
+  keep it at) 6 months expenses. Once our target has been hit for the 
+  emergency fund, surplus funds earmarked for the emergency funds may be 
+  diverted to either the tool fund, or a general warchest. The language in 
+  the current budget draft needs to be revised to allow us to divert these 
+  funds without having to revise the budget again.
+  
+  >> ACTION 17.2 on Ben Brown & Eric Gerlach to revise language in budget 
+  regarding fund contributions.
+  
+  4.6 Establishing a Health & Safety Committee
+  --------------------------------------------
+  >> Update forAction 15.3 on Eric Gerlach: Call Rogers to find out if 
+  phone should work for 911. Call Police to ask if we can test. 
+  
+  Completed: Eric reported that his Roger's cell phone can be used for 
+  emergency calls. He has a SIM card which needs to be re-activated. With a 
+  pay-as-you-go contract, we can still make emergency calls for 2 months 
+  after the pay-as-you-go minutes have expired. We could therefore pay $10 
+  every 3 months to keep the emergency line active. 
+  
+  The police do not offer any 911 emergency testing services. 
+  
+  Jessica Clayman reported to the Board that she has posted preliminary 
+  Health & Safety documents to the website.
+  
+  There was a general discussion regarding the sorts of training that 
+  members will need to receive: MBOS, and training on our drill press & 
+  metal break.
+  
+  4.7 Global Hackathon
+  --------------------
+  Eric Gerlach presented the Board with an update on the recent Global 
+  Hackathon. It went very well. Hackerspaces.org plans to make this a 
+  monthly event. We don't want to participate that frequently.
+  
+  4.8 Drink Order
+  ---------------
+  Cedric Puddy presented to the Board an update on the current drink order: 
+  he  needs to reconcile remaining inventory against monies collected by 
+  the drink fund.
+
+  4.9 Policies & Procedures for Bringing in New Equipment
+  -------------------------------------------------------
+  >> Update for Action 13.4 on Stephanie Smith: generate google spreadsheet 
+  for tracking assets 
+  
+  Completed: Stephanie presented to the Board that she has created a CCK 
+  for assets within Drupal.
+  
+  4.10 Workroom Floor
+  -------------------
+  >> ACTION 17.3 on Robert Gissing: get quote for epoxy paint for workroom 
+  floor.
+  
+  4.11. Public in the space & semi-external groups
+  ------------------------------------------------
+  >> Update for Action 16.1 on Eric Gerlach: Call our insurance broker and 
+  ensure we properly understand the insurance implications of event 
+  organizers keeping revenue from events held in our space. 
+
+  Eric reported to the Board that Dave was out of the office this week; he 
+  will be back tomorrow, and Eric will call him then.
+  
+5. New Business
+---------------
+
+  5.1.  New Members
+  ---------------------------------
+
+  Motion Passed: Be it resolved that Jonathan Lamothe is admitted to 
+  membership in KwartzLab Society Inc.
+
+    * Nominated by: Eric Gerlach
+    * Second by: Stephanie Smith
+    * In Favour: 6
+    * Opposed: 0 
+    * Abstained: 1
+
+
+  Motion Passed: Be it resolved that Ron Harding is admitted to membership 
+  in KwartzLab Society Inc.
+
+      * Nominated by: Eric Gerlach
+      * Second by: Alexandra Dysinski
+      * In Favour: 6
+      * Opposed: 0 
+      * Abstained: 1
+      
+  5.2 Reimbursements
+  ------------------
+  No reimbursement requests were submitted.
+  
+  5.3 Recurring TON stuff
+  -----------------------
+  There was a general discussion regarding the need for more publicity. 
+  Darcey has offered to keep on top of twitter posts, but has fallen victim 
+  to the drupal/twitter bug.
+
+  >> ACTION 17.4 on Stephanie Smith: resolve Darcey's twitter issues.
+  
+  5.4 Laser Cutter Procurement
+  ----------------------------
+  Darin White presented to the Board his ideas regarding how to plan for 
+  big ticket items, specifically a laser cutter. This is an opportunity for 
+  third party donations.
+
+  There was a discussion regarding other big ticket items we may want to 
+  pursue first: shop bit (CNC router), PCB Mill, RepRap. We should run all 
+  of these options by the membership, and see what people are most 
+  interested in.
+
+  >> ACTION 17.5 on Darin: Summarize discussion about large tools and email 
+  members list with a few options to get feedback about it.
+  
+  Alexandra Dysinski presented to the Board that she has an industrial 
+  sewing machine which she would like to lend to the space, and will 
+  provide training on. She also shared her ideas on a supply closet for the 
+  space.
+
+  Cedric Puddy presented to the Board that he has a supply closet he'd like 
+  to donate to KwartzLab.
+
+6. Next Board Meeting
+  ----------------------
+  The Board agreed by general consensus to hold one last meeting in 2009, 
+  onThursday December 17. This meeting would only cover new members, 
+  reimbursements, and any urgent business which could not wait until 
+  January.
+
+7. Action Item Review
+---------------------
+
+17.1 Eric to post to draft lease agreement to members list, asking for comment.
+17.2 Ben & Eric to budget revision
+17.3 Gus to get quote on epoxy paint for workroom floor
+17.4 Steph to contact Darcey about his twitter account
+17.5 Darin to summarize ideas for big ticket procurement, and send to members list for discussion
+
+
+8. Adjournment
+---------------
+The Meeting was adjourned at 2044EDT.
+  
+  Motion Moved: Eric Gerlach
+  Motion Seconded: Stephanie Smith
+  In Favour: 7
+  Opposed: 0
