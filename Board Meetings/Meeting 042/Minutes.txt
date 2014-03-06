@@ -1,0 +1,240 @@
+KWartzLab Society Inc.
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, August 19, 2010
+* Time: 1930 EST
+* Location: KwartzLab Society Inc.
+* Meeting #62
+
+BOARD MEMBERS
+
+* Present:   Cedric Puddy, Eric Gerlach, Ben Brown, Robert Gissing, Stephanie Smith,
+* Absent:      Paul Walker, Alex Williams
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDANCE
+
+* Members: Bevan Lantz, Jonathan Lamothe, Darcy Casselman
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The President, Robert Gissing, acted as chair for the meeting, calling it to order at 1945 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The Secretary presented the Agenda for the meeting, which was approved by general consensus.
+
+
+3. Approval of Previous Minutes
+-------------------------------
+
+Motion Passed: Be it resolved that the Board approves the minutes for July 22, 2010, August 3, 2010, August 5, 2010, and August 10, 2010.
+	Motion Moved: Stephanie Smith
+	Motion Seconded; Robert Gissing
+	In Favour: 5
+	Opposed: 0
+	Abstained: 0
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer reported that we are most excellent in the finance, and have not had to break any fingers in months.
+The Treasurer also indicated that somebody needs to co-sign our rent cheque.
+
+5. Report from the President
+----------------------------
+
+The President reported on his recent trip to New York City. He was unable to visit NYC Resister, but did visit the Madagascar Institute, which is "way cool." He learned how to make flame throwers, and reports that they are organizing a chariot race for Maker Faire NYC. Perhaps Kwartzlab would like to enter.
+
+The President also reported that member Jessica Clayman is withdrawing. Robert Gissing will take back ownership of the Art Wall, until somebody else volunteers for the position. The Art Wall should no longer be considered a member project, but rather official kwartzlab programming, and we should discuss what to do with it going forward.
+
+The President reported that we now have a reciprocating metal hack saw in the tool room, which he needs to assemble. It will cut through up to 6 inches. This was donated to the lab by Chris Martin-Root, and the Board thanks him for the donation.
+
+6. Old Business
+----------------
+
+6.1. Website & Mailing Lists
+
+Update for action 39.2 on Ben Brown: build new site in WordPress 
+
+Downgrade WP 2.9. Steph will do early next week.
+>> ACTION 43.1 Steph to downgrade staging to 2.9
+           
+Mediawiki will be used for assets
+           
+Eventbrite for KwartzLab events. 
+events@kwartzlab.ca also has google calendar which members will all be able to add events to.
+
+Migration should be painless. We will need to turn off updates to drupal a day or two before the actual migration. Send email to list to let people know.
+
+6.2. Health & Safety Committee
+
+6.2.1. Update for action 41.1 on Alex Williams: bring in mobile phone
+
+We have a phone!! It is not GSM, so we can't use the $100 SIM card that Ben has purchased.
+
+We will use Nokia (GSM until we can sell it), and will then buy a new Rogers phone with the proceeds. Back to the original plan.
+
+ACTION 43.2 on Ben to bring the SIM in.
+           
+ACTION 43.3 Ben will eBay the Nokia.
+
+6.2.2. Set Board Procedure and Committee Appointments 
+
+Gus came up with 4 points that we can use to create a H&S policy to put on membership application.
+           
+ACTION 43.4 on Gus to post his ideas to the Board list.
+
+6.3. Workshops
+
+Update for action 27.3 on Eric: Read through insurance policy and figure out workshops and instructors. 
+           
+According to an email from Dave (of Erb & Erb) -- if we're collecting the money, its our insurance. If they are collecting the money, its their insurance, and we should ask for proof of insurance.
+           
+Can we extend our insurance to third parties?
+Can riders be added to personal liability?
+           
+The Board will compile a list of additional questions via the mailing list.
+
+6.4. Need of alarm system and anti-burglary system
+
+Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
+
+Pending. We need a better computer to drive the webcam.
+
+6.5. Marion Call concert
+
+Update on action 39.4 on Robert Gissing: contact Marion Call regarding the possibility of doing a concert at the Lab. 
+
+Pending.
+
+6.6. Review existing Board Procedures 
+
+Stephanie Smith posted the existing Board Procedures to the mailing list for review.
+
+6.7. Kwartzlab Store
+
+Update for action 41.2 on Paul Walker: organize arduino order for shop
+Update for action 41.3 on Steph Smith: review Ladyada's wholesale pricing 
+
+The Treasurer reaffirmed his approval that to purchase arduinos for the store. We need to confirm that Paul will place the order.
+
+Need to compile list of other initial inventory to begin.
+           
+We only have a "personal" PayPal account. In order to accept online credit card payments, we may need to upgrade to merchant account.
+           
+           
+>> ACTION 43.4 on Steph Ping members -- what Ladyada items do you want.
+
+6.8. KwartzCon
+
+Kill it in favour of SoOnCon.
+
+6.9. How can we start fully using the Heavy Equipment Lab
+
+Update for action 41.4 on Steph Smith: ping Gus regarding ventilation project 
+
+Gus talked to Gary, who will be bringing supplies, and  providing sweat equity. We need to give him rough 
+dimensions, and he'll start organizing pipe. We will need to reimburse him for the metal for the fume hoods. 
+
+Burhan said it was fine to proceed.
+
+Machinery has been photographed.
+
+6.10. People's personal belongings and projects
+
+Update for action 41.5 on Paul: generate some story examples to illustrate good communication, and make a friend collage. 
+
+Pending.
+
+7. New Business
+---------------
+
+7.1. Public Event: Software Freedom Day
+
+Darcy requested to hold a public event for Software Freedom at the lab, on September 18. It will be a primarily social event, with some talks, demos, and possibly an installfest. It will draw a similar crowd as do the Ubuntu events. 
+
+Motion to host Software Freedom Day as a public event on September 18, moved by Ben Brown. Seconded by Cedric Puddy.
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+7.2. Public Event: Central Art Walk
+
+Motion to participate in the October 23-24 Central Art Walk, hosting other artists at Kwartzlab, moved by Stephanie Smith. Seconded be Ben Brown.
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+7.3. SoOnCon
+
+SoOnCon is happening on the same weekend as Nuit Blanche. Robert Gissing reported to the board that James Bastow will design the badge. We will need 100 badges; the bill of material is currently estimated at $15 a piece. 
+
+The schedule for the weekend is:
+
+Friday Evening: Meet & Greet/badge hacking/lightening talks at Kwasrtzlab
+Saturday Day: Demos & streaming lectures at Schwaben Club
+Saturday Evening: head in to Toronto for Nuit Blanche
+
+The Schwaben Club should cost less than $350 for the day. Ticket prices need to be decided this weekend. Probably ~$35-40. Tickets will be sold through the kwartzlab event bright account.
+
+If we want to sell booze on Friday, we need to get a liquor license ASAP. Ben Brown volunteered to do this.
+
+>> ACTION on Eric Gerlach: contact Cory Doctorow about possibility for Keynote speaker.
+
+7.4. Internet Radio Station
+
+Mary Lou (CKWR) contacted Gus about starting an Internet Radio station in KW. She asked if they could have the initial meetings in our space. Maybe once a month. If it goes anywhere, they'll move into their own space. We'll be hosting them, but not actually driving it. No specific meeting dates have been set yet. 
+
+There was a brief discussion regarding how hosting such groups will help generate good will in the community.
+
+Motion to host Mary Lou's internet radio station start-up meetings at kwartzlab, dates to be determined. 
+  Motion Moved: Cedric Puddy
+  Motion Seconded: Ben Brown
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+7.5. Steel Rails Sessions
+
+Ben Brown reported to the board that Hilary Abel is renting a the St. Jacob's train one evening next month. Local art groups are invited to set up displays in the cars. The public will pay admission to ride the trains, and check out the exhibits. There will also be some sort of performance or event at the station in St. Jacob's. It will be awesome.
+
+Motion for Kwartzlab to organize an exhibit, moved by Ben Brown. Seconded by Eric Gerlach.
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+8. Action Item Review
+---------------------
+
+Stephanie Smith will post action items to the mailing list.
+
+9. Adjournment
+--------------
+
+Motion to adjourn at 2104, moved by Robert Gissing.
+Seconded by Ben Brown
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+
+
