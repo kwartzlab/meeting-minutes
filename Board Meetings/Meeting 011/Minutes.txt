@@ -1,0 +1,187 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Tuesday, September 22, 2009
+* Time: 1930 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBERS
+      
+* Present: Cedric Puddy, Eric Gerlach, Darin White, Robert Gissing, Ben Brown, Stephanie Smith
+* Late: 
+* Absent: Alexandra Dysinski
+* Quorum: Yes (6/7)
+
+OTHERS
+
+* Kwartzlab Society Members: Darcy Casselman, Rob Magon
+* Guests: David Hayes
+
+Distribution: To all Kwartzlab Society Inc. Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1. Call to order
+----------------
+The President, Eric Gerlach, called the meeting to order at 1945 EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the agenda
+-------------------------
+The Agenda was presented by the President, and approved by general consensus of the Board.
+
+
+3. Approval of the 2009-09-17 Board Meeting Minutes
+----------------------------------------------------
+DECISION: The Board agreed by general consensus to postpone approval of the 2009-09-17 minutes until the next Board Meeting.
+
+
+4. Report from the Treasurer
+----------------------------
+The Treasurer presented the Board with a current cash flow report, and projections for upcoming expenses. Please see attached Appendix A.
+
+
+5. Old Business
+---------------
+  
+  5.1. Buildout
+  -------------
+  
+    * Security
+    James Bastow presented an update to the board. He has a door strike, the 
+    card reader schematic is almost finished, and parts have arrived.
+    James hopes to have the system up and running ready for grand 
+    opening, though he doesn't know where he's going to get cards. 
+    Unfortunately, we won't be able to use small tags that could be attached 
+    to physical keys -- these are proprietary.
+    
+    There was a discussion about the marketability of this project, once 
+    completed. We may be able to package and sell this.
+    
+    * Windows
+    Robert Gissing presented to the board that only 2 panes remain to be 
+    replaced.
+    
+    * Painting
+    There was a general discussion regarding the state of painting.
+    The walls are ready for painting. If we have enough primer left, we may do 
+    the storage room as well. If we leave the bathroom white, that's fine.
+    
+    Alexandra Dysinski doesn't have enough paint to cover the door.
+    Ben Brown will check his supply of black glossy enamel paint.
+    
+    
+    * Flooring 
+    Robert Gissing presented an update to the Board. The tile is cut and
+    measured, and he will install it this weekend.
+    
+  5.2. Logo
+  ---------
+  There was a discussion regarding typography on the logo.
+  
+  The board decided by general consensus to continue using the typography 
+  in the original version.
+  
+  Cedric Puddy will investigate getting a laser cut sign made from the logo.
+  
+  5.4. Website/mailing lists
+  --------------------------
+  There was a discussion regarding visitors confusion about "KwartzLab" the 
+  space, and "KwartzLab Society Inc." the corporation.
+  
+  Action: Stephanie Smith will add an iCal feed to the calendar.
+  Action: Stephanie Smith will have Katrina Somers adjust the text on the 
+  front page -- specifically, remove any mention of "Society Inc" or the 
+  corporation.
+  
+  5.5. Grand opening
+  ------------------
+    * Party
+    There was a general discussion regarding plans for the Grand Opening.
+    Stephanie Smith volunteers to oversee Grand Opening.
+    Ben Brown has flyers; they'll be posted to propaganda page. Ben will stop 
+    by GenX.
+    
+      o Alcohol 
+      Eric Gerlach's brother can no longer bartend. Robert Gissing 
+      volunteers instead.
+      
+      o Food
+      Cedric Puddy spoke with Natalie on Saturday; no update yet. He'll 
+      contact her again in the next couple days. There is some question
+      regarding what regulations we need to meet in serving food.
+      
+      o Other Attendees from Community 
+      
+      Eric Gerlach emailed Tom from CommuniTech. Peter Braid send regrets; 
+      he's on parliamentary duty. He wants to send a representative from his 
+      office. 
+      
+  5.5. Converting club members to corporate members
+  -------------------------------------------------
+  Motion Passed: Be it resolved that David Hayes is admitted to 
+  membership in KwartzLab Society Inc..
+    Motion Moved by Ben Brown
+    Seconded by Cedric Puddy
+    In Favour: 6
+    Opposed: 0
+    Abstained: 
+    
+  5.6. Presentations before Municipal Councils
+  --------------------------------------------
+  Robert Gissing presented an update to the board, regarding his presentation 
+  to Kitchener City Council. He was only given 5 minutes, so the presentation 
+  was brief. Council was pleased that we weren't asking for money. 
+  
+  5.7. Engaging politicians & municipalities
+  ------------------------------------------
+  Action: Eric Gerlach will follow up with John Milloy.
+  Action: Robert gissing will invite the Director of Technology at Conestoga 
+  College. 
+  
+  5.8. SoOnCon Update
+  -------------------
+  No update.
+  
+  5.9. Reimbursements
+  --------------------
+  No reimbursements requiring Board approval.
+  
+6. New business
+---------------
+
+  6.1. Windows 7 Launch Party
+  ---------------------------
+  Michael Kowalski was not present to report.
+
+  6.2. Ubuntu Launch Party
+  ------------------------
+  Darcy Casselman presented an report to the board, regarding his interest in 
+  hosting an Ubuntu Release Party in the space on October 29. He would like to 
+  make it an open event, and possibly obtain a liquor license.
+
+  6.3. Cory Doctorow
+  ------------------
+  There was a brief discussion about Cory Doctorow's visit to the University 
+  of Waterloo on Saturday, and again in october for Q2C. We should invite him 
+  to visit KwartzLab.
+
+
+7. Adjournment
+--------------
+Motion Passed: The Board Meeting is adjourned at 2047EDT
+  Motion Moved by: Cedric Puddy
+  Motion Seconded by: Ben Brown
+  In Favour: 6
+  Opposed: 0
+  Abstained

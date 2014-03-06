@@ -1,0 +1,264 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, July 30, 2009
+* Time: 7:00pm
+* Location: Barley Works, Huether
+
+BOARD MEMBER
+
+* Present: Alexandra Dysinski, Ben Brown, Cedric Puddy, Darin White, Eric Gerlach, Robert Gissing, Stephanie Smith
+* Absent:
+* Quorum: Yes (7/7)
+
+OTHERS
+
+* Members: Bevan Lantz, James Bastow, Shin Huang
+* Other:
+
+Distribution: To all KWartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Eric Gerlach called the meeting to order at 19:16EDT, and Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by Eric Gerlach. No objections were noted, and two items were added:
+
+ 1. Processing corporate members was added to the agenda by Stephanie Smith. 
+ 2. Internet Service was added to the agenda by Cedric Puddy. 
+
+With these two additions, the agenda was approved by general consent. 
+
+
+3.  Appointment of Chair of Board
+---------------------------------
+
+DECISION: Eric Gerlach was appointed Chair of the Board.
+
+  * Nominated by: Stephanie Smith
+  * Second by: Darin White
+  * In Favour: 6
+  * Opposed: 0 
+  * Abstained: Eric Gerlach
+
+
+4.  Appointment of President
+----------------------------
+
+DECISION: Eric Gerlach was appointed President.
+
+  * Nominated by: Alexandra Dysinski
+  * Seconded by: Cedric Puddy
+  * In Favour: 6
+  * Opposed: 0 
+  * Abstained: Eric Gerlach
+
+
+5.  Appointment of Secretary
+----------------------------
+
+DECISION: Stephanie Smith was appointed Secretary.
+
+  * Nominated by: Ben Brown
+  * Seconded by: Darin White
+  * In Favour: 6
+  * Opposed: 0 
+  * Abstained: Stephanie Smith
+
+
+6.  Appointment of Treasurer
+----------------------------
+
+DECISION: Ben Brown was appointed Treasurer.
+
+  * Nominated by: Darin White
+  * Seconded by: Robert Gissing
+  * In Favour: 6
+  * Opposed: 0 
+  * Abstained: Ben Brown
+
+
+7. Report on progress of insurance and next steps
+-------------------------------------------------
+
+Cedric Puddy presented to the Board an update on his progress in arranging DOLI & liability insurance quotes from 2 brokers -- Erb & Erb (Dave), and Premier Marine (Linda). Cedric sent an RFQ to both brokers this past Monday, and will be following up with them next week (before our next Board Meeting). He has spoken with Dave from Erb & Erb in the interim, and understands that Dave has all ready received some responses from insurance companies yet.
+
+Cedric points out that we cannot arrange for content & liability insurance absent an actual space. 
+
+As well, DNO is "Claims Made", which means coverage is only provided while the policy is still in effect. If the policy ever lapses, Directors (present and past) will no longer be covered, even if the suit pertains to something which happened while the policy was still in effect. DNO can be put in to "life support" mode, for a fraction of the policy cost, should it no longer be needed in the present term. 
+
+DISCUSSION about the possibility of budgeting for "life support" up front, and possibly even mandating it for X years in our bylaws.
+
+ACTION: Cedric Puddy will ask brokers, before the next Board meeting, if there are any issues with arranging for DOLI first (before signing a lease for space), and liability insurance at a later date (after signing a lease for space). 
+
+ACTION: Whoever speaks with the lawyer will inquire what's a reasonable term to arrange for DOLI life support.
+
+
+8. Report on banks and next steps
+---------------------------------
+
+Ben Brown presented to the Board an update on his progress is selecting a bank account for the Corporation. TD Canada Trust, ING, and CIBC have been seriously considered. TD Canada Trust looks the most desirable in terms of accessibility & related fees. 
+
+The only disadvantage is that TD Interac transactions fall under the general transaction quota (as opposed to deposit quota); we will probably have to pay additional general transaction fees if many members pay online.  It was suggested we may consider using TD for a primary account, but also arrange a (free) ING account to accept no-fee online payments.
+
+DECISION: Ben Brown is empowered to choose a bank, with TD being the base line.
+
+  * Motion Moved by: Darin White
+  * Seconded by: Alexandra Dysinski
+  * In Favour: 6
+  * Opposed: 0
+  * Abstained: Ben Brown
+  
+DECISION: President & Treasurer ex officio will have signing authorities on bank account, and a third signing authority will be selected by the Board. We are selecting Robert Gissing.
+
+  * Motioned Moved by: Eric Gerlach
+  * Seconded by: ??
+  * In Favour: 4
+  * Opposed: 0
+  * Abstained: Ben Brown, Eric Gerlach, Robert Gissing
+
+
+9. Choose lease negotiators and set negotiating agenda
+------------------------------------------------------
+
+DECISION: Eric Gerlach & Robert Gissing were chosen to be our lease negotiators.
+
+  * Motion Moved by:  Darin White
+  * Seconded by: Alexandra Dysinski
+  * In Favour: 5
+  * Opposed: 0
+  * Abstained: Eric Gerlach & Robert Gissing
+  
+DISCUSSION regarding the Globe Studio & Boehmer Box leases. The Globe Studios lease has no outstanding issues.  Boehmer Lease has a lot of problems & points which need to be clarified, but we have confidence that we can negotiate with Kapley. Agreed by general consensus that the lease negotiators should discuss preliminary concerns with Kapley before we have a lawyer go over the lease in details.
+
+Robert Gissing's lawyer has offered to go over both leases with us, pro bono.
+
+ACTION: Alexandra Dysinski will contact Kapley on July 31, to determine his availability for a meeting in teh near future.
+
+
+10. Update on websites/mailing lists
+------------------------------------
+
+Stephanie Smith presented to the Board an update on the current status on the website & mailing lists.
+
+The website has some preliminary content in place, and is ready to go live pending a design template. Ben Brown is working on a template, and says he should have something ready by the weekend. 
+
+There was a brief DISCUSSION regarding the current plethora of mailing lists across the kwartzlab.ca, makekw.org & hackw.net domains.
+
+DECISION: It was agreed by general consensus that the website should go live by Sunday August 2, with or without the new design template.
+
+DECISION: It was also agreed by general consensus that KWartzLab should maintain 2 mailing lists for members (1 discussion list, and 1 announcement list), but no mailing lists for the general public. Further, KWartzLab would make a conscientious effort to help consolidate the discuss@makekw.org & discuss@hackw.net mailing lists.
+
+ACTION: Stephanie Smith will make the kwartzlab.ca website go live on Sunday August 2.
+
+ACTION: Stephanie Smith will retire the discuss@kwartzlab.ca & events@kwartzlab.ca mailing lists
+
+ACTION: Eric Gerlach will contact Bill Trayner about obtaining the discuss@hackw.net subscription list, so that subscribers can be moved over to discuss@makekw.org, and discuss@hackw.net can be retired.
+
+
+11. Use Darin's contact for logo?
+---------------------------------
+
+Darin White presented to the Board that he knows a graphic designer (Mark Connolly), who is interested in KWartzLab, and has volunteered his services towards creating a logo. This is a "no strings" offer, and Darin volunteered to work with Mark on this. He estimates it may take approximately 3 weeks before Mark has any candidate work to show us. We are under no commitment to accept any designs Mark offers.
+
+There was a brief DISCUSSION about the lack of response from members when we last asked for logo designs.
+
+DECISION: It was agreed by general consensus that Darin & Mark could proceed on this. 
+
+ACTION: Darin White will confirm a timeline for the project with Mark Connolly.
+
+
+12. Establish teams to deal with the following projects:
+--------------------------------------------------------
+
+Darin White explained to the Board that people want work to do; there is lots of work to do; ergo we need to provide an infrastructure to tap this resource. Four initial areas were identified: additional space search, marketing, space prep, and recruiting.
+
+There was a DISCUSSION on how to recruit members into each of these areas. 
+
+###Additional space search (more comparison is always good)
+
+Michael Kowalski was identified as somebody who has expressed an interest in helping with space search. We should find out if he would be interested in taking lead.
+
+###Marketing
+
+There was a brief DISCUSSION regarding the difference between marketing and branding. As well, we have a specific need for tangible promotional materials that can be easily found, printed off and taken to events.
+
+Bevan Lantz volunteered to head up the marketing initiative.
+
+###Space prep (cleaning, buildout, etc.)
+
+Alexandra Dysinski has volunteered to head up the space prep initiative. Member Alex W has previously expressed an interest in helping with this.
+
+###Recruiting 
+
+It was suggested that membership recruiting should be everyone's responsibility, rather than having just a couple people dedicated to it. Darin provided some suggestions on how to effectively do it, and offered to write up a blog post detailing the same.
+
+ACTION: Ben Brown will contact Michael Kowalski, to see if he's interested in taking lead on additional space search.
+
+ACTION: Eric Gerlach will give Alex Williams' contact information to Alexandra Dysinski
+
+ACTION: Darin White will write up a blog post on recruiting.
+
+
+14. Internet Access
+-------------------
+
+Cedric Puddy announced his intent to present the Board (at a future date) with a service contract from CCj/Clearline Inc., offering Business DSL Services to be considered in exchange for 1 full KWartzLab Society membership. 
+
+Both Cedric Puddy & Stephanie Smith noted for the record that they intend to excuse themselves from Board discussion/deliberation on this offer, citing a conflict of interest.
+
+15. Corporate Members
+---------------------
+
+DISCUSSION about finalizing the process for inducting members of the unincorporated Make:KW Hackerspace Initiative into KWartzLab Society Inc. 
+
+We need the membership agreement in place before we can sign a lease. Ben is still working on the initial draft; once he's finished that draft, he will post it for review. Once the "membership" has had a chance to review & comment on the agreement, we will need to go over it with legal counsel. The aim is to keep the agreement as general as possible.
+
+ACTION: Ben Brown will make available a draft of the membership agreement for review, sometime this weekend.
+
+ACTION: Eric Gerlach will review the Corporations Act, and ensure we are collecting all the necessary information from members, by the next Board meeting.
+
+
+16. Discussion about dispute resolution
+---------------------------------------
+
+Cedric Puddy presented his views on dispute resolution to the Board. KWartzLab first and foremost is about space & people interacting in the real world. We are geographically oriented, and the list is secondary. To that end, if the discussion isn't working online, we should be able to move it to a different forum -- phone, in person meeting. 
+
+An in-depth DISCUSSION followed, regarding the importance of ensuring the mailing list remains a forum that people want to participate in, and how best to nurture a friendly and respectful culture. We don't want to be legalistic about enforcing etiquette rules; any member should feel comfortable suggesting when an online thread has lost its focus, or is no longer suited to the mailing list. 
+
+ACTION: Cedric Puddy will talk with Katrina Somers about drafting guidelines to help foster this idea.
+
+
+17. Next board meeting
+----------------------
+
+The next board meeting was schedule, by consensus, for Tuesday August 11, 2009. The agenda, date, and location are still to be set.
+
+
+18. Adjournment
+---------------
+
+DECISION: The meeting was adjourned at 21:22EDT.
+
+  * Motion Moved by: Eric Gerlah
+  * Seconded by: Ben Brown
+  * In Favour: 7
+  * Opposed: 0
+  * Abstained: 

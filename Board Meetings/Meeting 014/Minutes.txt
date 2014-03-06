@@ -1,0 +1,183 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, November 11, 2009
+* Time: 1941EST
+* Location: KwartzLab Society Inc, 283-106 Duke Street West, Kitchener
+* Meeting #14
+
+BOARD MEMBER
+
+* Present: Ben Brown, Darin White, Eric Gerlach, Robert Gissing
+* Absent: Alexandra Dysinski, Cedric Puddy, Stephanie Smith
+* Quorum: Yes (4/7)
+
+Distribution: To all KWartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1948 EST. The President also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2.  Approval of the agenda
+--------------------------
+
+Amend by adding H&S Policy and Moment of Silence to New Business.
+
+3. Report from the Treasurer
+----------------------------
+
+3.1 Update on Action 13.1 on Ben Brown: post to the members mailing list, to thank all members for promptly paying their dues.Completed.
+Schedule suspension for one member for the next Board Meeting.
+
+4. Old Business
+---------------
+
+4.1. Website/Mailing Lists
+--------------------------
+4.1.1. Update for Action 12.1 on Ben: upload screenshot of website template for review
+    
+Sent something to Steph, but haven’t received a response.
+
+>> Action 14.1 on Eric Gerlach to Poke Steph to see if there’s anything we can do to move it along
+
+4.1.2 Update on Action 13.2 on Ben: convert website design to drupal template.Coming along.Discussion about makekw vs. kwartzlab - there’s confusion. Do we need to clarify? Do we decouple from makekw? Postponed until Nov 25th meeting - General consent
+
+>> Action 14.2 on Ben Brown to Ask Michael Himestra about kwartzlab vs makekw and his plans for makekw.
+
+Kapley wants to be on our mailing list.
+    
+
+4.2 Ubuntu Release Party
+-------------------------
+
+Darcy posted summary to mailing list. Suggestion for future events: Talk to people face-to-face instead of mailing list to get them out to events.
+    
+4.3 Lease for borrowing member equipment
+-----------------------------------------
+
+Postpone for next week’s Board meeting.
+  
+4.4 Policies & procedures for bringing in new equipment
+-------------------------------------------------------
+  
+Postponed for two weeks.
+
+    
+4.5 Metal Break/Shear from RIM
+-------------------------------
+
+Darin measured the dock at RIM 44 1/2”. Need a truck with liftgate. Gus contacted RIM facilities, they won’t move it for us.
+    
+>> ACTION 14.3 on Darin White: follow up with free truck
+
+Motion Approve $200 in funding for truck expenses to move metal brake/shear. 
+	Moved by Eric Gerlach	Seconded Robert Gissing	In Favour 4	Opposed 0 Abstained 0
+    
+4.6. Drink Order
+----------------
+
+It’s here. Cedric is running out of pocket.Selling at a good price.When does the reorder happen? There’s a lot of stock, reorder will happen when we run low and wecan get $270. Members can order a case.
+    
+4.7. Garbage & Maintenance
+--------------------------
+
+Steph has posted a schedule. Checklist is not done. Gus will write for next week.
+
+4.8. Budget Revision
+--------------------Budget presented during treasurer report. Looking good. Eric will assist.
+      
+4.9. Establishing a Health and Safety Committee
+
+>> ACTION 14.4 on Eric Gerlach: have Alex send floorplan to Jess
+>> ACTION 14.5 on Eric Gerlach: ook to see if he has a cellphone for 911 purposes.
+
+Ben and Gus say that whoever steals the 911 cellphone will get an asskicking.4.10. Members contacting outside parties on behalf of KwartzLab---------------------------------------------------------------
+
+Steph forwarded email to Gus. Mark talked to Gus, all is cool, he knows that he needs to keep the Board in the loop. Eric to proceed with sending email to members.
+
+5. New Business
+---------------
+
+  5.1. New Members
+  --------------------
+  
+  Dan Benoy on next meetings new members.
+    
+  5.2. Reimbursements
+  ------------------------------
+  
+  None. The bleeding has stopped
+  
+  5.3. External Groups
+  ---------------------------------------------
+  
+  Discussion about a local Chapter of the Canadian Ubuntu loco, bugjams every 6 months.
+  Discussion of seminars. How do we handle people bringing in external events?
+  
+  Motion Passed: The Ubuntu Bug Jam in early 2010 tentativley approved.
+
+    Motion Moved: Robert Gissing
+    Motion Seconded: Eric Gerlach
+    In favour: 4
+    Opposed: 0
+    Abstained: 0
+    
+  5.4. Global Hackathon
+  --------------------------------------------------------------
+  
+    Motion Passed: KwartzLab shall participate in the Global Hackathon on the 20th-22nd of November, as a members-only
+
+      Motion Moved: Robert Gissing
+      Motion Seconded: Darin White
+      In favour: 4
+      Opposed: 0
+      Abstained: 0
+ 
+  5.5. Health and Safety Policy
+  -----------------------------
+
+  Jess read the policy to the Board.  Eric will add to next week’s agenda
+
+  5.6. NaNoWriMo Group
+  --------------------
+
+  Motion Passed: If the nanowrimo group wants to pay $5 per head, they are welcome to use the space.
+  
+    Motion Moved: Robert Gissing
+    Motion Seconded: Darin White
+
+    Motion to Amend: Change "If the nanowrimo groups wants to pay $5 per head" to "The nano write group, for a suggested donation of $5/head,"
+      Motion Moved: Eric Gerlach
+      Motion Seconded: Robert Gissing
+      In Favour: 2
+      Opposed: 2
+      Abstained: 0
+      Motion Amendement Fails
+
+    In Favour: 4
+    Opposed: 2
+    Abstained: 0
+
+  5.7. Moment of Silence
+  ----------------------
+ 
+    
+6. Adjournment
+--------------
+  Motion Moved: Darin White
+  Motion Seconded: Ben Brown
+  In Favour: 4
+  Opposed: 0

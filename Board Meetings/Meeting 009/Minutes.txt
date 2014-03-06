@@ -1,0 +1,492 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, September 9, 2009
+* Time: 1930 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBER2
+      
+* Present: Cedric Puddy, Eric Gerlach, Darin White, Robert Gissing, Ben Brown, Stephanie Smith
+* Late: 
+* Absent: Alexandra Dysinski
+* Quorum: Yes (6/7)
+
+OTHERS
+
+* Kwartzlab Society Members: Bevan Lantz, James Bastow
+* Guests: 
+
+Distribution: To all Kwartzlab Society Inc. Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1. Call to order
+----------------
+The President, Eric Gerlach, called the meeting to order at 1948 EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the agenda
+-------------------------
+The printed agenda was amended to reflect the agenda posted to the wiki. The Agenda was presented by the President, and approved by general consensus of the Board.
+
+
+3. Approval of the 2009-08-18 Board Meeting Minutes
+----------------------------------------------------
+The 2009-08-18 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+4. Approval of the 2009-09-04 Board Meeting Minutes
+---------------------------------------------------
+The 2009-09-04 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+5. Report from the Treasurer
+----------------------------
+Ben Brown provided a budget report & last month's bank statement (see attached). We've come in under budget so far.
+
+
+6. Old Business
+---------------
+
+  6.1. Insurance
+  --------------
+  Eric Gerlach presented to the Board that there is no update regarding   
+  Insurance.
+  
+  ACTION: Eric Gerlach, Robert Gissing & Ben Brown will submit the 
+  insurance paperwork, and arrange monthly payments for the policy.
+
+  6.2. Buildout
+  -------------
+  
+    * Security
+    James Bastow presented to the Board a summary of his plan for the 
+    space's physical door security. He is prepared to immediately take 
+    the project over from Michael Kowalski. The initial system will meet
+    the following minimal design goal:
+    
+      - token swipes, strike unlocks, access is logged
+    
+    The initial system will have no storage ability, but it will be 
+    networked. Access logs can either be saved to a USB thumb drive, or 
+    emailed. 
+      
+    We should be able to use a generic door strike, bringing the price 
+    down to less than $200.00 RFID tokens will range in price from 
+    approximately $1 to approximately $3 per unit. The more expensive 
+    tokens offer additional (challenge & response) security.
+    
+    Once he has RFID reader & door strike, James can have the initial
+    system installed within a couple of days.
+    
+    There was a DISCUSSION regarding ways we might be able to increase
+    the security of the door itself. 
+    
+    ACTION: Robert Gissing will draft a letter to Kaplay, advising him 
+    that we are making a permanent installation which we intend to take 
+    with us when we leave.
+    
+    * Ceiling
+    Eric Gerlach reported to the Board that the he & Cedric have 
+    finished cleaning the ceiling.
+    
+    * Windows
+    Darin White reported to the Board that he has finished cleaning the 
+    window panes.
+    
+    Robert Gissing reported to the Board that he will replace the broken
+    window panes over the coming weekend, and also that he intends to 
+    paint the interior window trim black.
+    
+    ACTION: Robert Gissing will replace broken window panes over the 
+    coming weekend.
+    
+    ACTION: Robert Gissing will paint the interior window trim.
+    
+    * Painting
+    There was a DISCUSSION regarding progress made in painting the 
+    space. 
+    
+    DECISIONS
+      1. The board agreed by general consensus to not purchase 
+      additional primer until the current bucket is actually emptied.
+    
+    * Furniture and what we want in the space
+    No further business to discuss.
+    
+    * Flooring 
+    There was a DISCUSSION regarding plans for the space flooring. Jeff 
+    Schmidt has offered to donate some tiles, however we are still 
+    waiting to receive them. If we haven't received the tiles by the 
+    time we're ready to work on the kitchen floors, we may just paint 
+    them as a temporary measure.
+    
+    ACTION: Robert Gissing will contact Jeff regarding the floor tiles.
+    
+  6.3. Logo
+  ---------
+  No update on logo.
+  
+  
+  6.4. Website/mailing lists
+  --------------------------
+  ACTION: Ben Brown will update his website template to include the new 
+  logo, and post the template online for our review.
+  
+  6.5. Reimbursement for Mark Sherry
+  ----------------------------------
+  DECISIONS
+    1. Motion Passed: Be it resolved that Kwartzlab Society Inc. will 
+    reimburse Mark Sherry for his dry ice purchase
+    
+      Motion Moved by: Robert Gissing
+      Motion Seconded by: Eric Gerlach
+      In Favour: 6
+      Opposed: 0
+      Abstained:
+  
+  6.6. Grand opening
+  ------------------
+  
+    * Party
+      o Alcohol
+      Darin White presented to the Board that we have received our 
+      liquor license for the Grand Opening Party.
+      
+      o Fire Code 
+      There is no further business related to Fire Code.
+      
+    * Other events 
+    There is no further business related to other events.
+    
+    
+  6.7. Converting club members to corporate members
+  -------------------------------------------------
+  DECISIONS
+  
+    1. Motion Passed: Be it resolved that James Bastow is admitted to 
+    membership in Kwartzlab Society Inc.
+  
+      Motion Moved by: Eric Gerlach
+      Motion Seconded by: Darin White
+      In Favour: 6
+      Opposed: 0
+      Abstained:
+  
+  
+  6.8. Engaging politicians & municipalities
+  ------------------------------------------
+  There was a DISCUSSION regarding what overtures have been made to 
+  local politicians and municipal groups. Invitations for the mayors 
+  should be hand delivered on Friday. 
+  
+  ACTION: Eric Gerlach will update the mayoral invitations to just list 
+  the mayors.
+  
+  ACTION: Darin White will post an announcement listing our upcoming 
+  speaking engagements & presentations.
+  
+  ACTION: Darin White will give Robert Gissing a copy of his 
+  presentation deck.
+  
+  
+  6.9. SoOnCon Update
+  -------------------
+  Darin White presented to the Board an update on the SoOnCon event. 
+  There is an organization call-in everything Thursday evening, which we 
+  are all welcome to participate in.
+  
+  
+  6.10. Hackerspaces.org Call-in
+  -----------------------------
+  Eric Gerlach presented to the Board a summary of previous week's 
+  Hackerspaces.org call-in, which he and Darin White participated in.
+  
+  He reviewed two ideas that Pumping Station 1 shared, which we may want 
+  to consider for Kwartzlab as well:
+  
+  1. Hosting an all-night hackathon, wherein people can come with their
+  laptops and work on software projects.
+  
+  2. Hackers-on-a-Train, a hackerspace "con" to take place on AmTrak, as 
+  it travels through hackerspace towns in the US.
+  
+  There was a DISCUSSION on the importance of connecting with other 
+  hackerspaces. Darin White will be visiting hacDC in October; we may 
+  want to send him with some sort of token "Kwartzlab" gift.
+  
+  
+  6.11. Bylaws to approve for general meeting
+  -------------------------------------------
+  There was a DISCUSSION regarding the current draft of the bylaws. 
+  There are a couple changes which have all ready been discussed, but 
+  don't yet appear in the draft:
+  
+    - If the board raises the initial or monthly dues by more than 10%, 
+      members must ratify within 30 days
+    - Changed quorum to 10 members or 1/4, which ever is higher
+    - Hiatus -- specify start & and date for hiatus
+    
+  There was a detailed DISCUSSION regarding how to deal with members
+  whose accounts are in arrears. This is only a concern if it becomes a 
+  chronic problem. Bylaws should explicitly specify that in order for an 
+  account to be brought up to date, all previous months must be paid in 
+  full.
+  
+  There was a discussion regarding whether or not members on hiatus 
+  should retain voting rights during their hiatus.
+  
+  DECISIONS
+  1. Motion Passed: Be it resolved that the Kwartzlab Society Inc. 
+  bylaws are:
+
+  Definitions
+
+  "members meeting" shall also include annual meetings and general 
+  meetings.
+
+  New membership approval process
+
+  1. Persons wishing to become members of KwartzLab must file an 
+  application with the Board. The Board shall determine the form of the 
+  application. The Board shall notify the membership via the "Members" 
+  mailing list when they receive such an application.
+
+  2. A person who has fulfilled the requirements of paragraph 1 may be 
+  admitted to membership by a resolution of Board at a meeting duly 
+  called for that purpose. The Board must give notice to the "Members" 
+  mailing list at least five calendar days before the resolution is to 
+  be considered by the Board.
+
+  3. A person admitted to membership by the Board of Directors shall 
+  have no privileges until their initial dues and first monthly dues are 
+  paid. The Board may by resolution set a schedule for pro-rated dues 
+  for the first month of membership, based on the date of the member's 
+  approval.
+
+  Dues
+
+  1. The Board of Directors may by resolution set the dues for the 
+  corporation, which may be either or both of:
+
+    a) Initial dues, i.e. dues which are payable before a person can 
+    become a member;
+
+    b) Monthly dues, i.e. dues which are recurring and payable on the 
+    last day of each month (for the following month).
+
+  2. If the Board passes a resolution which raises the initial or 
+  monthly dues by more than 10%, that resolution is effective only until 
+  confirmed at a general meeting of the Corporation duly called for that 
+  purpose. Such a meeting must be held within 30 days of the initial 
+  adoption of the resolution. If the resolution is not confirmed within 
+  30 days, the resolution is rendered invalid.
+
+  Meetings of Members
+
+  1. KwartzLab may give notice of any members meeting via email to the 
+  address on record with the corporation as recorded on the "Announce" 
+  mailing list, and this shall constitute sufficient notice for the 
+  meeting.
+
+    a) Notice of any members meeting shall be given at least ten 
+    calendar days before the meeting.
+
+    b) Notice for annual and general meetings shall contain the agenda, 
+    or a link to the agenda published on the KwartzLab website, for the 
+    meeting.
+
+  2. The quorum for members meetings shall be ten members or one quarter 
+  of the total membership of KwartzLab Society Inc., whichever is 
+  higher.
+
+  3. Members may not vote via proxy at members meetings.
+
+  Membership hiatus
+
+  1. A member may apply to the Board to have their membership placed on 
+  hiatus for a period of no less than two months. Such application must 
+  specify the start and end dates of the hiatus. The Board may approve a 
+  member's hiatus by resolution at meeting of the Board.
+
+  2. During the time a member is on hiatus, they are not required to pay 
+  dues, nor shall they have any of the privileges afforded a member, 
+  except for the privilege of voting at members meetings called after 
+  the hiatus was requested.
+
+  3. A member may voluntarily terminate their hiatus at any time by 
+  notifying the Board of Directors they wish to do so and paying their 
+  monthly dues for the current month. No discounts shall be given for 
+  partial months.
+
+  Suspension or Termination of Memberships
+
+  1. Kwartzlab may suspend or terminate the membership of a member by 
+  passing a special resolution (2/3 vote) at a general meeting duly 
+  called for that purpose. A suspended member shall have no privileges 
+  of membership during the time of the suspension. All dues shall 
+  continue to be assessed for suspended members.
+
+  2. A resolution under paragraph 1 is not valid unless:
+
+    a) Prior written notice is given to the member setting forth the 
+    grounds on which the suspension or termination is sought;
+
+    b) This notice is given to the member no fewer than 10 calendar days 
+    before the general meeting called to consider the resolution of 
+    suspension or termination;
+
+    c) an opportunity is given to the member to appear, either 
+    personally or by a person authorized under the Law Society Act to 
+    represent the member, to make submissions at the general meeting 
+    called to consider the resolution of suspension or termination of 
+    that member.
+
+  3. Suspension for Minor Infractions
+
+    a) The Board of Directors may suspend a member for a term of no 
+    greater than one month by resolution at a meeting of the Board duly 
+    called for that purpose if:
+
+       i) The member is in arrears on their monthly dues.
+
+    b) A resolution under sub-paragraph a) is not valid unless:
+
+       i) The member is given notice setting forth the grounds on which 
+       the suspension is sought (email notice shall be sufficient);
+
+       ii) This notice is given to the member no fewer than five 
+       calendar days before the meeting of the board of directors called 
+       to consider the resolution;
+
+       iii) an opportunity is given to the member to appear, either 
+       personally or by a person authorized under the Law Society Act to 
+       represent the member, to make submissions at the meeting of the 
+       board called to consider the resolution.
+
+    c) If the member suspended under this paragraph rectifies all the
+       condition(s) in sub-paragraph a) for which they were suspended, 
+       the Board shall forthwith take any action required to restore 
+       that member's status.
+  
+ Motion Passed by: Eric Gerlach
+ Motion Seconded by: Ben Brown
+ In Favour: 6
+ Opposed: 0
+ Abstained   
+    
+   6.12.. Presentations before Municipal Councils 
+   ---------------------------------------------
+   No new business.
+   
+   
+7. New business
+---------------
+
+  7.1. "Charter Members" who haven't paid September Dues
+  ------------------------------------------------------
+  There was a lengthy discussion regarding what to do with pending 
+  "Charter Members" who have paid the initial sign-up fees, but have not 
+  completed the application to become members of Kwartzlab Society Inc., 
+  nor have paid September dues. 
+  
+  It was noted that the signup fee equals 2 months membership dues. As 
+  such, any pending member who waits more than 2 months to bring their 
+  membership up to date has financial incentive to reapply as a new 
+  member anyway after Oct 31. 
+
+  DECISIONS
+  1. Motion Passed: Any email addresses on the members list which do not 
+  belong to active members of Kwartzlab Society Inc. will be immediately 
+  removed from the mailing lists with notice.
+    Motion Moved by: Darin White
+    Motion Seconded by: Robert Gissing
+    In Favour: 6
+    Opposed: 0
+    Abstained:
+    
+  2. Motion Passed: Be it resolve that, subject to ratification at a 
+  general member meeting, the opportunity for charter members to join 
+  the corporation as full members shall end Oct 31. After that date, 
+  they must re-apply as new members.
+    Motion Moved by: Eric Gerlach
+    Motion Seconded by: Stephanie Smith
+    In Favour: 6
+    Opposed: 0
+    Abstained:
+  
+  ACTION: Stephanie Smith will post an announcement to the members list, 
+  stating that all non-member accounts will be unsubscribed from the 
+  lists.
+  
+  ACTION: Stephanie Smith will remove all non-member accounts from the 
+  mailing lists and members group on the website.
+  
+  7.2 Reimbursements
+  ------------------
+  DECISIONS
+  1. Motion Passed: Be it resolved that Ben Brown is reimbursed $441.26 
+  for dump/disposal fees, primer, print, tape, drop-sheets; U-Haul truck 
+  rental, and 30x internal and external keys (for general membership).
+    Motion Moved by: Eric Gerlach
+    Motion Second by: Darin White
+    In Favour: 5
+    Opposed: 0
+    Abstained: Ben Brown
+    
+  2. Motion Passed: Be it resolved that Eric Gerlach is reimbursed 
+  $18.11 for 7x external keys (for board members).
+    Motion Moved by: Stephanie Smith
+    Motion Second by: Ben Brown
+    In Favour: 5
+    Opposed: 0
+    Abstained: Eric Gerlach
+    
+  3. Motion Passed: Be it resolved that Stephanie Smith is reimbursed 
+  $58.80 for NUANS search & report.
+    Motion Moved by: Eric Gerlach
+    Motion Second by: Darin White
+    In Favour: 5
+    Opposed: 0
+    Abstained: Stephanie Smith
+    
+  7.2. General Members Meeting Agenda & Announcement
+  --------------------------------------------------
+  DECISIONS
+  1. Motion Passed: Be it resolved that the first general members 
+  meeting will be held at the Headquarters of the Corporation (which 
+  will be 106-283 Duke Street West, Kitchener Ontario at that time), at 
+  1930EDT. The Agenda for this meeting will be:
+  1. Approve Bylaws
+  2. Ratifying Charter Members Resolution
+  
+    Motion Passed by: Eric Gerlach
+    Motion Seconded by: Cedric Puddy
+    In Favour: 5
+    Opposed: 0
+    Abstained:
+  
+  
+8. Next board meeting
+---------------------
+It was agreed by general consent that the next Board meeting will be held at 283 Duke Street West at 1930EDT on Wednesday September 16, 2009. 
+
+Cedric Puddy & Darin White announced that they will be unable to attend this meeting, due to a prior commitment.
+
+ACTION: Darin White will submit an update on SoOnCon prior to the next Board meeting.
+
+
+9. Adjournment
+--------------
+The meeting was adjourned by general consent of the Board at 2127EDT.

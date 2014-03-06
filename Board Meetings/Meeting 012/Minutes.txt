@@ -1,0 +1,306 @@
+KWartzLab Society Inc.
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, October 21, 2009
+* Time: 1930 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBERS
+
+* Present: Cedric Puddy, Eric Gerlach, Darin White, Ben Brown, Stephanie Smith
+* Late: Robert Gissing (arrived at the beginning of New Business)
+* Absent: Alexandra Dysinski
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* Kwartzlab Society Members: Michael Kowalski
+* Guests:
+
+Distribution: To all Kwartzlab Society Inc. Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions. Otherwise, these minutes will be considered an accurate record of the discussions.
+
+
+Proceedings:
+==============
+
+1. Call to order
+----------------
+The President, Eric Gerlach, called the meeting to order at 1945 EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the agenda
+-------------------------
+The Agenda was presented by the President, and approved by general consensus of the Board.
+
+
+3. Approval of the 2009-09-17 Board Meeting Minutes
+----------------------------------------------------
+DECISION: The Board agreed by general consensus to postpone approval of the 2009-09-17 minutes until the next Board Meeting.
+
+
+4. Report from the Treasurer
+----------------------------
+The Treasurer presented the Board with a current cash flow report, and projections for upcoming expenses. Please see attached Appendix A. The insurance payment was higher than expected, and needs to be clarified.
+
+Action on Eric Gerlach: Contact out Insurance Broker regarding the high payment.
+
+There was a brief discussion regarding automated recurring payment options: PayPal is currently the cheapest option available to us.
+
+
+5. Old Business
+---------------
+
+ 5.1 Website/Mailing Lists
+ -------------------------
+ Action on Ben Brown: Upload a screenshot of his website template for
+ review.
+
+ Action on Michael Kowalski: Upload a screenshot of his website
+ template for review.
+
+ 5.2 SoOnCon Update
+ ------------------
+ Darin White presented a summary of the SoOnCon event to the board. The
+ event went well, and provided KwartzLab with excellent exposure.
+ ThinkHaus were excellent hosts to us.
+
+ James Arlen is interested in doing a camp-based event for next year,
+ and would like to start planning soon. However, there is some
+ confusion about the future of SoOnCon itself.
+
+ KwartzLab members connected with Journalism students at Ryerson &
+ Western, as well as a librarian from Hamilton Public Library. We
+ directed the librarian back to ThinkHaus.
+
+ 5.3 Reimbursements
+ -------------------
+ Motion: Be it resolved that the Board will extend the Kwartzlab
+ Build-out Budget by an additional $100.00.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Cedric Puddy
+   In favour: 5
+   Opposed: 0
+   Motion Passed.
+
+ Motion: Be it resolved that the Board will reimburse Jessica Clayman
+ $29.50, for the purchase of a chair for the lounge.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Ben Brown
+   In favour: 5
+   Opposed: 0
+   Motion Passed.
+
+ Motion: Be it resolved that the board requires members to clear all
+ purchases with the Treasurer or the other two signing authorities
+ (both, not just one) before a purchase is made.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Darin White
+   In favour: 5
+   Opposed: 0
+   Motion Passed.
+
+ 5.4 Windows 7 Release Party
+ ---------------------------
+ Michael Kowalksi presented an update to the Board regarding the
+ Windows 7 Release Party. The event will be very casual. He'll be doing
+ some demos, and ordering in pizza.
+
+ He asks if we have access to a projector. Unfortunately, we don't yet.
+
+ 5.5 Ubuntu Release Party
+ ------------------------
+ Eric Gerlach presented an update to the Board, on behalf of Darcy
+ Casselman, regarding the Ubuntu Release Party.
+
+ He asks whether or not we have a budget to cover any expenses incurred
+ for this event. Unfortunately, we do not.
+
+ He also needs to speak with somebody regarding network accessibility
+ during the event. He can contact Cedric Puddy.
+
+6. New business
+---------------
+
+ 6.1 Pro-rated dues for first month of membership
+ ------------------------------------------------
+ Motion: Be it resolved that the first month of a new member's dues
+ will be pro-rated weekly by the calendar week that they are inducted
+ during.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Darin White
+   In favour: 6
+   Opposed: 0
+   Motion Passed.
+
+ 6.2 Confirmation of dues under new bylaws
+ -----------------------------------------
+
+ Motion: Be it resolved that the monthly dues are $50+GST, and the
+ initial dues are $100.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Stephanie Smith
+   In Favour: 6
+   Opposed: 0
+   Motion Passed.
+
+ 6.3 Ron Harding's Membership Status
+ -----------------------------------
+ Motion: Due to an oversight on the President's part, and Ron Harding's
+ status as a pending charter, be it resolved that Ron Harding's
+ September dues are excused.
+
+   Motion Moved: Eric Gerlach
+   Motion Second: Ben Brown
+   In Favour: 5
+   Opposed: 0
+   Abstained: Eric Gerlach
+   Motion Passed.
+
+ 6.4 Board Procedure re: Membership admission
+ --------------------------------------------
+ Motion: Be it resolved that all resolutions regarding membership
+ status will be voted on by secret ballot.
+
+   Motion Moved: Eric Gerlach
+   Motion Seconded: Darin White
+   In Favour: 6
+   Opposed: 0
+   Motion Passed.
+
+ 6.5 New Members
+ ---------------
+ The Board consented to have Eric Gerlach count the ballots for today's
+ new memberships.
+
+ Motion: Be it resolved that Michael Hiemstra is admitted to
+ membership in KwartzLab Society Inc..
+
+   Motion Moved by Eric Gerlach
+   Seconded by Ben Brown
+   In Favour: 6
+   Opposed: 0
+   Abstained:
+   Motion Passed
+
+ Motion: Be it resolved that Karl Williams is admitted to
+ membership in KwartzLab Society Inc..
+
+   Motion Moved by Eric Gerlach
+   Seconded by Ben Brown
+   In Favour: 5
+   Opposed: 0
+   Abstained: Eric Gerlach
+   Motion Passed
+
+ 6.6 Lease contract for borrowing member equipment
+ -------------------------------------------------
+
+ >> Action on Eric Gerlach: Find out from our Insurance Broker what
+ they need to constitute a legal interest in borrowed or leased
+ equipment.
+
+ We should generate similar paperwork for donated equipment as well.
+
+ 6.7. Policies & procedures for bringing in new equipment
+ --------------------------------------------------------
+ There was a lengthy discussion regarding whether or not new equipment
+ acquisitions should be discussed with the membership before they are
+ finalized. Doing so increases our transparency, and also helps
+ encourage a sense of ownership among the membership. Where possible,
+ we should try to use the following workflow for new acquisitions:
+
+   1. Learn of an opportunity
+   2. Inform members.
+   3. Work deal out with source.
+   4. Submit to Board for approval.
+
+ There was further discussion regarding at what point we need to advice
+ our insurance broker of new equipment acquisitions. We will need to
+ develop an asset database.
+
+ >> Action on Eric Gerlach: Find out from our Insurance Broker what
+ sorts of equipment could change our premiums.
+
+ 6.8 Metal brake/shear from RIM
+ ------------------------------
+ Motion: Be it resolved that the board approves acceptance of the
+ donation of the metal brake/shear from RIM.
+
+   Motion Moved: Robert Gissing
+   Motion Second: Darin White
+   In Favour: 6
+   Opposed: 0
+   Motion Passed.
+
+ >> Action on Eric Gerlach: Draft a letter accepting the donation.
+ >> Action on Robert Gissing: Draft an announcement of this donation
+ for the list.
+
+ When it comes, we should have a party to introduce the new equipment,
+ and invite the guys from James' lab. We will also need to provide
+ training.
+
+ 6.9 Drink Order
+ ---------------
+ Cedric Puddy presented an update to the board regarding the pending
+ Coca-Cola drink order. Cedric will cover the upfront costs, and will
+ try to get money from members to help cover the initial order: a $20
+ donation gets you 20 free cans. It will be up to members to track this
+ for themselves.
+
+ 6.10 Garbage
+ ------------
+ Robert Gissing presented to the board the need to organize regular
+ clean-up duty for the membership. He suggested that we give the
+ membership 2 weeks to indicate any scheduling preferences, and then
+ create a weekly schedule, with 2 members sharing the duty every week.
+
+ >> Action on Stephanie Smith: create a webpage to organize the
+ schedule, and ask membership to indicate date preferences.
+
+ >> Action on Robert Gissing: create a list of weekly clean-up tasks
+
+ 6.11 MAME Cabinet
+ -----------------
+ Michael Kowalski presented to the board that he has access to an
+ arcade cabinet which he would like to bring in, and turn into a MAME
+ cabinet for GPL'ed video games. He has the parts he needs to refurbish
+ the cabinet.
+
+ The board agreed by general consensus that he could bring the cabinet
+ in to work on as a large project in the space. Once the project is
+ finished, Michael is invited to offer it (on loan or as a donation) to
+ the lab; at that time, the board will consider it following the
+ standard new equipment acquisition procedure.
+
+ 6.12 Tuesday Open Nights
+ ------------------------
+ There was a general discussion regarding how the weekly TON events
+ have been going. A successful TON event needs 2 members to host: 1 to
+ man the door, and one to mingle and answer questions.
+
+ Cross-posting TON announcements to the makekw.org mailing lists could
+ improve our exposure.
+
+7. Adjournment
+--------------
+The Board Meeting is adjourned at 2150EDT
+
+ Motion Moved by: Robert Gissing
+ Motion Seconded by: Ben Brown
+ In Favour: 6
+ Opposed: 0
+ Abstained
