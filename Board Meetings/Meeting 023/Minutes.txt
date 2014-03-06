@@ -1,0 +1,248 @@
+KWartzLab Society Inc. 
+======================
+    Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, February 3, 2010
+* Time: 7:30pm
+* Location: KwartzLab Workroom
+* Meeting #24
+
+BOARD MEMBERS
+
+* Present:  Alexandra Dysinski, Cedric Puddy, Eric Gerlach, Robert Gissing, Stephanie Smith
+* Absent: Ben Brown, Darin White
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Alex Williams
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1933 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President, who noted that action items 22.4, 22.5, and 22.6 were all completed last week, and should be stricken from the current agenda. This change, was approved by the general consensus of the Board. The revised agenda was approved by the general consensus of the Board.
+
+3. Approval of the October 28 Board Meeting Minutes
+---------------------------------------------------
+
+The October 28 Board Meeting Minutes were presented by the Secretary, and approved by the general consensus of the Board.
+
+4. Treasurer's Report
+--------------------
+
+The Treasurer was not presented, but had submitted a report via email before the meeting. The Secretary presented this report: "We're not broke."
+
+This report was accepted by the general consensus of the Board.
+
+5. Old Business
+---------------
+
+  5.1 Website
+  -----------
+  
+    5.1.1 Update for action 13.2 on Ben Brown: convert website design to 
+    drupal template.
+  
+    In Progress: Ben Brown submitted an update via email, which Stephanie 
+    Smith presented to the Board. He is continuing to work on the template 
+    and the organization of Front Page Content with Katrina Somers.
+    
+  5.2 Lease contract for borrowing member equipment
+  -------------------------------------------------
+  
+    5.2.1 Update for action 17.1 on Eric Gerlach: Post draft of lease 
+    agreement to members list asking for comment. 
+    
+    Outstanding.
+    
+  5.3 Health & Safety Committee
+  -----------------------------
+  
+    5.3.1 Update on action 22.1 on Eric Gerlach: post reminder Board & 
+    Members to review draft Health & Safety policy.
+    
+    Outstanding; action moved to Stephanie Smith.
+    
+    5.3.2. Update on action 22.3 on Eric Gerlach: bring in his cell 
+    phone & activate it.
+    
+    Outstanding.
+    
+  5.4. Workroom Floor
+  -------------------
+  
+  Robert Gissing report to the Board that he would like to get a second 
+  quote on epoxy paint.
+    
+  Action 24.1 on Robert Gissing: get second quote on epoxy paint.
+    
+  5.5 Trillium Grants
+  -------------------
+  
+  No update.
+  
+  5.6 Membership Vetting Procedures
+  ---------------------------------
+  
+    5.6.1 Update for action 21.2 on Robert Gissing: write up a proposed 
+    motion for new member approvals, and post to BOD for discussion
+    
+    Outstanding.
+    
+  The Board recognized that it had not yet reached consensus regarding what 
+  sort of majority should be required for new applicants, once approval is 
+  opened up to the membership-at-large. While Robert Gissing would still 
+  like to make his case for unanimous voting (see action 21.2), the Board 
+  agreed to postpone further discussion on this topic until the members 
+  meeting, where discussion will be opened up to the membership-at-large. 
+  Gus will share his arguments for unanimous voting with the Board and the
+  membership before the members meeting.
+  
+  5.7. Outreach to Local Arts Community
+  -------------------------------------
+  
+  Darin White presented to the Board that some of the other tenants in our 
+  building are talking about organizing a building social event in the near 
+  future (date to be determined), which we should make a showing at. As 
+  well, Culture Camp is coming up soon. Finally, Jack Jackowetz's artwork 
+  is being exhibited at the Princess Twins in Waterloo, and KwartzLab has 
+  been invited to the opening.
+
+  5.8. Space Expansion
+  --------------------
+  
+  Ben Brown submitted an update via email, which Stephanie Smith presented 
+  to the Board. Kapley has asked Ben for feedback on the units which we 
+  looked at last week. The Board needs to decide which units we would like 
+  to proceed on, and begin negotiating pricing. 
+  
+  Cedric Puddy also reported to the Board that (Kapley's father) stopped by 
+  the space on Saturday, and asked a little bit about what we do, and what 
+  our plans for expansion were. Cedric gave him the KwartzLab elevator 
+  pitched, and advised him that he would need to speak with Ben regarding 
+  expansion. He passed on Ben's phone number. 
+  
+  Robert Gissing also reported to the Board rough estimates on what we 
+  should be able to get each unit for.
+  
+  There was a general discussion regarding the 3 units, and how we might 
+  best use each of them. The general consensus of the Board was that the 
+  unit closest to the boiler room presented the best value for us, and 
+  despite the lack of windows was likely the most usable. 
+  
+  5.9 Signage
+  -----------
+  
+  Ben Brown submitted an update via email, which Stephanie Smith presented 
+  to the Board. There's been a lot of momentum on signage planning at 
+  recent TON events. 
+  
+  The Board agreed by general consensus that they were happy to let the 
+  group currently working on signage proceed as they are, but would also 
+  appreciate a more formal update/presentation on the plan.
+  
+  5.10. Ubuntu Global Jam
+  -----------------------
+  
+  Eric Gerlach presented on behalf of Darcy Casselman. KwartzLab is 
+  officially "signed up" for the Ubuntu Global Jam.
+  
+  5.11. Membership Hiatus
+  -----------------------
+  
+    5.11.1. Update on Action 23.1 on Stephanie Smith: notify David 
+    Hayes of the Board's decision regarding membership hiatus.
+    
+    Stephanie Smith reported to the Board that this has been done.
+    
+  5.12 Member Meeting
+  -------------------
+ 
+  The Board had a detailed discussion regarding the upcoming member 
+  meeting, and what needed to be accomplished by it. Three topics of 
+  discussion were identified:
+ 
+    * membership hiatus
+    * membership vetting
+    * visioning
+    
+  No official business was identified as needing to be conducted, so a 
+  General Member Meeting is not required. This is just a member meeting
+  so that the Board can get input from the membership-at-large on key
+  topics, which will help inform future business. 
+    
+  Motion Passed: Be it resolved that KwartzLab Society Inc. calls a 
+  member meeting for Wednesday February 17, 2010, commencing at 7pm. Agenda 
+  to be determined.
+    
+  	Motion Moved: Eric Gerlach
+  	Motion Seconded: Stephanie Smith
+  	In Favour: 5
+    Opposed: 0
+      
+  Action 24.2 on Eric Gerlach: post to members that we'll be holding a 
+  members meeting on the 17th
+  
+6. New Business
+---------------
+  
+  6.1. Member Withdrawals: David Hayes
+  ------------------------------------
+  
+  Motion Passed: Be it resolved that the Board acknowledges the resignation 
+  of David Hayes from KwartzLab Society Inc.
+	  
+	  Motion Moved: Eric Gerlach
+	  Motion Seconded: Stephanie Smith
+	  In Favour: 5
+	  Opposed: 0
+	  
+	6.2 Feb 9 TON
+	-------------
+	
+	Karl Williams will be bringing a special guest to next week's TON, who 
+	will be giving a short talk on backyard astronomy and imaging. It should 
+	be awesome.
+
+7. Action item review
+---------------------
+
+13.2 on Ben Brown: convert website design to drupal template. 
+
+17.1 on Eric Gerlach: Post draft of lease agreement to members list asking for comment.
+
+21.2 on Gus will wrote up a proposed motion for new member approvals, and post to BOD for discussion.
+
+21.3 on Robert Gissing & Ben Brown: start talking with Kapley regarding that unit. 
+
+22.1 on Stephanie Smith: post reminder Board & Members to review draft Health & Safety policy.
+
+22.3 on Eric Gerlach: bring in his cell phone & activate it.
+
+24.1 on Robert Gissing: get second quote on epoxy paint. 
+
+24.2 on Eric Gerlach: post to members that we'll be holding a members meeting on the 17.
+	
+8. Adjournment
+--------------
+
+The meeting was adjourned at 2037EST.
+
+  Motion Moved: Robert Gissing
+  Motion Seconded: Alexandra Dysinski
+  In Favour: 5
+  Opposed: 0

@@ -1,0 +1,317 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, August 5, 2010
+* Time: 1930 EDT
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #40
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Cedric Puddy, Stephanie Smith, Alex 
+            Williams, Paul Walker
+* Absent:   Robert Gissing, Ben Brown
+* Quorum:   Yes (5/7)
+
+* KwartzLab Members: Andrew Mackie, Darcy Casselman, Alexandra 
+            Dysinski, Jessica Clayman
+
+Distribution: To all KwartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+Board Chair Eric Gerlach called the meeting to order at 1955 EDT. Secretary Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the Agenda to the Board. The Secretary recommended postponing the following items, as they involved to Directors who were not present:
+
+  Approval of the Previous Minutes
+  Report from the Treasurer
+  Report from the President
+  Health & Safety Committee: Set Board Procedure and Committee 
+    Appointments
+  Trillium Grants
+  KwartzLab Sign
+  Marion Call Concert
+  Review Existing Board Procedures
+  KwartzCon
+  
+The agenda, along with these postponements, were approved by the general consent of the Board.
+
+3. Old Business
+---------------
+
+  3.1. Website and Mailing Lists
+  ------------------------------
+  
+  Update for action 39.1 on Steph Smith: Replace staging site 
+  with WordPress:
+  
+  Stephanie Smith reported to the Board that she has replaced the
+  staging site with a WordPress install, and provided Ben Brown
+  with the necessary information for accessing it.
+  
+  Update for action 39.2 on Ben Brown: build new site in 
+  WordPress:
+  
+  Pending.
+  
+  3.2. Health & Safety Committee
+  ------------------------------
+  
+  Update for action 36.1 on Ben Brown: Bring in sim and 
+  pre-paid phone card; Eric will activate Nokia phone:
+  
+  Pending. Alex Williams indicated that he also has
+  an unused cell phone, which he could donate to the lab.
+  
+  ACTION 41.1 on Alex Williams: bring in phone
+  
+  3.3. Workshops
+  --------------
+  
+  Update for action 27.3 on Eric: Read through insurance policy 
+  and figure out workshops and instructors:
+  
+  Pending.
+  
+  3.4. Maker Faire Detroit
+  ------------------------
+  
+  Member Andrew Mackie provided the Board with an overview of
+  Maker Faire Detroit, and KwartzLab's activities therein.
+  
+  The Faire itself was amazing -- lots of good Maker energy.
+  
+  Flashy and noisy exhibits received the most attention. While
+  the KwartzLab booth wasn't particularly noisy, we were situated
+  beside booths which were, and benefitted from that.
+  
+  Take-aways were also popular -- project sheets, stickers, and 
+  buttons. T-shirts were not popular for anybody, although less
+  traditional swag was. I.e., ties.
+  
+  While the exhibit was very hands-on (attendees were able to pick
+  up and examine demoed projects), attendees were careful handling
+  things.
+  
+  i3 hosted a Hackerspaces social Friday evening, which provided
+  us an opportunity to see their space. In addition to tools and 
+  a machine room, they have a clean room, craft room, and chem lab.
+  We are jealous.
+  
+  There was a brief discussion regarding the sorts of novel swag
+  KwartzLab could prepare for the next Maker Faire, including
+  branded ties and vibrating underwear. Concerns were expressed 
+  regarding the sort of ties we might make. Eric is too good for
+  clip-on neckware.
+  
+  3.5. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+  Update on action 39.3 on Ben Brown: install webcam security 
+  cam outside our front door:
+  
+  Pending. A sign has been posted outside of our unit, indicating
+  that the area is under camera surveillance.
+  
+  3.6. Kwartz Store
+  -----------------
+  
+  Update on action 39.5 on Steph Smith & Paul Walker: make 
+  shop.kwartzlab.ca happen:
+  
+  Pending. Stephanie Smith reported that she has installed 
+  OSCommerce, and provided Paul Walker with the access information.
+  Paul Walker reported that until we have an initial inventory,
+  there isn't much that can be done with the storefront.
+  
+  There was a brief discussion regarding how to best build up
+  an initial inventory. Arduinos are the most promising market.
+  
+  Motion: Be it resolved that the Board approves the purchase of 10 
+  arduinos for Kwartzlab store.
+  
+  So moved by Paul Walker.
+  Seconded by Alex Williams.
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  Alexandra Dysinski recommended JW Smith (out of Mississauga) as an 
+  import broker.
+  
+  ACTION 41.2 on Alex Williams: order arduinos
+
+  ACTION 41.3 on Steph Smith: check Ladyada pricing
+  
+  3.7. How can we start fully using the Heavy Equipment Lab
+  ---------------------------------------------------------
+  
+  The Board reviewed the current obstacles towards making full use
+  of the Heavy Equipment Lab:  
+  
+  * ventilation
+  * electricity
+  * health & safety
+  
+  i) Ventilation
+  As this is a project which we can likely "DIY", we need somebody to
+  take ownership of it. As there were no volunteers at the meeting,
+  the Board agreed to solicit the membership. Before doing that, 
+  however, the present Board agreed that Robert Gissing should be
+  contacted, to see if he was interested in taking this on.
+  
+  ii) Electricity
+  There are a number of electrical projects related to the Heavy 
+  Equipment Lab. Unfortunately, we do not have any members who are
+  (a) qualified, and (b) available to tackle these. The Board 
+  recognizes that somebody will need to be brought in. Both Ben Brown
+  and Robert Gissing have indicated at previous meetings that they 
+  know electricians who could do the work. The Board will move to 
+  proceed on this at the next meeting, when they are both present.
+  
+  iii) Health & Safety
+  Further discussion has been postponed to a dedicated meeting.
+  
+  ACTION 41.4 on Steph to email Gus re: ventilation project.
+  
+4. New Business
+---------------
+
+  4.1. People's personal belongings and projects
+  ----------------------------------------------
+  
+  Alexandra Dysinski addressed the Board, regarding the outcome of
+  the recent email thread regarding personal projects and 
+  interpersonal communication in the space. Some suggestions had been
+  made regarding what an appropriate code of conduct regarding
+  "other people's property" in the space might be.
+  
+  There was a detailed discussion as the Board attempted to clarify
+  what specific issue or problem they were attempting to address.
+  Examples of recent inter-personal breakdowns were described:
+  
+  i) Members rearranging the layout of shared space, despite a request 
+  not to do so by other members
+  
+  ii) Members moving other members' projects/materials without prior 
+  consent
+  
+  In both cases, the Board believes the issue can be abstracted to one
+  of communication break-down. The Board had a detailed discussion 
+  regarding what are reasonable expectations in a shared environment 
+  like KwartzLab; no consensus was reached, which highlighted the 
+  importance of clear communication, strong community building, and 
+  acting always in good faith.
+  
+  The Board also recognizes that in a "hands-on" environment like
+  KwartzLab, it bears being explicit regarding what is "hands-off".
+  
+  The Board also wants to stress that the incumbency of communication 
+  goes both ways:
+  
+  i) If a member is leaving something which must not be touched, this 
+  needs to be clearly communicated.
+  
+  ii) If a member needs to move something which is not theirs, this 
+  also needs to be clearly communicated.
+  
+  While the Board recognizes that not everything warrants 
+  communication, there was disagreement regarding where a line might 
+  be drawn. Ultimately members will have to decide for themselves 
+  what's important and what requires communication. There will be 
+  disagreements in practice, and the Board hopes that members will be 
+  able to give each other the benefit of the doubt when those 
+  disagreements arise.
+  
+  The Board feels very strongly about establishing a culture where
+  members try to work together (however that may be), rather than 
+  laying down specific rules which govern how people interact. The 
+  Board discussed what this culture might look like, and ways to 
+  promote it within our community. One suggestion was to collect and
+  share stories which illustrate members communicating, sharing, and 
+  problem-solving together. We want to focus on the positive, and find 
+  examples of things that have worked well.
+  
+  There was a tense moment of drama, posturing, and bared teeth, which 
+  passed with neither bloodshed now fæces-flinging. Also, Eric is very 
+  eloquent.
+  
+  ACTION 41.5 on Paul to generate some story examples re: good 
+  communication, plus an option friendship collage.
+
+  4.2. New Applicant: Ralph Janke
+  -------------------------------
+  
+  Motion: Be it resolved that Ralph Janke is admitted to membership in 
+  KwartzLab Society Inc.
+  
+  So moved by Eric Gerlach
+  Seconded by Alex Williams
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  4.3. Ubuntu Global Jam
+  ----------------------
+  
+  Darcy Casselman addressed the Board regarding the upcoming Ubuntu
+  Global Jam. Although he will not be present for the day himself,
+  he would like to organize a public even in KwartzLab, which would
+  be hosted by member Ralph Janke. 
+  
+  Motion: Be it resolved that the Board approves a public Ubuntu
+  Global Jam event, to be held at KwartzLab for the afternoon and
+  evening of August 28.
+  
+  So moved by Darcy Casselman.
+  Motion sponsored by Paul Walker.
+  Seconded by Cedric Puddy.
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+5. Action Item Review
+---------------------
+
+27.3 on Eric: Read through insurance policy and figure out workshops and instructors
+
+39.2 on Ben Brown: build new site in WordPress
+
+39.3 on Ben Brown: install webcam security cam outside our front door 
+
+39.4 on Robert Gissing: contact Marion Call regarding the possibility 
+of doing a concert at the Lab. 
+
+39.5 on Paul Walker: make shop.kwartzlab.ca happen 
+
+41.1 on Alex Williams to bring in phone
+
+41.2 on Alex Williams order arduinos
+
+41.3 on Steph check Ladyada pricing
+
+41.4 on Steph to email Gus re: ventilation project. Does he want to do it?
+
+41.5 on Paul to generate some story examples re: good communication, plus an option friendship collage.

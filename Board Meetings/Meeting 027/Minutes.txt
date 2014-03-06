@@ -1,0 +1,254 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, March 24, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #27
+
+BOARD MEMBERS
+
+* Present:  Alexandra Dysinski, Ben Brown, Cedric Puddy, Darin White, Eric 
+  Gerlach, Robert Gissing, Stephanie Smith
+* Absent: 
+* Quorum: Yes (7/7)
+
+OTHERS
+
+* KwartzLab Members: Ed Maste, Chris Brunner, Darcy Casselman
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1.Call to Order
+---------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called
+the meeting to order at 1947 EST. The Secretary, Stephanie Smith,
+recorded the minutes. A quorum of directors was present, and the
+meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The President presented the agenda, which was accepted by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer presented a current financial report, which was accepted by the general consent of the Board.
+
+
+4. Old Business
+---------------
+
+  4.1. Website and Mailing Lists
+  ------------------------------
+
+    4.1.1. Update for action 13.2 on Ben Brown: convert website design to 
+    drupal template 
+    
+      Ben reported that he would be installing the new template this 
+      weekend, and asked that the database be backed up in preparation for 
+      this.
+
+  4.2. Lease contract for borrowing member equipment
+  --------------------------------------------------
+
+    4.2.1. Update for action 26.4 on Steph Smith: print copies of lease and 
+    place in Board locker 
+    
+      Done.
+
+  4.3. Health & Safety Committee
+  ------------------------------
+
+    4.3.1. Update for action 26.5 on Eric & Gus: bring in phone and SIM 
+    card and try to activate 
+    
+    The Board now has 1 phone plus 2 SIMS to try.
+    
+    We need to locate and install a bulletin board, to house Health & 
+    Safety information
+    
+    Eric Gerlach also reports that he has not yet seen IT Crowd.
+
+  4.4. Space Expansion
+  --------------------
+
+    4.3.1. Update for action 26.6 on Ben & Gus: meet with Kapley re: spaces 
+    
+      Ben Brown reported that he has not been able to reach Kapley; we may 
+      need to talk directly to the Landlord.
+
+      Additionaly, the Board discussed the possibility of drafting a lease 
+      agreement ourselves, and presenting that to the Landlord. This may 
+      help shorten the negotiation period
+      
+      ACTION 28.1 on Ben Brown and Robert Gissing: talk with Burhan 
+      regarding the unit rental.
+      
+      ACTION 28.2 on Eric Gerlach: draft a lease agreement
+      
+      There was further discussion regarding the financial implications of 
+      taking this second unit. Even with our currently reduced membership 
+      numbers, the Board believes it will be feasible.
+      
+  
+
+  4.5. Tool Committee
+  -------------------
+
+    4.5.1. Update on action 26.1 on Eric Gerlach: Write up tool committee 
+    procedure 
+    
+    Eric Gerlach presented the Board with his draft of the Tool Comittee 
+    Procedure.  
+
+    4.5.2. Motion: Be it resolved that the following be adopted as a 
+    procedure of the Board:
+    
+    Tool Committee
+    ==============
+
+    1. Definition
+    -------------
+       1. The Tool Committee shall be a committee of the Board of Directors
+          of KwartzLab Society Inc.
+
+    2. Responsibilities
+    -------------------
+       1. To oversee the spending of the Tool Fund;
+       2. To authorize the purchase and donation of new tools for/to
+          KwartzLab; and
+       3. To authorize funding for the repair of tools at KwartzLab.
+
+    3. Membership
+    -------------
+       1. Membership shall consist of between three (3) and seven (7)
+          members of KwartzLab, including at least one (1) Director of 
+          KwartzLab.
+       2. Members shall be appointed by the Board of Directors.
+       3. At no time shall the majority of the members of Tool Committee be
+          Directors of KwartzLab.
+       4. The committee shall choose its own Chair, or should the committee
+          be not able to do so, one shall be appointed by the Board of 
+          Directors.
+       5. The term of appointment to the committee shall be one year, and
+          may be renewed.  Members of the committee may resign at any time.
+
+    4. Powers
+    ---------
+       1. The committee shall be allowed to authorize spending of all funds
+          which have accumulated in the Tool Fund.
+       2. Any such authorization over $500 shall require the confirmation 
+          of the Board of Directors before it is effective.
+
+    5. Accountability
+    -----------------
+       1. The committee shall report all purchases authorized to the Board
+          of Directors as soon as practical for the purposes of 
+          reimbursement.
+          1. The report shall at minimum include receipts, warranty
+             information, product registration, and applicable
+             rebate forms.
+          
+          2. The committee shall also tender a copy of their report to the
+             Health & Safety Committee
+
+    6. Meetings
+    -----------
+       1. The committee shall meet at the discretion of the Chair.
+       
+    EOP
+    
+    So moved by Eric Gerlach.
+    Seconded by Alexandra Dysinski
+    In favour: 7
+    Opposed: 0
+    
+    Moved: Be it resolved that Chris Bruner is appointed to Tool Committee
+    So moved by Alexandra Dysinski
+    Seconded by Ben Brown
+    In Favour: 7
+    Opposed: 0
+      
+    Moved: Be it resolved that Cedric Puddy is appointed to Tool Committee
+    So moved by Alexandra Dysinski
+    Seconded by Robert Gissing
+    In Favour: 7
+    Opposed: 0
+    
+    4.6. Workshops
+    -----------------------------------------
+
+      4.6.1. Update on action 27.3 Eric will revisit insurance, to see if 
+      we can extend our coverage to non-KwartzLab events in the space.
+
+        No update.
+    
+
+5. New Business
+---------------
+
+  5.1. Public Event Request: Stitch'n'Bitch (Katrina Somers)
+  ----------------------------------------------------------
+  
+  Motion: Be it resolved that the Board approves the public event of a 
+  "Stitch'n'Bitch" to be held in the lab on Saturday April 17, from 1pm to 
+  5pm.
+
+  So moved by Stephanie Smith.
+  Seconded by Alexandra Dysinski
+  
+  In Favour: 7
+  Opposed: 0
+  
+
+  5.2. Membership Termination: Jon Lamothe 
+  ----------------------------------------
+  
+  Jonathan tendered his resignation, effective March 31. The Board sadly 
+  acknowledges it.
+  
+  Jon indicated that  he would be interested in providing help during any 
+  build-out we undertake, even though he is not a member.
+  
+
+6. Action item review
+---------------------
+
+  13.2 on Ben Brown: convert website design to drupal template 
+
+  26.5 on Eric & Gus: bring in phone and SIM card and try to activate
+
+  26.6 on Ben & Gus: meet with Kapley re: spaces
+
+  27.1 on Gus: need to create a bulletin board, which Gus will do.
+
+  27.3 Eric will revisit insurance, to see if we can extend our coverage to   
+       non-KwartzLab events in the space.
+
+  28.1 Gus & Ben to call Burhan
+
+  28.1 Eric to write a draft lease agreement
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2020EST.
+So moved by Alexandra Dysinski.
+Seconded by Ben Brown.
+In Favour: 7
+Opposed: 0

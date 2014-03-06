@@ -1,0 +1,207 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, January 13, 2010
+* Time: 7:30pm
+* Location: 
+* Meeting #21
+
+BOARD MEMBER
+
+* Present:  Ben Brown, Cedric Puddy, Darin White, Robert Gissing, Stephanie Smith
+* Absent: Alexandra Dysinski, Eric Gerlach
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Bevan Lantz, Jessica Clayman, Darcy Casselman
+
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Director Robert Gissing acted as Chair for the meeting, and called the meeting to order at 1934 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2.  Approval of the Agenda
+--------------------------
+
+The agenda was presented by the Chair, and approved by general consent of the Board.
+
+3. Approval of the October 21 Board Meeting Minutes
+---------------------------------------------------
+Approval of the October 21 Board Meeting Minutes was postponed, by general consent of the Board, until the next Board meeting.
+
+4. Approval of the December 2 Board Meeting Minutes
+---------------------------------------------------
+Approval of the December 2 Board Meeting Minutes was postponed, by general consent of the Board, until the next Board meeting.
+
+5. Report from the Treasurer
+----------------------------
+The Treasurer presented the Board with a current financial report; please see attached Appendix A. The only item of interest is that January's rent cheque has not yet been cleared.
+
+>> Action 21.1 on Ben Brown: follow up with Buran regarding the rent cheque if it hasn't cleared in the next couple of days.
+
+6. New Business
+---------------
+
+  6.1. Reimbursements
+  -------------------
+  Motion: Be it resolved that KwartzLab will reimburse Robert Gissing 
+  $531.08 for the purchase of the LCD projector.
+	Motion Moved: Darin White
+	Motion Seconded: Ben Brown
+	In Favour: 4
+	Opposed: 0
+	Abstained: Robert Gissing
+
+  A reimbursement cheque was not signed at the meeting, as a co-signer was 
+  not available.
+
+  6.2 Trillium Grants
+  -------------------
+  Robert Gissing presented an update to the Board regarding his inquiries 
+  into Trillium grants. He would like to apply for the March grant cycle, 
+  asking for $15000, which would go towards the purchase of a laser cutter. 
+  Both Gordon Hatt (CAFKA) and Martin DeGroot (Waterloo Regional Arts 
+  Council) have offered to review our Trillium grant proposal, and Martin 
+  is also offering advise on how to proceed. Robert has also talked with 
+  Mary Jo, from Trillium, who says that they will have time at the end of 
+  January, if we want to come in and talk with them.
+
+  Darin White presented to the Board regarding additional research he has 
+  done on Trillium grants. In order to qualify for the grants, there are 
+  various criteria we will need to meet. Specifically, there may be 
+  concerns regarding the accessibility of some of our facilities (i.e., the 
+  washroom). We may need to do some renovations.
+
+  There was a brief discussion regarding renovations to make the washroom 
+  wheelchair accessible.
+
+  6.3 Wintereenmas Event
+  ----------------------
+  Jessica Claymen presented to the Board a summary of Wintereenmas as an  
+  annual gamers festival, and her idea to hold a games day in the lab on 
+  Saturday January 30 to celebrate it. From 7pm through 10pm, she would 
+  like to open the event up to the general public.
+
+  Motion: Be it resolved that the Board designates Saturday January 30, 
+  2010, as Winteenmas Gaming Day, an event which will be open to the public 
+  from 7pm through 10pm.
+  	Motion Moved: Cedric Puddy
+	  Motion Seconded: Ben Brown
+	  In Favour: 5
+	  Opposed: 0
+
+  6.4 Membership Vetting Procedures
+  ---------------------------------
+  Ben Brown presented to the Board his concerns about the current 
+  membership vetting process: currently, TON events are the only 
+  opportunities which directors have to get to know new applicants. 
+  However, a quorum of directors have not been making it to recent TON 
+  events, potentially blocking new applicants from being accepted.
+
+  There was a detailed discussion regarding possible solutions to this 
+  problem:
+
+  * there is a core group of members who regularly make it to TON events;   
+  the Board could grant these specific individuals new member voting rights
+
+  * the Board could appoint a membership committee which would vet new 
+  applicants and then make recommendations to the Board (actually voting on 
+  new members would still remain up to the Board)
+
+  * new member voting could be opened up to the entire membership
+
+  * when we know that a potential applicant is coming to a TON, an 
+  announcement could be made to the Board, encouraging more Directors to 
+  come out to the TON
+
+  >> Action 12.2 on Robert Gissing: write a proposed motion for new member 
+  approvals, and post to the BOD list for discussion.
+
+  6.5 Outreach to Local Arts Community
+  ------------------------------------
+  Darin White presented to the Board a summary of recent outreach 
+  endeavours towards CAFKA, Crime Lab, Jack Jackowetz. A more detailed 
+  overview was posted to the mailing list.  
+
+  There was a brief discussion regarding how KwartzLab bridges the gap 
+  between art and technology, and the role we see for ourselves: 
+  specifically, we're not trying to make hackers into artists, but we do 
+  want to make technology more accessible to artists.
+
+  The Board would like to thank Gus for his donation of resources and time
+  in creating the frames for the public hanging of Jack Jackowetz's 
+  artwork.
+
+  6.6 New Equipment Acquisition
+  -----------------------------
+
+  6.6.1 LPKF Cabinet
+  6.6.2 Radial Arm Saw
+  6.6.3 Supply Closet
+
+  Motion: Be it resolved that the Board empowers James Bastow to proceed 
+  with obtaining the specified LPKF Cabinet, Darin White to proceed with 
+  obtaining the specified Radial Arm Saw, and Cedric Puddy to proceed with 
+  obtaining the specified Supply Closet, on the understanding that each of 
+  these items are free-as-in-beer donations to KwartzLab. The Board accepts 
+  all three donations.
+
+	Motion Moved: Darin White
+	Motion Seconded: Ben Brown
+	In Favour: 5
+	Opposed: 0 
+
+  6.7 Space Expansion
+  -------------------
+  Darin White presented to the Board his ideas regarding the 800 sqft unit 
+  off of the kitchen. Now that we are bringing in larger (noisy & messy) 
+  equipment, a machine room is becoming a strong need. Adding this unit to 
+  our existing space will be ideal, and in order to begin planning for it, 
+  we should have an idea of what the rent will be. 
+
+  >> Action 21.3 on Robert Gissing & Ben Brown: begin discussion with 
+  Kaplay regarding that unit
+
+  6.8 Site 3
+  ----------
+  Darin White presented to the Board that he, Ben, Gus, and Bevan will be 
+  attending the inaugural Site 3 planning meeting in Toronto this Sunday. 
+  Seth Harding has expressed a hope that KwartzLab will be able to provide 
+  some input and guidance for this new venture. KwartzLab is excited about 
+  this new venture, and we look forward to establishing a relationship with 
+  Site 3.
+
+7. Action Item Review
+---------------------
+  >> Action 21.1 on Ben will follow up on rent cheque, if it hasn't gone 
+  through in a couple of days.
+
+  >> Action 21.2 on Gus will wrote up a proposed motion for new member 
+  approvals, and post to BOD for discussion
+
+  >> Action 21.3 on Gus & Ben to start talking with Kaplay regarding that 
+  unit.
+
+8. Adjournment
+--------------
+The meeting was adjourned at 2059EDT
+	Motion Moved: Robert Gissing
+	Motion Seconded: Stephanie Smith
+	In Favour: 5
+	Opposed: 0

@@ -1,0 +1,296 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, February 24, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #26
+
+BOARD MEMBERS
+
+* Present:  Eric, Alexandra, Gus, Steph, Cedric
+* Absent: Ben Brown, Darin White
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Alex Williams, Jessica Claymen, Bevan Lantz, Jonathan Lamothe
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1942 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President, with the amendment to reintroduce "Mailing Lists" under "Website". Alex Williams also requested that the Tool Committee discussion be moved to before Old Business.  The Board approved this agenda with these amendments, by general consent.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer was not present to report.
+
+4. New Business: Tool Committee
+-------------------------------
+
+The Board discussed the creation of a tool committee. A provisional committee (consisting of Alex Williams), with limited powers, will be established immediately, with additional members & powers to be appointed by the Board at a later date.
+
+There was a detailed discussion regarding the vision and scope of the tool committee. Should the tool committee be responsible for tool repair, maintenance, and storage, as well as tool acquisition? No decision was made, though the Board did agree that the mandate should be kept simple to begin with.
+
+The Board wants the tool committee to be able to work independently -- the Board should not have to be directly involved in individual purchase decisions. There should be an upper-limit on the tool committee's autonomous spending power, however. 
+
+The tool committee should hold open meetings, so that all interested members can participate. However, actual voting privileges will be reserved to members of the tool committee.
+
+Motion: Be it resolved that Alex Williams will be the head of the tool committee, and that the tool committee be empowered to spend $75 from the tool fund.
+
+  Moved: Alexandra Dysinski
+  Seconded: Robert Gissing
+  In Favour: 5
+  Opposed: 0
+  Abstained: 0
+
+Action 26.1 on Eric Gerlach: write up tool committee procedure.
+
+The Board acknowledged that Board procedures should be reviewed after every general meeting.
+
+5. Old Business
+---------------
+
+  1. Website & Mailing Lists
+  ---------------------------
+
+    1. Update for action 13.2 on Ben Brown: convert website design to 
+    drupal template 
+
+    Ben Brown was not present to report.
+
+  The Board revisited the topic of a public kwartzlab.ca mailing list, as
+  recently discussed on the members' mailing list. Although the public list 
+  was originally shut down, because it was seen as redundant
+  (against the MakeKW public discussion lists), there was been recent 
+  demand for one.
+
+  The Board also discussed the public accessibility of the members' 
+  discussion list archives. Some applicants	have mentioned that its a bit 
+  "weird" to be able to read member discussion regarding their application. 
+  Although there hasn't been any issues related to do, the Board felt that 
+  it would be prudent to keep those discussion private.
+
+  Motion: Be it resolved that the Board will create a public discussion 
+  list, and take the archives of the members' list private
+
+    Moved: Eric Gerlach
+    Second: Robert Gissing
+    In Favour: 5
+    Opposed: 0
+    Abstained:
+
+  Action 26.2 on Stephanie Smith: Create discuss@kwartzlab, and make 
+  members' list private
+
+
+  2. Lease contract for borrowing member equipment
+  ------------------------------------------------	
+
+    1. Update for action 17.1 on Eric Gerlach: Post draft of lease 
+    agreement to members list asking for comment 
+
+    Eric Gerlach reported to the Board that this has been done. There were 
+    no comments posted in response to the agreement. 
+
+  Motion: Be it resolved that KwartzLab Society Inc. adopt the attached 
+  draft as our standard lease agreement
+
+    Moved: Eric Gerlach
+    Second: Alexandra Dysinski
+    In Favour: 4
+    Opposed: 0
+    Abstained: Robert Gissing
+
+  Action 26.3 on Stephanie Smith: create equipment@kwartzlab.ca, forwarded 
+  to bod@kwartzlab.ca
+
+  Action 26.4 on Stephanie Smith: put extra copies lease agreement in 
+  locker. (Eric needs to make a slight change to agreement first.)
+
+  3. Health & Safety Committee
+  -----------------------------
+
+    1. Update on action 22.3 on Eric Gerlach: bring in his cell phone & 
+    activate it. 
+
+    Eric Gerlach reported that he tried to activate his phone, but that his 
+    sim card is too old. Robert Gissing has an extra sim card which he will 
+    bring in.
+
+    Action 26.5 on Eric Gerlach & Robert Gissing: bring in a working sim 
+    card, activate phone, form Voltron
+
+  4. Workroom Floor
+  -----------------
+
+  The Board decided by general consensus to postpone this discussion to a 
+  later meeting.
+
+  5. Trillium Grants
+  ------------------
+
+  The Board briefly discussed the necessity of wheelchair accessibility for 
+  Trillium Grants. Robert Gissing reported that we can include the 
+  necessary renovations to our space in the grant application.
+
+  As there has been no recent movement on this topic, the Board agreed by 
+  general consensus to postpone this discussion until there is an update.
+
+  6. Membership Vetting Procedures
+  --------------------------------
+
+    1. Update for action 21.2 on Robert Gissing will write up a proposed 
+    motion for new member approvals, and post to BOD for discussion 
+
+    Robert Gissing reported he had posted his proposal to the BOD's list 
+    right before the meeting. The Board agreed to postpone discussion until 
+    all directors have had an opportunity to read it.
+
+  7. Space Expansion
+  ------------------
+
+  Robert Gissing reported that a meeting has been not set up with Kapley 
+  yet. He asked for pre-approval from the Board if the additional space 
+  comes in at less than $300/month. The Board decided that the Treasurer 
+  should be present for such a decision.
+
+  Action 26.6 on Robert Gissing & Ben Brown: meet with Kapley re: space
+
+  8. Signage
+  ----------
+
+  Ben Brown was not present to report.
+
+  9. Ubuntu Global Jam
+  --------------------
+
+  Darcy Casselman was not present to report.
+
+  10. Member Meeting
+  ------------------
+
+    1. Update on action 24.2 on Eric Gerlach: post to members that we'll be 
+    holding a members meeting on the 17. 
+
+    Eric Gerlach reported that the announcement has been posted.
+
+  The Board also discussed the administrative topics which will likely be 
+  removed from the Members' Meeting agenda, and when we will discuss them. 
+  The topics are:
+
+    * vetting
+    * hiatus
+    * non-members in space
+    * bylaws -- Board Election (deadline is next winter)
+
+  If this topics are not covered at the Members' Meeting, the Board will 
+  need to add them to future Board Meetings, and ensure that the membership 
+  is aware of these discussions. These are all large, and potentially 
+  contentious, topics, so the Board would prefer to tackle one at a time. 
+  The Board discussed what the order of priority should be:
+
+    1. Vetting  (March 11th)
+    2. Hiatus
+    3. Non-Members
+    4. By-Laws
+
+  Action 26.7 on Eric Gerlach:  post a notice to the members' list 
+  regarding the Board's intention to discuss Membership Vetting at the 
+  March 11th Board Meeting
+
+
+6. New Business Cont'd
+----------------------
+
+  1. Frequency and dates of Board Meetings 
+  ----------------------------------------
+
+  Stephanie Smith summarized recent discussions on the Board mailing list: 
+  some directors have expressed frustration regarding the length and 
+  frequency of the Board Meetings. While weekly meetings do take up a 
+  notable amount of time, most of the business being conducted at the 
+  meetings centres around updates on old business, and more general 
+  discussion which does not necessarily require in-person meetings. 
+
+  There was a discussion regarding how frequently the Board should continue 
+  to meet -- biweekly or monthly. It was suggested that the Board scale 
+  back gradually, by beginning with biweekly meetings, and considering a
+  move to monthly once we've established that reducing frequency doesn't 
+  result in longer meetings.
+
+  There was also a suggestion to move Board Meetings to Thursday evening, 
+  when members are all ready in the space. One of the goals of the Board 
+  is to engage the membership, and ensure that members are presented with 
+  obvious opportunities to participate in administrative discussions. 
+  Moving to Thursday evenings may help meet this goal.
+
+  Motion: Be it resolved that the Board of Director's next meeting will be 
+  on Thursday March 11, and fortnightly thereafter.
+
+    Moved: Stephanie Smith
+    Second: Eric Gerlach
+
+  Discussion: Robert Gissing has an issue with the word 'fortnightly'.
+
+  Alexandra Dysinski calls the question. 
+  The Board unanimously agreed to proceed to a vote.
+
+    In Favour: 5
+    Opposed: 0
+    Abstained: 0
+
+7. Action item review
+---------------------
+
+Action 13.2 on Ben Brown: convert website design to 
+drupal template
+
+Action 26.1 on Eric Gerlach: write up tool committee.
+
+Action 26.2 on Stephanie Smith: Create discuss@kwartzlab, and make 
+members' list private
+
+Action 26.3 on Stephanie Smith: create equipment@kwartzlab.ca, forwarded 
+to bod@kwartzlab.ca
+
+Action 26.4 on Stephanie Smith: put extra copies lease agreement in 
+locker. (Eric needs to make a slight change to agreement first.)
+
+Action 26.5 on Eric Gerlach & Robert Gissing: bring in a working sim 
+card, activate phone, form Voltron
+
+Action 26.6 on Robert Gissing & Ben Brown: meet with Kapley re: space
+
+Action 26.7 on Eric Gerlach:  post a notice to the members' list 
+regarding the Board's intention to discuss Membership Vetting at the 
+March
+
+8. Adjournment
+--------------
+The meeting was adjourned at 2034 EST.
+
+  Motion Moved By: Stephanie Smith
+  Motion Seconded: Alexandra Dysinski
+  In Favour: 5
+  Opposed: 0
+  Abstained: 

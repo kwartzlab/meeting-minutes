@@ -1,0 +1,266 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Wednesday, May 26, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #33
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Alexandra Dysinski, Robert Gissing, Stephanie Smith, Cedric Puddy, Ben Brown, Darin White
+* Absent: 
+* Quorum: Yes (7/7)
+
+OTHERS
+
+* KwartzLab Members: Jessica Clayman, Rob Adler
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1944 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the President, and approved by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer present the Board with current financial statements, which were accepted by the general consent of the Board.
+
+The Treasurer also indicated that despite our increased rent (for the new machine room), we were financially healthy because we are not spending everything that's currently allocated in our budget. 
+
+There was a brief discussion about the implications of HST. The membership needs to be notified that July dues will increase to 56.50 as a result of the new tax. We also need to clarify that even though July dues are paid before July 1, HST is still applicable. On the plus side, with HST, we will be able to start selling kits and components.
+
+ACTION 35.1 on Ben Brown: Notify membership that beginning with July dues, rates will increase to $56.50.
+
+4. Agenda Amendment
+-------------------
+
+  4.1. Public Event
+  ----------------
+
+  Alexandra Dysinski asked to discuss a public event she would like to 
+  hold, during New Business. The Board agreed, by general consent.
+
+  4.2. Fire Inspection
+  -------------------- 
+
+  Robert Gissing asked to report on the recent Fire Inspection, during New 
+  Business. The Board agreed, by general consent.
+  
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+
+  5.1.1. Update for action 13.2 on Ben Brown: convert website design to 
+  drupal template 
+
+    No update; still pending  
+  
+  5.2. Health & Safety Committee
+  ------------------------------
+
+  5.2.1. Update for 29.2 on Everyone: bring in phone for H&S; activate 
+  with Eric's SIM 
+
+    No phone has been located yet; Eric will solicit the 
+    membership-at-large.
+  
+  5.2.2. Board Procedure and Committee Appointments
+  
+    No update.
+  
+  5.3. Space Expansion
+  --------------------
+  
+  5.3.1. Plan of action for the Tool Room
+    
+    Ben Brown reported to the Board that the Tool Committee has been 
+    appraised of what they need to do.
+
+  Robert Gissing reported to the Board that he has a friend who would like 
+  to donate a table saw to KwartzLab. Its a very good table saw. We will 
+  need to write a letter of thanks.
+  
+  5.4. Workshops
+  --------------
+
+  5.4.1. Update for action 27.3 on Eric Gerlach: Read through insurance 
+  policy and figure out workshops and instructors. 
+  
+    No update; still pending 
+  
+  5.5. Art Wall
+  -------------
+  
+  5.5.1. Update for 30.2 on Robert Gissing: Email members clarifying the 
+  Art Wall's ownership 
+
+    Action is rendered moot.
+    
+  Robert Gissing announced to the Board that he will be passing the Art 
+  Wall project over to Jessica Clayman. Robert also informed the Board that
+  a radio host at CKWR (Mary Lou) would like to interview each new artist 
+  as we unveil new exhibits. This will be great local exposure for both the
+  artists, and for KwartzLab.
+
+6. New Business
+---------------
+
+  6.1. Non-members in the Space
+  -----------------------------
+  
+    6.1.1 Poll Results
+    
+    Eric Gerlach summarized the poll results for the Board: the membership 
+    has indicated they would prefer to let "common sense" dictate the 
+    access guests are granted in our space, rather than setting firm rules.
+
+    The Board is therefore pleased to not introduce any new policies 
+    regarding non-members in the space. There was a brief discussion
+    regarding how the Board would like to see potential problems dealt 
+    with. Ideally members would be able to resolve most issues amongst
+    themselves, without needing Board intervention. For this to work
+    it will be important that if anybody has a problem with another 
+    member's guests, that they speak up.
+    
+    The Board also re-ffirmed that non-members will need to follow the same 
+    rules as members regarding tool use. Any guests wanting to use "red 
+    label" equipment will need to be cleared by H&S first.
+    
+  6.2. Membership Withdrawals
+  ---------------------------
+  
+    6.2.1 Michael Heimstra
+    
+    Stephanie Smith submitted Michael Heimstra's membership withdrawal 
+    notice to the Board. 
+
+    It was acknowledged by the Board without comment.
+    
+  6.3. Elections
+  --------------
+  
+  There was a detailed discussion by the Board regarding upcoming Board 
+  elections, and the various processes which need to be in place first.
+  
+  Darin White expressed his desire to see the election process accelerated.
+  
+  As KwartzLab does not yet have By-Laws governing the election process,
+  discussion turned towards drafting those By-Laws. The Board would like to 
+  have a draft ready for membership review by the nest Board meeting. 
+  
+  Darin White and Ben Brown will start working on a draft.
+
+  Items which should be included in the By-Laws:
+  
+    * what are the terms of office
+    * definitions of President, Secretary, and Treasurer
+    * whether President, Secretary, and Treasurer will be elected or 
+    appointed
+    * procedure for filling a seat should a Director resign before the end 
+    of term
+    * should the previous President be an ex-officio, non-voting member of 
+    the Board
+    * schedule for nomination period
+    * whether or not proxy voting will be allowed
+  
+  ACTION 35.2 on Ben Brown: post a poll to the membership, soliciting 
+  feedback on whether the membership would like to vote directly on office, 
+  or would prefer for the newly elected Board to appointed offices.
+    
+  MOTION: Be it resolved that elections for the Board of Directors for 
+  KwartzLab Society Inc. be called, with nominations opening, July 10; 
+  nominations closing July 24. Be it further resolved that a General 
+  Meeting for the Corporation be called for July 8, to consider Business of 
+  the Corporation, at 7:30pm, to be held at the head office of KwartzLab 
+  Society Inc., with the agenda to be set by the President of the 
+  Corporation by June 5. So moved by the President.
+  
+  Motion Seconded: Darin White
+  
+  Discussion: Concerns were expressed regarding passing an unhealthy budget 
+  over to a new Board. The Board was reminded that there is a specific 
+  action plan in place, both to increase revenue and to exit out of our 
+  second lease, should the need arise. This plan will be communicated to 
+  the new Board.
+  
+  Motion put to vote:
+    In Favour: 7
+  Motion Passed.
+  
+  
+  6.4. Public Event
+  -----------------
+  
+  Alexandra Dysinski would like to host a party on June 4, 7pm - 10pm for 
+  the (non-member) volunteers who have helped her with complete a large 
+  project. Members would also be invited.
+  
+  The Board approved this event by general consent.
+
+  6.5. Fire Inspection
+  --------------------
+  
+  Robert Gissing reported to the Board that there was recently a fire 
+  inspection of our premises. Two items of concern were raised:
+  
+    1) Tennants cannot have access to the boiler room. This means that the 
+    Landlord will need to block the door that leads from our Tool Room to 
+    the Boiler Room. As we don't use this door, it won't impact our use of 
+    the space.
+
+    2) We don't currently have sufficient fire extinguishers for our space. 
+    The two extinguishers we currently have need to be refilled, plus a 
+    third one needs to be obtained. We need ABC extinguishers, and they 
+    need to be checked every year.
+
+  ACTION 35.3 on Ben Brown: Ensure we have sufficient fire extinguishers.
+
+7. Action Item Review
+---------------------
+
+  Action 13.2 on Ben Brown: convert website design to drupal template
+  
+  Action 29.2 on Everyone: bring in phone for H&S; activate 
+  with Eric's SIM
+  
+  Action 27.3 on Eric Gerlach: Read through insurance 
+  policy and figure out workshops and instructors.
+
+  Action 35.1 Ben to announce HST
+  Action 35.2 on Ben Brown: post a poll to the membership, soliciting 
+  feedback on whether the membership would like to vote directly on office, 
+  or would prefer for the newly elected Board to appointed offices.
+  
+  Action 35.3 on Ben Brown: Ensure we have sufficient fire extinguishers.
+
+8. Adjournment
+--------------
+
+The meeting was adjourned at 2131 EST.
+
+  Motion Moved By: Ben Brown
+  Motion Seconded: Darin White
+  In Favour: 7
+  Opposed: 0
+  Abstained:
