@@ -1,0 +1,324 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, August 27, 2009
+* Time: 1930 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBER
+
+* Present: Ben Brown, Darin White, Cedric Puddy, Eric Gerlach, Stephanie Smith
+* Late: Robert Gissing (arrived after agenda item #5.2 Build-out: Windows)
+* Absent: Alexandra Dysinski
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* Make:KW Members: Andrew Mackie, Ed Blanchard
+
+Distribution: To all KWartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the
+Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Eric Gerlach called the meeting to order at  2017EDT, and Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by Eric Gerlach. No objections being noted, the agenda was approved by general consent. 
+
+3.  Approval of the 2009-08-11 Board Meeting Minutes
+----------------------------------------------------
+
+The minutes for the 2009-08-11 Board meeting were presented by Stephanie Smith, and were approved by general consensus of the Board.
+
+4.  Approval of the 2009-08-14 Board Meeting Minutes
+----------------------------------------------------
+
+The minutes for the 2009-08-14 Board meeting were presented by Stephanie Smith, and were approved by general consensus of the Board.
+
+5. Old Business
+---------------
+
+5.1. Insurance
+	
+PRESENTATION
+Eric Gerlach presented to the Board an update on his communications with 
+Dave from Erb & Erb. As DOLI is "claims made", there was no need to 
+postpone the lease-signing until DOLI was in place. Switching insurance 
+providers for DOLI is trivial, but there may be some gotchas related to 
+switching providers for space insurance. In particular, we would need to
+ensure that the new policy picked up immediately where the old policy left 
+off.
+	
+There is a 3% financing fee if we want to pay for the insurance monthly, 
+which would make the monthly payments $161.88. 
+	
+DECISIONS
+	
+1. Motion Passed: Pending Ben Brown's confirmation that we can set up
+a direct debit payment for insurance, Ben Brown & Eric Gerlach may bind 
+the corporation to the EnCon DOLI & Space Insurnace policy, as quoted.
+
+ * Motion Moved by: Eric Gerlach 
+ * Seconded by:  Darin White
+ * In Favour:  5
+ * Opposed: 0
+ * Abstained:
+
+5.2 Buildout
+	
+- Security
+PRESENTATION
+Darin White presented to the Board an update on the Lab's Physical 
+Security. He has been unable to make contact with Michael Kowalski, but 
+we need to move forward on this project ASAP. James Bastow is prepared 
+to take over the project immediately. James has a plan in mind, and believes 
+he can do it for under $500.00. However, James will be out of town until 	
+September 8. For now, we will cut keys for members, and hand them out
+at the August 31 Board Meeting/Key-Granting Party.
+		
+DISCUSSION
+Ensuring that the door remains locked when nobody is in the space is
+a high priority. Given the layout of the space, it is too easy for 
+somebody to leave without realizing they were the last person in the 
+space. We should institute a door-always-locked policy.
+		
+DECISIONS
+1. Motion Passed: Be it resolved that Kwartzlab Society Members will 	
+be given physical keys to the space, in lieu of RFID tokens, beginning 
+Monday August 31. These keys will be replaced by RFID tokens when the
+tokens become available.
+		
+ * Motion Moved by: Darin White
+ * Motion Seconded by: Eric Gerlach
+ * In Favour: 5
+ * Opposed: 0
+ * Abstained:
+		
+ACTIONS
+ 1. Eric will try to contact Michael Kowalski.
+ 2. Eric will contact Shin regarding the donation of his strike.
+ 3. Ben will cut keys for pending members, to be distributed at the 
+ August 31 Board Meeting/Key-Granting Party.
+		
+- Ceiling
+PRESENTATION
+Eric Gerlach presented to the Board an update on his progress cleaning 
+the ceiling. He'll continue blowing it out over the weekend.
+		
+- Windows
+PRESENTATION
+Darin White presented to the Board an update on his progress cleaning
+the windows. 1 window is completed, however they are all in very bad 	
+shape -- we can't do a lot with them. 10 panes need to be replaced. 
+Kapley has said he'll look after the repairs. Burhan has also said he
+has some replacement glass panes he will give us.
+		
+DISCUSSION
+Now that the days are getting shorter, working on the windows is a
+weekend job. There is some concern regarding whether Kapley will get
+the windows repaired within a reasonable amount of time. We should
+give him a conservative deadline, so that we will have time to do it
+ourselves (if necessary) before the Grand Opening.
+		
+ACTIONS
+ 1. Eric Gerlach will email Kapley about repairing the windows. 
+		
+- Painting
+PRESENTATION
+Robert Gissing presented to the Board an update on his progressing 
+patching the walls in preparation for painting. 
+Ben Brown presented to the Board pricing for second hand paint from 	
+Rona - $15/gallon
+	
+DECISIONS
+1. The Board decided, by general consensus, that Ben Brown will 
+purchase 10 gallons of "Cloud" paint from Rona, along with 5 gallons 
+of primer.
+		
+- Furniture & what we want for the space.
+DISCUSSION
+We need some decent sofas for the lounge, as well as a TV. This coming 
+weekend is moving weekend for most students, which may be fruitful for 
+us. Freecycle, Kajiji, and Rim Classifieds are also worth checking.
+		
+ACTIONS
+ 1. Ben Brown will investigate what furniture has been discarded in
+ student housing neighbourhoods
+ 2. Eric Gerlach will contact somebody as Central Stores.
+ 3. Stephanie Smith will check Freecycle.
+		
+6.3 Banks
+---------
+	
+PRESENTATION
+Ben Brown presented to the Board an update on our financial situation.
+Specifically, we have enough money in the bank to cover our September 
+rent.
+	
+ACTIONS
+ 1. Ben Brown will find out if we can do direct debit payments.
+ 2. Eric Gerlach will test "Personal Payee" payments to the Kwartzlab 
+ account from a non-TD account.
+	
+6.4 Real Estate/Leases
+----------------------
+No out-standing business.
+	
+6.5 Logo
+--------
+	
+PRESENTATION
+Darin White presented to the Board an update on the logo submissions to 
+date. He provided the Board withe copies of all of the logos submitted - 6 
+in total.
+	
+DECISION
+1. The Board agreed by general consensus to provide the prospective 
+membership with 2 logos to vote on -- "the gear oscillator" and "the 
+socket".
+		
+ACTIONS
+ 1. Stephanie Smith will put a poll on the website.
+	
+6.6. Website/Mailing Lists
+--------------------------
+
+DISCUSSION
+Bill Traynor has stated he intends to shut down hackw.net shortly. 
+We have a lot of old/outdated content related to the hackerspace up on 
+makekw.org; now that we have our own web presence, this should be removed.
+	
+ACTIONS
+ 1. Stephanie Smith will remove kwartzlab content from makekw.org and 
+ replace it with a link to kwartzlab.ca
+ 2. Stephanie Smith will be responsible to ensuring content on kwartzlab.ca
+ remains up to date.
+	
+6.7. Project Teams
+------------------
+No out-standing business.
+	
+6.8. Grand Opening
+------------------
+	
+- Party
+DISCUSSION
+While Natalie is filling out and submitting the liquor license, a
+Board members should actually be responsible for this. Robert
+Gissing has SmartServe, and volunteers for this.
+We need members committed to bringing in cool projects that we can 
+show off. Andrew Mackie volunteers to organize projects for the 	
+evening. Projects need to be submitted prior to the event.
+
+ACTIONS
+ 1. Stephanie Smith will configure the announcement list to moderate
+ message, rather than discarding them.
+ 2. Andrew will post an announcement to the members' announcement list.
+		
+6.9 Converting Club Members to Corporate Members
+------------------------------------------------
+
+DISCUSSION
+Should we add a general liability waiver to the membership agreement form? 
+Hackerspaces.org has a boilerplate waiver posted on their website. Waivers 
+don't actually change anything, but they do help demonstrate due 
+diligence.
+We won't vote in any member who has not paid their dues and signed the new
+membership form.
+	
+ACTIONS
+ 1. Eric will provide the audit exemption form.
+ 2. Robert will check with Russ about the wording for a waiver.
+	
+7. New Business
+---------------
+
+7.1. Scheduling a first general meeting
+---------------------------------------
+
+PRESENTATION
+Eric Gerlach presented to the Board an update on his findings regarding
+our obligations at the first General Meeting. Apart from having to notify
+the membership by post 10 days in advance, and potentially having to 
+appoint an auditor, we are exempt from all special requirements.
+	
+DECISIONS
+It was agreed by general consensus that the first General Meeting shall be
+scheduled for September 22. 
+	
+ACTIONS
+ 1. Eric will draft a bylaw allowing us to notify members of future General 
+ Meetings by email.
+ 2. Eric will send out the meeting announcements by September 12.
+	
+7.2. Engaging Politicians & Municipalities
+------------------------------------------
+
+PRESENTATION
+Darin White presented to the Board that he has engaged his city 
+councillor, Karen Scian. He's posted the elevator pitch he sent her
+to the website. She was very enthusiastic about Kwartzlab. 
+Darin also has a connection to the Arts & Culture Committee, and he will 
+find out if we can do a presentation for them. 
+	
+DISCUSSION
+We should organize presentations for various politicians and municipal 
+groups. We don't need to know what we want from them -- the presentations
+can just serve to introduce us. The Arts & Culture Committee, for 
+instance, makes recommendations to city council regarding grants. Getting
+them to recognize our name is advantageous. We won't get grants for 
+capital, but they will help with soft expenses for public access stuff 
+i.e., space/catering for a free public event).
+Martin DeGroot has been asking when we can write about us. We're not ready 
+just yet.
+	
+7.3. Hackerspace Alliances
+--------------------------
+
+PRESENTATION
+Darin White presented to the Board an update on his networking with 
+hacklab, thinkhaus, & diyode. A group even is in the works, and he should
+have more details on Saturday.
+As well, the Two Hands Project will be coming to Ontario sometime in 
+September.
+Darin will be traveling to DC in October, and plans to connect with Nick 
+Farre (hacDC) while he is there.
+	
+		
+7.4. People bringing stuff in to the space
+------------------------------------------
+
+DISCUSSION
+For the time being, anything that people bring in to the space must be 
+donated to the space. Once we have insurance in place, and have worked
+out a standard "leasing" agreement, then we can begin accepting items
+on loan.
+
+8. Adjournment
+---------------
+
+DECISION: The meeting was adjourned at  2239EDT.
+
+ * Motion Moved by:  Stephanie Smith
+ * Seconded by:  Ben Brown
+ * In Favour:  6
+ * Opposed: 0
+ * Abstained: 
+

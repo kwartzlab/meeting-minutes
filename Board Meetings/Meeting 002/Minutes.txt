@@ -1,0 +1,192 @@
+Board Meeting Minutes
+=====================
+:Author:    Kwartzlab Society Inc.
+:Email:     <secretary@kwartzlab.ca>
+:Date:      2009-08-11 
+:Revision:  1.0
+:Location:  Barley Works Board Room
+
+1. Call to order
+----------------
+
+The President, Eric Gerlach, called the meeting to order at 1942EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the agenda
+-------------------------
+
+The agenda was presented by Eric Gerlach. No objections were noted, and two items were added:
+
+	1. Capitalization of corporate name added at the end of new business.
+	2. Report from the President regarding letter from CCRA at the end of new business.
+
+The agenda, as amended, was approved by general consensus.
+
+
+3. Approval of the minutes
+--------------------------
+
+The minutes for the July 30, 2009 Board Meeting were approved by general consensus.
+
+4. Old Business
+---------------
+
+	i. Insurance
+	------------
+
+	Cedric Puddy presented to the board that he has sent Dave questions, but has not yet received answers. We still need a copy of policy wordings & the application form. Cedric expects to receive these tomorrow (August 12, 2009), and will circulate them to the mailing list.
+
+	We have 2 quotes back so far, which is all we need to proceed. We can arrange DOLI first, and liability once we have secured a space.
+
+	ACTION: Cedric Puddy will contact Dave by Tomorrow.
+
+	ii. Banks
+	---------
+
+	Ben Brown presented to the board that we now have a bank account. It has $3,052.89. We can accept email INTERAC (at no extra fee provided we're under 30 transactions for the month. After which, it will be $0.18 per transaction) & PayPal payments (minus $0.30 + 2.59% fee). We have a view only access card, and the account requires 2 signatures in order to move money. This means we will not be able to set up automated payments online. We have a budget for $17/mont in bank fees, and this account comes in well under that.
+	
+	Brief DISCUSSION about the costs and and potential hazards of using, or keeping a balance in, PayPal. 
+
+	ACTION: Stephanie Smith will add a PayPal link to Donate on/by August 12, 2009.
+
+	ACTION: Stephanie Smith will update website to reflect new Payee on/by August 12, 2009.
+  
+	iii. Real estate/leases
+	-----------------------
+
+	Eric Gerlach presented that he, Alexandra, and Robert Gissing met with Kapley on August 2, 2009. Kapley corrected rent to $900/month. There are still a few clauses in the lease which are of concern to Directors. Kaplay is reluctant to change the lease, but is happy to add addenda to the lease. 
+
+	We can sign month-to-month or yearly. There was a brief DISCUSSION on the pros and cons of each. Most of the board favours month-to-month. It was suggested that we could begin with month-to-month, and then switch to yearly once we had more confidence that we would want to stay for a full year.
+
+	Eric, Robert, & Alexandra will meet with the lawyer on August 2, to review the clauses which cause us concern, and possible addenda to correct them. Highlighted are the 6-month liability clause for Directors (this should be stricken if we go month-to-month), and the Landlord's ability to enter our premise without notice (can we change that to 24 hours?).
+
+	We should start moving on clean-up & build-up, as soon as possible, to demonstrate we're serious. Michael Kowalski volunteers to head up clean-up crew. Alexandra will liaise with Kapley about us getting in to the space for early cleanup.
+
+	We should be able to get DOLI within 1 business of saying go.
+
+	ACTION: Eric Gerlach, Robert Gissing & Alexandra Dysinski will meet with lawyer on/by August 12, 2009.
+
+	ACTION: Alexandra Dysinski will arrange a meeting with Kapley after the meeting with the lawyer.
+
+	ACTION: Michael Kowalski will arrange clean-up crews.
+
+  
+	iv. Logo
+	--------
+
+	Darin White presented to the Board that he met with Mark Connollu on August 3, 2009. They talked about the group, some design goals (inclusive of various disciplines), social aspects, etc. Mark started sketching up some very rough ideas, and should have something to show in next two weeks.
+  
+	v. Website/mailing lists
+	------------------------
+	
+	Eric Gerlach presented to the Board that he had contacted Bill Traynor earlier in the day regarding the discuss@hackw.net subscription list, but has not yet received a reply.
+
+	Stephanie Smith presented to the Board that the http://kwartzlab.ca website is now live, though lacking a custom template.
+	
+	Michael Kowalski presented to the Board that he has been working on a template for the website, and will post it online in the near future, for review.
+
+	vi. Project teams
+	-----------------
+    
+    Marketing
+		Bevan Lantz presented to the Board that he has been compiling all of the marketing materials which have all ready been created, and soliciting the membership for ideas.
+		
+		DISCUSSION about concentrating on content, and not worry about graphic design. We need information pamphlets describing Kwartzlab. There is still a lot of confusion regarding the distinction between Kwartzlab and Make:KW, and we should take every opportunity to address that when interfacing with the public.
+		
+    ACTION: Bevan Lantz will post some content drafts in the near future.
+    
+    Space prep 
+		Space prep was all ready covered under 4.iii. Real estate/leases.
+    Michael Kowalski further presented to the Board that he will need help setting up security. Several members have expressed an interest in helping, and are waiting for the call.
+    
+    Additional space search
+		Brief DISCUSSION on whether we should continue looking at other spaces. Globe Studios would love to have us there. However, the price is a huge concern for us. If we're not pursuing it, we should let them know. 
+    
+    Recruiting
+    Ben Brown presented to the Board that we now have 25 members, with a couple more close to signing.
+
+		Brief DISCUSSION about scheduling another social for August 20, 2009. This one will have a theme -- bring your favourite DIY book.
+    
+    ACTION: Robert Gissing will write up an announcement for the August 20, 2009 social.
+        
+    ACTION: Ben Brown will schedule, book & announce the social on the mailing list.
+
+		vii. Converting club members to corporate members
+   --------------------------------------------------
+
+	Ben Brown presented to the Board his current draft of the membership agreement (see attached). There were no significant objections. We will want to add "safety waivers" once we gain a space, and put equipment in that space.
+	
+	Brief DISCUSSION on the process of accepting new members. At a minimum, the Board will need to vote on each new member, in order for them to be accepted. This will just be a formality, for those who have all ready signed up.
+
+	ACTION: Eric Gerlach will give the current draft to the lawyer for comment on/by August 12, 2009.
+
+    
+	viii. Internet access for the space
+	-----------------------------------
+	
+	Stephanie Smith & Cedric Puddy recused themselves from discussion.
+
+	Eric Gerlached reviewed the proposal which Cedric Puddy sent to the BoD mailing list (see attached). 
+
+	DECISION:	To provide 1 DSL line for 1 membership, per draft proposal.
+  Motion Moved by:: Robert Gissing
+  Motion Seconded by:: Darin White
+  In Favour:: 5
+  Opposed:: 0
+  Abstained:: Cedric Puddy & Stephanie Smith
+
+
+5. New Business
+---------------
+
+	i. Registering for GST
+	----------------------
+
+Eric Gerlach presented to the Board that he has spoken with his accounting manager at work (Non-Profit, registered for GST). We don't have to register for GST now, because we're making less than 30,000. We are right on the line, however, so his advice was to register & collect. If we start charing GST right away, then we can start claiming input credits. To avoid potential auditing problems, we want to make the day we start collecting GST the same as the day we start claiming input credits.
+
+Eric has all ready filled out the form; it just needs to be printed and signed. 
+
+	DECISION: Eric Gerlach is empowered to register Kwartzlab Society Inc for GST.
+  Motion Moved by: Eric Gerlach
+  Motion Seconded by: Ben Brown
+  In Favour: 7
+  Opposed: 
+  Abstained: 
+
+	ACTION: Eric Gerlach will submit the GST registration application on/by August 12, 2009.
+
+  
+	ii. Photo Studio
+	----------------
+	
+	Darin White presented to the Board James McQuillan's proposal to set up a semi-permanent small photo studio in our space. In exchange, he offers his expertise to the Kwartzlab membership in taking photographs, and will make the studio available to members. When in use, the studio would have an approximately 10'x10' footprint. When not in use, it could likely collapse to smaller.
+
+	In-depth DISCUSSION regarding the implications & concerns regarding providing space for the Photo Studio in particular, and the overlapping of Kwartzlab resources with commercial/professional endeavors in general. There are a number of issues to consider, and we will need to review each proposal on a case-by-case basis. Further, we will need to put each case up to the membership to decide. As far as James' Photo Studio proposal goes,  many people are interested in the photography resources he's offered. However, we would like to get to know him first, before we begin seriously considering it.
+	
+	DISCUSSION regarding the general case of members (1) bringing in their own tool for storage & shared use in the space, and (2) members using Kwartzlab resources for their own commercial/purpose use. We are not concerned with members making money off of projects they work on in the space. We are concerned about members setting up a "home base" for their business in the space, bringing clients in to the space, or storing private/personal resources and equipment in the space. .
+
+	iii. Capitalization
+	-------------------
+	Until further/contradictory branding is developed, use "Kwartzlab" in documents.
+
+
+	iv. Letter from CRA
+	-------------------
+
+	Eric Gerlach presented to the board that he has received a letter from the CCRA, containing our new business numbers.
+
+	ACTION: Eric Gerlach: will post our business numbers to BoD list.
+
+  
+6. Next board meeting
+---------------------
+It was agreed by general consensus that the Board will hold a conference call board meeting tomorrow (August 12, 2009), at 2000EDT, to review any updates regarding insurance and the meeting with the lawyer. The next in person meeting will be held on August 19, 2009.
+
+7. Adjournment
+~~~~~~~~~~
+DECISION: The meeting was adjourned at 2123EDT.
+
+  Motion Moved by: Darin White
+  Motion Seconded by: Alexandra Dysinski
+  In Favour: 7
+  Opposed: 
+  Abstained: 

@@ -1,0 +1,228 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, September 17, 2009
+* Time: 2030 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBER2
+      
+* Present: Cedric Puddy, Eric Gerlach, Darin White, Robert Gissing, Ben Brown, Stephanie Smith, Alexandra Dysinski
+* Late: 
+* Absent: 
+* Quorum: Yes (7/7)
+
+OTHERS
+
+* Kwartzlab Society Members: Micheal Kowalski, Darcy Casselman
+* Guests: Andrew Wright
+
+Distribution: To all Kwartzlab Society Inc. Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1. Call to order
+----------------
+The President, Eric Gerlach, called the meeting to order at 2034 EDT, and the Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the agenda
+-------------------------
+The Agenda was presented by the President, and approved by general consensus of the Board.
+
+
+3. Approval of the 2009-09-09 Board Meeting Minutes
+----------------------------------------------------
+The 2009-09-09 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+4. Report from the Treasurer
+----------------------------
+The Treasurer presented the Board with a current cash flow report, and projections for upcoming expenses. Please see attached Appendix A.
+
+There was a brief DISCUSSION regarding upcoming expenses. Robert Gissing announced his intention to purchase grout & leveller for the tiling the kitchen, and patio lattice for the work room.
+
+
+5. Old Business
+---------------
+
+  5.1. Insurance
+  --------------
+  Eric Gerlach presented an update to the Board. Kwartzlab Society Inc 
+  is now bound on our insurance.
+  
+  
+  5.2. Buildout
+  -------------
+  
+    * Security
+    Darin White presented an update to the Board, on behalf of James
+    Bastow. 
+    
+    James has a door strike on order, which should arrive in the next 
+    day or two. He is investigating build versus buy on the readers 
+    (building is significantly cheaper). 
+    
+    James is aiming to have a rudimentary system working by 
+    mid-next-week.
+    
+    * Windows
+    Robert Gissing presented an update to the Board. Work on the windows 
+    is halted until we can get more glass from Burhan. 
+    
+    ACTION: Eric Gerlach will provide Michael Kowalski with Burhan's 
+    contact info.
+    
+    ACTION: Michael Kowalski will contact Burhan about obtaining more 
+    glass.
+    
+    * Painting
+    There was a detailed DISCUSSION regarding painting progress in each 
+    of the rooms. 
+    
+    The front door needs to be painted before the Grand Opening.
+    
+    Sprinkler pipes need to be painted red, but this is not a priority 
+    for the Grand Opening.
+    
+    The front room has 1 wall primed; 3 walls need additionally sanding 
+    before they can be primed.
+    
+    Darin White has offered to paint the Duke Street railing in front of 
+    our unit, provided Burhan supplies the pain.
+    
+    DECISIONS: Provided we can exchange the unopened cans on cloud 
+    paint, it was agreed by the general consensus of the Board to paint 
+    the lounge and the bathroom cotton instead of cloud.
+    
+    ACTION: Alexandra Dysnski will confirm whether or not she has black 
+    gloss enamel that we can use for the front door.
+    
+    ACTION: Ben will attempt to exchange the unopened cans of cloud 
+    paint for cotton.
+    
+    
+    * Flooring 
+    Robert Gissing presented an update to the Board. He intends to tile
+    the kitchen this weekend. Michael Kowalski has volunteered to 
+    prepare the floor for tiling tomorrow night.
+    
+    There was a brief discussion regarding plans for the lounge floor. 
+    Any decisions regarding the floor have been postponed until after 
+    the Grand Opening.
+    
+  5.3. Logo
+  ---------
+  There was a DISCUSSION regarding the typography used in the Kwartzlab 
+  Society Inc logo. The Board has not yet reached consensus on this.
+  
+  ACTIONS: Eric Gerlach will generate alternate versions of the curved 
+  text logo, using all lower case and no bold.
+  
+  5.4. Website/mailing lists
+  --------------------------
+  ACTION: Stephanie Smith will provide Ben Brown with FTP info for 
+  website, so he can upload the template.
+  
+  5.5. Grand opening
+  ------------------
+    * Party
+    
+    There was a DISCUSSION regarding what sort of (interactive?) 
+    experience we to offer guests. Providing some sort of (very simple) 
+    project to make might be interesting. Perhaps LED throwies.
+    
+    So far, there are 4 projects committed for display.
+    
+      o Alcohol 
+      No new business. Natalie Silvanovich is back from vacation, so we 
+      can check in with her now. Eric Gerlach will contact her.
+      
+      o Food
+      Cedric Puddy has some options for sourcing food, which he wants to 
+      share with Natalie Silvanovich.
+      
+  5.6. Converting club members to corporate members
+  -------------------------------------------------
+  Motion Passed: Be it resolved that Michael Kowalski is admitted to 
+  membership in KwartzLab Society Inc..
+    Motion Moved by Eric Gerlach
+    Seconded by Stephanie Smith
+    In Favour: 7
+    Opposed: 0
+    Abstained: 
+    
+  5.7. Presentations before Municipal Councils
+  --------------------------------------------
+  Eric Gerlach presented to the Board a brief review of Darin White's 
+  presentation Waterloo City Council: Darin did an amazing job, and 
+  "blew them away"".
+
+  Darin White presented to the Board an update on his presentation to 
+  Waterloo City Council. Darin said his presentation went very well, and 
+  that he received good feedback from it. Darin made a contact with John 
+  Jung, CEO of Canada's Technology Triangle, who wants to know how he 
+  can help us. Darin's presentation has also led to interviews with The 
+  Record & Chronicle; the stories should break next week.
+  
+  Robert Gissing presented to the Board an update on his presentation to 
+  the Arts & Culture Committee. Robert said his presentation went well, 
+  although the Committee had a bit of trouble understanding how arts and 
+  technology interconnect. This is a point of confusion we can expect 
+  to encounter again, and we should explore ways of explaining it.
+
+  Robert Gissing will be presenting to Kitchener City Council next week.
+  
+  5.8. Engaging politicians & municipalities
+  ------------------------------------------
+  Eric Gerlach presented to the Board an update on RSVPs for the Grand 
+  Opening. Notably, Waterloo Mayor Brenda Halloran send her regrets but 
+  would like to arrange a visit on another date.
+  
+  5.9. SoOnCon Update
+  -------------------
+  Darin White presented to the Board an update on SoOnCon planning. 
+  The biggest challenges they are facing at the moment are registration 
+  numbers, and getting people to commit to giving talks.
+  
+  5.10. Reimbursements
+  --------------------
+  No reimbursements requiring Board approval.
+  
+6. New business
+---------------
+  6.1. Promoting the Grand Opening
+  --------------------------------
+  
+  There was a DISCUSSION regarding planning for the party. We need to 
+  start promoting it heavily; we need posters and flyers designed and 
+  posted.
+  
+  ACTION: Michael Kowalski will design a poster.
+  
+  ACTION: Robert Gissing will talk with Margaret about designing a 
+  poster.
+
+
+7. Board Meeting
+----------------
+It was agreed by general consensus of the Board that the next Board Meeting shall be held at 283 Duke Street West, on September 22. If there are new members to induct that evening, the Board Meeting will take place immediately before the General Members Meeting. If there are no new member to induct, the Board Meeting will take place after the General Members Meeting.
+
+8. Adjournment
+--------------
+Motion Passed: The Board Meeting is adjourned at 2133EDT
+  Motion Moved by: Robert Gissing
+  Motion Seconded by: Cedric Puddy
+  In Favour: 7
+  Opposed: 0
+  Abstained

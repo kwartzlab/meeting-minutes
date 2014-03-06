@@ -1,0 +1,351 @@
+KWartzLab Society Inc. 
+======================
+Minutes of Meeting
+------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Friday, September 4, 2009
+* Time: 2000 EDT
+* Location: Boehmer Box, 283-106 Duke Street West, Kitchener
+
+BOARD MEMBER
+
+* Present: Cedric Puddy, Eric Gerlach, Darin White, Alexandra Dysinski, Robert Gissing
+* Late: Ben Brown (Arrived before Agenda Item #8.4 Old Business: Logo)
+* Absent: Stephanie Smith
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* Kwartzlab Society Members: Bevan Lantz, Ed Blanchard, Jessica Clayman
+* Others: Dave
+
+Distribution: To all Kwartzlab Society Inc. Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+
+1. Call to order
+----------------
+
+The President, Eric Gerlach, called the meeting to order at 2019 EDT, and Director Cedric Puddy recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the agenda
+-------------------------
+
+The Agenda was presented by the President, and approved by general consensus of the Board.
+
+
+3. Approval of the 2009-08-12 Board Meeting Minutes
+---------------------------------------------------
+
+The 2009-08-12 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+4. Approval of the 2009-08-18 Board Meeting Minutes
+---------------------------------------------------
+
+Approval of the 2009-08-18 Board Meeting Minutes has been deferred until the next Board Meeting.
+
+
+5. Approval of the 2009-08-27 Board Meeting Minutes
+---------------------------------------------------
+
+The 2009-08-27 Board Meeting Minutes were approved by general consensus of the Board.
+
+6. Approval of the First 2009-08-31 Board Meeting Minutes
+---------------------------------------------------------
+
+The first 2009-08-31 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+7. Approval of the Second 2009-08-31 Board Meeting Minutes
+----------------------------------------------------------
+
+The second 2009-08-31 Board Meeting Minutes were approved by general consensus of the Board.
+
+
+8. Old Business
+---------------
+
+8.1. Banks
+  
+PRESENTATION
+  Eric Gerlach presented to the Board an update on Ben Brown's behalf. 
+  We can set up direct debit payments provided 2 of the 3 signing officers 
+  
+
+8.2. Insurance
+
+ACTIONS
+  Eric Gerlach & Ben Brown will arrange direct debit payment for the 
+  previously approved EnCon Insurance Policy on Tuesday September 8, 2009.
+
+8.3. Buildout
+
+* Security
+  No update until James Bastow returns.
+    
+    
+* Ceiling
+    
+PRESENTATION
+  Eric Gerlach presented to the Board that he is continuing his work 
+  blowing out the ceiling.   
+    
+* Windows
+    
+PRESENTATION
+  Darin White presented to the Board that he will continue work on the 
+  windows over the coming weekend.
+    
+* Painting
+    
+DISCUSSION
+  There was a brief discussion about the upcoming painting of the space. 
+  
+ACTIONS
+  Robert Gissing & Alexandra Dysinski will organize all of the painting 
+  details for the coming weekend.
+    
+* Organization for the Weekend
+
+ACTIONS
+  Robert Gissing & Alexandra Dysinski will organize all of the buildout 
+  details for the coming weekend.
+  Eric Gerlach will post a call for volunteers to the mailing list
+  
+* Flooring
+
+DISCUSSION
+  There was a discussion regarding flooring options for all three rooms. 
+  We may want to improve the work room flooring in the future, but for 
+  now washing is probably sufficient. 
+
+ACTIONS
+  Robert Gissing will find out by September 5 if Garage paint is 
+  suitable for the front room, otherwise he will price floor paint
+  Robert Gissing will tile the kitchen floor and backsplash
+
+
+8.4. Logo
+  
+DECISIONS
+  Motion Passed: That the logo known as "the socket" be adopted 
+  as the Kwartzlab Society Inc. logo, font TBD.
+  
+    Motion Moved By: Robert Gissing
+    Motion Seconded By: Ben Brown
+    In Favour: 5
+    Opposed: 0
+    Abstained: Eric Gerlach
+  
+
+8.5. Website/mailing lists
+Deferred due to Stephanie Smith's absence.
+
+8.6. Grand opening
+* Party
+    
+DISCUSSION
+  There was a discussion regarding planning which needs to be 
+  completed for the Grand Opening Ceremonies. We'll need to 
+  organize some opening remarks, thank people for coming, etc. 
+  We also need to provide an opportunity for political guests 
+  to speak.
+
+ACTIONS
+  Eric Gerlach will organize political guests.
+    
+  o Alcohol
+  PRESENTATION    
+  Eric Gerlach presented to the Board an update on Natalie's 
+  progress in arranging for alcohol at the event. Natalie will 
+  be visiting the LCBO on September 5, to get an update on our 
+  license. Natalie has also volunteered to organize food.  
+  We are legally obligated to serve food with Alcohol.
+  
+  ACTIONS
+  Natalie will price out catering options at 50 and 75, determine 
+  on-demand food option.
+      
+  o Fire Code 
+  No Update.
+      
+* Other events 
+    
+PRESENTATION
+  (SOMEBODY) presented to the Board an update on Andrew Mackie's 
+  efforts to organize Project Presentations at the Grand Opening. 
+  People have been posting projects to present in the forums.
+
+8.7. Converting club members to corporate members
+
+DECISIONS
+  Motion Passed: Be it resolved that Katrina Somers & Cheryl Mok are 
+  admitted to membership in KwartzLab Society Inc.
+  
+    Motion Moved By: Eric Gerlach
+    Motion Seconded By: Cedric Puddy
+    In Favour: 6
+    Opposed: 0
+    Abstained:
+
+ACTIONS
+  Eric Gerlach will edit the audit exemption form to add clarification
+  for new members: that the form no longer has options, and that it 
+  contains language to make it clear that it is not required for membership.  
+
+8.8. Engaging politicians & municipalities
+    
+ACTIONS
+    Eric Gerlach will generate invitations for hand delivery, find 
+    volunteers to deliver them.
+
+8.9. SoOnCon Update (was: Hackerspace alliances) 
+  
+PRESENTATION
+ Darin White presented to the Board an update on the SoOnCon Event. 
+ Organizers have narrowed down a price ($25 for first 50 registrations), 
+ and set a preliminary schedule (Friday will be BBQ, Saturday talks and 
+ food, busses from Hamilton to Toronto for Nuit Blanche). They are hoping 
+ to have about 20 talks scheduled, which are being organized on the SoOnCon 
+ Wiki.  Organizational calls are happening Thursday Night, 8pm, on the 
+ Telephreaks Open call line.
+
+DISCUSSION
+ There was a discussion regarding the extend to which Kwartzlab should invest 
+ in this event. 
+
+DECISIONS
+  It was agreed by the general consensus of the Board that Kwartzlab Society Inc. 
+  should not commit any corporate money to this event.
+
+  Motion Passed: Be it resolved that Kwartzlab Society Inc. will be a partner in 
+  SoOnCon.
+  
+    Motion Moved By: Darin White
+    Motion Seconded By: Eric Gerlach
+    In Favour: 5
+    Opposed: 0
+    Abstained: Alexandra Dysinski
+
+ACTIONS
+  Darin White will prepare & present a talk on Kwartzlab for SoOnCon.
+  
+
+9. New Business
+---------------
+
+9.1. Kyle Spaans's membership status
+  
+PRESENTATION
+  Eric Gerlach presented to the Board a summary of Kyle Spaan's situation. 
+  While he has paid the sign-up fee as a Founding Member, he will be away 
+  on work term for 4 months, and would like to defer his membership until 
+  he returns in January 2010.
+
+DISCUSSION
+  There was a discussion regarding what sorts or policies should be in place 
+  for putting a membership in hiatus, and whether or not there should be a 
+  penalty for doing so.
+
+DECISIONS
+  Motion Passed: Be it resolved that Kyle Spaan's is allowed to delay his 
+  membership without penalty until January 2010 and still be considered 
+  a founding member.
+  
+    Motion Moved By: Eric Gerlach
+    Motion Seconded By: Darin White
+    In Favour: 6
+    Opposed: 0
+    Abstained:
+
+ACTIONS
+  Eric Gerlach will communicate the Board's decision to Kyle Spaans.
+      
+
+9.2. Hackerspaces.org Call-in
+
+DISCUSSION
+  There was a discussion regarding the upcoming Hackerspaces.org call-in. 
+  Both Eric Gerlach & Darin White intend to participate.
+
+ACTIONS
+  Eric Gerlach will provide an update on the Hackerspaces.org call-in 
+  regarding the State of the Nation at Kwartzlab.
+
+9.3. New Members
+DECISIONS
+    Motion Passed: Be it resolved that Jessica Clayman is admitted to 
+    membership in KwartzLab Society Inc.
+    
+      Motion Moved By: Eric Gerlach
+      Motion Seconded By: Alexandra Dysinski
+      In Favour: 6
+      Opposed: 0
+      Abstained:
+
+9.4. Bylaws we might consider enacting at the first general meeting
+    
+DISCUSSION
+  There was a general discussion regarding what by-laws should be enacted 
+  at the first general meeting.
+
+ACTIONS
+    Eric Gerlach will draw up a first draft of our by-laws, and post 
+    them to the members list for discussion.
+
+
+9.5. Presentations before Municipal Councils 
+
+PRESENTATION
+  Darin White presented to the Board that he has contacted Susan Greatrix, 
+  the Secretary of Waterloo City Council, to arrange an opportunity to 
+  introduce Kwartzlab Society Inc to Waterloo City Council. 
+
+DISCUSSION
+  There was a discussion regarding the process by which we formally 
+  contact the public. The Board should approve any formal communication 
+  opportunities first.
+  It was also noted that City Council meetings are televised by Rogers, 
+  which means any presentation we make for Council has the potential to 
+  reach a larger audience.
+
+DECISIONS
+  Motion Passed: Be it resolved that Darin White has permission to make 
+  a presentation to Waterloo City Council, and that Robert Gissing has 
+  permission to make a presentation to Kitchener City Council.
+  
+    Motion Moved By: Eric Gerlach
+    Motion Seconded By: Robert Gissing
+    In Favour: 6
+    Opposed: 0
+    Abstained:
+
+
+10. Next board meeting
+----------------------
+
+It was agreed by the general consensus of the Board that unless/until 
+announced otherwise, Kwartzlab Society Inc. Board Meetings will be 
+held every Wednesday evening at 1930. The next Board Meeting is 
+therefore scheduled for Wednesday September 9, 2009, 1930 EDT.
+
+11. Adjournment
+---------------
+
+The meeting was adjourned at  2150 EDT.
+  Motion Moved By: Eric Gerlach
+  Motion Seconded By: Alexandra Dysinski
+  In Favour: 6
+  Opposed: 0
+  Abstained:
