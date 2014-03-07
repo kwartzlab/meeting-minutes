@@ -1,0 +1,41 @@
+{{Meeting
+|Date=2011-06-02
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20110602 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of Previous Meeting Minutes: 
+## 2011-05-19
+## 2011-05-05
+## 2011-03-10
+## 2011-03-04
+## 2011-02-08
+## 2011-02-03
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Heavy Equipment Lab
+### Security of Boiler Room Door
+## Trillium Grants
+## Business Plan
+## AGM
+# New Business
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+Please RSVP by end of day June 1. A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Gus, Alex, Ben
+
+==== Regrets ====
+Paul
+
+==== Unknown ====
+Eric

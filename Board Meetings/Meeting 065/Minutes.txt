@@ -1,0 +1,18 @@
+{{Meeting
+|Date=2011-06-30
+|Time=1930
+|Address=McCabe's Bar & Grill (tentative)
+|Meeting Type=Board Meeting
+}}
+=== Director RSVP ===
+
+Please RSVP by end of day June 29. A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Rob, Gus, Eric, Alex, Darcy
+
+==== Regrets ====
+James, Andrew
+
+==== Unknown ====
+Paul, Ben

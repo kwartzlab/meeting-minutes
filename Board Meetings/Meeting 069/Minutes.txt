@@ -1,0 +1,10 @@
+{{Meeting
+|Date=September 13, 2011
+|Time=22:20
+|Address=Kwartzlab
+|Meeting Type=Board Meeting
+}}
+* Call To Order
+* Approval of Agenda
+* Nomination of Michael L Davenport as a member of Kwartzlab Society Inc.
+* Adjournment
