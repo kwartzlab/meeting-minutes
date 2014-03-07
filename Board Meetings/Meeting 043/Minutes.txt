@@ -1,0 +1,220 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: September 9, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #43
+
+BOARD MEMBERS
+
+* Present: Ben Brown, Cedric Puddy, Eric Gerlach, Robert Gissing, Stephanie Smith
+* Absent: Paul Walker, Alex Wiliams
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Alexandra Dysinski, Jonathan Lamothe
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1.Call to Order
+---------------
+
+The President Robert Gissing acted as Chair for the meeting, and called
+the meeting to order at 1939 EST. The Secretary, Stephanie Smith,
+recorded the minutes. A quorum of directors was present, and the
+meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The President presented the agenda, which was accepted by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer reported to the Board that he is working a new budget. A draft will be posted to the mailing list shortly. We are still waiting to receive $4000 in RIM grant monies, which will be put towards our emergency fund. 
+
+Insurance rates have gone up $10/month.
+
+4. Report from the President
+----------------------------
+
+The President reported that our upcoming Art Wall artist has inquired about insurance coverage for her exhibit. Since the artwork is not our property, it would not be covered under our policy. We need to find out if we can get a rider to cover her artwork. If not, this will impact what she chooses to display. 
+
+
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+  
+    1. Update for action 42.1 on Steph Smith: downgrade WordPress install to 2.9
+    Done.
+    
+    2. Update for action 39.2 on Ben Brown: build new site in WordPress
+    Postponed until after SoOnCon.
+    
+    
+  5.2. Health & Safety Committee
+  ------------------------------
+  
+    1. Emergency Phone
+    Update on action 42.2 on Ben Brown: Bring in SIM for Nokia
+    Update on action 42.3 on Ben Brown: Sell Nokia on eBay 
+    No update on either.
+    
+    2. Set Board Procedure and Committee Appointments
+    Update on action 42.4 on Robert Gissing: post is ideas regarding H&S policy to Board list for discussion.
+    Robert Gissing summarized his ideas for the Board:
+    
+      * require members to sign something before obtaining keys
+      * cover "common sense basics", but keep it simple
+      * some things will require more formal orientation, but we need to be careful about the language
+      
+    Schedule Health & Safety discussion
+    Need to confer with Paul & Alex regarding a date. 
+    ACTION 43.1 on Robert Gissing: start discussion regarding date for H&S meeting
+    
+  5.3. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+    Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+    Kowalski's "shitbox" will work as a computer to drive this. It is in Ben's hands now.
+    Unit mailboxes in the foyer have been destroyed. Our mailbox in particular is no longer secure.
+    As we don't receive anything of consequence in the post, this may not be worth fixing.
+    
+  5.4. Marion Call concert
+  ------------------------
+  
+    Update on action 39.4 on Robert Gissing: contact Marion Call regarding the possibility of 
+    doing a concert at the Lab. 
+    On hold. Remove from future agendas.
+    
+  5.5. Review existing Board Procedures (should be done after every AGM)
+  ----------------------------------------------------------------------
+  
+  Motion passed: remove the board procedure regarding secret ballots for membership status changes.
+  Motion Moved: Ben Brown
+  Motion Seconded: Robert Gissing
+    In Favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+    5.5.1. Tool Committee
+    The Board reviewed comments submitted by Direct Alex Williams. In summary, the tool committee hasn't been
+    effective in procuring new tools for the space. 
+    
+    There was a detailed discussion regarding the intended goal of the committee, and whether these goals
+    are best served by a committee. There is a consensus among the board that members should be encouraged
+    to not only participate in identifying what tools kwartzlab should obtain, but also be able to take an
+    active role in actually procuring tools. In an ideal world, the board would not have to be directly
+    involved in purchasing tools.
+    
+    While the current committee is broken, that doesn't mean that the idea of having a committee for this
+    is a bad one. The board does need to monitor committee activity more closely, however, and step in
+    if the committee isn't working.
+    
+    There was further discussion of tool management in a more general sense. The electrical situation in
+    the tool room is seen as an impediment to obtaining new tools. As well, the tool room needs to be 
+    better organized.
+    
+    ACTION 43.2 on Ben Brown: find out if Karl is interested in organizing the tool room. 
+    
+    There was additional discussion regarding how best to catalogue the tools that we currently have. 
+    Robert Gissing volunteered to take photographs of all the major equipment.
+    Stephanie Smith volunteered to create an assets template in mediawiki.
+    
+  5.6. Kwartzlab Store
+  --------------------
+  
+    1. Update on action 41.3 on Steph Smith: ask members what Ladyada items they would like to see in the store
+    No member responses yet. 
+    
+    2. Update for action 41.2 on Paul Walker: organize arduino order for shop
+    Postponed
+    
+  5.7. How can we start fully using the Heavy Equipment Lab
+  ---------------------------------------------------------
+  
+    Update for action 41.6 on Robert Gissing & Ben Brown: schedule an appointment with Ed or Gus' brother-in-law 
+    and Burhan to investigate electrical.
+    
+    Robert Gissing reported that he has been unsuccessfully in scheduling either Ed or his brother-in-law. He is 
+    still trying, but in the meantime we should pursue other contacts. Gary, who will handle the venting, is ready 
+    to go whenever we are. Ben indicated that he had a contact to try.
+    
+    5.8. People's personal belongings and projects
+    ----------------------------------------------
+    
+    Postponed for Paul.
+    
+    5.9. SoOnCon
+    ------------
+    
+    Ben Brown reported to the board that ticket sales opened on Tuesday. We need to sell at least 75 tickets
+    to break even; 13 have sold so far.
+    
+    Ben also indicated that he would be obtaining the liquor license tomorrow. He & Gus will float the costs.
+    
+    The board discussed the possibility of providing a Friday-only ticket, for people who just want to come to
+    the party. Kwartzlab members would not require a ticket.
+    
+    A keynote speaker has been arranged.
+    
+    James Bastow should have the schematic for the boards ready to order this week. Andrew Mackie is going the 
+    software side of the badge. The cost of the badge should still come in at around $15.
+    
+    5.10. Internet Radio Station
+    ----------------------------
+    
+    Robert Gissing reported on his meeting with Mary Lou. She was originally hoping that we might have space for 
+    them to set up an actual studio, but we do not. She is still hoping to find "some synergy" with Kwartzlab 
+    members, and will be looking to us for technical expertise. No word yet on when the first meeting will be 
+    scheduled; Gus indicated that her schedule was busy, and so nothing may happen right away.
+    
+    5.11. Steel Rails Sessions
+    --------------------------
+    
+    Ben Brown reported that 3 kwartzlab projects have been organized for Steel Rails Sessions: Bernie's LED 
+    sculpture & Ale's costumes will be exhibited in the car, and Ben's lightbulb installation will be exhibited in 
+    St. Jacob's. There is room in the car, if anybody else wants to contribute. 
+    
+    We will be in the DJ'd bar car. The DJ will be doing chip tunes. This is awesome.
+    
+    We need to provide Hilary with our power requirements.
+    
+6. New Business
+---------------
+
+  6.1. Open Data
+  --------------
+  
+  Eric Gerlach presented to the board regarding open data projects. A variety of open data is provided in the 
+  region:
+  
+    * transit data
+    * crime data
+    * property value data
+    
+  Disclosure is available for a lot of data, but it needs to be converted into a machine readable format. Once the 
+  Open Data folks have the data sets published, they would like to host a hackathon at kwartzlab to start building 
+  apps around it. 
+  
+8. Adjournment
+--------------
+
+The meeting was adjourned at 2055, by general consensus of the board.
