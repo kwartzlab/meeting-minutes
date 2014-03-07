@@ -8,7 +8,7 @@ Meeting Minutes
 * Date: Thursday, August 19, 2010
 * Time: 1930 EST
 * Location: KwartzLab Society Inc.
-* Meeting #62
+* Meeting #42
 
 BOARD MEMBERS
 
@@ -76,7 +76,7 @@ The President reported that we now have a reciprocating metal hack saw in the to
 Update for action 39.2 on Ben Brown: build new site in WordPress 
 
 Downgrade WP 2.9. Steph will do early next week.
->> ACTION 43.1 Steph to downgrade staging to 2.9
+>> ACTION 42.1 Steph to downgrade staging to 2.9
            
 Mediawiki will be used for assets
            
@@ -93,15 +93,15 @@ We have a phone!! It is not GSM, so we can't use the $100 SIM card that Ben has 
 
 We will use Nokia (GSM until we can sell it), and will then buy a new Rogers phone with the proceeds. Back to the original plan.
 
-ACTION 43.2 on Ben to bring the SIM in.
+ACTION 42.2 on Ben to bring the SIM in.
            
-ACTION 43.3 Ben will eBay the Nokia.
+ACTION 42.3 Ben will eBay the Nokia.
 
 6.2.2. Set Board Procedure and Committee Appointments 
 
 Gus came up with 4 points that we can use to create a H&S policy to put on membership application.
            
-ACTION 43.4 on Gus to post his ideas to the Board list.
+ACTION 42.4 on Gus to post his ideas to the Board list.
 
 6.3. Workshops
 
@@ -142,7 +142,7 @@ Need to compile list of other initial inventory to begin.
 We only have a "personal" PayPal account. In order to accept online credit card payments, we may need to upgrade to merchant account.
            
            
->> ACTION 43.4 on Steph Ping members -- what Ladyada items do you want.
+>> ACTION 42.5 on Steph Ping members -- what Ladyada items do you want.
 
 6.8. KwartzCon
 
@@ -198,7 +198,7 @@ The Schwaben Club should cost less than $350 for the day. Ticket prices need to 
 
 If we want to sell booze on Friday, we need to get a liquor license ASAP. Ben Brown volunteered to do this.
 
->> ACTION on Eric Gerlach: contact Cory Doctorow about possibility for Keynote speaker.
+>> ACTION 42.5 on Eric Gerlach: contact Cory Doctorow about possibility for Keynote speaker.
 
 7.4. Internet Radio Station
 

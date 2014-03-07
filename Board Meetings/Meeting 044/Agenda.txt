@@ -1,0 +1,37 @@
+{{Meeting
+|Date=2010-10-07
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+#Call to Order
+#Approval of the Agenda
+#Report from the Treasurer
+#Report From President
+#Old Business
+##Website and Mailing Lists
+###Update for action 39.2 on Ben Brown: build new site in WordPress 
+##Health & Safety Committee
+###Emergency Phone
+####Update on action 43.2 on Ben Brown: Bring in SIM for Nokia
+####Update on action 43.3 on Ben Brown: Sell Nokia on eBay 
+##Set Board Procedure and Committee Appointments
+###Update on action 43.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion.
+###Schedule Health & Safety discussion
+###Update on action 44.1 on Robert Gissing: propose a date for the H&S discussion on the BoD list 
+##Need of alarm system and anti-burglary system
+###Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
+##KwartzLab Store
+###Update on action 43.5 on Steph Smith: ask members what Ladyada items they would like to see in the store
+###Update for action 41.2 on Paul Walker: organize arduino order for shop 
+##How can we start fully using the Heavy Equipment Lab
+###Update for action 43.6 on Robert Gissing & Ben Brown: schedule an appointment with [an appropriate individual] and Burhan to investigate electrical.
+###Update on action 44.2 on Ben Brown: talk to Karl William about organizing the tool room 
+##People's personal belongings and projects
+##SoOnCon
+##Tool Committe
+##Budget Revision 
+#New Business
+##Public Event: Ubuntu Release Party (Oct 16) 
+#Action item review
+#Adjournment

@@ -1,33 +1,136 @@
-{{Meeting
-|Date=2010-10-21
-|Time=1930
-|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
-|Meeting Type=Board Meeting
-}}
-# Call to Order
-# Approval of the Agenda
-# Report from the President
-# Report from the Treasurer
-# Old Business
-## Website & Mailing Lists
-### Update for action 39.2 on Ben Brown: build new site in WordPress
-## Health & Safety Committee
-### Emergency Phone
-#### Update on action 43.2 on Ben Brown: Bring in SIM for Nokia
-#### Update on action 43.3 on Ben Brown: Sell Nokia on eBay
-### Set Board Procedure and Committee Appointments
-#### Update on action 43.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion.
-## Alarm & Anti-Burglary System
-### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
-## KwartzLab Store
-### Update for action 41.2 on Paul Walker: organize arduino order for shop
-### Update for 45.1 Ben to forward new distributor agreement for Arduinos to BoD
-## Heavy Equipment Lab
-## People's personal belongings and projects
-## Budget Revision
-### Update for 45.2 Ben to post new budget to Board list for review.
-## Public Event: Ubuntu Release Party (Oct 16)
-# New Business
-## Open Data Hackathon
-# Action Item Review
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: October 21, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #46
+
+BOARD MEMBERS
+
+* Present: Paul Walker, Cedric Puddy, Eric Gerlach, Stephanie Smith
+* Absent: Ben Brown, Alex Wiliams, Robert Gissing
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Alexandra Dysinski, Jonathan Lamothe
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1.Call to Order
+---------------
+
+Board Chair Eric Gerlach acted as Chair for the meeting, and called
+the meeting to order at 1954 EST. The Secretary, Stephanie Smith,
+recorded the minutes. A quorum of directors was present, and the
+meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the agenda, with the addition of Open Data to New Business, which was accepted by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer was not available to report.
+
+4. Report from the President
+----------------------------
+
+The President was not available to report.
+
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+  
+  Update for action 39.2 on Ben Brown: build new site in WordPress
+  Ben Brown was not available to provide an update.
+  
+  5.2. Health and Safety Committee
+  --------------------------------
+  
+  1. Emergency Phone
+    Update on action 42.2 on Ben Brown: Bring in SIM for Nokia
+    The Directors present texted the phone; it works. 
+    The membership needs to be advised that the phone exists, and told where to find it.
+  
+    ACTION 46.1 on Steph Smith: notify the membership regarding the existence & particulars of the emergency phone
+  
+    Update on action 42.3 on Ben Brown: Sell Nokia on eBay Pending
+    Pending.
+    
+  2. Set Board Procedure and Committee Appointments
+  
+    Update on action 42.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion. 
+    Pending. 
+    
+    ACTION 46.2 on Eric Gerlach: remind the membership about the meeting
+    
+  5.3. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+  Update on action 39.3 on Ben Brown: install webcam security cam outside our front door.
+  Pending.
+  There was brief discussion regarding whether somebody else should just do this, if Ben is busy.
+  Everything is at the lab. Ben should be consulted first, in case there are any particulars
+  we don't know about.
+    
+  5.4. Kwartzlab Store
+  --------------------
+  
+  Update for action 41.2 on Paul Walker: organize arduino order for shop
+  Pending.
+  
+  Update for 44.1 Ben to forward new distributor agreement for Arduinos to BoD
+  Pending.
+  
+  5.5. How can we start fully using the Heavy Equipment Lab
+  ---------------------------------------------------------
+  
+  No update.
+  
+  5.6. People's personal belongings and projects
+  ----------------------------------------------
+  
+  No update.
+  
+  5.7. Budget Revision
+  --------------------
+  
+  No update.
+  
+  5.8. Public Event: Ubuntu Release Party
+  ---------------------------------------
+  
+  There was a brief discussion regarding how the event went. None of the Directors present attended the party,
+  however some left over cake tasted. The cake was good.
+  
+6. New Business
+---------------
+
+  6.1. Open Data
+  --------------
+  
+  Eric Gerlach spoke with the Open Data folks. They are still interested in holding a hackathon at Kwartzlab, but would like to postpone this until mid-January, when students would be able to participate.
+  
+7. Adjournment
+--------------
+
+The meeting was adjourned by general consensus at 2005.
+  

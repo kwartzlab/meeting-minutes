@@ -1,15 +1,269 @@
-{{Meeting
-|Date=2010-11-25
-|Time=1930
-|Address=KwartzLab Society Inc., 283 Duke Street West, Unit 106, Kitchener, ON
-|Meeting Type=Board Meeting
-}}
-# Call to Order
-# Approval of the Agenda
-# New Business
-## Health & Safety Policy 
-## New Member Applicant: Mark Pitcher
-## Electrical Quote
-## Space Concerns (Darin White)
-# Action Item Review
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, November 25, 2010
+* Time: 1930 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #48
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy, 
+		Robert Gissing, Paul Walker, Stephanie Smith
+* Absent: Alex Williams, Eric Gerlach
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDEES
+
+* KwartzLab Members: Darin White, Karl Williams, Jonathan Lamothe, Rob Adler, 
+    Doug Moen, Chris Brunner
+
+Distribution: To all KwartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+President Robert Gissing chaired the meeting, calling it to order at 1934 EST. Secretary Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the Agenda to the Board. The Board agreed by general consensus to add President and Treasurer Reports to the agenda, before any New Business. The agenda, thus amended, was approved by the general consent of the the Board.
+
+3. President's Report
+---------------------
+
+The President reminisced briefly about his recent motorcycle trip across the United States. If it was a life-changing experience, he hasn't noticed yet. However, the President will let the Board know when his life does change.
+
+The President also congratulated member Doug Moen on his recent presentation regarding 3-D printing at Ignite! Waterloo. Doug did KwartzLab proud.
+
+Doug commented briefly on the current state of the Mendel RepRap build. He doesn't have a strong ETA on completion yet, but is hopeful that it will be done for the new year. All of the electronics still need to be worked out, plus more "fiddling". Doug also acknowledged that while he hasn't had time to dedicate to the project over the past week, Don & Ron Harding have been working hard on it.
+
+Robert Gissing also commented briefly on the current state of the CNC router table build. It is still on track with 384 ounce/inch motors which can "rip the meat off your arm".
+
+Gus indicated that he still needs to buy much of the hardware to complete the build, but all of the other materials are in hand. The controller has been tested, and the motors are ready. He & Karl will be routing out some MDF parts shortly, thus achieving our dream of "machines making machines".
+
+4. Treasurer's Report
+---------------------
+
+The Treasurer presented the Board with a current financial report, which the Board accepted by general consent. Happily, we remain solvent. With the acceptance of RIM's Proud2Be donation, our balance is now in 5 digits!
+
+The Treasurer also reminded that Board that he will be drafting a revised budget, which better reflects our current spending patterns.
+
+5. New Business
+---------------
+
+  5.1. Health & Safety Policy
+  ---------------------------
+  
+  Director Robert Gissing presented the Board with a proposal for replacing 
+  the current "Health & Safety" policies.
+  
+  First, he recommends dropping the name "Health & Safety" all together, as
+  that's not what we are actually implementing. By calling it a "Health & 
+  Safety" policy, we may be opening ourselves up to more liability than we can 
+  reasonably bear. Instead, he recommends that we implement some usage 
+  policies which cover the minimum we can get away with.
+  
+  It is, for instance, important that we recognize we can not officially 
+  certify or train people on any equipment in our space, and we need to avoid 
+  language which suggests we can.
+  
+  To this end, he suggested the following 4 points that members should sign
+  off on, on the membership application:
+  
+  1. If you do not know how to use a piece of equipment be responsible and 
+  find someone who knows how to use the equipment to show you.
+
+  2. Do not use the power tools alone in the shop because if you hurt 
+  yourself there is no to help you.
+
+  3. Do not use the equipment and/or the space in an inappropriate way.
+
+  4. If you break or damage a piece of equipment, let someone on the board 
+  know so they can fix or replace the equipment.
+
+  There was a detailed discussion regarding these 4 points, largely entered
+  around which points are hard rules (to be enforced), and which are 
+  recommended guidelines. Number 2, for instance, is not something which we 
+  intend to enforce, we just want members to realize that if they do decide to 
+  use power tools while alone, its "at their own risk". 
+  
+  It was recommended that the language of the rules be adjusted to reflect 
+  these distinctions.
+
+  It was also suggestion that a 5th "all use is at your own risk" statement be 
+  added. 
+  
+  There was a brief discussion regarding the legality of such a clause, and 
+  whether or not it will help cover our respective asses. Being able to 
+  demonstrate that members were aware that there was a risk involved in using
+  equipment may help in the event of a law suit.
+  
+  Once the Board has finalized a draft of the new usage policy, Gus will   
+  have Russ the Lawyer review it.
+  
+  ACTION 48.1 on Stephanie Smith to post a summary of the discussion to the
+  BoD list, for review.
+  
+  5.2. New Member Applicant: Mark Pitcher
+  ---------------------------------------
+  
+  Motion: Be it resolved that Mark Pitcher is admitted to membership in 
+  KwartzLab Society Inc.
+
+    So moved by Robert Gissing.
+    Seconded by Stephanie Smith.
+    In favour:  5
+    Opposed:    0
+    Abstained:  0
+    Motion carries.
+
+  5.3. Electrical Quote
+  ---------------------
+  
+  Director Robert Gissing presented the Board with the following quote for 
+  updating the electrical in the Heavy Machine Room:
+
+    permit $200 approx.
+    materials $800 to $1000 for wire
+    panel $200
+    conduit $60
+    couplings $25
+    100 amp breaker for panel feed	$100
+    10 hours @ $40.00 = $400.00
+
+    total: $1785 - $1985
+    
+  The electrician who provided this quote indicated that he could have the 
+  work done before Christmas, if we were ready to proceed.
+
+  There was a lengthy discussion regarding the quote, and the work which needs 
+  to be done.
+
+  The quoted job covers service brought in from the main panel to heavy 
+  machine room, but does not included installation of a BX and outlets 
+  necessary to make the power actually useable. We can expect to spend several 
+  hundred more to reach that point.
+
+  Although the quote looks reasonable (the labour is cheap, and the 
+  electrician has indicated he won't mark up any of the materials used), the 
+  Board agreed that a second quote should be obtained. Gus offered to 
+  contact Waterloo Mechanical to arrange a second quote.
+
+  There was additional discussion regarding ways to bring the cost of 
+  materials down. Gus will obtain an itemized list of materials needed, 
+  which can be shared with the membership. The Board acknowledges, however, 
+  that waiting for members to source cheaper goods may end up taking longer 
+  than intended. There is some value in having the electrician look after 
+  everything.
+
+  ACTION 48.2 on Robert Gissing to obtain a quote from Waterloo Mechanical.
+  
+  ACTION 48.3 on Robert Gissing to get a list of actual materials, so we can 
+  see what members can source.
+
+  5.4. Space Concerns (Darin White)
+  ---------------------------------
+  
+  The Chair requested that the space concerns presentation & discussion be
+  time-boxed to 30 minutes. This request was accepted by the general consent 
+  of the Board.
+
+  Member Darin White presented the Board with a summary of recent concerns 
+  regarding our current location. See Appendix B. In light of these concerns, 
+  he asked the Board for permission to begin a field study of what alternative 
+  properties are available in K-W, to be completed by Dec 23. The Board could 
+  then use this report to evaluate how suitable our current location is.
+
+  Darin also asked the Board to refrain from spending any of RIM's Proud2Be 
+  donation monies until after his report has been tabled.
+
+  The Board agreed that keeping appraised of current market conditions is 
+  valuable, regardless of whether or not KwartzLab moves in the near future, 
+  and welcomes Darin's proposed report. 
+  
+  There was a discussion regarding the anticipated gentrification on 
+  the neighbourhood, and what impact (good or ill) this may have on our 
+  tenancy in the near future.
+  
+  The Board acknowledged that moving does cost a lot of money, however those
+  costs may be comparable to the costs involved with staying in our current 
+  location. Some concerns were also expressed that a move to a more desirable 
+  location will likely translate into higher rent. This will be revealed in 
+  Darin's final report. Darin indicated that given how growing reputation in
+  the community, he would also like to explore sponsorship opportunities which
+  may help offset those costs.
+  
+  Motion: Be it resolved that Darin White & Robert Gissing, plus additional 
+  members, have a mandate from the Board to write a report on other location 
+  opportunities for KwartzLab, to be tabled for consideration by Dec 23, 2010.
+
+  So moved by Robert Gissing.
+  Seconded by Ben Brown.
+  
+  Discussion: Darin reiterated his request that the Board place a spending 
+  moratorium on the RIM donation monies for the duration of his study.
+  
+  The Board responded that they appreciate how investing in major 
+  renovations (such as the electrical work proposed in item 5.3.) may increase 
+  the level of commitment they feel towards staying in the current location, 
+  which in turn may bias any decisions made regarding moving. 
+  
+  However, the Board was not inclined to formally commit to restricting any 
+  spending in the near term. Rather, the Board wants to remind the membership 
+  that the Board is always accountable to the membership, should be trusted to 
+  make good decisions, and has a documented history of being prudent, 
+  especially where money is concerned. The Directors present further affirmed, 
+  that any decisions regarding the proposed electrical work 
+  would be made based on feedback from the membership, and mindful of all of 
+  the other opportunities before KwartzLab, including a potential move.
+  
+  The Board also acknowledged that we have a surplus over and above RIM's
+  donation, and the danger of spending in excess of that surplus over the next 
+  month was very low.
+
+  Darin indicated that he was satisfied with the Board's response, and 
+  withdrew his request.
+  
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  Motion carries.
+  
+  ACTION 48.4 on Robert Gissing & Darin White to compile alternative location 
+  report.
+  
+6. Action Item Review
+---------------------
+
+48.1 Stephanie Smith will post the not H&S summary of this to Bod tomorrow.
+
+48.2 on Robert Gissing to obtain a quote from Waterloo Mechanical.
+
+48.3 on Robert Gissing to get a list of actual materials, so we can 
+see what members can source.
+
+48.4 on Robert Gissing & Darin White to compile alternative location 
+report.
+
+7. President's Closing Remarks
+------------------------------
+
+The President reminds everybody that the KwartzLab "Christmas//Kwanzaa/Hanuka/Yule/Saturday" party will be happening on Friday December 17.
+
+8. Adjournment
+--------------
+
+The meeting adjourned at 2041 by the general consent of the Board.
