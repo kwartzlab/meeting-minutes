@@ -1,0 +1,139 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, May 5, 2011
+* Time: 1930 EST
+* Location: KwartzLab Society Inc.
+* Meeting #61
+
+BOARD MEMBERS
+
+* Present:   Cedric Puddy, Robert Gissing, Ben Brown, Stephanie Smith, 
+               Alex Williams
+* Absent: 	 Paul Walker,Eric Gerlach
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDANCE
+
+* Members: Bevan Lantz, Jonathan Lamothe, Don Leibold
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The President, Robert Gissing, acted as chair for the meeting, calling it to order at 2055 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The Secretary presented the Agenda for the meeting, which was approved by general consensus.
+
+
+3. Report from the President
+----------------------------
+
+The President reported that he's been in contact with Martin DeGroot, regarding a meeting of local maker, artist, & DIY groups in the area. The meeting will be held at Globe Studios next Thursday, and Gus will be attending.
+
+The President also commented on the very awesome, arduino-based NotaCon badge, for which a breathalyzer module is available. 
+
+The President further commented on how much he is looking forward to the Annual General Meeting. 
+
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer warned the Board that although we have $7000 in the bank, we are dangerously close to not breaking even. A membership drive may be in order. Or, perhaps, a cash bar.
+
+
+5. Old Business
+---------------
+
+  5.1. Heavy Equipment Lab
+  ------------------------
+  
+  No update.
+  
+  5.2. Budget Revision
+  ---------------------
+  
+  No update.
+  
+  5.3. Maker Faire Toronto
+  ------------------------
+  
+  It is happening! We have volunteers for the KwartzLab table!
+  
+  5.4. Health & Safety
+  --------------------
+  
+  No update.
+  
+  5.5. Trillium Grants
+  --------------------
+  
+  Ben Brown reported to the Board that he has a draft of the 
+  application completed, which our liaison review in the 
+  next few weeks.
+  
+  The Board was reminded that the deadline for this application is in 
+  July, and that the grant is for $15,000.
+  
+  5.6. Business Plan
+  ------------------
+  
+  No update, although the Board is pleased to acknowledge that Alex 
+  Williams is an engineer, and has given the gift of light to the work 
+  room.
+  
+  
+6. New Business
+---------------
+
+  6.1. AGM
+  --------
+  
+  The Board discussed possible dates for the upcoming AGM. According 
+  to the By-Laws, nominations for the Board Election must be opened at 
+  least 4 weeks before the election. If nominations are opened this 
+  evening, the AGM could be held on Saturday June 4.
+  
+  The Board further discussed the idea of combining the AGM with some 
+  sort of social event, to lure more members out. 
+  
+  ACTION 61.1 on Stephanie Smith to open Board elections.
+  
+  6.2. The Hub
+  ------------
+  
+  Cedric Puddy reported to the Board that he has been in touch with 
+  Thom Ryan, of Communitech, regarding the fabrication room at the 
+  Hub. Communitech is concerned that this space is under-used, and 
+  they are looking for ways to bring more people in. Cedric is hoping 
+  to be able to organize a tour of the space for KwartzLab members, 
+  and then explore what partnership opportunities may be available. 
+  Thom Ryan is not the actual contact for this, though he will put 
+  Cedric in touch with said contact.
+  
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2018EST, by the general consensus of the Board. Huzzah.
+  
+  
+  
+  

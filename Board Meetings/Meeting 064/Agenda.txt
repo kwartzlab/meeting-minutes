@@ -1,0 +1,41 @@
+{{Meeting
+|Date=2011-06-16
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of AGM Minutes
+# Approval of June 2 Board Minutes
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Heavy Equipment Lab
+### Update on 62.1. Cedric Puddy to bring in drill bit necessary for installing dead bolt in boiler room door.
+### Update on 63.1. Robert Gissing to call John regarding wiring in the heavy equipment lab.
+## Trillium Grants
+## Business Plan
+## Communitech
+### Update on Action 63.2. Cedric Puddy to contact Thom Ryan regarding a tour of the Hub.
+# New Business
+## Legar Studios (Eric)
+# New Member Applicants:
+## Matthew McPherrin 
+## Sheldon Valeda
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Alex, Eric, Ben
+
+==== Regrets ====
+Gus
+
+==== Unknown ====
+Paul

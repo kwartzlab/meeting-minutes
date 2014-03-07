@@ -1,41 +1,150 @@
-{{Meeting
-|Date=2011-03-31
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
 
-# Call to Order
-# Approval of the Agenda
-# Report frm the President
-# Report from the Treasurer
-# Old Business
-## Heavy Equipment Lab
-### Electrical Work
-### Security of Boiler Room Door
-## Budget Revision
-### Update for 45.2 on Ben Brown: post new budget to Board list for review.
-## Purchasing Request: Cleaning Supplies (Vacuum cleaner, accessories, microfibre clothes)
-## Maker Faire Toronto
-## Health & Safety
-### 59.1. on Ben to co-ordinate with Gus, regarding contacting lawyer. 
-## Trillium Grants
-## Business Plan
-## Approving Public Events
-# New Business
-## Mailing List Moderation
-# Action item review
-# Adjournment
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, February 17, 2011
+* Time: 1930 EST
+* Location: KwartzLab Society Inc.
+* Meeting #60
 
-=== Director RSVP ===
+BOARD MEMBERS
 
-Please RSVP by end of day March 30. A minimum of 4 Directors are needed to make quorum. 
-
-==== Attending ====
-Steph, Cedric, Gus, Ben, Alex, Eric
-
-==== Regrets ====
+* Present:  Alex Williams, Cedric Puddy, Robert Gissing, Stephanie Smith
+* Absent: 	Eric Gerlach, Ben Brown, Paul Walker
+* Quorum:   Yes (4/7)
 
 
-==== Unknown ====
-Paul, Guy Fawkes
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Director Cedric Puddy acted as chair for the meeting, calling it to order at 1941 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the Agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair, and was approved by the general consent of the Board.
+
+3. Report from the President
+----------------------------
+
+The President reported that he had a breakfast meeting with Martin DeGroot, regarding the Arts Council, wherein he gave Martin an update on what we're doing. He also emailed Roger Farwell (CEES) a letter of introduction, and will be arranging a breakfast meeting in the next couple of weeks.
+
+Jessica Clayman will be our next Art Wall artist, and is appearing on the radio this evening.
+
+4. Report from the Treasurer
+---------------------------
+
+There was no Treasurer to report.
+
+5. Old Business
+---------------
+
+  5.1. Heavy Equipment Lab
+  ------------------------
+  
+  1. Electrical Work
+    Robert Gissing reported that he & John finished the electrical work. It took 8 hours to complete, and he was
+    present for the entire time. The job came in under $1200. We need to give John a cheque for the work.
+    
+    The lab is now ready for wiring, which we should be able to accomplish through volunteer member labour.
+    
+    ACTION 60.1: Gus to post to members list for somebody to manage internal wiring.
+    
+  2. Security of Boiler Room Door
+    There was a brief discussion regarding that state of the door. A dead bolt has been purchased, but is not yet 
+    installed. 
+    
+  5.2. Budget Revision
+  --------------------
+  
+  There was no Treasurer to report.
+  
+  5.3. Purchasing Request: Cleaning Supplied
+  ------------------------------------------
+  
+  Rob was not present to make his request.
+  
+  5.4. Maker Faire Toronto
+  ------------------------
+  
+  Ben was not present to report.
+  
+  5.5. Health & Safety
+  --------------------
+  
+  No update.
+  
+  5.6. Trillium Grants
+  --------------------
+  
+  There was no Treasurer to report.
+  
+  5.7. Business Plan
+  ------------------
+  
+  Alex Williams reported that he has not yet met with Andrew to work on the plan, but assures us this is no one's
+  fault. He is considering approaching somebody at Communitech to help work on this, as there may be an 
+  opportunity for synergy: they help start-ups; we do prototyping.
+  
+  Robert Gissing reported that he's signed a letter of support on behalf of Kwartzlab for THEMUSEUM. The letter
+  doesn't commit us to anything; it is just an open-ended statement of support for their upcomign electronic art 
+  show. He is hopeful that this make create an opportunity for reciprocal support. 
+  
+  5.8. Approval of Public Events
+  ------------------------------
+  
+  Alex Williams asked if there was a way that the we can approve public events via the mailing lists. The 
+  directors present agreed by general consensus that this would be a helpful change. However, it will require
+  a bylaw amendment.
+  
+6. New Business
+---------------
+
+  6.1. Mailing List Moderation
+  ----------------------------
+  
+  The board discussed recent trolling on the public discussion list, and the need for moderation on the list.
+  The board would prefer to not have to be directly involved in this -- preferably a moderator can be 
+  appointed, and they can arbitrate any conflicts on the list. 
+  
+  The board agreed that the mailing lists exist to serve the kwartzlab community first and foremost, and that
+  we have no responsibility to appease mailing list subscribers who are not otherwise members of our community.
+  
+  ACTION 60.2: Steph to post to members for a volunteer. Individual will be appointed at the pleasure of the 
+  board.
+  
+Ben Brown arrived at 2000
+
+7. Treasurer's Report
+---------------------
+
+The Treasurer reported to the board that we are not broke.
+
+8. Reimbursements
+------------------
+
+Motion Passed: To reimburse Cedric Puddy $25.43, for the cutting of 15 entryway keys.
+Motion Moved: Stephanie Smith
+Seconded: Alex Williams
+  In Favour: 4
+  Opposed: 0
+  Abstained: Cedric Puddy
+  
+9. Adjournment
+--------------
+
+By the general consent of the board, the meeting adjourned at 2006.

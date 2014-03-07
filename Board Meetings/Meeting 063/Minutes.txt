@@ -1,0 +1,130 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, June 2, 2011
+* Time: 1930 EDT
+* Location: KwartzLab Society Inc.
+* Meeting #63
+
+BOARD MEMBERS
+
+* Present:   Cedric Puddy, Robert Gissing, Stephanie Smith, 
+              Alex Williams
+* Absent: 	 Ben Brown, Paul Walker, Eric Gerlach
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+President, Robert Gissing, acted as Chair for the meeting, calling it to order at 1942 EDT. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Secretary, and approved by the general consent of the Board. 
+
+3. Approval of Previous Meeting Minutes
+---------------------------------------
+
+The Secretary submitted minutes for the 2011-05-19, 2011-05-05,  2011-03-10, 2011-03-04, 2011-02-08, & 2011-02-03 Board meetings.
+
+Motion: Be it resolved that the submitted Board meeting minutes be accepted.
+
+So moved by Robert Gissing.
+Seconded by Stephanie Smith.
+Discussion: Gus thanked Steph for the "really good" minutes.
+In favour: 4
+Opposed: 0
+
+Motion carries.
+
+
+4. Report from the President
+----------------------------
+
+The President reported that he has invited several friends of the lab to the upcoming AGM, including other local hackerspaces and maker groups.
+
+He also summarized a conversation held with several members on Tuesday, regarding the upcoming RIM Proud2Be donation. The consensus of the members he's spoken with is that we should put the money towards the purchase of a laser cutter. James Bastow recommends that KwartzLab purchase the same model that Site3 has purchased.
+
+The President also addressed the need for greater transparency with regards to membership numbers and payment status. 
+
+
+
+5. Old Business
+---------------
+
+  5.1. Heavy Equipment Lab
+  ------------------------
+  
+    5.1.1 Security of Boiler Room Door
+    
+    Cedric Puddy confirmed that he has an appropriate drill bit, and 
+    will bring it in over the weekend, so that the lock may be 
+    installed. The obligatory pun, referencing cured salmon, was made.
+    
+    Robert Gissing reported that he will be calling his Brother-in-Law 
+    regarding additional wiring work to be done in the heavy equipment 
+    lab.
+  
+  5.2. Business Plan
+  ------------------
+  
+  Robert Gissing & Alex Williams acknowledged that no progress has 
+  been made yet, however once they have a copy of the financial report 
+  (to be presented at the AGM), they'll be able to start work on it.
+
+  There was a brief discussion regarding ensuring that the membership
+  at large is invited to participate in any discussions regarding the
+  Business Plan, and that the AGM after-party may be a good 
+  opportunity to begin that discussion.
+  
+  5.3. Annual General Meeting
+  ---------------------------
+  
+  Ben Brown reported that the final nominee list has been posted.
+  
+  Robert Gissing reported that he intends to purchase a keg of 
+  Budweiser. He will be drinking alone.
+  
+  5.3. Communitech
+  ----------------
+  
+  Cedric Puddy indicated the he will follow up with Thom Ryan, 
+  regarding scheduling a tour of Communitech's Hub facility for 
+  KwartzLab members.
+  
+  
+7. Action Item Review
+------------------
+  
+62.1. Cedric Puddy to bring in drill bit necessary for installing dead bolt in boiler room door.
+
+63.1. Robert Gissing to call John regarding wiring in the heavy equipment lab.
+
+63.2. Cedric Puddy to contact Thom Ryan regarding a tour of the Hub.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2008 EDT.
+So moved by Alex Williams.
+Seconded by Stephanie Smith.
+In favour: 4
+Opposed: 0
+Abstained: 0

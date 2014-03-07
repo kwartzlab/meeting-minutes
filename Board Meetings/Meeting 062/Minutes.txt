@@ -1,0 +1,252 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, May 19, 2011
+* Time: 1930 EST
+* Location: KwartzLab Society Inc.
+* Meeting #62
+
+BOARD MEMBERS
+
+* Present:   Cedric Puddy, Robert Gissing, Ben Brown, Stephanie Smith, 
+              Eric Gerlach
+* Absent: 	 Paul Walker, Alex Williams
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDANCE
+
+* Members: Bevan Lantz, Karl Williams
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Board Chair, Eric Gerlach, called the meeting to order at 1958 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Secretary, and approved by the general consent of the Board. 
+
+
+3. Report from the President
+----------------------------
+
+The President reported that he has been in discussion with Martin DeGroot & Open Space; there will be a meeting between our two groups on June 1, where we can discuss opportunities for collaboration.
+
+The President also indicated that he has lined up artists for exhibit in June, July, and September.
+
+There was a brief discussion regarding donation/grant opportunities in the works: TreeHaus has received Trillium monies for organizing public spaces; James Bastow has offered to spearhead this year's Proud2Be applications.
+
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer reported that he has just completed a large deposit, and cut a reimbursement cheque to Rob Adler. He also reported that our membership numbers are currently at the break-even point -- any further shrinkage will have us operating in a deficit.
+
+There was a lengthy discussion regarding membership drive initiatives, and ways we might bring new members into the space. Items of interest include purchasing a laser cutter, holding more public workshops, and stronger promotions for public events. 
+
+The Board agreed that this is a discussion which should be held with the membership-at-large, and that the upcoming AGM & party would be an ideal time to do so.
+
+
+5. Old Business
+---------------
+
+  5.1. Heavy Equipment Lab
+  ------------------------
+  
+    5.1.1 Security of Boiler Room Door
+    
+    Eric Gerlach indicated that installing the new deadbolt requires a 
+    drill bit which we do not have in the lab. Cedric Puddy believes 
+    has an appropriate bit, and will bring it in.
+    
+  5.2. Budget Revision
+  --------------------
+  
+  The Treasurer indicated that as the current term is nearly up, he is
+  leaving the budget revision as an exercise for the new Treasurer. 
+  Robert Gissing now hopes that it won't be him. The Board agreed by 
+  general consensus that postponing was fine.
+  
+  
+  5.3. Maker Faire Toronto
+  ------------------------
+  
+  Ben Brown reported to the Board that Maker Faire Toronto fucking 
+  rocked. The KwartzLab table was both large and awesome. The liquid 
+  nitrogen ice cream workshop was particularly popular, and the moment 
+  when Doug froze his shoes was particularly entertaining. 
+  
+  Ben also reported that the turnout for Maker Faire was excellent -- 
+  approximately 3000 people turned out. There has been talk of getting 
+  sponsorship from O'Reilly for the next faire.
+  
+  
+  5.4. Health & Safety
+  --------------------
+  
+  The Board agreed by general consensus to approve the new Health & 
+  Safety policy, even though it hasn't been reviewed by the lawyer 
+  yet. Given the "non-policy" nature of the new policy, there is no 
+  tricky legalese to navigate.
+  
+  Motion: Be it resolved that the following text be adopted as the new 
+  Health & Safety Policy of KwartzLab Society Inc.:
+  
+    "Don't use equipment you don't know how to safely use. When in 
+    doubt, find someone who can show you how to use it.
+
+    "Don't use equipment, or the space, in inappropriate ways. 
+    Drinking and power tools don't mix.
+
+    "Report broken or damaged equipment to the Tool Committee or 
+    the Board of Directors. 
+
+    "If you're alone in the lab, no one can hear you scream. No 
+    one can help you, if you have an accident. Make sure you know
+    where the emergency phone is, before you need it."
+  
+  So moved by Robert Gissing.
+  Seconded by Ben Brown.
+  
+  Discussion: There was a brief discussion regarding what should be 
+  done in the event of broken or damaged equipment. The Board agreed, 
+  by general consensus, to add the following clause to the policy:
+  
+    "Report broken or damaged equipment to the Tool Committee or 
+    the Board of Directors. Put a sign on it. Do not use it."
+    
+  The Board confirmed that this new Health & Safety policy will need 
+  to be added to the membership agreement. Additionally, all current 
+  members will need to sign off on it.
+  
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  
+  5.5. Trillium Grants
+  --------------------
+  
+  Ben Brown confirmed that he will work with the new Treasurer in 
+  completing the Trillium Grant application.
+  
+  
+  5.6. Business Plan
+  ------------------
+  
+  No update; item postponed.
+    
+  5.7. Board Procedure: Approving Public Events
+  ---------------------------------------------
+  
+  Motion: Be it resolved that the Board adopts for the following as a 
+  Board Procedure:
+  
+    "The Board may approve the holding of public events within 
+    KwartzLab space through the verbal or written consent of a 
+    majority of directors, outside of a Board meeting. Any such 
+    approval must be ratified at a future Board meeting."
+    
+  So moved by Stephanie Smith.
+  Seconded by Ben Brown.
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  
+  5.8. Annual General Meeting
+  ---------------------------
+  
+  The Board reviewed what preparations were necessary for the upcoming 
+  Annual General Meeting. 
+  
+  Stephanie Smith volunteered to act as Elections Co-ordinator.
+  
+  Motion: Be it resolved that the Board appoints Stephanie Smith as 
+  Elections Co-ordinator for the 2011 Annual General Meeting.
+  
+  So moved by Eric Gerlach.
+  Seconded: Cedric Puddy
+  In favour: 4
+  Opposed: 0
+  Abstained: Stephanie Smith
+  
+  Motion carries.
+  
+  The Treasurer confirmed that he will have the previous year's 
+  financial report ready for the meeting. He also confirmed that he 
+  will review the audit waivers before the meeting, to ensure we don't 
+  need to appoint an auditor.
+  
+  There was a brief discussion regarding the current waiver form, and 
+  whether it might be simplified, such that merely signing the form 
+  indicated consent to waive the audit. The Board agreed by general 
+  consent that this change should be made.
+  
+  Robert Gissing indicated that his Jones soda provided the following 
+  fortune: "You will discover a new area of interest." The Board 
+  expressed their sympathies & trepidation.
+  
+  Eric Gerlach proposed the following agenda for the Annual General 
+  Meeting:
+  
+    President
+    2010 Financial Report
+    Board Elections
+    Adjournment
+    
+  The Board approved this by general consensus. Eric indicated that he 
+  will formalize the agenda tonight, and give it to Robert Gissing. 
+  Gus indicated that he will send out the AGM announcement once he has 
+  the finalized Agenda, later this evening.
+  
+  Motion: Be it resolved that that on Saturday June 4, at 7pm, 
+  KwartzLab Society Inc., will hold its Annual General meeting, at the 
+  headquarters of the corporation.
+  
+  So moved by Eric Gerlach.
+  Seconded by Robert Gissing.
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  
+6. Action Item Review
+------------------
+  
+62.1. Cedric Puddy to bring in drill bit necessary for installing dead bolt in boiler room door.
+
+62.2. Robert Gissing to post announcement for the Annual General Meeting.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2046 EST.
+So moved by Ben Brown.
+Seconded by Cedric Puddy.
+In favour: 5
+Opposed: 0
+Abstained: 0

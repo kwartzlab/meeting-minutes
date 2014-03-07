@@ -1,41 +1,108 @@
-{{Meeting
-|Date=2011-02-17
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
 
-# Call to Order
-# Approval of the Agenda
-# Approval of February 8 Board Meeting minutes
-# Report from the President
-# Report from the Treasurer
-# Old Business
-## Website and Mailing Lists
-### Update for action 39.2 on Ben Brown: build new site in WordPress
-## Need of alarm system and anti-burglary system
-## Heavy Equipment Lab
-### Electrical Work
-### Security of Boiler Room Door
-## Health & Safety
-## Budget Revision
-### Update for 45.2 on Ben Brown: post new budget to Board list for review.
-## KwartzLab Store
-### Bank Account
-# New Business
-# Action item review
-# Adjournment
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, February 17, 2011
+* Time: 1930 EST
+* Location: KwartzLab Society Inc.
+* Meeting #57
+
+BOARD MEMBERS
+
+* Present:  Alex Williams, Eric Gerlach, Ben Brown, Cedric Puddy,  
+            Stephanie Smith
+* Absent: 	Robert Gissing, Paul Walker
+* Quorum:   Yes (5/7)
+
+Kwartzlab Members Present: Alexandra Dysinski, Don Leibold
 
 
-=== Director RSVP ===
+Distribution: To all KWartzLab Society Board Members
 
-Please RSVP by end of day February 16. A minimum of 4 Directors are needed to make quorum. 
+----------------------------------------------------------------------
 
-==== Attending ====
-Steph, Cedric, Alex, Ben, Eric
-
-==== Regrets ====
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
 
 
-==== Unknown ====
-Gus, Paul
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Board Chair, Eric Gerlach, acted as chair for the meeting, calling it to order at 1959 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the Agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair, along with the request that the Report from the President and Old Business regarding Kwartzlab Store be removed. The agenda, so revised, was approved by the general consent of the Board.
+
+3. Approval of Previous Minutes
+-------------------------------
+
+The Secretary presented meeting minutes for February 8, for approval. 
+
+Motion: Be it resolved that the Board accepts the minutes presented for February 8, 2011.
+
+So moved by Ben Brown.
+Seconded by Stephanie Smith.
+In Favour: 5
+Opposed: 0
+Abstained: 0.
+
+Motion carries.
+
+4. Report from the Treasurer
+-----------------------------
+
+The Treasurer reported that he has downloaded the trillium application for the $15,000 grant, but has not yet had an opportunity to review it.
+
+He also advised that we should start thinking about fund-raising options to finance tool purchases.
+
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+  
+  Update for action 39.2 on Ben Brown: build new site in WordPress.
+  Ben Brown advises the board that the website is going to crash this weekend.
+  
+  5.2. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+  Ben Brown reported to the board that we now possess 2 cameras; do we want to do anything with the additional
+  camera?
+  
+  There was a brief discussion about the possibility of filling the hallway with broken cameras, as decoys.
+  This would make a good member project.
+  
+  5.3. Heavy Equipment Lab
+  ------------------------
+  
+  No update.
+  
+  5.4. Health & Safety
+  ---------------------
+  
+  No update.
+  
+  5.5. Budget Revision
+  --------------------
+  
+  No update.
+  
+  5.6. Kwartzlab Store
+  --------------------
+  
+  Paul Walker asked the Treasurer if a separate bank account could be opened for the store.
+  Yes, but Paul will need to meet with him at the bank, to arrange signing authority.
+  
+6. Adjournment
+--------------
+
+The meeting was adjourned at 2006, by general consensus.

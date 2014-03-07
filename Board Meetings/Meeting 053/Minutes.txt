@@ -1,0 +1,119 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, January 20, 2011
+* Time: 1930 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #53
+
+BOARD MEMBERS
+
+* Present:  Alex Williams, Cedric Puddy, Robert Gissing, Stephanie Smith
+* Absent: 	Ben Brown, Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+President, Robert, acted as chair for the meeting, calling it to order with the cry of "Australia -- aye, aye, we love you, amen.", at 1937 EST. The Secretary, Stephanie Smith, also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the President, with a request to drop the Treasurer's Report (as the Treasurer is not present), and previous minute approvals (as nobody has read them yet). No objections being noted, the agenda was approved as revised, by general consent.
+
+3. President's Report
+---------------------
+
+The President reported that he has not yet received a response from TEDxWaterloo folks, and will email them again.
+
+4. Old Business
+---------------
+
+  4.1. Website
+  ------------
+  
+  The President report that he saw Ben working on the website last night, and it looked to be nearly ready.
+  
+  4.2. Need of alarm system and anti-burglary system
+  ---------------------------------------------------
+  
+  Update on action 39.3 on Ben Brown: install webcam security cam outside our front door             
+  James Bastow is working on a box to hold the camera, similar to the boiler cam.
+  
+  4.3. Heavy Equipment Lab
+  ------------------------
+  
+    1. Electrical Work
+    
+      Robert Gissing presented the board with 3 quotes for the necessary electrical work. 
+      He also recused himself the approval vote, citing a potential conflict of interest.
+      Without Gus, the Board no longer has quorum, and will postpone the vote for a meeting when more
+      Directors are in attendance.
+      
+      ACTION 53.1 on Steph Smith: schedule a board meeting to pick an electrical quote
+      
+    2. Security of Boiler Room Door 
+    
+      Robert Gissing reported that a dead bolt still needs to be picked up.
+      
+  4.4. Health & Safety
+  --------------------
+  
+    1. Policy
+    No update.
+    
+5. New Business
+---------------
+
+  5.1. KW Little Theatre Request to use Space
+  -------------------------------------------
+  
+  Karen Murphy, of KW Little Theatre, asked if the theatre could come in one afternoon to build props/sets for an 
+  upcoming production. 
+  
+  There was a brief discussion regarding the request. Concerns were raised regarding the scheduling of this, as 
+  members have other events are planned for weekends this month. I.e., Wintereenmas. This could be a good test of 
+  how well the space can handle concurrent activities.
+  
+  If we did enable this, Kwartzlab would not be able to provide storage space for their projects.
+  
+  Motion Passed: to allow KWLT supervised guest access to build props which they will take home with them.
+  So moved by Robert Gissing.
+  Seconded by Stephanie Smith
+  Discussion: There were questions regarding tool use. Gus said as he be hosting their visit, he would supervise 
+  their tool use. His understanding is that they would be mostly using tools which they brought themselves.
+    In Favour: 4
+    Opposed: 0
+    Abstained: 0
+    
+6. Action Item Review
+---------------------
+
+13. Action item review
+39.2 on Ben Brown: build new site in WordPress 
+39.3 on Ben Brown: install webcam security cam outside our front door
+48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
+45.2 on Ben Brown: post new budget to Board list for review. 
+53.1 on Steph to post to BOD re: scheduling a meeting to pick a quote.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 1959, by the general consent of the board.

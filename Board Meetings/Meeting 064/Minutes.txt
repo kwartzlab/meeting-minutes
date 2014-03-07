@@ -1,41 +1,209 @@
-{{Meeting
-|Date=2011-06-16
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
-# Call to Order
-# Approval of the Agenda
-# Approval of AGM Minutes
-# Approval of June 2 Board Minutes
-# Report from the President
-# Report from the Treasurer
-# Old Business
-## Heavy Equipment Lab
-### Update on 62.1. Cedric Puddy to bring in drill bit necessary for installing dead bolt in boiler room door.
-### Update on 63.1. Robert Gissing to call John regarding wiring in the heavy equipment lab.
-## Trillium Grants
-## Business Plan
-## Communitech
-### Update on Action 63.2. Cedric Puddy to contact Thom Ryan regarding a tour of the Hub.
-# New Business
-## Legar Studios (Eric)
-# New Member Applicants:
-## Matthew McPherrin 
-## Sheldon Valeda
-# Action item review
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, June 16, 2011
+* Time: 1930 EDT
+* Location: KwartzLab Society Inc.
+* Meeting #64
+
+BOARD MEMBERS
+
+* Present:   Cedric Puddy, Ben Brown, Stephanie Smith, 
+              Alex Williams, Eric Gerlach
+* Absent: 	 Robert Gissing, Paul Walker
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDANCE
+
+* Members: Andrew Mackie, Darcy Casselman, Jonathan Lamothe, 
+            Chris Bruner
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
 
 
-=== Director RSVP ===
+Proceedings:
+==============
 
-A minimum of 4 Directors are needed to make quorum. 
+1.  Call to Order
+-----------------
 
-==== Attending ====
-Steph, Cedric, Alex, Eric, Ben
+The Board Chair, Eric Gerlach, called the meeting to order at 2004 EDT. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
 
-==== Regrets ====
-Gus
 
-==== Unknown ====
-Paul
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Board Chair, along with 3 amendments: 
+
+* Approval of AGM Minutes 
+* Approval of June 2 Board Minutes 
+* New business: Legar Studios 
+
+No objections were presented, and the agenda, with these amendments, was approved by the general consensus of the Board.
+
+3. Approval of AGM Minutes
+---------------------------------------
+
+The Secretary submitted minutes for the June 4, 2011 Annual General Members' Meeting
+
+Motion: Be it resolved that the submitted AGM minutes be accepted.
+
+So moved by Cedric Puddy.
+Seconded by Ben Brown.
+In favour: 5
+Opposed: 0
+
+Motion carries.
+
+4. Approval of June 2 Board Meeting Minutes
+-------------------------------------------
+
+The Secretary submitted minutes for the June 2, 2011 Board of Director's Meeting. They were accepted by the general consensus of the Board, although Jonathan Lamothe objected, with no specific objection.
+
+
+5. Report from the President
+----------------------------
+
+The President was not present to report.
+
+
+6. Report from the Treasurer
+----------------------------
+
+The Treasurer presented the Board with a current financial statement, which was accepted by general consensus.
+
+The Treasurer further indicated that RIM's Proud2Be donation has not yet been received, although it is expected any week now.
+
+The Treasurer also submitted two reimbursements for approval.
+
+Motion moved: Be it resolved that Ben Brown is to be reimbursed for the following purchases made on behalf of KwartzLab Society Inc.:
+
+  * $41.28 for a garbage can & cleaning products
+  * $48.57 for a second garbage can & garbage bags
+  
+So moved by Stephanie Smith.
+Seconded by Alex Williams.
+In favour: 4
+Opposed: 0
+Abstained: Ben Brown.
+
+Motion carries.
+
+The Board confirmed by general consensus that Ben Brown may sign his own reimbursement cheque, if an alternate signing authority is not available to do so.
+
+
+
+5. Old Business
+---------------
+
+  5.1. Heavy Equipment Lab
+  ------------------------
+  
+    5.1.1 Security of Boiler Room Door
+    
+    Cedric Puddy indicated that while he brought the necessary drill 
+    bit to the AGM, no drilling was done, due to the disruptive 
+    influence of alcohol. The bit is now in residence in the Board 
+    locker; all that remains is to locate the lock.
+    
+    5.1.2. Update on 63.1. Robert Gissing to call John regarding 
+    wiring in the heavy equipment lab.
+  
+    Alex Williams reported on behalf of Robert Gissing, that the 
+    electrician has been contacted, and confirms that he will come in 
+    on a yet-unspecified Saturday, to supervise wiring work. The Board 
+    agreed by general consensus to thank him for his time, with the 
+    gift card to a nice restaurant.
+    
+  5.2. Trillium Grants
+  --------------------
+  
+  Ben Brown indicated that the incoming Treasurer, Robert Gissing, 
+  intends to take over the application process. The incoming 
+  Treasurer was not present for comment.
+  
+  5.3. Business Plan
+  ------------------
+  
+  No update.
+  
+  5.4. Communitech
+  ----------------
+  
+  Cedric Puddy reported that the timing is currently poor for Thom 
+  Ryan; he will follow up in a couple weeks.
+  
+6. New Business
+---------------
+
+  6.1. Legar Studios
+  ------------------
+  
+  Eric Gerlach reported to the Board that he has been in discussions 
+  with the President of Legar Studios, a new artists' studio and 
+  workshop venue. There is mutual interest between KwartzLab and Legar 
+  Studios, and plans for reciprocal visits are in the works.
+  
+  6.2. Waterloo Central Railway
+  -----------------------------
+  
+  Cedric Puddy reported to the Board that he made contact with 
+  Waterloo Central Railway, during the last Steel Rails Sessions. 
+  There is an opportunity to organize a KwartzLab fieldtrip to their 
+  Restoration Shop. Cedric will follow-up on this opportunity, after 
+  July 1.
+  
+  6.3. New Members
+  ----------------
+  
+    6.3.1. Matthew McPherrin
+    ------------------------
+    
+    Motion: be it resolved that Matthew McPherrin is admitted to 
+    membership in KwartzLab Society Inc.
+    
+    So moved by Stephanie Smith.
+    Seconded by Alex Williams.
+    In favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+    Motion carries.
+    
+    6.3.1. Sheldon Valeda
+    ---------------------
+    
+    Motion: be it resolved that Sheldon Valeda is admitted to 
+    membership in KwartzLab Society Inc.
+    
+    So moved by Alex Williams.
+    Seconded by Ben Brown.
+    In favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+    Motion carries.
+  
+7. Action Item Review
+---------------------
+  
+63.2. Cedric Puddy to contact Thom Ryan regarding a tour of the Hub.
+64.1. Cedric Puddy to contact Waterloo Central Railway after July 1, regarding field trip opportunity.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2019 EDT.
+So moved by Cedric Puddy.
+Seconded by Ben Brown.
+In favour: 5
+Opposed: 0
+Abstained: 0

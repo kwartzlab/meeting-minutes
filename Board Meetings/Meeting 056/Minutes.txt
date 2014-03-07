@@ -1,0 +1,65 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Tuesday, February 8, 2011
+* Time: 2300 EST
+* Location: McCabe's Irish Pub & Grill , Kitchener, ON
+* Meeting #56
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy,  Robert Gissing,
+      Stephanie Smith
+* Absent: 	Alex WIlliams, Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Director, Ben Brown, acted as chair for the meeting, calling it to order at 2308 EST. The Secretary recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair. No objections being noted, the agenda was approved by general consent. 
+
+
+3.  Synchronous Hackathons
+---------------------------------
+
+Motion: Be it resolved that the Board approves establishing the monthly Synchronous Hackathons organized by Hackerspaces.org as regular, recurring, public events in KwartzLab. The Board further recognizes that Synchronous Hackathon events typically run the full weekend (not just 1 day), and that a KwartzLab member must be present in the lab for the duration of the event, if it is to remain open to the public.
+
+  * So moved by Ben Brown
+  * Second by Robert Gissing
+   
+  
+  * In Favour: 4
+  * Opposed: 0 
+  * Abstained: 0
+
+
+4. Adjournment
+---------------
+
+The meeting was adjourned by at 2310 EST.
+So moved by Stephanie Smith.
+Seconded by Cedric Puddy.
+In favour: 4
+Opposed: 0
+Abstained: 0

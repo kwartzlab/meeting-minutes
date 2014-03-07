@@ -1,0 +1,211 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, March 10, 2011
+* Time: 2000 EST
+* Location: KwartzLab Society Inc. Headquarters
+* Meeting #59
+
+BOARD MEMBERS
+
+* Present:   Eric Gerlach, Ben Brown, Alex Williams, Stephanie Smith
+* Absent:  Paul Walker, Robert Gissing, Cedric Puddy
+* Quorum:   Yes (4/7)
+
+OTHER ATTENDANCE
+
+* Members: Don Leibold, Ralph Janke, Bevan Lantz, Rob Adler
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Board Chair, Eric Gerlach, acted as chair for the meeting, calling it to order at 2010 EST. The Secretary, Stephanie Smith, also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair, with the following amendment: The Ubuntu Release Party is on April 30, not April 20. The Board approved the agenda, with this amendment, by general consent. 
+
+
+3. Report from the Treasurer
+----------------------------
+
+The Treasurer reported to the Board that: KwartzLab is still solvent; there is no comic today; he is still catching up on back deposits; our last rent cheque was deposited on time. This report was grudgingly accepted by the general consent of the Board. Comics are nice.
+
+4. Old Business
+---------------
+
+  4.1. Mailing Lists & Website
+  ----------------------------
+  
+  Ben Brown confirmed that the website migration is done!!!!!!11one. 
+  And there was much rejoicing. 
+  
+  Apropos of nothing, the Board also agreed to ban the number 2.
+  
+  4.2. Heavy Equipment Lab
+  ------------------------
+  
+  4.2.1. Electrical Work
+  
+  Ben Brown reported to the Board on behalf of Robert Gissing. Gus and 
+  the electrician will be coming in this weekend to run cable. Cable 
+  ended up being cheaper than expected, and so the total job should 
+  come in around $1100.
+  
+  4.2.2. Security of Boiler Room Door
+  
+  The Board confirmed that the deadbolt has not yet been installed.
+  
+  4.2.3. Budget Revision
+  
+  1. Update for 45.2 on Ben Brown: post new budget to Board list for 
+  review.
+  
+  Item pending.
+  
+5. New Business
+---------------
+
+  5.1. Public Event: Ubuntu Global Jam, April 12 2011
+  ---------------------------------------------------
+  
+  Ralph Janke requested the opportunity to hold a public Ubuntu Global 
+  Jam in the lab, on April 2.
+  
+  Motion: Make Ubuntu Global Jam a public event on April 2, 2011, for 
+  whatever hours they want.
+  
+  So moved by Eric Gerlach.
+  Seconded by Ben Brown.
+  
+  There was a brief discussion regarding whether we wanted to 
+  pre-approve all global jams as public events. Ralph indicated that 
+  there was no specific need to do so. He further indicated that the 
+  local Jam organizers have found the timing of the Global jams 
+  inconvenient (they are held a couple of weeks before the release 
+  party), and so in the future they may prefer to hold a different 
+  event, not timed with Global Jams. The Board agreed that approving a 
+  recurring event every six months is not a hardship.
+  
+  In favour: 4
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+
+  5.2. Public Event: Ubuntu Release Party, April 30 2011
+  ------------------------------------------------------
+  
+  Ralph Janke requested the opportunity to hold a public Ubuntu 
+  Release Party in the lab, on April 30.
+  
+  Motion: Make Ubuntu Release Party a public event on April 30, 2011.
+  
+  So moved by Eric Gerlach.
+  Seconded by Ben Brown.
+  In favour: 4
+  Opposed: 0
+  Abstained: 0
+  
+  Motion carries.
+  
+  5. 3. Purchasing Request: Cleaning Supplies
+  -------------------------------------------
+  
+  Rob Adler presented the Board with a purchasing request, to acquire 
+  additional (non-comsumable) cleaning supplies. In particular, we 
+  could use accessories for the Rigid vacuum cleaner, a new upright 
+  vacuum, and other miscellaneous supplies.
+  
+  There was a brief discussion regarding whether or not our current 
+  upright vacuum might be repaired.
+  
+  Motion: Be it resolved that the Board allocates $200 to Rob Adler 
+  for cleaning supplies.
+  
+  So moved by Eric Gerlach.
+  Seconded by Alex Williams.
+  
+  Discussion: If Rob needs more than $200 in order to repair or 
+  replace the upright vacuum, he can request a higher limit from the 
+  Board.
+  
+  In favour: 4
+  Opposed: 0  
+  Abstained: 0
+  
+  Motion carries.
+  
+  5.4. Maker Faire Toronto 
+  ------------------------
+  
+  Ben Brown presented the Board with an update on Maker Faire Toronto, 
+  which will be taking place on May 6-8. He is currently in 
+  discussions with Seth Hardy regarding a vendor table for KwartzLab. 
+  We should be able to get as much space as we want. Ben also 
+  indicated that Andrew Mackie has volunteered to help at our table.
+  
+  5.5. Business Plan
+  ------------------
+  
+  Alex Williams reported to the Board that he will be talking to 
+  Andrew Maxwell (of the Hub) in a couple weeks. Andrew has a lot of 
+  relevant domain knowledge, and could be a valuable resource for 
+  pulling together a business Plan. Alex would like to hold off on the 
+  Business Plan discussion until after that meeting.
+  
+  5.6. Health & Safety
+  --------------------
+  
+  There was a brief discussion regarding whether or not any progress 
+  has been made in discussing our proposed new policy with the lawyer. 
+  To the best of everyone's knowledge, Gus has not yet spoken to the 
+  lawyer. If Gus does not have time, can somebody else handle this?
+  
+  ACTION 59.1. on Ben to co-ordinate with Gus, regarding contacting 
+  lawyer.
+  
+  5.7. Trillium Grant
+  -------------------
+  
+  Ben Brown reported that the next Trillium Grant deadline is in July, 
+  and he is hoping to have an application ready for then. Ben has 
+  arranged to meet with local liaison in the next couple weeks to work 
+  on application.
+  
+  There was a brief discussion regarding other grant/corporate 
+  donation opportunities, specifically with RIM. Now that Darin White 
+  is no longer a member of KwartzLab, somebody else will need to 
+  pursue these opportunities. The Proud2Be grants, in particular, need 
+  to be facilitated by a RIM employee. 
+  
+6. Action item review
+---------------------
+
+  45.2 on Ben Brown: post new budget to Board list for review. 
+
+  59.1. on Ben to co-ordinate with Gus, regarding contacting lawyer.
+  
+
+7. Adjournment
+---------------
+
+The meeting was adjourned by the general consent of the Board at 2037 EST.
+

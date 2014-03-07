@@ -1,0 +1,41 @@
+{{Meeting
+|Date=2011-03-31
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+
+# Call to Order
+# Approval of the Agenda
+# Report frm the President
+# Report from the Treasurer
+# Old Business
+## Heavy Equipment Lab
+### Electrical Work
+### Security of Boiler Room Door
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+## Purchasing Request: Cleaning Supplies (Vacuum cleaner, accessories, microfibre clothes)
+## Maker Faire Toronto
+## Health & Safety
+### 59.1. on Ben to co-ordinate with Gus, regarding contacting lawyer. 
+## Trillium Grants
+## Business Plan
+## Approving Public Events
+# New Business
+## Mailing List Moderation
+# Action item review
+# Adjournment
+
+=== Director RSVP ===
+
+Please RSVP by end of day March 30. A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Gus, Ben, Alex, Eric
+
+==== Regrets ====
+
+
+==== Unknown ====
+Paul, Guy Fawkes
