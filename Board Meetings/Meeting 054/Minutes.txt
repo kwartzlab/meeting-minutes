@@ -1,0 +1,75 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Sunday, January 23, 2011
+* Time: 2000 EST
+* Location: Skype Teleconference
+* Meeting #54
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy,  Alex Williams,
+      Stephanie Smith
+* Absent: 	Robert Gissing, Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The Secretary, Stephanie Smith, acted as chair for the meeting, calling it to order at 1951 EST. The Secretary also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair. No objections being noted, the agenda was approved by general consent. 
+
+
+3.  Electrical Quotes
+---------------------------------
+
+The Board reviewed quotes to provide 100amp service to the heavy equipment room from an independent electrician named John, Conestogo Electric, and Harold Stecho. The quote from the electrician named John provides the best value for work to be done, and was also upfront regarding the cost of materials (and what we would save by providing our own).
+
+Motion: Having reviewed the provided quotes from John, Conestogo Electric, and Harold Stecho, the Board is resolved to proceed with John, spending up to $2000, plus tax, on the discussed electrical work in the heavy equipment room. 
+
+  * So moved by Stephanie Smith
+  * Second by Ben Brown
+  
+Discussion: The Board acknowledged that John's quote is for single-phase service. There was some discussion regarding whether the lab would be better served by 3-phase. Some of the equipment which we are looking at installing may require 3-phase, so this needs to be discussed, and decided upon, before John begins work. The Board is agreed to proceed with John in either case, although will have to re-approve the spending if the cost of 3-phase goes over $2000.   
+  
+  * In Favour: 4
+  * Opposed: 0 
+  * Abstained: 0
+  
+4. Action Items
+--------------------
+
+54.1 on Robert Gissing: Find out from John how a s-phase upgrade effects the quote
+
+54.4 on Robert Gissing: Obtain detailed materials list from John (for both single- and 3-phase)
+
+
+4. Adjournment
+---------------
+
+The meeting was adjourned by at 2002 EST.
+So moved by Cedric Puddy.
+Seconded by Ben Brown
+In favour: 4
+Opposed: 0
+Abstained: 0

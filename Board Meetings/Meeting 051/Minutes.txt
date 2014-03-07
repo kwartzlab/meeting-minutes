@@ -1,49 +1,325 @@
-{{Meeting
-|Date=2011-01-06
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, January 6, 2011
+* Time: 1730 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #51
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy, Robert Gissing, 
+      Stephanie Smith, Alex Williams
+* Absent: 	Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+OTHER ATTENDEES
+
+* KwartzLab Members: Bevan Lantz, Andrew Mackie, Pawel Czarny, James Bastow, Rob Adler
 
 
-# Call to Order
-# Approval of the Agenda
-# Report from the President
-# Report from the Treasurer
-# Old Business
-## Website and Mailing Lists
-### Update for action 39.2 on Ben Brown: build new site in WordPress
-## Need of alarm system and anti-burglary system
-### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
-## KwartzLab Store
-### Update for action 41.2 on Paul Walker: organize arduino order for shop
-## Heavy Equipment Lab
-### Electrical Work
-#### Update for action 48.2 on Robert Gissing: get an additional electrical work quote -- Conestoga Electrical on Jan 3; Harold Stecho to be scheduled.
-#### Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
-### Lighting
-## Health & Safety
-### Emergency Phone
-#### Update for action 43.3 on Ben Brown: Sell Nokia on eBay
-### Health & Safety Policy
-## kLARP Report
-## Budget Revision
-### Update for 45.2 on Ben Brown: post new budget to Board list for review.
-# New Business
-## Wintereenmas
-## Member Applicant: Don Leibold
-# Action item review
-# Adjournment
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
 
 
-=== Director RSVP ===
+Proceedings:
+==============
 
-Please RSVP by end of day January 4. A minimum of 4 Directors are needed to may quorum.
+1.  Call to Order
+-----------------
 
-==== Attending ====
-Steph, Cedric, Ben, Lemmy (Motorhead), Alex, Gus
+The President, Robert Gissing, acted as chair for the meeting, calling it to order at 1933 EST. The Secretary, Stephanie Smith, also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
 
-==== Regrets ====
-Eric, Paul
 
-==== Unknown ====
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the President. Director Alex Williams asked to add a comment regarding O'Reilly Books to New Business. No objections being noted, the agenda, including this addition, was approved by general consent. 
+
+3. Report from the President
+----------------------------
+
+The President reported to the Board that he has been in further touch with the TEDx organizers. They will be attending our next TON, at which point we can begin discussing what a collaboration between us might look like.
+
+Our next TON is the January Art Wall opening, featuring Agnes Agnes Niewiadomski; the President indicated that he was also invited Gord from CAFKA to join us.
+
+4. Report from the Treasurer
+----------------------------
+
+The Treasurer presented the Board with a financial report. This week's comic was printed in invisible ink, disappointing many of the Directors present. The Treasurer indicated that he was not able to make a deposit over the holidays, so we actually have more money that is shown in our bank account. Conversely, our Landlord has not yet cashed our November rent cheque.
+
+5. Old Business
+---------------
+
+  5.1. Website & Mailing Lists
+  ----------------------------
+  
+  5.1.1. Update for action 39.2 on Ben Brown: build new site in 
+  WordPress
+  
+  Ben Brown indicated that he has just received access to the back-end 
+  database, and can now begin migrating blog posts. All of the static 
+  content on the website has all ready been migrated either to 
+  WordPress or Mediawiki.
+  
+  He also indicated that we'll need some new photos for the site, and 
+  he will solicit among the membership. There is also a "KwartzLab" 
+  photo pool on flickr, and many of the photos there have all ready 
+  been released under some form of Creative Commons license.
+  
+  5.2. Alarm & Anti-Burglary Systems
+  ----------------------------------
+  
+  5.2.1. Update on action 39.3 on Ben Brown: install webcam security 
+  cam outside our front door
+
+  Ben Brown reported that James Bastow is looking for a project box to 
+  mount the camera.
+  
+  Robert Gissing indicated that he has picked up another camera, if we 
+  want additional cameras inside our space. The Board agreed by 
+  general consent that we should limit the number of cameras inside 
+  our space -- the current webcam is as far as we want to go at this 
+  point.
+  
+  5.3. KwartzLab Store
+  --------------------
+  
+  5.3.1. Update for action 41.2 on Paul Walker: organize arduino order 
+  for shop
+  
+  Paul Walker provided an update via email before the meeting, which 
+  the Secretary shared with the Board: the Unos have arrived, however 
+  he is out of town at the moment, and so hasn't accepted delivery 
+  yet. Paul will drop them off at the lab, and provide the Board with 
+  the final total, this weekend.
+  
+  There was a brief discussion regarding additional logistics and 
+  accounting concerns around the store. The Treasurer advised that the 
+  KwartzLab store books need to be kept separate from KwartzLab's 
+  operating books. A separate bank account will need to be 
+  established, and somebody charged with keeping it. The Treasurer 
+  further indicated that he would not be able to take on this 
+  responsibility. 
+  
+  The Board deferred further discussion regarding these matters, until 
+  Paul Walker can be present.
+  
+  5.4. Heavy Equipment Lab
+  ------------------------
+  
+  5.4.1. Update for action 48.2 on Robert Gissing: get an additional 
+  electrical work quote -- Conestoga Electrical on Jan 3; Harold 
+  Stecho to be scheduled.
+  
+  Robert Gissing reported to the Board that Jim from Conestoga 
+  Electric has reviewed the electrical work required in the heavy 
+  equipment lab, and should have a quote ready for us tomorrow.
+  
+  He is still trying to schedule a meeting with Stecho.
+  
+  Gus further reported that he talked with the building's furnace 
+  maintenance person. The boiler is not actually connected to the 
+  thermostat, and things are "a mess". 
+  
+  As well, somebody had kicked in the outside boiler room door last 
+  week. As our heavy equipment lab has access directly off of the 
+  boiler room, this is cause for concern. There was a brief discussion 
+  regarding securing our door with a better lock.
+  
+  5.4.2. Update for action 48.3 on Robert Gissing: get a list of 
+  actual materials, so we can see what members can source.
+  
+  Pending.
+  
+  5.4.3. Lighting.
+  
+  James Bastow and Karl Williams installed some "pretty ghetto" 
+  lighting in the heavy equipment lab. It will do for now, but needs 
+  to be upgraded after the electrical work is completed.
+  
+  5.5. Health & Safety
+  --------------------
+  
+  5.5.1. Update for action 43.3 on Ben Brown: Sell Nokia on eBay 
+  
+  No updated. The Board agreed to remove this item from future 
+  agendas, until there is further activity.
+  
+  There was a brief discussion regarding the placement and visibility 
+  of the emergency phone. Ben Brown indicated that Karl Williams is 
+  working on a box to hold it, which will make it more prominent.
+  
+  5.5.2. Health & Safety Policy
+  -----------------------------
+  
+  Robert Gissing indicated that he will be asking the Board for 
+  permission to engage half an hour of Russ the Lawyer's time. This 
+  will cost $130.
+  
+  5.6. kLARP Report
+  -----------------
+  
+  The Board had a lengthy discussion regarding the kLARP report, which 
+  was presented on December 23. Unfortunately, the most promising of 
+  the available spaces have a 2-year life span, and even these are 
+  more expensive than our current location. The general consensus of 
+  the Board was that although not perfect, our current location is 
+  still the best available option.
+  
+  The Board further agreed that regular surveys of the market, and 
+  re-evaluations of our current location are still valuable exercises. 
+  Given that are current lease is month-to-month, it is also valuable 
+  to have some sort of emergency exit strategy in mind.
+  
+  The Board further agreed that just because our current location is 
+  the best available option, we should not be complacent about the 
+  problems therein. We need to be proactive about securing our 
+  location, and do everything we can to ensure the safety and comfort 
+  of our members and guests.
+  
+  Motion: Having received & review the kLARP report, the board feels 
+  we are best served by our current place, and that the practice of 
+  regular reviews of available of real estate should be continued in 
+  future years.
+  
+  So moved by Cedric Puddy.
+  Seconded by Ben Brown.
+  In favour: 5
+  Opposed: 0
+  Abstained: 0
+
+  Motion passes.
+  
+  5.7. Budget Revision
+  --------------------
+  
+  5.7.1. Update for 45.2 on Ben Brown: post new budget to Board list 
+  for review.
+
+  Ben Brown indicated that he would have a budget draft posted to the 
+  Board list next week.
+  
+6. New Business
+---------------
+
+  6.1. Wintereenmas
+  -----------------
+  
+  Bevan Lantz presented the Board with his request to host a 
+  Wintereenmas games day in the lab, on Saturday January 29. The event 
+  would be open to the general public during the afternoon, but 
+  restricted to members and guests in the evening.
+  
+  There was a brief discussion regarding the success of last year's 
+  event.
+  
+  Motion: The Board approves a Wintereenmas gaming event on January 29 
+  2011, open to the public from 1-6pm.
+  
+  So moved by: Stephanie Smith
+  Seconded: Alex Williams
+  In favour: 5
+  Opposed: 0
+  Against: 0
+  
+  Motion passes.
+  
+  6.2. Member Applicant: Don Leibold
+  
+  The President addressed the Board regarding concerns that a member 
+  raised regarding Don Leibold's membership application. Although we 
+  have no formal policy or rule against sleeping in the lab, since our 
+  inception, our members have expressed concerns about people "living" 
+  in the lab, and our culture doesn't support habitual sleep-overs. It 
+  was requested that the Board ensures the applicant is aware of this 
+  culture. The President indicated that he & Alex Williams have all 
+  ready spoken with Don about this. 
+  
+  6.3. Purchase Requests
+  ----------------------
+  
+  Robert Gissing requested permission from the Board  to purchase a 
+  deadbolt, and to make appointment with the lawyer. 
+  
+  Motion: Be it resolved that Robert Gissing is empowered to spend up 
+  to $50 on a deadbolt for the Heavy Equipment Lab/Boiler Room door, 
+  and to make a half-hour appointment (valued at $130) with the 
+  lawyer.
+  
+  Moved by Ben Brown
+  Second Stephanie Smith
+  In Favour 4
+  Opposed 0
+  Abstained Robert Gissing
+
+  Motion passes.
+  
+  Robert Gissing also indicated that Kevin, friend of KwartzLab, has 
+  purchased some parts for the 3-D printer. Although he hasn't asked 
+  for a reimbursement, Gus wondered whether we should offer to 
+  reimburse him. 
+  
+  The Board was reminded that the 3-D printer has been sourced 
+  entirely by the donations of individuals, and that KwartzLab has not 
+  reimbursed anybody else for their contributions. Additionally, the 
+  Board has established a firm policy of not reimbursing purchases 
+  which were not approved in advance.  The Board decided that not only 
+  is offering a reimbursement in this case unnecessary and probably 
+  not expected, it would establish a precedent we don't want to set. 
+  Instead, we should thank Kevin for his generous contributions.
+  
+  6.4. O'Reilly Books
+  -------------------
+  
+  Alex Williams addressed the Board regarding a promotional offering 
+  that O'Reilly Books has extended to hackerspaces: O'Reilly will give 
+  free books to Hackerspaces in exchange for (>400 word) online 
+  reviews. This could be a great opportunity for us to populate our 
+  library, and generate some online content at the same time. 
+  
+  Alex Williams will get more info from O'Reilly, and solicit reviews 
+  from members.
+  
+  6.5. Sound System
+  -----------------
+  
+  Rob Adler asked to address the Board regarding the current audio 
+  set-up in the lab; the Board agreed by general consent.
+  
+  During presentational events, our current sound system does an 
+  incredibly poor job. We would benefit greatly from additional 
+  speakers, as well as a microphone.
+  
+  There was a brief discussion regarding what sorts of things might be 
+  possible, and what they would require. Ideally, we would be able to 
+  integrate, and separate, sound between the work room and the lounge 
+  at will. However, it is unlikely that anything can be done without 
+  spending some money.
+  
+  Rob offered to draft a proposal for the Board's review, which the 
+  Board agreed by general consent to consider.
+  
+7. Action Items
+---------------
+39.2 on Ben Brown: build new site in WordPress 
+39.3 on Ben Brown: install webcam security cam outside our front door 
+48.2 on Robert Gissing: get an additional electrical work quote.
+48.3 on Robert Gissing: get a list of actual materials, so we can see what members can supply
+45.2 on Ben Brown: post new budget to Board list for review. 
+43.3 on Ben Brown: Sell Nokia on eBay
+51.1 on Gus: purchase deadbolt for boiler room door
+51.2 on Alex: post to discuss list to let folks know about O'Reilly Books deal
+
+4. Adjournment
+---------------
+
+The meeting was adjourned by the general consent of the Board at 2024 EST.
+

@@ -1,0 +1,12 @@
+{{Meeting
+|Date=2011-01-11
+|Time=2000
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+
+#Call to Order
+#Approval of the Agenda
+#New Members: Don Leibold
+#Returning Members: Mark Smith
+#Adjournment

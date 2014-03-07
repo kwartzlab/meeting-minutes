@@ -1,0 +1,41 @@
+{{Meeting
+|Date=2011-02-17
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+
+# Call to Order
+# Approval of the Agenda
+# Approval of February 8 Board Meeting minutes
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Need of alarm system and anti-burglary system
+## Heavy Equipment Lab
+### Electrical Work
+### Security of Boiler Room Door
+## Health & Safety
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+## KwartzLab Store
+### Bank Account
+# New Business
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+Please RSVP by end of day February 16. A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Alex, Ben, Eric
+
+==== Regrets ====
+
+
+==== Unknown ====
+Gus, Paul

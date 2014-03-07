@@ -1,12 +1,70 @@
-{{Meeting
-|Date=2011-01-11
-|Time=2000
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
 
-#Call to Order
-#Approval of the Agenda
-#New Members: Don Leibold
-#Returning Members: Mark Smith
-#Adjournment
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Tuesday, January 11, 2011
+* Time: 2200 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #52
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy, Robert Gissing, 
+      Stephanie Smith
+* Absent: 	Alex Williams, Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+Director, Cedric Puddy, acted as chair for the meeting, calling it to order at 2205 EST. The Secretary, Stephanie Smith, also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by the Meeting Chair. No objections being noted, the agenda was approved by general consent. 
+
+
+3.  New Members
+---------------------------------
+
+Motion Passed: Be it resolved that Don Leibold is admitted to membership in KwartzLab Society Inc.
+
+  * Nominated by: Robert Gissing
+  * Second by: Ben Brown
+  * In Favour: 4
+  * Opposed: 0 
+  * Abstained: 0
+  
+4. Returning Members
+--------------------
+
+Motion Passed: Be it resolved that Mark Smith is re-admitted to membership in KwartzLab Society Inc.
+
+  * Nominated by: Cedric Puddy
+  * Second by: Stephanie Smith
+  * In Favour: 4
+  * Opposed: 0 
+  * Abstained: 0
+
+
+4. Adjournment
+---------------
+
+The meeting was adjourned by the general consent of the Board at 2207 EST.
+
