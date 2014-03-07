@@ -1,10 +1,64 @@
-{{Meeting
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Date=2010-10-12
-|Time=2000
-|Meeting Type=Board Meeting
-}}
-#Call to Order
-#Approval of the Agenda
-#New Member Applicant: David Malinowski
-#Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Tuesday, October 12, 2010
+* Time: 2000 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #45
+
+BOARD MEMBERS
+
+* Present:   Ben Brown, Cedric Puddy, Robert Gissing, 
+      Stephanie Smith
+* Absent: 	Alex Williams, Eric Gerlach, Paul Walker
+* Quorum:   Yes (4/7)
+
+
+Distribution: To all KWartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions. 
+
+
+Proceedings:
+==============
+
+1.  Call to Order
+-----------------
+
+The Secretary, Stephanie Smith, acted as chair for the meeting, calling it to order at 2026 EDT. The Secretary also recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+
+2.  Approval of the agenda
+--------------------------
+
+The agenda was presented by Stephanie Smith. No objections being noted, the agenda was approved by general consent. 
+
+
+3.  New Members
+---------------------------------
+
+Motion Passed: Be it resolved that David Malinowski is admitted to membership in KwartzLab Society Inc.
+
+  * Nominated by: Stephanie Smith
+  * Second by: Ben Brown
+  * In Favour: 4
+  * Opposed: 0 
+  * Abstained: 0
+
+
+4. Adjournment
+---------------
+
+The meeting was adjourned at 2027 EDT.
+
+  * So moved by: Ben Brown
+  * Seconded by: Cedric Puddy
+  * In Favour: 4
+  * Opposed: 0
+  * Abstained: 0

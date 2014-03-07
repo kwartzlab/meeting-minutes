@@ -1,25 +1,181 @@
-{{Meeting
-|Date=2010-12-23
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
 
-#Call to Order
-#Approval of the Agenda
-#Report From President
-#Old Business
-##KwartzLab Store
-###Update for action 41.2 on Paul Walker: organize arduino order  for shop 
-##Heavy Equipment Lab
-###Electrical Work
-####Update for action 48.2 on Robert Gissing: get an additional electrical work quote.
-####Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
-##Health & Safety
-###Health & Safety Policy
-####Update for action 49.1 on Stephanie Smith: Post proposed policy to members' list. 
-##Micro Mondays 
-#New Business
-##kLARP Report 
-#Action item review
-#Adjournment
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, December 23, 2010
+* Time: 1930 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #50
+
+BOARD MEMBERS
+
+* Present:   Alex Williams, Eric Gerlach, Cedric Puddy, 
+		Robert Gissing, Paul Walker, Stephanie Smith
+* Absent: 	Ben Brown
+* Quorum:   Yes (6/7)
+
+OTHER ATTENDEES
+
+* KwartzLab Members: Darin White, Karl Williams, Alexandra Dysinski
+
+Distribution: To all KwartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+President Robert Gissing chaired the meeting, calling it to order at 1938 EST. Secretary Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the Agenda to the Board. The Board approved the Agenda by general consensus.
+
+3. Report from the President
+----------------------------
+
+The President reported that he has been in contact with the TedXWaterloo team, and they are interested in the possibility of collaborating with KwartzLab in some way, for their March event. They were particularly interested in the SoOnCon badges which KwartzLab designed. 
+
+There was a brief discussion regarding the feasibility on designing interactive badges for TedxWaterloo on such short notice. It would probably be possible, if we were to use this year's "The Next HOPE" badge as a starting point. Any badge design, however, would require money to produce, and KwartzLab is not in a position to donate those costs.
+
+The President also reported that this year's Christmas Party was a success. The President was especially pleased with the number of non-member "friends of KwartzLab" who joined us, and with how they were welcomed by KwartzLab members.
+
+4. Old Business
+---------------
+
+	4.1 KwartzLab Store
+	-------------------
+	
+		4.1.1 Update for action 41.2 on Paul Walker: organize arduino 
+		order for shop
+
+		Paul Walker reported to the Board that it will be cheaper to 
+		purchase arduinos through a Canadian retailer, rather than going 
+		through the official distribution chain. The Board agreed through 
+		general consensus that Paul could purchase arduinos through 
+		whichever source he preferred.
+		
+	4.2. Heavy Equipment Lab
+	------------------------
+	
+		4.2.1 Electrical Work
+		
+			Update for action 48.2 on Robert Gissing: get an additional 
+			electrical work quote.
+			
+			Gus confirmed that Conestoga Electric would be coming in on 
+			January 3rd to give a quote.
+      
+      He's also left messages with Steckly, but doesn't have an 
+      appointment scheduled yet.
+      
+      Update for action 48.3 on Robert Gissing: get a list of actual 
+      materials, so we can see what members can source.
+      
+      This item is pending additional quotes.
+      
+      Cedric Puddy reminded the Board that he can likely arrange a 
+      donation of 2 gauge wire (cut to length).
+      
+  4.3. Health & Safety
+  --------------------
+  
+    4.3.1 Update for action 49.1 on Stephanie Smith: Post proposed 
+    policy to members' list.
+    
+    Completed; there was no substantial discussion on the list.
+    
+    Further activity is now pending the lawyer's review.
+    
+  4.4. Micro Mondays
+  ------------------
+  
+  Paul Walker reported to the Board that it has been challenging 
+  getting people out to Micro Mondays. 
+  
+  There was a brief discussion regarding how to increase awareness of 
+  the event, and potential groups to target. The possibility of 
+  holding one-off events, for specific groups and possibly on 
+  location, was also discussed. 
+  
+  Paul indicated that Micro Mondays is being put on hold, while he 
+  explores other formats for the event.
+  
+5. New Business
+---------------
+
+  5.1. kLARP Report
+  -----------------
+  
+  Darin White presented the Board with his KwartzLab Location 
+  Alternatives Research Project Report (see attached). 
+  
+  He reviewed his process for the project, and acknowledged that 6 
+  weeks would have been better.
+  
+  Darin's findings showed that KwartzLab has a pretty sweet financial 
+  deal with the current landlord; although the location isn't perfect, 
+  there is nothing else on the market which can compete in terms of 
+  price. If we want a better neighbourhood, or a building that's kept 
+  in better repair, we will have to sacrifice a significant amount of 
+  square footage.
+  
+  Darin further discussed how this was a valuable exercise, even if it 
+  didn't lead to a better location for KwartzLab. It provided him with 
+  an opportunity to connect with people in the community who KwartzLab 
+  otherwise would not have met. These connections may lead to 
+  interesting opportunities in the future. Darin also stressed that 
+  being able to show people tangible things which KwartzLab does is 
+  invaluable for people understanding what we're about.
+  
+  There was additional discussion regarding the difference between 
+  leasing and owning property. Tentative interest was expressed 
+  regarding KwartzLab owning property in the future.
+  
+  The Board thanks Darin White and his team for their many hours of 
+  hard work compiling this research. The Board would also like to 
+  thank Andrew Abouchar, Rod Reiger & Cheryl York for their invaluable 
+  assistance during this process. Written letters should be sent to 
+  each of them.
+  
+  Darin advised the Board that a decision regarding whether or not we 
+  would pursue any of these opportunities should be made before the 
+  end of January. The Board agreed by general consensus to make a 
+  decision by January 7.
+  
+  5.2. Next Board Meeting
+  -----------------------
+  
+  Eric Gerlach advised the Board that he would not be present for the 
+  January 6 or January 20th Board meetings. There was a brief 
+  discussion regarding whether the schedule should be changed, so that 
+  Eric could attend one of the January meetings. It was agreed by 
+  general consensus that it was more important to keep a consistent 
+  schedule. No extra-ordinary business is expected to come up for 
+  those meetings.
+  
+6. Action Item Review
+---------------------
+
+39.2 on Ben Brown: build new site in WordPress 
+39.3 on Ben Brown: install webcam security cam outside our front door 
+41.2 on Paul Walker: organize arduino order for shop
+48.2 on Robert Gissing: get an additional electrical work quote.
+48.3 on Robert Gissing: get a list of actual materials, so we can see what members can supply
+45.2 on Ben Brown: post new budget to Board list for review. 
+43.3 on Ben Brown: Sell Nokia on eBay 
+50. Robert Gissing January 3rd Conestoga Electrical for site visit & quote
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2020EST, by the general consent of the Board.

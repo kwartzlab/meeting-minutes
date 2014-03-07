@@ -1,37 +1,200 @@
-{{Meeting
-|Date=2010-10-07
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Board Meeting
-}}
-#Call to Order
-#Approval of the Agenda
-#Report from the Treasurer
-#Report From President
-#Old Business
-##Website and Mailing Lists
-###Update for action 39.2 on Ben Brown: build new site in WordPress 
-##Health & Safety Committee
-###Emergency Phone
-####Update on action 43.2 on Ben Brown: Bring in SIM for Nokia
-####Update on action 43.3 on Ben Brown: Sell Nokia on eBay 
-##Set Board Procedure and Committee Appointments
-###Update on action 43.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion.
-###Schedule Health & Safety discussion
-###Update on action 44.1 on Robert Gissing: propose a date for the H&S discussion on the BoD list 
-##Need of alarm system and anti-burglary system
-###Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
-##KwartzLab Store
-###Update on action 43.5 on Steph Smith: ask members what Ladyada items they would like to see in the store
-###Update for action 41.2 on Paul Walker: organize arduino order for shop 
-##How can we start fully using the Heavy Equipment Lab
-###Update for action 43.6 on Robert Gissing & Ben Brown: schedule an appointment with [an appropriate individual] and Burhan to investigate electrical.
-###Update on action 44.2 on Ben Brown: talk to Karl William about organizing the tool room 
-##People's personal belongings and projects
-##SoOnCon
-##Tool Committe
-##Budget Revision 
-#New Business
-##Public Event: Ubuntu Release Party (Oct 16) 
-#Action item review
-#Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: September 9, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #43
+
+BOARD MEMBERS
+
+* Present: Eric Gerlach, Robert Gissing, Stephanie Smith, Paul Walker, Alex Wiliams
+* Late: Ben Brown (arrived before 5.2 Old Business: Health & Safety)
+* Absent: Cedric Puddy
+* Quorum: Yes (5/7)
+
+OTHERS
+
+* KwartzLab Members: Alexandra Dysinski, Jonathan Lamothe
+
+Distribution: To all KwartzLab Society Board Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1.Call to Order
+---------------
+
+The President Robert Gissing acted as Chair for the meeting, and called
+the meeting to order at 1936 EST. The Secretary, Stephanie Smith,
+recorded the minutes. A quorum of directors was present, and the
+meeting, having been duly convened, was ready to proceed with business.
+
+Director Alex Williams attended the meeting by telepresence, with the consent of the Directors present.
+
+
+2. Approval of the Agenda
+-------------------------
+
+The President presented the agenda, which was accepted by the general consent of the Board.
+
+3. Report from the Treasurer
+----------------------------
+
+Postponed.
+
+4. Report from the President
+----------------------------
+
+The President reported that his dog, Simon, continues to scratch himself and enjoy life.
+
+5. Old Business
+---------------
+
+  5.1. Website and Mailing Lists
+  ------------------------------
+  
+  Update for action 39.2 on Ben Brown: build new site in WordPress
+  Postponed until next week.
+  
+  5.2. Health & Safety Committee
+  ------------------------------
+  
+  1. Emergency Phone
+  
+    Update on action 42.2 on Ben Brown: Bring in SIM for Nokia
+    Ben Brown supplied a $100 voucher and SIM card. We can activate it this evening.
+  
+    Update on action 42.3 on Ben Brown: Sell Nokia on eBay
+    No update.
+    
+  2. Set Board Procedure and Committee Appointments
+  
+    Update on action 42.4 on Robert Gissing: post his ideas regarding H&S policy to Board list for discussion.
+    No update.
+    
+    Update on action 44.1 on Robert Gissing: propose a date for the H&S discussion on the BoD list
+    An in-person discussion has been scheduled for November 4.
+    
+  5.3. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+  Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
+  Ben reported that he has the camera and computer in hand; he just needs to install it.
+  
+Paul Walker left the meeting at 1943.
+
+  5.4. Kwartzlab Store
+  --------------------
+  
+  Update on action 41.3 on Steph Smith: ask members what Ladyada items they would like to see in the store
+  Steph Smith reported that she's received input from 2 members, and 1 non-member, and has a list of 
+  part numbers.
+  
+  However, the discount from Ladyada is not significant, unless we are purchasing >=25 pieces:
+  
+    10% (1-9), 20% (10-24), 30-40% (25+)
+    
+  Update for action 41.2 on Paul Walker: organize arduino order for shop
+  Ben Brown reported that he's received a new distributor agreement, which he will forward to the BoD for review.
+  
+  5.5. How can we start fully using the Heavy Equipment Lab
+  ----------------------------------------------------------
+  
+  Update for action 41.6 on Robert Gissing & Ben Brown: schedule an appointment with [an appropriate individual] 
+  and Burhan to investigate electrical.
+  
+  Robert Gissing reported that an electrician has been in to offer a professional opinion. The cheap option would
+  be to go from panels in the furnace room (which are new and empty).
+  Burhan was not available for comment, however Gus indicated that Mrs. Burhan was present, and seemed to be 
+  empowered to approve the plan. If we want to proceed, the electrician (John) can provide a quote this week.
+  
+  No update on ventilation yet. Gary needs some measurements before he can proceed. Gus indicated that he will
+  acquire them.
+  
+  Update on action 43.2 on Ben Brown: talk to Karl William about organizing the tool room
+  Karl would like lighting and ventilation sorted out, before he does anything with the tool room.
+  
+  5.6. People's personal belongings and projects
+  ----------------------------------------------
+  
+  No update.
+  
+  5.7. SoOnCon
+  ------------
+  
+  Ben Brown reported that SoOnCon was epic. The Board concurs. 
+  
+  68 tickets were sold in advance, plus a few at the door. We made $200 at the cash bar, which offset the loss
+  on badges. Remaining badges will be sold for $20.
+  
+  The entire event could have been held on our own premises.
+  
+  The event received good coverage on CTV News. The focus of the segment was on hacking not being criminal. They 
+  pronounced our name correctly, and also flashed our (correct) URL. No coverage from local papers.
+  
+  Site3 has volunteered to host next year's event. 
+  
+  5.8. Tool Committee
+  -------------------
+  
+  Further discussion moved to November 4 meeting.
+  
+  5.9. Budget Revision
+  --------------------
+  
+  Ben Brown will post the draft budget to the BoD mailinglist.
+  
+6. New Business
+---------------
+
+  6.1. Public Event: Ubuntu Release Party
+  ---------------------------------------
+  
+  Motion Passed: to hold a public Ubuntu Release Party on October 16
+  Motion Moved: Ben Brown
+  Motion Seconded; Stephanie Smith
+  Discussion: Robert Gissing decalred that if there's going to be a party, cake must be provided.
+    In Favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+  6.2. Public Event: Fabric Swap
+  ------------------------------
+  
+  Motion Passed: to hold a public fabric swap sometime in November
+  Motion Moved: Robert Gissing
+  Motion Seconded: Ben Brown
+    In Favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+  6.3. Public Event: NaNoWriMo Misc Events
+  ----------------------------------------
+  
+  Motion Passed: to hold a variety of public NaNoWriMo events throughout the month of November, including
+  one or two overnight events. 
+  Motion Moved: Robert Gissing
+  Motion Seconded; Eric Gerlach
+  Discussion: Dates still need to be determined. While these will be open to the public, they will not be widely 
+  advertised.
+    In Favour: 5
+    Opposed: 0
+    Abstained: 0
+    
+7. Next Board Meeting
+---------------------
+The next board meeting will be held at 8pm on Tuesday, to approve a new member. 
+
+8. Adjournment
+--------------
+
+The meeting adjourned by general consensus at 2019.

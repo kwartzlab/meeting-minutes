@@ -1,0 +1,214 @@
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Board of Directors
+* Date: Thursday, December 9, 2010
+* Time: 1930 EST
+* Location: Kwartzlab Society Inc. Head Quarters
+* Meeting #49
+
+BOARD MEMBERS
+
+* Present:   Alex Williams, Ben Brown, Eric Gerlach,  
+		Robert Gissing, Stephanie Smith
+* Absent: 	Cedric Puddy, Paul Walker
+* Quorum:   Yes (5/7)
+
+OTHER ATTENDEES
+
+* KwartzLab Members: James Bastow, Darcy, Casselman, Andrew Mackie
+* Guests: Mark Pitcher, Don Leibold
+
+Distribution: To all KwartzLab Society Board Members
+
+----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+Board Chair Eric Gerlach called the meeting to order at 2009 EST. Secretary Stephanie Smith recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The Chair presented the meeting's agenda to the Board, who approved it by general consent.
+
+3. Approval of November 25 Board Meeting Minutes
+------------------------------------------------
+
+The Secretary presented the Board with minutes from the November 25 Board Meeting.
+
+Motion: Be it resolved that the Board accept the submitted minutes for the November 25 Board Meeting.
+
+So moved by Robert Gissing.
+Seconded by Ben Brown
+In Favour: 4
+Opposed: 0
+Abstained: Eric Gerlach.
+
+Motion passed.
+
+4. Report from the President
+----------------------------
+
+The President confessed that he has nothing to report. However, he did draw the Board's attention to the upcoming ThinkHaus party. Nobody present was certain who would be attending, but all agreed that somebody from KwartzLab should attend because ThinkHaus "are cool people".
+
+5. Report from the Treasurer
+----------------------------
+
+The Treasurer reported to the Board that KwartzLab remains solvent, however he did not have a printed report to share with the Board. The Board was disappointed that no comic strip was being provided this meeting.
+
+The Treasurer also reported that the recent Site3 party was "awesome", and featured exciting fire. 
+
+6. Old Business
+---------------
+
+  6.1. Website & Mailing Lists
+  ----------------------------
+  
+  6.1.1. Update for action 39.2 on Ben Brown: build new site in 
+  WordPress
+  
+  Ben reported to the Board that he has done a trial import of some of
+  the content on our website, and the process looks promising. He also 
+  indicated that Darin White has volunteered to quality check the import
+  of his own (extensive) blog entries, to confirm that all is well.
+  
+  Apropos of nothing to do with the website, the Board noted that James 
+  is why we can't have nice things. However, he is very good at 
+  surface-mount soldering.
+  
+  6.2. Need of alarm system and anti-burglary system
+  --------------------------------------------------
+  
+  6.2.1. Update on action 39.3 on Ben Brown: install webcam security cam 
+  outside our front door
+  
+  Ben reported that the webcam is in the lab; it just needs to be mounted.
+  
+  6.3. KwartzLab Store
+  --------------------
+  
+  6.3.1. Update for action 41.2 on Paul Walker: organize arduino order 
+  for shop
+  
+  No update at this time.
+  
+  6.4. Heavy Equipment Lab
+  ------------------------
+  
+  6.4.1. Electrical Work
+  
+  6.4.1.1. Update for action 48.2 on Robert Gissing: call Waterloo 
+  Mechanical re electrical work quote.
+  
+  Gus reported that Waterloo Mechanical does not in fact do electrical work. 
+  He will look elsewhere for quotes.
+  
+  Ben indicated that he can get a quote from someplace in Elmira.
+  
+  Don Leibold has brought in extra BX and connector boxes, which we can use in 
+  the electrical upgrade. The Board thanks him for his generosity.  
+  
+  6.4.1.2. Update for action 48.3 on Robert Gissing: get a list of 
+  actual materials, so we can see what members can source
+  
+  No update.
+  
+  6.5. Budget Revision
+  --------------------
+  
+  6.5.1. Update for 45.2 on Ben Brown: post new budget to Board list for 
+  review.
+  
+  Pending.
+  
+  Ben asked the Board for permission to use some of the RIM funds to pad the 
+  emergency fund. The Board agreed by general consensus.
+  
+  6.6. Health & Safety
+  --------------------
+  
+  6.6.1. Emergency Phone
+  
+  6.6.1.1. Update for action 42.3 on Ben Brown: Sell Nokia on eBay 
+  
+  No update.
+  
+  6.6.2. Health & Safety Policy
+  
+  6.6.2.1. Update for action 48.1 on Stephanie Smith: post the not 
+  H&S summary to Bod for discussion
+  
+  Done.
+  
+  Gus reported to the Board that he has asked Russ the Lawyer for a meeting, 
+  to review our proposed non-policy. No date has been scheduled yet.
+  
+  ACTION 49.1 on Stephanie Smith: Post H&S non-policy to the members' list for 
+  comment.
+  
+  6.7. Micro Mondays
+  ------------------
+  
+  No update.
+  
+7. New Business
+---------------
+
+  7.1. Christmas/Festivus Party on Dec 17 
+  ---------------------------------------
+  
+  Ben & Gus reported to the Board that they will be arranging a keg for the 
+  evening, asking members to chip in towards the cost. They are also going to 
+  see if they can get the keg donated.
+  
+  Gus further reported that he will be bringing the obligatory trauma ham, and 
+  shared the story of the trauma, for those who missed it last year.
+  
+  There was a brief discussion regarding inviting outside guests to the 
+  Festivus Party. The Board also revisited the notion that somebody from 
+  KwartzLab really should attend that ThinkHaus party.
+  
+  7.2. kLARP Update
+  -----------------
+  
+  The Board briefly discussed kLARP developments. 4 or 5 different locations 
+  are being reviewed, a couple of which were considered when KwartzLab first 
+  opened. The Tannery is still expensive. The LCBO basement is "kinda creepy", 
+  and the entire building is slated for demolition in 2 years. The Louisa 
+  street property is beautiful, and would be perfect, if (1) it was for lease, 
+  rather than sale, and (2) didn't require a phase 2 environmental test.
+  
+  The Rumpel Felt building may be worth looking at, but it is also slated for 
+  demolition in a couple of years.
+  
+  The Board acknowledged that any further discussion needs to include 
+  examining *why* we want to move, and how alternative locations address those 
+  needs as compared to the current location. The Board was also reminded that 
+  many of the complaints with the current building may be addressable without 
+  moving. 
+  
+8. Action Item Review
+---------------------
+
+39.2 on Ben Brown: build new site in WordPress 
+39.3 on Ben Brown: install webcam security cam outside our front door 
+41.2 on Paul Walker: organize arduino order for shop
+48.2 on Robert Gissing: get electrical work quote.
+48.3 on Robert Gissing: get a list of actual materials, so we can see what 45.2 on Ben Brown: post new budget to Board list for review. 
+43.3 on Ben Brown: Sell Nokia on eBay
+49.1 on Steph: post not a H&S proposal to members list.
+
+9. Adjournment
+--------------
+
+The meeting was adjourned at 2039EST by the general consent of the Board.

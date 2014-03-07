@@ -1,0 +1,10 @@
+{{Meeting
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Date=2010-10-12
+|Time=2000
+|Meeting Type=Board Meeting
+}}
+#Call to Order
+#Approval of the Agenda
+#New Member Applicant: David Malinowski
+#Adjournment

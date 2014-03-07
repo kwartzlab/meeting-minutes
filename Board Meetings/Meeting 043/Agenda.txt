@@ -1,0 +1,39 @@
+{{Meeting
+|Date=2010-09-09
+|Time=1730
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+#Call to Order
+#Approval of the Agenda
+#Report from the Treasurer
+#Report From President
+#Old Business
+##Website and Mailing Lists
+###Update for action 43.1 on Steph Smith: downgrade WordPress install to 2.9
+###Update for action 39.2 on Ben Brown: build new site in WordPress 
+##Health & Safety Committee
+###Emergency Phone
+####Update on action 43.2 on Ben Brown: Bring in SIM for Nokia
+####Update on action 43.3 on Ben Brown: Sell Nokia on eBay 
+###Set Board Procedure and Committee Appointments
+####Update on action 43.4 on Robert Gissing: post is ideas regarding H&S policy to Board list for discussion.
+###Schedule Health & Safety discussion 
+##Need of alarm system and anti-burglary system
+###Update on action 39.3 on Ben Brown: install webcam security cam outside our front door 
+##Marion Call concert
+###Update on action 39.4 on Robert Gissing: contact Marion Call regarding the possibility of doing a concert at the Lab. 
+##Review existing Board Procedures (should be done after every AGM)
+##KwartzLab Store
+###Update on action 43.5 on Steph Smith: ask members what Ladyada items they would like to see in the store
+###Update for action 41.2 on Paul Walker: organize arduino order for shop 
+##How can we start fully using the Heavy Equipment Lab
+###Update for action 43.6 on Robert Gissing & Ben Brown: schedule an appointment with Ed or Gus' brother-in-law and Burhan to investigate electrical. 
+##People's personal belongings and projects
+##SoOnCon
+##Internet Radio Station
+##Steel Rail Sessions 
+#New Business
+##Tool Committee 
+#Action item review
+#Adjournment
