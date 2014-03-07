@@ -1,0 +1,49 @@
+{{Meeting
+|Date=2011-01-06
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+}}
+
+
+# Call to Order
+# Approval of the Agenda
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Need of alarm system and anti-burglary system
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## KwartzLab Store
+### Update for action 41.2 on Paul Walker: organize arduino order for shop
+## Heavy Equipment Lab
+### Electrical Work
+#### Update for action 48.2 on Robert Gissing: get an additional electrical work quote -- Conestoga Electrical on Jan 3; Harold Stecho to be scheduled.
+#### Update for action 48.3 on Robert Gissing: get a list of actual materials, so we can see what members can source 
+### Lighting
+## Health & Safety
+### Emergency Phone
+#### Update for action 43.3 on Ben Brown: Sell Nokia on eBay
+### Health & Safety Policy
+## kLARP Report
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+# New Business
+## Wintereenmas
+## Member Applicant: Don Leibold
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+Please RSVP by end of day January 4. A minimum of 4 Directors are needed to may quorum.
+
+==== Attending ====
+Steph, Cedric, Ben, Lemmy (Motorhead), Alex, Gus
+
+==== Regrets ====
+Eric, Paul
+
+==== Unknown ====

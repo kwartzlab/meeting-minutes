@@ -1,0 +1,25 @@
+{{Meeting
+|Date=August 11, 2011
+|Time=20:30
+|Address=KwartzLab Inc.
+|Meeting Type=Board meeting
+|Minutes=Alex Williams
+}}
+# Call to Order
+# Approval of July 14th Board Minutes
+# Approval of the Agenda
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Heavy Equipment Lab
+## Trillium Grants
+## Business Plan
+## Communitech
+## Lapsed Members
+# New Business
+## Funding for the Laser
+## Rogers Cable TechTalk program
+## WIND Mobile grant
+## Spreading the load and getting stuff done.
+# Action item review
+# Adjournment

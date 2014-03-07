@@ -1,0 +1,49 @@
+{{Meeting
+|Date=2011-02-03
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20110203 Board Meeting Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of Oct 12 Board Meeting minutes
+# Approval of Nov 4 Board Meeting minutes
+# Approval of Dec 9 Board Meeting minutes
+# Approval of Dec 23 Board Meeting minutes
+# Approval of Jan 6 Board Meeting minutes
+# Approval of Jan 11 Board Meeting minutes
+# Approval of Jan 23 Board Meeting minutes
+# Report from the President
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Need of alarm system and anti-burglary system
+### Update on action 39.3 on Ben Brown: install webcam security cam outside our front door
+## Heavy Equipment Lab
+### Electrical Work
+#### Update on 54.1 on Robert Gissing: Find out from John how a 3-phase upgrade effects the quote
+#### Update on 54.4 on Robert Gissing: Obtain detailed materials list from John (for both single- and 3-phase)
+### Security of Boiler Room Door
+## Health & Safety
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+# New Business
+## Kwartzlab business plan
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+Please RSVP by end of day February 2. A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Steph, Cedric, Eric, Alex, Ben
+
+==== Regrets ====
+Paul
+
+==== Unknown ====
+Gus

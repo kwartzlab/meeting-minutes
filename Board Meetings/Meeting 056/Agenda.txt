@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2011-02-08
+|Time=2300
+|Address=McCabes Irish Bar & Grill
+|Meeting Type=Board Meeting
+|Minutes=20110208 Board Meeting Minutes.pdf
+}}
+# Call to order
+# Approval of the Agenda
+# Synchronous Hackathon Public Events
+# Adjournment

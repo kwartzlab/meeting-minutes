@@ -1,0 +1,32 @@
+{{Meeting
+|Date=September 7 2011
+|Time=20:30
+|Address=Kwartzlab Inc.
+|Meeting Type=Board Meeting
+|Minutes=Kwartzlab_Minutes_068.pdf‎
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of August 11 Board Minutes [[Board Meeting 067]]
+# Report from the President
+# Report from the Treasurer
+# New Business
+## New board member discussion
+## Be it resolved that James Bastow is given signing authority for Kwartzlab finances
+## Membership drive
+### New propaganda materials needed
+## Action items for Thursday's general meeting
+# Old Business
+## Heavy Equipment Lab
+## Trillium Grants
+## Business Plan
+## Communitech
+## Funding for the Laser
+## Rogers Cable TechTalk program
+## Spreading the load and getting stuff done. 
+## Awesome Foundation grant
+### Pitch September 14 (next Wednesday)
+### Safety
+## Be it resolved that the Stitch & Bitch on September 18th 2011 is open to the public
+# Action item review
+# Adjournment

@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2011-03-04
+|Time=2030
+|Address=McCabe's Bar & Grill, Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20110304 Minutes.pdf
+}}
+#Call to Order
+#Approval of the Agenda
+#New Member Applicant: Roland Hofer
+#Adjournment

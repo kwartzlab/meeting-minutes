@@ -1,0 +1,25 @@
+{{Meeting
+|Date=2011-03-10
+|Time=2000
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=20110310 Minutes.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the Treasurer
+# Old Business
+## Website and Mailing Lists
+### Update for action 39.2 on Ben Brown: build new site in WordPress
+## Heavy Equipment Lab
+### Electrical Work
+### Security of Boiler Room Door
+## Budget Revision
+### Update for 45.2 on Ben Brown: post new budget to Board list for review.
+# New Business
+## Public Event: Ubuntu Global Jam, April 12 2011
+## Public Event: Ubuntu Release Party, April 20 2011
+## Purchasing Request: Cleaning Supplies (Vacuum cleaner, accessories, microfibre clothes)
+## Maker Faire Toronto
+# Action item review
+# Adjournment
