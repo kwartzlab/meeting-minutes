@@ -1,0 +1,113 @@
+{{Meeting
+|Date=2012/09/10
+|Time=20:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 20:32
+
+=== Approval of the Agenda ===
+:* Added in Hacky Hallowe'en to the Agenda
+:* Motion Forwarded: Darcy
+:* Seconded: Ben
+
+Approval of 13 Aug 2012 ([[Board_Meeting_085]]) Board Minutes
+:* Motion Forwarded: Ben
+:* Motion Second: James
+
+=== Report from the President ===
+:* Participated at So-Space/ So-Scifi and it went well. Should participate in more of these events
+:* Easy if we can get people to volunteer for these things
+:* Membership count at: Will have 39 with the two new members
+
+=== Report from the Treasurer ===
+:* Discussion of new budget and balances as of this month
+:* Discussion about purchase for dust collector from Doug
+:* Most members are caught up. A few are being followed up with to be caught up
+
+=== New Business ===
+
+==== Audit Waiver Form Membership Concerns ====
+:* Daniel came to the meeting to discuss concerns over not having formal audits done for Kwartzlab due to previous experiences
+:* Founding members had discussions with Daniel over why the decision had been made (primarily cost, which can be $2000 minimum) and how the audit exemption is actually allowable
+:* We also discussed how the books are open to any of the members. Anyone can have a look at them.
+:* End decision was that we'd continue as we were with an awareness that if the membership continues to grow at the rate it has, that we could put aside money for future audits if required
+
+==== New Membership Application: James Tordiff ====
+:* Approved via mailing list: Unanimous
+
+==== New Membership Application: John Johnson ====
+:* Approved via mailing list: Unanimous
+
+==== Maker Faire Waterloo ====
+:* Board has decided to endorse this event
+
+==== Kwartzlab Anniversary Party in October ====
+:* Ben to follow up with organization of this event. Slated for Oct. 19th, 2012
+
+==== Hacky Hallowe'en ====
+:* Decision was made by board members unanimously to move forward with having Hacky Hallowe'en this year
+:* Action Items:
+
+==== Using Kwartzlab for Female Focused Learning Events ====
+:* Discussions over gender focused versus globally available courses came up
+:* The board decided that we welcome these events into the space
+
+
+=== Old Business ===
+ 
+==== Lapsing Memberships ====
+:* Review of memberships not caught up requiring attention
+:* Action Item: Ben to follow up with one member to get membership dues caught up
+
+==== Member space policing ====
+:* Ben - to create a web form for grievance submission to get proper information from the submitter that gets sent to the board of directors on the Kwartzlab - Done
+:* Mark - Project tags - James talked about Detroit makerspace - parking permit/tickets - Mark Pitcher to work on permanent tags, create temporary paper ones - Done
+:* Action Item: Alex Mackinnon and Syed to build new tables
+:* Action Item: Look into U of W surplus sale for cheap clean lab tables and possibly new chairs - Karl, Rob Gissing and Rob to visit the next sale (Sept)
+
+==== Board Procedure: Approving Small Reimbursements Via Mailing List ====
+:* Rob - Board procedure page to be updated for expense approval change
+
+==== Trillium Grants ====
+:* Mark to provide board update on Trillium Grant application
+:* No updates at this time (which can be considered to be a good thing)
+
+==== Small Tool Acquisitions ====
+:* Tool committee and fund have been created - Karl and committee to work on priorities and communicate to the board
+
+==== Shop Status ====
+:* Members have been cleaning up the shop extensively and making improvements without additional costs. Syed has been making good improvements.
+:* Wall work has been done around the camera cabling
+:* High voltage circuit desired - Action Item: Ben to get quotes for 220V circuit installation
+:* Need to run a wire out to the boiler room for the exhaust fan. Action Item: Someone from the board to look into this
+:* Need to move some tools around to better accommodate the welding skirts - Done
+
+=== Action item review ===
+:* Action Item: Ben to follow up with one member to get membership dues caught up
+:* Action Item: Alex Mackinnon and Syed to build new tables
+:* Action Item: Rob Adlers, Rob Gissing, Karl and Mark - Look into U of W surplus sale for cheap clean lab tables and possibly new chairs - visit the next sale (Sept)
+:* Action Item: Rob - Board procedure page to be updated for expense approval change
+:* Action Item: Need to run a wire out to the boiler room for the exhaust fan. Action Item: Someone from the board to look into this.
+:* Action Item: Ben to follow up with organization of this event. Slated for Oct. 19th, 2012
+
+=== Adjournment ===
+* Darcy adjourned the meeting at 22:30
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Darcy Casselman
+* Karl Williams
+* Ben Brown
+* Rob Adlers
+* Doug Moen
+* James Bastow
+
+==== Regrets ====
+* Mark Pitcher
+ 
+==== Unknown ====
+*

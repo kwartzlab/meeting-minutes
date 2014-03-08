@@ -1,0 +1,73 @@
+{{Meeting
+|Date=2012/06/25
+|Time=1930
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+=== Approval of the Agenda ===
+Approval of 11 June 2012 ([[Board_Meeting_082]]) Board Minutes
+* Not Conducted at this meeting
+=== Report from the President ===
+* Not conducted at this meeting
+=== Report from the Treasurer ===
+* Not conducted at this meeting
+=== New Business ===
+==== Trillium Grant ====
+:* Much Discussion on the Trillium grant proposal by Mark Pitcher
+:* '''Motion:''' We support Mark Pitcher as the Kwartzlab liason for the Trillium grant application
+:** '''Forwarded:''' Rob Gissing
+:** '''Seconded:''' Rob Adlers
+:** '''All in favor:''' Unanimous
+:* '''Motion:''' We empower Mark to submit the trillum grant application outline as presented to the board for the June 2012 deadline
+:** '''Forwarded:''' Rob Gissing
+:** '''Seconded:''' James Bastow
+:** '''All in favor:''' unanimous - ''Doug Moen with reservations that this may not be what Trillium is looking for''
+==== New Member Application: Syed Shirazi ====
+:* Motion: Accept Syed Shirazi's membership application
+:** '''Forwarded:''' Rob Gissing
+:** '''Seconded:''' Doeg Moen
+:** '''All in favor:''' Unanimous
+==== Karl Williams - Reimbursement band saw blades - $146.88 ====
+:* '''Motion:''' Reimburse Karl Williams for purchasing band saw blades for the lab - $146.88
+:** '''Forwarded:''' Rob Gissing
+:** '''Seconded:''' Rob Adlers
+:** '''All in favor:''' Unanimous
+:* forwarded by Robert Gissing, seconded by Rob Adlers
+:* All in favour unanimous
+==== Taylor Morley - Reimbursement for welding area build out materials - $126.77 ====
+:* Forward motion to reimburse Taylor Morley forwarded by Robert Gissing seconded by James Bastow
+:* All in favour unanimous
+==== Don Liebold - purchase of his laptop being used for the laser cutter ====
+:* Attendees discussed the idea of buying the laser cutter laptop from Don. The board denies the request. A suitable replacement could have been sourced for free. The board will seek a suitable replacement if he doesn't want to donate it.
+:* There was no vote on this matter, and not all attendees participated in the discussion.
+
+=== Old Business ===
+* Not conducted at this meeting
+=== Action item review ===
+:* Mark Pitcher to move forward with the Trillium grant application
+:* Syed Shirazi requires new member package and setup by Board members
+:* Don to be informed that KWARTZLAB will not be purchasing his laptop
+:* Reimbursement cheques written out to Karl and Taylor
+=== Adjournment ===
+* Robert Gissing adjourned the meeting at 9:25pm
+
+=== Director RSVP ===
+
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* James Bastow
+* Mark Pitcher
+* Ben Brown
+* Karl Williams
+* Rob Adlers
+* Robert Gissing
+* Doug Moen
+
+==== Regrets ====
+* Darcey Casselman
+* Alex Williams
+* Andrew Mackie 
+
+==== Unknown ====

@@ -1,0 +1,138 @@
+{{Meeting
+|Date=2012/08/13
+|Time=20:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 20:32
+
+=== Approval of the Agenda ===
+Approval of 9 July 2012 ([[Board_Meeting_082]]) Board Minutes
+:* Motion Forwarded: Darcy Casselman
+:* Motion Second: Ben Brown
+
+=== Report from the President ===
+* Nothing aside from what is on the agenda
+* Not having a public talk tomorrow, as no time was available by organizers
+* 5x5 talks desired for September
+
+=== Report from the Treasurer ===
+* Budget handed out
+* RIM injection $3500
+* $6600 grant money available for use
+* Emergency fund is topped off
+* 36 members - $310 a month left over after expenses
+* Budget presented with Tool Fund for $200 per month
+:* Motion Forwarded: To approve budget - Darcy Casselman
+:* Motion Second: James Bastow
+:* All in favour: Unanimous
+
+=== New Business ===
+==== Funding from RIM ====
+:* James: Report on status - We received $3500 from RIM. Drop a blog post on the website - Ben Brown to post
+
+==== New Member Application: Jaymis Goertz ====
+:* Discussion: Already voted in through the mailing list. Jaymis received a card for the new system.
+
+==== New Member Application: Daniel O'Connell ====
+:* Discussion: Already voted in through the mailing list. Daniel to meet with Ben tomorrow night to get passcard, etc.
+
+==== Members using Kwartzlab as a Business Space ====
+:* Some discussion about this in mailing list. Darcy had sent a request out to the membership on conduct. Should review rules/policies to see if any clarity is required.
+:* Some decisions about conduct were hashed out:
+:* Can not have the doors open aside from public event periods as a 'store front'.
+:* Can not have Kwartzlab as a registered business address
+:* If consumables are required for commercial purposes, these must be supplied by the member. Kwartzlab consumables are not for commercial purposes.
+:* Members must be present while guests are here, and they are responsible for their guests.
+:* Motion Forwarded: To add these guidelines into the new member handbook - Ben Brown
+:* Motion Second: Darcy Casselman
+:* All in favour:Unanimous
+
+==== Member Membership status when owing 2 months consecutively more than a month ====
+:* Raised as a discussion point to come up with a fair process to handle this situation
+:* Discussion of whether this is a change in bylaws or not. After review, it was decided that the bylaws do not need to change.
+:* Emails will be sent to the members warning of impending suspension, and termination
+:* All entry doors will be card access moving forward to help enforce this
+:* To have a suspension, a board resolution has to happen
+:* Monthly email reminders will continue to be sent out to members lagging in payment
+
+==== Member space policing ====
+:* Came up as a discussion point on how to handle when members are enforcing rules of the lab with other members, and conduct that can keep it productive and within alignment with Kwartzlab bylaws and membership rules
+:* Review of London Hackspace rules. Some of the members have read them and found that they're not too far off from what Kwartzlab has been discussing
+:* Ben is compiling current rules into the handbook.
+:* Currently we do not have a good grievance procedure for the lab that should be hashed out
+:* Action Item: Ben - to create a web form for grievance submission to get proper information from the submitter that gets sent to the board of directors on the Kwartzlab
+:* Action Item: Mark - Project tags - James talked about Detroit makerspace - parking permit/tickets - Mark Pitcher to work on permanent tags, create temporary paper ones
+:* Table marking - designating certain tables for long term / short term projects
+:* Permission from Rob Gissing to use his boards in the shop to build a new table
+:* Action Item: Alex Mackinnon and Syed to build new tables
+:* Action Item: Look into U of W surplus sale for cheap clean lab tables and possibly new chairs - Karl, Rob Gissing and Rob to visit the next sale (Sept)
+
+=== Old Business ===
+==== Running out of KWARTZLAB Access Keys ====
+:* James - to purchase 100 security cards for $135 US for the lab membership
+:* Getting keys encoded
+:* No more to discuss, pulling from list
+
+==== Board Procedure: Approving Small Reimbursements Via Mailing List ====
+:* Rob - Board procedure page to be updated for expense approval change
+:* No change
+
+==== Makerfaire Detroit ====
+:* Ben going to contact membership for Makerfaire to get more participants
+:* Report on Makerfaire Detroit
+:* Removing from list
+
+==== Trillium Grants ====
+:* Mark to provide board update on Trillium Grant application
+:* No updates at this time. Waiting a few more weeks before contacting them
+
+==== Small Tool Acquisitions ====
+:* Karl to put out email to membership to get additional committee members
+:* To be voted on next board meeting
+:* Tool committee and fund have been created - to work on priorities and communicate to the board
+
+==== Shop Status ====
+:* Members have been cleaning up the shop extensively and making improvements without additional costs. Syed has been making good improvements.
+:* Wall work has been done around the camera cabling
+:* High voltage circuit desired - Request to get Gus's relative in get this work done
+:* Need to run a wire out to the boiler room for the exhaust fan. Rob to talk with Ed to see if/when he can assist with that.
+:* Need to move some tools around to better accommodate the welding skirts
+
+==== Reimbursement: $152.55 - James Bastow for keys ====
+:* No vote required as we approved the purchase
+
+==== Reimbursement: $13.82 - Agnes - Kwartzlab banner material ====
+:* Motion Forwarded: Pay Agnes for the banner material - Ben
+:* Motion Second: Darcy
+:* All in favour: Unanimous
+
+=== Action item review ===
+:* Action Item: Ben - to create a web form for grievance submission to get proper information from the submitter that gets sent to the board of directors on the Kwartzlab
+:* Action Item: Mark - Project tags - James talked about Detroit makerspace - parking permit/tickets - Mark Pitcher to work on permanent tags, create temporary paper ones
+:* Action Item: Alex Mackinnon and Syed to build new tables
+:* Action Item: Rob G and A, Karl - Look into U of W surplus sale for cheap clean lab tables and possibly new chairs - visit the next sale (Sept)
+:* Action Item: Karl - Tool committee and fund have been created - to work on priorities and communicate to the board
+:* Action Item: Rob - Board procedure page to be updated for expense approval change
+
+=== Adjournment ===
+* Darcy adjourned the meeting at 22:01
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Karl Williams
+* Ben Brown
+* Rob Adlers
+* Darcy Casselman
+* Doug Moen
+* Mark Pitcher
+* James Bastow
+
+==== Regrets ====
+*
+ 
+==== Unknown ====
+*

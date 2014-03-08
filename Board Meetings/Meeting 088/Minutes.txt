@@ -1,0 +1,120 @@
+{{Meeting
+|Date=2012/11/05
+|Time=20:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 20:37
+
+=== Approval of the Agenda ===
+:* Motion Forwarded: Darcy
+:* Motion Second: Doug 
+
+=== Approval of 11 October 2012 ([[Board_Meeting_087]]) Board Minutes ===
+:* Motion Forwarded: Darcy
+:* Motion Second: Ben
+
+=== Report from the President ===
+:* We are doing well. Deferring further updates due to building temperature.
+
+=== Report from the Treasurer ===
+:* 41 members
+:* bunch of deposits waiting to go in
+:* some donations from jar and Hacky Hallowe'en
+:* Tool fund will be going up $200 this month
+:* Discussions about Hacky Hallowe'en and Kwartzlab expenses
+:* All members paid up
+
+=== New Business ===
+
+==== Approvals for OUtstanding Party Expenses ====
+:* To compensate Ben for booze expenses for the Kwartzlab party
+:* Discussion about how to make more money to break even at future parties.
+:* Ben mentioned OK covering it this round because no pre-budget was approved
+:* James Moving to reimburse Ben remainder expenses from the party (less than $500)
+:* Seconded: Doug
+:* All in favour (except Ben): Unanimous
+
+==== Membership Application Approval: Adwitya Das Gupta ====
+:* Discussion: Another applicant from The Working Center - They plan to pay initial time period and he wants to continue on thereafter
+:* Motion carried: Darcy
+:* Seconded: Ben
+:* All in favour: Unanimous
+
+=== Old Business ===
+
+==== Kwartzlab Anniversary Party in October ====
+:* Nothing to talk about - remove
+
+==== Hacky Hallowe'en ====
+:* Nothing to talk about - remove
+
+==== Fund for Consumables ====
+:* Mark made little boxes around the lab for people to donate money for materials
+:* Wants to use the Tardis money for a stockpile of consumables for the laser. After reviewing monies, looks like $200.
+:* Mark believes having donations for consumables in the lab will help cover costs of materials we have in the lab, preventing coming out of other funds.
+:* Discussion over replenishment of items - honor system for payment and purchasing
+:* Action Item: Follow up with Mark
+
+==== Lapsing Memberships ====
+:* None this month
+
+==== CEI Publicity support via Enterprise Canada ====
+
+From Oct. 1 email from Bethany de Jong of CEI: "CEI has a relationship with Enterprise Canada, a leading national publicity firm with offices in Toronto, Ottawa and Niagara.   Enterprise Canada has is the agency of record for Waterloo Regional Tourism Marketing Corporation, and CEI has been able to secure a limited relationship that allows us to provide selected clientele with complimentary support for publicity. 
+"As part of our inaugural Investment Program CEI would like to extend the opportunity for you to work with Mike Kwiatkowski from Enterprise Canada to explore opportunities for Enterprise Canada to support you and your activities.  You will see Mike’s email address copied herein.   Please contact Mike at your earliest convenience to explore how Enterprise Canada might be of service in the coming days and months.    This opportunity will remain open to you through to you for the coming 12 months and I would encourage you to have an early conversation.
+"In the near future CEI may be organizing some on-site training from Enterprise Canada and the members of the CEI Studio and welcome expressions of your interest to participate in that, as well."
+:* Action Item: To talk with the representatives - Darcy - no updates
+
+==== CEI sponsored membership in the Greater K-W Chamber of Commerce ====
+
+From Oct. 1 email from Bethany de Jong of CEI: "...receive access to all the Chamber programs and benefits, including group rates for health and dental insurance.    If you are currently netting 50K or less through your creative endeavours and have fewer than four full-time employees, you may be eligible to receive a complimentary membership into the KW Chamber of Commerce via Creative Enterprise Initiative.  For further information please contact Bethany De Jong.  
+"In the near future, CEI may be organizing some on-site training from the KW Chamber of Commerce, and would welcome expressions of your interest in attending this briefing session."
+:* Eligible to receive a complimentary membership
+:* There are benefits to membership. 
+:* If they're willing to sponsor the membership, then this doesn't sound like a bad thing. If we have to pay eventually, we don't have to.
+:* Not a huge interest by board members in pursuing this offer
+:* Action Item: Darcy to talk with them to better understand what that means for Kwartzlab - no updates
+
+==== Board Procedure: Approving Small Reimbursements Via Mailing List ====
+:* Rob - Board procedure page to be updated for expense approval change - no updates
+
+==== Trillium Grants ====
+:* Mark to provide board update on Trillium Grant application
+:* No updates yet
+
+==== Shop Status ====
+* High voltage circuit desired - Action Item: Ben to get quotes for 220V circuit installation
+:* Need to run a wire out to the boiler room for the exhaust fan. Action Item: Someone from the board to look into this
+:* Doug has purchased materials for the circuit, with more to purchase
+:* Two 208V outlets installed by Bob
+:* Third to be installed
+:* Action Items: Ben to follow up with Bob for receipts
+
+* Bandsaw
+:* Karl needs to purchase a new blade for one of the bandsaws to replace the broken one - old news, remove item
+
+=== Action item review ===
+Action Item: Ben to provide party expenses remaining for reimbursement
+
+
+=== Adjournment ===
+* Darcy adjourned the meeting at 20:56
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Rob Adlers
+* Darcy Casselman
+* Ben Brown
+* James Bastow
+* Doug Moen
+* Karl Williams
+
+==== Regrets ====
+* Mark Pitcher
+ 
+==== Unknown ====
+*

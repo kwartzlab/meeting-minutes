@@ -1,0 +1,134 @@
+{{Meeting
+|Date=2012/07/09
+|Time=2030
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+|Financials=Financial_Report_084.pdf‎
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 20:44
+:* 2012-2013 Board of Director appointments
+:* Darcy moved, Doug Seconded, all in favour
+::* Be it resolved that Darcy Casselman is the appointed Board Chair.
+::* Be it resolved that Darcy Casselman is appointed as the President for Kwartzlab Society Inc.
+::* Be it resolved that Ben Brown is appointed as the Treasurer for Kwartzlab Society Inc.
+::* Be it resolved that Rob Adlers is appointed as the Secretary for Kwartzlab Society Inc. 
+::* Be it resolved that Mark Pitcher is appointed as the third Signing Authority for Kwartzlab Society Inc.
+
+=== Approval of the Agenda ===
+Approval of 11 June 2012 ([[Board_Meeting_082]]) Board Minutes
+:* Approved by: Karl Williams
+:* Seconded by: Ben Brown
+Approval of 14 June 2012 ([[Annual_General_Meeting_003]]) General Meeting Minutes
+:* Approved by: Karl Williams
+:* Seconded by: Ben Brown
+Approval of 25 June 2012 ([[Board_Meeting_083]]) Board Minutes
+:* Approved by: Karl Williams
+:* Seconded by: Ben Brown
+
+=== Report from the President ===
+* Voting on two new members this meeting4
+* We have returned to self-sufficiency with membership dues
+
+=== Report from the Treasurer ===
+* Used the 2010 RIM Grant. Starting to use the 2011 RIM grant money.
+* We are now $110 in the plus every month now without the two members to be added in
+* Should have approx. $10,000 in the bank
+* Memberships for the most part are current and up to date
+* Report to be attached to wiki page report
+* Mark Pitcher looked into CRM software for automated management of membership, dues payments and security access
+* Looking for an automated system to mail out dues reminders to members every month
+* Draft of a budget has been created, roughly similar to the one Mark created for the Trillium grant proposal. Ben to amalgamate the two together and present at next board meeting
+
+=== New Business ===
+==== Agnes Niewiadomski - KWARTZLAB Membership Applicant ====
+:* '''Motion:''' Approval for Agnes Niewiadomski's application to become a member of KWARTZLAB
+:** '''Forwarded:''' Darcy Casselman
+:** '''Seconded:''' Ben Brown
+:** '''Discussion:''' She's awesome, we welcome her
+:** '''All in favour:''' Unanimous
+
+==== Syed Shirazi - KWARTLAB Membership Applicant ====
+:* '''Motion:''' Approval for Syed Shirazi's application to become a member of KWARTZLAB
+:** '''Forwarded:''' Karl Williams
+:** '''Seconded:''' Doug Moen
+:** '''All in favour:''' Unanimous
+
+==== Running out of KWARTZLAB Access Keys ====
+:* James: Quote for 4K card keys - $1.10 each, shipment $25. $135 for 100 keys. Legitimate Desfire DV1 cards
+:* Darcy and Ben have expressed interest in more security measures to monitor access
+:* Future plans to have tool room door
+:* '''Action:''' Order the cards as per James' quote
+ 
+==== Board Procedure: Approving Members Via Mailing List ====
+:* James/Darcy: These should be unanimous votes from all board members on the Admin list to be approved
+:* '''Motion:''' Be it resolved that we will amend the board procedures to allow approval of memberships given a unanimous board vote via Admin mailing list five days after the announcement of the application.
+:** '''Forwarded:''' Darcy Casselman
+:** '''Seconded:''' James Bastow
+:** '''All in favour:''' Unanimous 
+
+
+==== Board Procedure: Approving Small Reimbursements Via Mailing List ====
+:* Unanimous ruling by the board on the Admin mailing list to approve purchases made by members, no money limit. If there are objections, we'll discuss during the next board meeting or amongst the board members.
+:* The point of this change is to reduce the time to repay members for their expenses.
+:* Physical receipts will still be required to be submitted to the treasurer for the board to vote on the approval.
+:* Pre-approval of purchases to be discussed in next board meeting
+:* '''Motion:''' Be it resolved that the board of directors may approve reimbursements, through unanimous approval, over the Admin mailing list.
+:** '''Forwarded:''' Darcy Casselman
+:** '''Seconded:''' James Bastow
+:** '''All in favour:''' Unanimous
+
+=== Old Business ===
+==== Makerfaire Detroit ====
+:* We're going.
+:* Currently on the WIKI, there's only four volunteers at the moment. Ben requesting more participation.
+:* 3 passes still available as a result
+:* Agnes working on banner, James also assisting in preparations
+
+==== Trillium Grants ====
+:* Mark/Doug fired off the proposal. Trillium has acknowledged receiving it. At some point during the process, there would be a legal document to sign with them.
+:* Can expect three stages of approval if it goes well
+:* Discussion over Diyode's scaling membership fees for seniors and students raised as a positive point. Can be discussed in a future board meeting
+
+==== Business Plan ====
+:* Being removed from agenda items
+
+==== SO SCIFI ====
+:* Still moving ahead. No updates at this time. Removing from agenda.
+
+==== Small Tool Acquisitions ====
+:* It's been held for a period of time. We have money to start buying tools again.
+:* Tool Committee: Karl Williams (Chair) and two non-board members (max. 7 members)
+:* James doesn't feel we need a board member on the committe, but we're continuing current procedure for now
+:* Karl to put out email to membership to get additional committee members
+:* To be voted on next board meeting
+
+==== Shop Status ====
+:* Members have been cleaning up the shop extensively and making improvements without additional costs. Syed has been making good improvements.
+:* Wall work has been done around the camera cabling
+
+=== Action item review ===
+:* Karl to email membership for tool committee members
+:* Ben going to contact membership for Makerfaire to get more participants
+:* Rob - Board procedure page to be updated for expense approval change
+:* James - to purchase 100 security cards for $135 US for the lab membership
+ 
+=== Adjournment ===
+* Darcy Casselman adjourned the meeting at 21:41. James seconded, all in favour.
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Rob Adlers
+* Darcy Casselman
+* Karl Williams
+* Ben Brown
+* Mark Pitcher
+* Doug Moen 
+* James Bastow
+==== Regrets ====
+*
+ 
+==== Unknown ====
+*

@@ -1,0 +1,116 @@
+{{Meeting
+|Date=2012/11/26
+|Time=20:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 8:37pm
+
+=== Approval of the Agenda ===
+:* Motion Forwarded: Darcy
+:* Motion Second: Ben
+:* All in favour: Unanimous
+
+=== Approval of 05 November 2012 ([[Board_Meeting_088]]) Board Minutes ===
+:* Motion Forwarded: Darcy
+:* Motion Second: Ben
+
+=== Report from the President ===
+:* We're awesome. A lot of issues and things going on.
+
+=== Report from the Treasurer ===
+:* No financial report at this time due to still in the middle of collecting dues from members
+:* $11660 currently in bank fund
+
+=== New Business ===
+
+==== Moving ====
+:* How to present to the membership?
+:* State the facts about why we need to move.
+:* Action Item: Darcy to write the proposal up for the membership
+
+==== KLARP report ====
+:* http://www.kwartzlab.ca/mediawiki/images/4/41/KLARP_2012_Report.pdf
+:* Cedric: Unit B at Primespec building has no plumbing, but would be installed by landlord, Ben said there's an offer on that unit
+:* Looking at getting our own measurements because of the numbers provided
+:* Ben mentioned about possibly having one more visit at Pandora before the Wednesday membership meeting
+:* Action Item: go to Pandora to get actual measurements
+:* Motion: To recommend Pandora to the membership - Darcy
+:* Second: Rob
+:* All in favour: All but Doug
+:* All opposed: Doug - concerns over amount of space, membership growth, plans for expanding workshop - concerns over lack of space
+:* Doug feels we have two more months at least to look. James/Mark concur.
+:* We want to make a conscious decision that a move benefits the membership and isn't just a knee jerk reaction to current issues and situations with our current space
+:* Action Item: James/Mark to go and measure out space and plan out tool placement to have more accurate floor plan to work from
+
+==== Temporary Heating ====
+:* Boiler status - Been working 3 days out of the week, when it wasn't on, heaters kept the place warm
+:* Reimbursements as necessary - deferred until next meeting
+
+==== Strategy to avoid damage from flooding ====
+:* Not much can be done about this. Pipes are everywhere.
+
+==== Plans post-General Meeting ====
+:* Assuming both motions are approved by the membership - board would need to get specifics regarding the property, lease agreements, etc.
+
+==== Proxy Voting ====
+:* Motion: To ammend the agenda for the general meeting to a motion to ammend the by-law to allow proxy votes at general meetings - Darcy
+:* Doug brought up new law coming in for non-profits that will require proxy voting
+:* Second: Ben
+:* All in favour: Unanimous
+
+=== Old Business ===
+
+==== Hacky Hallowe'en ====
+:* Follow up? - Requires effort. A date was attempted, but low feedback.
+:* James doesn't have a lot of time to devote to this at the moment. Unless is there is another sponsor, this is deferred.
+
+==== Lapsing Memberships ====
+:* Review of memberships not caught up requiring attention
+:* Action Item: No members over one month behind
+
+==== CEI Publicity support via Enterprise Canada ====
+:* Action Item: To talk with the representatives - Darcy
+:* They're going to come in with camera to take pictures with Darcy before Wed meeting
+
+==== CEI sponsored membership in the Greater K-W Chamber of Commerce ====
+:* Action Item: Darcy to talk with them to better understand what that means for Kwartzlab
+:* Received chamber event emails recently but no other activity
+
+==== Board Procedure: Approving Small Reimbursements Via Mailing List ====
+:* Rob - Board procedure page to be updated for expense approval change
+
+==== Trillium Grants ====
+:* Contract sent in.
+:* Teleconference Dec. 7 at 10am.
+:* MPP Catherine Fife wants a tour.
+:* Teleconference at Dec 10th, 10am with Trillium
+:* James discussed over possible tools that we should aim for moving forward
+:* Mark has sent in an updated application for the next round, updated the equipment list to have new items in there
+
+==== Shop Status ====
+:* On hold until moving is resolved.
+
+=== Action item review ===
+
+=== Adjournment ===
+* Darcy adjourned the meeting at 10:29 pm
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Darcy
+* Ben
+* Rob
+* Mark
+* James
+* Doug
+* Karl
+
+==== Regrets ====
+* 
+ 
+==== Unknown ====
+*
