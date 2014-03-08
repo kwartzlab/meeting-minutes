@@ -1,0 +1,113 @@
+{{Meeting
+|Date=2013/09/18
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Ben
+:* Darcy
+:* Doug
+:* James
+:* Jaymis
+
+=== Call to Order ===
+:* Called to order by Darcy at 19:53.
+:** Seconded by Jaymis
+
+=== Approval of Agenda ===
+:* Agenda approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Approved by Jaymis, James, Darcy & Ben
+:* Jonathan & Doug abstained
+
+=== Report from the President ===
+:* We're awesome.
+
+=== Report from the Treasurer ===
+:* We still don't have utility bills.
+:** Ben looking into getting them electronically.
+:* We have 53 paying members.
+:* We're re-building the emergency fund.
+
+=== Recurring Business ===
+
+==== Reimbursements ====
+
+===== Agnes: Chairs =====
+:* $112.77
+:* Moved by Darcy
+:* Seconded by Jaymis
+:* Approved unanimously
+
+===== Mark: Air Compressor =====
+:* $288.13
+:* Jonathan moved that we defer this until Mark is here
+:* Seconded by Jaymis
+:* Deferral approved unanimously
+
+===== Doug: Mill End =====
+:* $179.94
+:* Motion to approve by Ben
+:* Seconded by James
+:* Approved by all except Doug, who abstained
+
+==== Documentation of Board Procedures ====
+:* Action item: update board procedures on website (Jonathan)
+:* Hiatus
+:* Motion by Darcy: remove tool committee from procedures
+:** Seconded by: James
+:** Approved unanimously
+:* Action item: remove tool committee (Jonathan)
+:* Action item: Type up things to be added to board procedure (Ben)
+
+==== Previous Meeting Action Items ====
+
+=== New Business ===
+
+==== Financial Audit Waiver Methods ====
+:* We currently need to have our procedures in writing.
+:** Print-offs are probably fine.
+:* We need to have our waivers in writing.
+
+==== Membership Application Process ====
+:* Give out an information sheet to prospective new members
+:* New member talks to an existing member for information on applying
+:* Forms for existing members to endorse prospective new members (with picture)
+:** Have a web form for this?
+:* Once approved, we need to get a contact form filled out
+:* We should also have a liability waiver for new members
+:** It's not legally binding, but can serve as evidence that they know about the policy
+:* New member manual to be prepared
+
+==== Cleaning Schedule ====
+:* Action item: establish a schedule to the end of the year (Ben)
+
+==== Cleaning Paint Stains ====
+:* Driveway sealant.
+:* Motion by Ben: budget $100 to get it fixed.
+:** Seconded by: Jaymis
+:** Approved unanimously
+
+=== Old Business ===
+
+==== Repair Café ====
+:* November 9th 10:00-14:00
+:* Details: TBA
+:** We might break your stuff, but we'll try not to.
+
+==== Hacky Halloween ====
+:* Action item: prepare a bill of materials for the Hacky Hallowe'en kits (James)
+
+=== Action items from this meeting ===
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee from board procedures (Jonathan)
+:* Action item: Type up things to be added to board procedure (Ben)
+:* Action item: establish a cleaning schedule to the end of the year (Ben)
+
+=== Adjournment ===
+:* Motion by Darcy to Adjourn by Darcy
+:** Seconded by Ben
+:** Approved unanimously

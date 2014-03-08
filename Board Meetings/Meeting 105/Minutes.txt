@@ -1,0 +1,192 @@
+{{Meeting
+|Date=2013/06/26
+|Time=20:30
+|Address=33 Kent Ave. Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Darcy Casselman calls this meeting at 20:38
+
+=== Approval of the Agenda ===
+:* All in favour: Unanimous
+
+=== Report from the President ===
+:* We are awesome!  Thank you and good night.
+
+=== Report from the Treasurer ===
+:* Large deposit to do including Maker Faire cheque. Will put us up to $17000 roughly
+:* $430 left in the tool fund
+:* $9200 left in Triliium grant
+:* Bills are paid
+:* chomping through the membership fees. Looks like everything is up to date currently.
+:* Electrical bill has finally evened out. Average $90 a month.
+:* Gas and water has been negligable cost wise
+:* $30 in donations in the last month
+:* Maker Faire has paid out, made $102 for the soldering station at the faire
+:* Emergency fund is topped up
+
+=== New Business ===
+
+==== Membership Changes Logging ====
+:* New Members: 3 approved, 1 pending, Rob to email the new members and set them up on email
+:* Stephanie Trotter, Michael Ahrens, Ryan Wicks accepted
+:* Members Leaving: already noted last meeting
+
+==== Membership Dues Owed Follow Up ====
+:* Ben to follow up with this
+
+==== Reimbursements ====
+:* none
+
+==== Board hand-over ====
+:* Welcome Jaymis and Jonathan!
+:* New board meeting time? Wednesday at 7:30pm (post review with Johnathan)
+:* Signing authority for Jaymis. Email to new director list to see who wants to be part of the signing group.
+:* Get authority signing done at bank July 1st week
+
+==== New member application process ====
+:* Follow up from ML conversation
+:* How to make it clearer, friendlier, less intimidating for applicants?
+:** The process documented on our web site involves a physical meeting that the applicant is encouraged to attend. DIYode uses an interview process. We silently abandoned the concept of interviews, because email is more convenient.
+:* How to make it more convenient for members and the board? Kudos to Doug, re:photos
+:* Updating the application form. Ben feels it needs updating to be more current.
+:* Integrating applicants into community
+:* Action Item: Online form for member application - Ben
+:* Action Item: Member welcoming information/page - Doug
+
+==== Parking at Kwartzlab ====
+:* Mark has talked to MTD
+:* Should also talk to MCC
+:** Talk with Christian to talk with MCC
+
+==== Hacky Halloween 2013 ====
+:* At THEMUSEUM? Or at Kwartzlab?
+:* Funding, sponsorship
+:* Doug had a quick meeting with Charlotte at the meeting, and Shawn from waterloo
+:* Doug will present his requests in a near future meeting with TheMuseum
+:* will need to order kits this year again. James said we can make up a smaller kit this round.
+:* At Kwartzlab? Not recommended in review
+
+==== G33k Art Show ====
+:* Can we get in for free? Didn't have to pay last year. 
+:* In-kind swap with Maker Faire?
+:* Nov22-24 this year
+:* Discussion of possibly offering table swap for events
+:* Action Item: Ben talk to Miroki about in-kind table swap
+
+==== Air Compressor ====
+:* Approve Mark's suggested Canadian Tire purchase? 
+
+==== Tool Fund ====
+:* Discuss/clarify purchasing procedure
+:* The action item to form the committee never occurred
+:* Some members have been buying items for the lab without prior approvals from the board in the abscense of a tool committee
+:* Ben recommends setting the float money limit to $200, and individual purchases to $50 based on purchasing history/experience
+:* Anything more than $50 per individual purchase, request must be made to board for approval for the purchase (can be done in email)
+:* Motion: Ben made a motion to dissolve the tool fund
+:* Seconded: James
+:* Discussion: Issues with tool purchases can be time sensitive. The board can be responsive to these requests to hopefully not miss out on deals that come up.
+:* All in favour: unanimous
+:* Motion: To create a $200 money float for smaller purchases - Ben
+:* Seconded: James
+:* Discussion: none
+:* All in favour: unanimous
+:* The cash box will have keys provided to signing authority board members only to handle these transactions. All money coming out the float box will require receipts.
+
+==== Which Mailing List? ====
+:* There seems to be some confusion about which mailing list to use for what.
+:* Any discussion the members should care about goes on members.  This is the default for most things.
+:* Votes, boring administrivia goes on admin.  Because we don't want members unsubscribing from members due to this stuff.
+:* General meeting announcements and matters of grave corporate import go on announce.  Announce must be kept up to date with all member emails.
+:* "Check out this cool link" goes on discuss.  Public event notifications should be sent to discuss as well.
+
+==== Social Media Accounts ====
+Social media accounts are not tied to identities of specific Kwartzlab members. BOD holds the credentials.
+:* Action Item: Create a new Google account to tie Youtube to. 
+:* Action Item: Darcy to use that for the twitter contact
+
+=== Old Business ===
+
+==== Kwartzlab Booth for Maker Faire ====
+:* Report? Pretty awesome.
+
+==== Internet Speed Issues ====
+:* We know it's not stable. Ben has emailed Cedric about the connection. Mark has as well a few weeks ago.
+:* Ben to provide a report on this, possibly new cable solutions
+:* Proposed course of action will be to remove the 2 DSL connections and go cable with Packet Works. Cedric will supply $50 towards the monthly fee and Kwartzlab will supply the rest. Monthly fee estimate is currently at $100. Currently we have enough members to support paying for this. Proposal to be posted to the mailing list.
+
+==== Cleaning schedule ====
+:* Action Item: Ben worked on automated script working, should be in place for next week
+:* Action Item: Rob to update clean up instructions to include garbage info
+
+==== Youth (16 or younger) Membership ====
+:* James - concern about liability on our behalf
+:* Mark - parents should sign a waiver for their children
+:* Darcy - we need to discuss with a lawyer
+:* Would be good to have waivers signed regardless
+:* What's the liability implication of minors in the space - for advice from lawyer
+:* minors can't sign contracts. Parents can.
+:* Action Item: Gus to talk with lawyer and we'll follow up next meeting - Darcy need to follow up
+:* discussion items:
+::* 24 keyed access for kids? Can they bring their friends as guests (without adult supervision)?
+::* legal liability, if a 16 yr old cuts off their finger, vs an 18 yr old? If a kid's guest cuts off their finger?
+::* can a 16 yr old sign the audit waver form?
+:* No new info on this topic. Still waiting for lawyer's info from Gus.
+
+==== Buildout / Prep ====
+:* Budget for exterior painting
+:* Electrical? Ed requires assistance to do this up and then schedule up time
+::* Action Item: Ben - sign creations - done, needs to be put up, issues with lighting being worked on
+::* Action Item: Drywall panelling / mudding - on hold for 2nd floor
+::* Action Item: 2nd floor - Rob  - kitchenette floor
+::* Action Item: Power panel needs remapping and reorganization and plumbing drain tube needs to be moved
+::* Action Item: James - needs to install the door strike. Back door first
+::* Action Item: Welding area - Need to remove slot wall (safety), steel shelving to replace slot/peg board. Fireplace backing sheets recommended.Can hang the welding curtains in the meantime.
+::* Action Item: Rob or Ben - garbage run needs to happen again (ceiling tiles, etc)
+::* Action Item: Karl - carpeting to stairwell and bathroom
+::* Action Item: Plumbing vent - Taylor investigating with Bob
+::* Action Item: Paint outside of building - will need budgetary review
+::* Action Item: Get and run sawdust duct work, interim piping can be made up until fully planned piping done
+
+==== Trillium Grants ====
+:* Status of purchases.
+:* Mark - Ontario Arts council - found other funds to investigate as well - period doesn't start until 2014
+:* Action Item: James - we've had the tool meeting, now to prioritize and purchase the tools. Some tools are being purchased already, others being investigated. James to follow up on purchases.
+:* Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Action Item: Ben to follow up on the chairs order - chairs are on their way
+:* Action Item: James to follow up on router and other items
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various levels of complexity
+:* Some posters have been posted
+:* Extinguishers have been put up around the shop with signage
+:* Action Item: James to get more safety glasses
+
+=== Action item review ===
+
+
+=== Adjournment ===
+
+Forwarded by: Darcy at 22:14
+Second: James
+In favour: Unanimous
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Rob
+* Darcy
+* Karl
+* James
+* Doug
+* Jaymis (future President)
+
+==== Regrets ====
+* Mark
+
+==== Unknown ====
+*

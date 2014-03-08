@@ -1,0 +1,133 @@
+* Vote to waive $100 initiation fee for Matt Bells
+* Consider guidelines for waiver of fee for future re-applicants.
+* Offering to reimburse members who previously paid the $100 fee on re-joining.
+* Motion (Doug Moen): All effective and currently active board procedures *must* be documented in the Board Procedures web page located at http://www.kwartzlab.ca/corporation-procedure/. Board procedures not documented on this page are not effective. It is the responsibility of the Secretary to update the board procedure web page after a board meeting when new procedures are added, or existing ones are modified (including the new board procedure which is the subject of this motion). The board should also designate a process by which undocumented board procedures that we currently rely on are documented, so that the board procedure web page is brought up to date.
+* James said: "The board can approve any amount via email as long as it's unanimous." Doug would like to vote on this and make it official. Darcy posted a long email about this.
+* Request permission to submit a $3000 grant application: Agnes. Requesting permission to apply to the KW Arts Fund Grant on behalf of kwartzlab Society Inc. The application is due by September 6th, 2013. I will be requesting funding in the amount of $3000. Public event is called "Handmade Holiday".
+* Public event: Repair Cafe, Saturday October 12, 10am to 4pm. Co-presented by Kwartzlab and Transition KW.
+* Reimbursement: Catherine Holloway, $10, thread
+
+
+{{Meeting
+|Date=2013/08/26
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Doug
+:* James
+:* Mark
+:* Ben
+:* Jaymis
+:* Darcy
+(Jonathan absent)
+
+=== Call to Order ===
+:* Called to order at 19:32
+
+=== Approval of the Agenda ===
+:* Approved
+
+=== Approval of 07 August 2013 ([[Board_Meeting_107]]) Board Minutes ===
+:* Oops. We forgot to do this.
+
+=== Report from the President ===
+:* We're awesome.
+
+=== Report from the Treasurer ===
+* Financial Report, August 2013
+** Total income $2,550
+** Account balances: $13,670.58 total
+** etc, see attachment
+* Budget
+** net monthly surplus $155 (as of August). 49 members minimum. This assumes we switch to new, more expensive internet, and $200/month to build up the Audit fund
+
+* Capital Fund is not part of the presented budget, but it will be the money we have available for discretionary spending on supplies, tools, infrastructure. For August, $13670.58 - $6588.30 - $6195.
+
+Vote to approve budget: unanimous.
+
+=== Rules for Spending on Consumables ===
+New Board Procedure:
+
+Rules for a member to spend <$50 to replace some consumables at the lab. Up to $200 slush fund for immediate reimbursement, without a board meeting, periodically topped up at the board's discretion. Mailing list must be notified if you want reimbursement. Receipts are required. Payment in cash from board filing cabinet (by any board member), or by cheque signed by 2 signing authorities. If the reimbursement is given (assuming funds are available), we'll post a message to the list, with itemized list and cost, and to indicate how much money is left.
+
+Darcy moved, Jaymis seconded, unanimous.
+
+=== Reimbursement/Purchase Procedure ===
+Old board procedure text:
+
+* Be it resolved that the board requires members to clear all purchases with the Treasurer or the other two signing authorities (both, not just one) before a purchase is made.
+* Be it resolved that reimbursement of Kwartzlab purchases can be made by the board with a majority vote using the Kwartzlab Admin mailing list. Reimbursement is only possible if the purchaser provides the treasurer receipts. Reimbursements approved through the mailing list must be ratified at a future board meeting.
+
+Darcy moves to strike this text, James seconds, unamimous vote in favour.
+
+discussion:
+* In principle, any motion we can have in a board meeting we can do on the mailing list via unanimous vote. Although if it is a contentious issue, then the discussion can go awry, so it's not appropriate for every issue.
+* Subject line of email needs to contain [Vote] -- contentious. Vote goes on admin? Also contentious. Darcy withdraws suggestion.
+* Reimbursements, purchase preapprovals, or anything else decided on the mailing list, these decisions should be recorded in the next board meeting minutes.
+
+Be it resolved that any motion that we can make in a board meeting, we can do on the mailing list via unanimous vote. Any resolutions need to be recorded in the minutes of the next board meeting.
+
+Darcy moves, Jaymis seconds, the vote was unanimous (5 people; by this point Mark Pitcher had left)
+
+=== Initiation Fee for Returning Members ===
+Be it resolved that the $100 initiation fee for returning members in good standing be waived retroactively.
+Moved by Ben, seconded by Jaymis, vote: unanimous
+
+Note: this affects Matt Bell (who was just readmitted, and hasn't been asked to pay yet), and we'll offer a refund to Jon and Kyle Spaans.
+
+=== Documentation of Board Procedures ===
+All effective and currently active board procedures *must* be documented in the Board Procedures web page located at http://www.kwartzlab.ca/corporation-procedure/. Board procedures not documented on this page are not effective. It is the responsibility of the Secretary to update the board procedure web page after a board meeting when new procedures are added, or existing ones are modified (including the new board procedure which is the subject of this motion). Each board procedure should be marked with the date on which it is enacted.
+
+moved by Doug, seconded by Jaymis, vote: unanimous
+
+Discussion: maybe this motion is illegal according to ONCA?
+
+James moves to strike this motion, Jaymis seconds: 4 in favour, Doug abstains
+
+=== Action Item: To Do a Mailing List motion to approve the all of the board meeting minutes (since meeting #89) ===
+Darcy
+
+=== Agnes: Request for approval to submit grant application ===
+Request permission to submit a $3000 grant application: Agnes. Requesting permission to apply to the KW Arts Fund Grant on behalf of kwartzlab Society Inc. The application is due by September 6th, 2013. I will be requesting funding in the amount of $3000. Money is spent on a public event called "Handmade Holiday".
+
+If the money goes through Kwartzlab, Agnes will need to charge HST to workshop participants.
+
+Darcy moved, Jaymis seconded, 4 votes in favour, James abstained
+
+=== Repair Cafe ===
+Public event: Repair Cafe, Saturday October 12, 10am to 4pm. Co-presented by Kwartzlab and Transition KW.
+
+I'm asking the board for:
+* permission to run a public event
+* permission to co-brand the event with Transition KW and RepairCafe.org
+
+moved by Doug Moen, seconded by Jaymis: vote: unanimous
+
+=== permission for reimbursement: Roland MDX-20 1/8" spindle unit ===
+by Doug Moen
+
+board says: go ahead, we will reimburse from the Trillium grant
+
+=== permission from reimbursement: Vacuum Former ===
+as described in email thread
+moved by Doug, seconded by Jaymis, unanimous
+
+Action Item: buy the vacuum former
+
+=== Hacky Halloween ===
+action item: corporate sponsorship is needed
+* we can't pay for this from the capital fund
+* Doug: try Home Depot (with tax receipt from The Museum)
+* Doug: pumpkin donation from the pumpkin farm?
+
+=== Action items from this meeting ===
+* Doug & Ben: find out if Ontario law prohibits us from maintaining an official and definitive document that describes all board procedure
+* Darcy: Do a Mailing List motion to approve the all of the board meeting minutes (since meeting #89)
+* Doug: purchase 1/8" spindle unit for Roland MDX-20
+* Doug: purchase oven and vacuum former
+* Doug: investigate corporate sponsorship for Hacky Halloween (Home Depot and Pumpkin Farm)
+
+=== Adjournment ===
+:* Adjourned at 21:30 ish

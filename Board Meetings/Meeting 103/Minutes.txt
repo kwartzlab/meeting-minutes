@@ -1,0 +1,130 @@
+{{Meeting
+|Date=2013/05/22
+|Time=19:30
+|Address=33 Kent Ave. Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy at 19:56
+
+=== Approval of the Agenda ===
+:* All in favour: Unanimous
+
+=== Report from the President ===
+:* We are awesome
+
+=== Report from the Treasurer ===
+:* 
+
+=== New Business ===
+
+==== Membership Dues Owed Follow Up ====
+:* 
+
+==== Reimbursements ====
+:* Steph Smith - Sewing Serger (as part of Trillium grant spending earlier approved) - $225.99
+::* All in favour - Unanimous (Doug, Rob, Darcy, Mark)
+:* Agnes - approved in email
+
+==== AGM ====
+:* Set a date for the 2013 AGM. Announce it and call for nominations to the board of directors.
+:* Preferred date AFTER Maker Faire Kitchener (June 15)
+:* Darcy proposed June 20th (Thursday) 7:30pm
+:* Seconded: Rob
+::* All in favour: Unanimous
+:* Need to recruit new candidates
+:* For AGM, as we'll probably have 44 members for then. Quorum requires 1/4 of membership or 10 people, which is 11 members to be present.
+:* Action Item: Darcy to set out AGM email
+:* Action Item: Doug updated the lab calendar
+:* Action Item: Doug investigating state of proxies for the AGM. December meeting was temporary and Ontario bylaws have changed around this. Doug will report back to the board.
+
+==== Upcoming Biking event ====
+:* June 2th - Animate The Trail - on the Iron Horse trail. Ed Maste is one of the organizers for the event.
+:* Mark's interested in having an open house for Kwartzlab during the event for people to get familiar with the lab.
+:* Suggestion of handing out flyers for the Maker Faire as well, or have common locations for flyers
+:* Mark to head up running of the hosting at the lab
+
+=== Old Business ===
+
+==== Internet Speed Issues ====
+:* We know it's not stable. Ben has emailed Cedric about the connection. Mark has as well a few weeks ago.
+:* Considering looking at other options related to upcoming events
+:* Ben to provide a report on this
+
+==== Student Memberships ====
+:* Deferring discussion for a few months. Want to discuss other functions around student involvement at lab.
+:* Bob D. - initiation fee is a larger barrier than dues for students. If the lab feels that more student participation is something we wish to support, rather than lower the dues, offer introductory price reductions to getting them in.
+:* Possibility of lower membership fees related to membership numbers, student and senior rates
+:* Hacker in residence program?
+:* Removing from agenda for now
+
+==== Cleaning schedule ====
+:* Ben working on automated script working - something not running right, Ben to investigate
+:* Rob to update clean up instructions to include garbage info
+
+==== Youth (16 or younger) Membership ====
+:* James - concern about liability on our behalf
+:* Mark - parents should sign a waiver for their children
+:* Darcy - we need to discuss with a lawyer
+:* Would be good to have waivers signed regardless
+:* What's the liability implication of minors in the space - for advice from lawyer
+:* minors can't sign contracts. Parents can.
+:* Action Item: Gus to talk with lawyer and we'll follow up next meeting - Darcy need to follow up
+:* discussion items:
+::* 24 keyed access for kids? Can they bring their friends as guests (without adult supervision)?
+::* legal liability, if a 16 yr old cuts off their finger, vs an 18 yr old? If a kid's guest cuts off their finger?
+::* can a 16 yr old sign the audit waver form?
+:* No new info on this topic. Still waiting for lawyer's info from Gus.
+
+==== Buildout / Prep ====
+:* Not much is happening with this right now.
+::* Action Item: Ben - sign creations - done, needs to be put up, issues with lighting being worked on
+::* Action Item: Drywall panelling / mudding - on hold for 2nd floor
+::* Action Item: 2nd floor - Rob  - kitchenette floor
+::* Action Item: Power panel needs remapping and reorganization and plumbing drain tube needs to be moved
+::* Action Item: James - needs to install the door strike. Back door first
+::* Action Item: Welding area - Need to remove slot wall (safety), steel shelving to replace slot/peg board. Fireplace backing sheets recommended.Can hang the welding curtains in the meantime.
+::* Action Item: Rob or Ben - garbage run needs to happen again (ceiling tiles, etc)
+::* Action Item: Karl - carpeting to stairwell and bathroom
+::* Action Item: Plumbing vent - Taylor?
+::* Action Item: Paint outside of building - will need budgetary review
+::* Action Item: Get and run sawdust duct work, interim piping can be made up until fully planned piping done
+
+==== Trillium Grants ====
+:* Mark - Ontario Arts council - found other funds to investigate as well - period doesn't start until 2014
+:* Action Item: James - we've had the tool meeting, now to prioritize and purchase the tools. Some tools are being purchased already, others being investigated
+:* Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various levels of complexity
+:* Some posters have been posted
+:* Action Item: Fire extinguishers need to be recharged, mounted and signed in new space. They currently are around the space, just need to formalize locations
+
+=== Action item review ===
+
+
+=== Adjournment ===
+Move to adjourn at 20:36
+Forwarded by: Darcy
+Second: Doug
+In favour: Unanimous
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Darcy
+* Rob
+* Mark
+* Doug
+
+==== Regrets ====
+* Karl
+* Ben
+* James
+ 
+==== Unknown ====
+*

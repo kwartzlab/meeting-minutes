@@ -1,0 +1,125 @@
+{{Meeting
+|Date=2013/08/07
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* James
+:* Mark
+:* Ben
+:* Jaymis
+:* Darcy
+
+=== Call to Order ===
+:* Called to order at 19:43
+
+=== Approval of the Agenda ===
+:* Approved
+
+=== Report from the President ===
+:* My spoon is too big... and we're awesome.
+
+=== Report from the Treasurer ===
+:* No hydro bill yet (should be around $150.
+:* Gas & water is cheap.
+:* ~$8000 left in Trilium fund.
+:* We're in the black.
+
+=== Recurring Business ===
+
+==== Membership Changes Logging ====
+:* The following new members have been added to the admin and members mailing lists:
+:** Gillian Gutenberg
+:** Brett Shellhammer
+
+==== Membership Dues Owed Follow Up ====
+:* Action Item: Ben to follow up with this
+:* If dues are done in cash, they're to be done in exact change.
+:* Action Item: Darcy to start mailing list tread about cash and non-electrionic payments.
+:* Action Item: Mark to look into CRMs.
+
+==== Reimbursements ====
+:* Reimbursement for James (pre-approved on mailing list).
+
+=== New Business ===
+
+==== Budget ====
+:* Our budget and where money goes & should go.
+:** Budget for The Shed
+:*** With the new members, we can probably approve up to $500 for the shed.
+:** Combine slush & supply funds into consumable fund (~$200-ish).
+:** Rename general operating fund to better reflect its purpose.
+:** Status and purpose of the emergency fund
+:* Set money aside for audit?
+:* Action Item: Ben to create a treasurer manual.
+:* Action Item: Ben to update the budget.
+
+==== Tree Removal ====
+:* Christian is ok with it.
+:* The fence is not ours.
+
+==== Urban Fungus (Donation Bin) ====
+:* Motion by Jaymis: decline request to have a donation bin on our property.
+:** Seconded: James
+:** Approved unanimously.
+
+==== Insurance ====
+:* Increase to liability?
+:** Probably not.
+:* Improvements to the space.
+:* Who takes responsibility for art work in the lab?
+:* Action Item: Ben to talk to Christian to find out what his insurance covers.
+:* Action Item: James to update asset list on wiki with tool values.
+:* Motoin by Darcy to increase the contents insurance to $100,000 and follow up with Christian
+:** Seconded by: Jaymis
+:** Approved unanimously.
+:* Action Item: Ben to draw up waivers for members and non-members with property in the space.
+
+==== Mailing Lists ====
+:* Never use BoD unless it's confidential.
+:* Use admin for spam-collecting inbound traffic.
+:* Use members list for all else.
+:* Use discuss for upcoming events.
+
+==== Good Governance ====
+:* We are a public benefit organization.
+:* The board is responsible for keeping its promises.
+:* The board can still delegate to non-board members.
+:* If a member fails to complete a task, the board is responsible for seeing it through.
+
+==== Party ====
+:* There will be a party.
+
+=== Old Business ===
+
+==== Board hand-over ====
+:* Action Item: Jaymis and Jonathan need to fill out paperwork for the change of directors.
+
+==== New member application process ====
+:* Action Item: Online form for member application - Ben
+:* Action Item: Member welcoming information/page - Doug
+
+==== Hacky Hallowe'en 2013 ====
+:* We should get moving on this.
+:* Funding?
+:* Action Item: Jaymis to figure out whether we or THEMUSEUM will head up the K-W Community Foundation grant.
+
+==== Cleaning schedule ====
+:* Action Item: Darcy to start mailing list discussoin about what needs to be done for cleaning.
+
+==== Buildout / Prep ====
+:* Action Item: Ben to update wiki for buildout.
+
+==== Trillium Grants ====
+:* Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Action Item: Ben to follow up on the chairs order - chairs are on their way
+:* Action Item: James to follow up on router and other items
+
+=== Action item review ===
+:* Reviewed.
+
+=== Adjournment ===
+:* Adjourned at 21:17.

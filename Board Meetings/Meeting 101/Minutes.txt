@@ -1,0 +1,127 @@
+{{Meeting
+|Date=2013/04/03
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON, Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy at 19:40
+
+=== Approval of the Agenda ===
+:* All in favour: unanimous
+
+=== Report from the President ===
+:* Deferring report, we're awesome
+
+=== Report from the Treasurer ===
+:* Need 5 member additions in the next few months
+:* Motion: Ben - To top up the emergency fund
+::* James Seconded it
+::* All in favour: Unanimous
+
+=== New Business ===
+
+==== Student Memberships ====
+:* Deferring discussion for a few months. Want to discuss other functions around student involvement at lab.
+:* Bob D. - initiation fee is a larger barrier than dues for students. If the lab feels that more student participation is something we wish to support, rather than lower the dues, offer introductory price reductions to getting them in.
+:* Possibility of lower membership fees related to membership numbers, student and senior rates
+:* Hacker in residence program?
+
+==== Membership Dues Owed Follow Up ====
+:* 5 members need to settle up. Ben has caught up the membership and books, and emailed people who need to catch up.
+
+==== Reimbursements ====
+:* 3D Replicator printer - Doug Moen - Will produce the receipt/invoice for Ben, will cut cheque
+
+=== Old Business ===
+
+==== Space festival for kids at PI with Charlotte ====
+:* Mark spoke to Charlotte last week, didn't hear anything more about this. Doug mentioned this is a private event for PI employees.
+:* Event is a week from tomorrow
+:* Request for any interest for Kwartzlab to have a table to do something with the kids. Mark said he'd be interested.
+:* Taking off the agenda
+
+==== Film screening event KW Transition & Sacred Secular Sanctuary ====
+:* Sacred Secular Sanctuary promotional materials
+:* Kwartzlab will not be involved with this. Removing from agenda.
+
+==== Cleaning schedule ====
+:* Ben working on automated script working
+:* Mike has been covering the garbage for the last few weeks. Garbage should be going out on Kent. Won't be picked up on Charles
+::* Action Item: Rob to update clean up instructions to include garbage info
+
+==== Youth (16 or younger) Membership ====
+:* James - concern about liability on our behalf
+:* Mark - parents should sign a waiver for their children
+:* Darcy - we need to discuss with a lawyer
+:* Would be good to have waivers signed regardless
+:* What's the liability implication of minors in the space - for advice from lawyer
+:* minors can't sign contracts. Parents can.
+:* Action Item: Gus to talk with lawyer and we'll follow up next meeting
+:* discussion items:
+::* 24 keyed access for kids? Can they bring their friends as guests (without adult supervision)?
+::* legal liability, if a 16 yr old cuts off their finger, vs an 18 yr old? If a kid's guest cuts off their finger?
+::* can a 16 yr old sign the audit waver form?
+:* No new info on this topic. Still waiting for lawyer's info from Gus.
+
+==== Kent Street Buildout / Prep ====
+:* Not much is happening with this right now.
+::* Action Item: Ben - sign creations - should be done this week
+::* Action Item: Drywall panelling / mudding - on hold for 2nd floor
+::* Action Item: 2nd floor - Rob  - kitchenette floor
+::* Action Item: Power panel needs remapping and reorganization and plumbing drain tube needs to be moved
+::* Action Item: Network drops - Ben - in progress, still some to do around the space
+::* Action Item: James - needs to install the door strike. Back door first
+::* Action Item: Ben - rear door replacement - need to find a door - pausing this Action Item
+::* Action Item: Welding area - Need to remove slot wall (safety), steel shelving to replace slot/peg board. Fireplace backing sheets recommended.Can hang the welding curtains in the meantime.
+::* Action Item: Rob - garbage run needs to happen again (ceiling tiles, etc)
+::* Action Item: Karl - carpeting to stairwell and bathroom
+
+==== Trillium Grants ====
+:* Mark - Ontario Arts council - found other funds to investigate as well - deadline is this April - period doesn't start until 2014
+:* Mark - set deadlines for items to purchase after opening party. Fill out the list, have a membership/interested party meeting to make a decision on what to buy
+:* Once this purchasing round is done, we can focus on future grant applications
+:* Previous Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Previous Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Doug would like to look into getting the 3D printer with Trillium grant money sooner than later, possibly for the party event - no update at this time
+:* Need to re-get quotes for the items listed from the grant to help start the purchasing process - can be done by members to get 3 quotes and bring those back to the board for review
+:* Action Item: Darcy - original quote list can be scanned and put up on the wiki, currently sent via Admin mailing list
+:* Action Item: 3D Printer - purchased in multiple quantities
+:* Action Item: Need to select a date to select items for purchase - Next Thursday - James
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various levels of complexity
+:* Some posters have been posted
+:* Action Item: Fire extinguishers need to be recharged, mounted and signed in new space. They currently are around the space, just need to formalize locations
+
+=== Action item review ===
+
+
+=== Adjournment ===
+Move to adjourn at 20:46
+Forwarded by: Rob
+Second: Ben
+In favour: unanimous
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Rob
+* Mark
+* Ben
+* Karl
+* Doug
+* James
+* Darcy
+
+==== Regrets ====
+* 
+ 
+==== Unknown ====
+*
+
+==== Unknown ====
+*

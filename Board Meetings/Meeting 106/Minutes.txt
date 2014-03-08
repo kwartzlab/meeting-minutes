@@ -1,0 +1,143 @@
+{{Meeting
+|Date=2013/07/17
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+* Jonathan
+* Darcy
+* Doug
+* Jaymis
+* James
+* Mark
+* Ben
+
+=== Call to Order ===
+:* Meeting called to order by Darcy at 19:53.
+
+=== Approval of the Agenda ===
+:* Modified and approved unanimously.
+
+=== Report from the President ===
+:* My anus is bleeding.
+
+=== Report from the Treasurer ===
+:* ~$17,200 in bank account.
+:* $9100 left from Trillium grant
+:* Large deposit of membership dues will be deposited.
+:* We've been signed up for Swipe
+:* Gas & water was $42
+:* Hydro was $210
+:* We now have 50 members!
+
+=== Recurring Business ===
+
+==== Membership Changes Logging ====
+:* The following new members have been added to the admin and members mailing lists:
+:** Clive Bilewitz
+:** Stephanie Trotter
+:** Ryan Wicks
+:** Sean Zimmerman
+:* Action Item: draft a welcome e-mail for new members.
+
+==== Membership Dues Owed Follow Up ====
+:* Action Item: Ben to follow up with this
+
+==== Reimbursements ====
+:* None
+
+=== New Business ===
+
+==== Non-Violence Festival Report ====
+:* Turned out to be good publicity for kwartzlab
+:* There were lots of people who came by who were just in Victoria Park (not necessarily there for the festival)
+:* We made $6 in donations
+
+==== Waterloo Mini Maker Faire 2014 ====
+:* We have City Hall and Victoria Park tentatively booked for Saturday, 14 June.
+
+=== Old Business ===
+
+==== Board hand-over ====
+:* The following people will go to the bank to set up signing authority on Monday, 22 July:
+:** Ben
+:** Jaymis
+:** Darcy
+:** Mark
+:** James
+:* Action Item: Jaymis and Jonathan need to fill out paperwork for the change of directors.
+
+==== New member application process ====
+:* How to make it clearer, friendlier, less intimidating for applicants?
+:* It was suggested to get photos of new applicants to make it easier for the board to identify them.
+:* Updating the application form. Ben feels it needs updating to be more current.
+:* Integrating applicants into community
+:* Action Item: Online form for member application - Ben
+:* Action Item: Member welcoming information/page - Doug
+
+==== Hacky Hallowe'en 2013 ====
+:* THEMUSEUM is willing to assist us with getting corporate sponsorship.
+:** We should start working on this now.
+:** They want a commitment by the beginning of August.
+:* Discussion about co-branding
+:* Can we get pumpkins donated?
+:** Doug suggested approaching Naumans.
+:* Motion: commit to running Hacky Hallowe'en at THEMUSEUM
+:** Made by: Darcy
+:** Seconded: James
+:** No discussion
+:** Approved unanimously
+:* We want admission to be free.
+:* Discussion about possible partnership with THEMUSEUM
+
+==== G33k Art Show ====
+:* Nov22-24 this year
+:* Action Item: Ben talk to Miroki about in-kind table swap
+:** Deferred to end of month due to Miroki's availability
+
+==== Social Media Accounts ====
+:* social@kwartzlab.ca was created for registering social media accounts (forwards to BoD list)
+
+==== Internet Speed Issues ====
+:* We should have a new Internet connection by some time next month.
+
+==== Cleaning schedule ====
+:* Action Item: Ben worked on automated script working
+:* Action Item: Rob to update clean up instructions to include garbage info
+
+==== Buildout / Prep ====
+:* Budget for exterior painting
+:** Needs to be addressed within the next month or two.
+:** Humidity is bad.  Maybe do this in September?
+:* Electrical
+:** Ed requires assistance to do this up and then schedule up time
+:** Mike's been taking care of a bunch of this
+:* Action Item: Ben - sign creations - done, needs to be put up, issues with lighting being worked on
+:* Action Item: Drywall panelling / mudding - on hold for 2nd floor
+:** Drywall finished, still needs painting
+:* Action Item: 2nd floor - Rob  - kitchenette floor
+:* Action Item: Power panel needs remapping and reorganization and plumbing drain tube needs to be moved
+:* Action Item: James - needs to install the door strike. Back door first
+:* Action Item: Welding area - Need to remove slot wall (safety), steel shelving to replace slot/peg board. Fireplace backing sheets recommended.Can hang the welding curtains in the meantime.
+:* Action Item: Rob or Ben - garbage run needs to happen again (ceiling tiles, etc)
+:* Action Item: Karl - carpeting to stairwell and bathroom
+:* Action Item: Plumbing vent - Taylor investigating with Bob
+:* Action Item: Paint outside of building - will need budgetary review
+
+==== Trillium Grants ====
+:* We still have lots of money that needs to be spent.
+:* Status of purchases
+:* Mark - Ontario Arts council - found other funds to investigate as well - period doesn't start until 2014
+:* Action Item: James - we've had the tool meeting, now to prioritize and purchase the tools. Some tools are being purchased already, others being investigated. James to follow up on purchases.
+:* Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Action Item: Ben to follow up on the chairs order - chairs are on their way
+:* Action Item: James to follow up on router and other items
+:* Action Item: Book a meeting specifically for Trillium grant discussion.
+
+=== Action item review ===
+:* Reviewed
+
+=== Adjournment ===
+:* Adjourned at 21:01

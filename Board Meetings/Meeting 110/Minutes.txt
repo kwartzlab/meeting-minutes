@@ -1,0 +1,91 @@
+{{Meeting
+|Date=2013/10/09
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Ben
+:* Mark
+:* Doug
+:* Jaymis
+:* James
+:* Darcy
+
+=== Call to Order ===
+:* Called to order by Jaymis at 19:50
+:** Seconded by Doug
+
+=== Approval of Agenda ===
+:* Motion by Darcy
+:** Seconded by Jaymis
+:** Approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Motion by Ben
+:** Seconded by Darcy
+:** yea: 6
+:** nay: 0
+:** abstain: 1 (Mark)
+
+=== Report from the President ===
+:* We're awesome.
+
+=== Report from the Treasurer ===
+:* We had a surplus in September of ~$200.
+
+=== Recurring Business ===
+
+==== Previous Meeting Action Items ====
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan)
+:* Action item: Type up things to be added to board procedure (Ben)
+:* Action item: establish a schedule to the end of the year (Ben) - done
+:* Action item: prepare a bill of materials for the Hacky Hallowe'en kits (James) - done
+
+==== Reimbursements ====
+
+==== Documentation of Board Procedures ====
+:* Still needs to be done
+
+==== Review of mailing list votes ====
+:* Nothing to review
+
+=== New Business ===
+
+==== SoOnCon ====
+:* Ben has been gathering information on venue and costs.
+:* Several people are considering doing talks (we have 9 currently)
+
+==== Board Manual ====
+:* Mark has created a board procedures manual.
+:* It should be read more closely by the members of the board.
+
+=== Old Business ===
+
+==== Review of Purchasing Procedure ====
+:* Expenditures from consumables fund are to be approved by Ben in accordance with by-laws
+:* Website needs to be updated to reflect new procedures
+:* Action item: Send a re-wording of board procedure to Mark (Ben)
+
+==== Membership Application Process ====
+:* Ben is working on a new on-line form for this.
+
+==== Cleaning Paint Stains ====
+:* Action item: Pick up supplies for this (James)
+
+==== Hacky Halloween ====
+:* James has the BOM
+:* We should probably have a call for volunteers soon
+
+=== Action items from this meeting ===
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan)
+:* Action item: Send a re-wording of board procedure to Mark (Ben)
+:* Action item: Pick up supplies for cleaning of concrete (James)
+
+=== Adjournment ===
+:* Motion to adjourn at 20:37 by Darcy
+:** Seconded by Jaymis
+:** Approved unanimously

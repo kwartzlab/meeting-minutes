@@ -1,0 +1,154 @@
+{{Meeting
+|Date=2013/06/05
+|Time=19:30
+|Address=33 Kent Ave. Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 19:44
+
+=== Approval of the Agenda ===
+:* All in favour: Unanimous
+
+=== Report from the President ===
+:* We are awesome!
+
+=== Report from the Treasurer ===
+:* Not present
+
+=== New Business ===
+
+==== Membership Changes Logging ====
+:* New Members:
+::* Chris Gibson
+::* Mark Kochut
+::* Both voted in on mailing list. Getting administrative stuff going - Ben and Rob
+
+:* Members Leaving:
+::* Matt McPherrin - paid until September
+
+==== Membership Dues Owed Follow Up ====
+:* Ben to follow up with this
+
+==== Reimbursements ====
+:* Don't have anything this meeting
+
+==== Roland Milling Machine ====
+:* Pros and cons for getting the Roland
+:* Motion to purchase the roland mill in lieu of the Taig with Trillium grant money - James Bastow
+:* Seconded: Rob
+:* All in favour: Unanimous
+
+==== Kwartzlab Booth for Maker Faire ====
+:* Ben has posted invite for participants
+:* Action Item: Mark to fix/build backdrop panel for the show
+:* Action Item: Bring 3D printer / mill, etc. 
+:* Action Item: Request 3-4 tables
+:* Action Item: Mark to cut coaster kits, cut projects out to sell at the faire
+:* Action Item: Ben to print off and make buttons
+:* Motion to approve after party - James
+:* Seconded: Rob
+::* All in favour: Unanimous
+
+==== BOD Nominations ====
+:* Deadline for nominations is tomorrow. Do we have enough people on the ballot? Or will Verdi from DIYode be elected by acclamation?
+:* Appears to be enough candidates - 9
+
+==== AGM proxy votes and remote participation ====
+Drafting a motion for the general meeting
+:* Limiting number of proxies a person can hold
+::* Proposal to limit the proxies to 3 per person, and the proxy holder has to be a member
+:* Adhering to OCNA 2010
+::* This has been lobbied and prevented from being instated due to voting rights
+::* It has been delayed until 2014. Voting rights to be reviewed. Even once proclaimed, we still have 3 years of grace.
+:* Other mechanisms for remote voting
+::* Skyping in - we will try that, or Google hang out
+::* Remote voting not possible in this short timeframe
+
+=== Old Business ===
+
+==== AGM ====
+:* 2013 AGM announced and call for nominations posted
+:* Darcy proposed June 20th (Thursday) 7:30pm
+:* For AGM, as we'll probably have 44 members for then. Quorum requires 1/4 of membership or 10 people, which is 11 members to be present.
+
+==== Biking event Restrospective ====
+:* the event was a bust. Poor weather.
+
+==== Internet Speed Issues ====
+:* We know it's not stable. Ben has emailed Cedric about the connection. Mark has as well a few weeks ago.
+:* Considering looking at other options related to upcoming events
+:* Ben to provide a report on this, possibly new cable solutions
+
+==== Cleaning schedule ====
+:* Action Item: Ben worked on automated script working, should be in place for next week
+:* Action Item: Rob to update clean up instructions to include garbage info
+:* Darcy has noticed some smells lately. Rob to get on the checklist.
+
+==== Youth (16 or younger) Membership ====
+:* James - concern about liability on our behalf
+:* Mark - parents should sign a waiver for their children
+:* Darcy - we need to discuss with a lawyer
+:* Would be good to have waivers signed regardless
+:* What's the liability implication of minors in the space - for advice from lawyer
+:* minors can't sign contracts. Parents can.
+:* Action Item: Gus to talk with lawyer and we'll follow up next meeting - Darcy need to follow up
+:* discussion items:
+::* 24 keyed access for kids? Can they bring their friends as guests (without adult supervision)?
+::* legal liability, if a 16 yr old cuts off their finger, vs an 18 yr old? If a kid's guest cuts off their finger?
+::* can a 16 yr old sign the audit waver form?
+:* No new info on this topic. Still waiting for lawyer's info from Gus.
+
+==== Buildout / Prep ====
+:* Not much is happening with this right now. Need to review funding to see when we can start building up fundage again.
+::* Action Item: Ben - sign creations - done, needs to be put up, issues with lighting being worked on
+::* Action Item: Drywall panelling / mudding - on hold for 2nd floor
+::* Action Item: 2nd floor - Rob  - kitchenette floor
+::* Action Item: Power panel needs remapping and reorganization and plumbing drain tube needs to be moved
+::* Action Item: James - needs to install the door strike. Back door first
+::* Action Item: Welding area - Need to remove slot wall (safety), steel shelving to replace slot/peg board. Fireplace backing sheets recommended.Can hang the welding curtains in the meantime.
+::* Action Item: Rob or Ben - garbage run needs to happen again (ceiling tiles, etc)
+::* Action Item: Karl - carpeting to stairwell and bathroom
+::* Action Item: Plumbing vent - Taylor investigating with Bob
+::* Action Item: Paint outside of building - will need budgetary review
+::* Action Item: Get and run sawdust duct work, interim piping can be made up until fully planned piping done
+
+==== Trillium Grants ====
+:* Mark - Ontario Arts council - found other funds to investigate as well - period doesn't start until 2014
+:* Action Item: James - we've had the tool meeting, now to prioritize and purchase the tools. Some tools are being purchased already, others being investigated. James to follow up on purchases.
+:* Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Action Item: Ben to follow up on the chairs order
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various levels of complexity
+:* Some posters have been posted
+:* Action Item: Fire extinguishers need to be recharged, mounted and signed in new space. They currently are around the space, just need to formalize locations
+
+=== Action item review ===
+
+
+=== Adjournment ===
+Move to adjourn at 20:43
+Forwarded by: Darcy
+Second: Rob
+In favour: Unanimous
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Rob
+* Darcy
+* Karl
+* James
+* Doug
+* Mark
+
+==== Regrets ====
+* 
+
+==== Unknown ====
+*
