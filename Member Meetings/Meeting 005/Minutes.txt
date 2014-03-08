@@ -1,0 +1,17 @@
+{{Meeting
+|Date=2012/11/28
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener, ON, Canada
+|Meeting Type=General Members Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Report from the President
+# Report from the Treasurer
+# Moving
+## Be it resolved that the Kwartzlab Makerspace should move from 283 Duke Street West
+# Presentation of the KLARP 2012 Report
+## Presentation of the Board's preferred option: 33 Kent Street, Kitchener.
+# Motion to accept the Board's preferred option
+## Discussion of a potential new home for the Kwartzlab Makerspace
+# Adjournment

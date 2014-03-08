@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2010-04-29
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=General Members Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Remarks from the Chair
+# Termination of Michael Kowalski's Membership
+# Adjournment

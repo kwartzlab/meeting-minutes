@@ -1,0 +1,14 @@
+{{Meeting
+|Date=2011-09-08
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=General Members Meeting
+}}
+# Call to Order
+# Approval of the Agenda
+# Remarks from the Chair
+# Report from the Treasurer
+# Agreement between Ed Blanchard and Kwartzlab to retain access to Ed's property stored at Kwartzlab.
+# Board election
+## Be it resolved that _____ be appointed as a member of the Board of Directors for KwartzLab Society Inc. effective immediately for the remainder of the one year term ending June 30, 2012.
+# Adjournment

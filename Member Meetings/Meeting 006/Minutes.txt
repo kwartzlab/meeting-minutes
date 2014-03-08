@@ -1,0 +1,136 @@
+{{Meeting
+|Date=2012/11/28
+|Time=19:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=General Members Meeting
+}}
+=== Call to Order - Time: 7:30pm ===
+==== Approval of the Agenda ====
+:* Amend the agenda to include proxy voting
+:* Moved by Darcy
+:* Seconded by Michael
+:* All in favour - unanimous
+:* Approval of Agenda
+:* Moved by Darcy
+:* Seconded by Davenport
+:* All in favour - unianimous
+==== Report from the President ====
+:* Darcy discussed code of conduct for the meeting
+:* Invoking Robert's rules for the meeting to have a productive meeting
+==== Report from the Treasurer ====
+:* Ben provided a financial statement for the membership to review
+:* 42 members
+:* even with tool fund, monthly surplus is approx. $351
+:* Grant money still in place, ready to be used
+:* statement to be attached into Wiki
+
+==== Proxy Voting Amendment to Bylaws ====
+:* Ben: to have members who can't make it, have another member who is coming to the meeting vote on their behalf
+:* This means that the person submitting the proxy vote agrees to help and this is presented to the board before the meeting
+:* Motion: Ammend the bylaws to allow proxy voting as per Ben's explanation of 
+:* Seconded: Matthew
+:* Discussion: 
+:* Rob Gissing: Ok with proxy voting. Raising founding members had concerns with this practice related to vote hijacking. Request for records of who is here and voting, and the proxy votes. More of a board procedure change to allow for a fair process.
+:* Michael Davenport: OK with proxy voting, but not comfortable with ammending the bylaw without further investigation to make sure it's sound.
+:* Darcy: Having for this meeting only is 
+:* Michael To ammend Darcy's motion to be only for this evening. James Seconded.
+:* Alex: 
+:* Darcy: Michael's motion is required for more thought that can be reviewed at the AGM
+:* James: Seconded to help move this through for tonight
+:* Darcy: Vote for Michael's ammendment to Darcy's motion
+:* All in favour: 24
+:* Ammendment carries
+:* Ben - banning proxy voting originally because of a previous experience at the lab
+:* Jonathan - 
+:* Natalie - we could table alternatives to proxy voting
+:* Darcy/ Steph - government rules will be coming to change for this as it is
+:* Ammended motion: Suspend the rules to allow for proxy voting for tonight's meeting
+:* For: 27
+:* Opposed: 1
+:* Motion carried
+
+==== Moving ====
+:* Be it resolved that the Kwartzlab Makerspace should move from 283 Duke Street West
+:* A vote for yes means to approve searches to move out of our current space. No time limit.
+:* This does not mean we're moving to any particular place
+:* No means we remain at our current location
+:* Discussions:
+:* Jonathan - This place is a hole, that is all. How many people are we not getting as members because of this space? Legitimate concerns
+:* Ben - security, gentrification of the building, landlord told Ben the building is losing money and the 'New Berlin' project was the last hope for the building. We've had a good run here, but time's up
+:* Alex - We could do better with this place. As long as we can afford the move, we should get out
+:* Matthew - Sad to go, but we've only just brought it up to par. Hard to get into when first came to the building. Think we should move.
+:* Don - Do think we should leave. Feel it'll take time to move. Agree to move.
+:* Rob Gissing - speaking to this motion. Board needs to have clearly mandated powers to allow us to make a move possible. Urge everyone to accept this.
+:* Kyle - Ben - gentrification? High possibility of the city taking over the building (or new developer) which would put us at risk of being kicked out
+:* James - Not great that we have to move. Building is cheap, but in poor shape. We need to prepare to move and stay ahead of the problems
+:* Doug - my wife won't come here because it's too scarey. Fitting for the board to have the mandate for alternative spaces
+:* John - to Rob G's point, we should move
+:* Steven - Cost to buy this place? We can't afford
+:* Bernie - this place will need serious renos / torn down, which will raise rent costs. We've put a lot of work into this place, but don't see a future here. We'll wind up moving in a year as it is. Let's go.
+:* Rob G - We're here month to month. The lease has expired. We can be kicked out in 30 days at any time.
+:* Alex - to add to Rob G's point - if we don't have heat because they're not paying their bills, we're in trouble. Don't feel a long search is in our favour
+:* All in favour: 25 + 5 proxies
+:* Obstained: Steven
+:* MOtion carries
+
+==== Presentation of the KLARP 2012 Report ===
+:* Presentation of the Board's preferred option: 33 Kent Street, Kitchener.
+:* Motion to accept the Board's preferred option
+:* Discussion of a potential new home for the Kwartzlab Makerspace
+:* Davenport - Who went to all five locations? Jonathan and Darcy were at all five locations
+:* Mark - is this their asking pricee for all properties? Yes
+:* Davenport - any sketchy landlords? Yes, the last building looked at (increasing costs during discussion)
+:* Alex - if we went with a larger space and used the reserve, we'd start running out of reserve funds pretty quickly. Ran projections against options more expensive than we can afford, we'd burn through our funds quickly
+:* ROb - Moving to accept the report
+:* Michael - 2nded 
+:* All in favour of the report - unanimous + proxy votes
+
+:* Board met on Monday to choose preferred location - Pandora was the result
+:* Landlord is holding off on other interested parties due to interest in Kwartzlab using the space
+:* Space is smaller than current location by 350 sq ft (current location is 2700 sq ft)
+:* some space challenges, dont feel we have to give up equipment
+*: Can afford it today. Not everything we want, but a lot of what we want.
+:* Voting yes - board will not go out and immediately sign a lease. It empowers the board to negotiate with the landlord, go over floor plan to see if this place is actually a fit for us
+:* Voting no - We keep looking. Pandora is off the table.
+:* Questions:
+:* Voting no will not be a vote of no confidence in the board
+:* VOting yes is to pursue investigation of Pandora - if board in the end finds it unsuitable, we will pursue other options
+:* Is it possible that other candidate properties will come up during investigation? Not likely (Darcy)
+:* Discussion:
+:* Rob G - He knows the owners at a distance. They're not asking for a crazy lease deal. We were a community first. Space was a tool to help us do making. We didn't want to be in a position where the space was a hinderance like what this space has become. Feels that this is an opportunity we shouldn't pass up. Supporting this proposal.
+:* Cedric - Seen majority of the properties, participated in previous KLARP. There's always a chance something could pop out of the woodwork, but not holding my breath based on experience. Regarding the space - if we can squeeze our stuff into the building, there are a lot of other good factors going for that space. Based on revised floor plans from James, I believe it can work. Process proposed here is the only way this can be done. Let's trust our board to make the right call at the end of the day.
+:* Alex - WIth the loss of the 18 x 18 space is not a big deal. We can make better use of our space. Didn't know the landlord wants us in the space. The sooner we get out of this place, is the better option. We'll be fine. 
+:* Michael - In favour of living within our means. Don't wish to get a bigger space beyond our means. This will still be the largest hackerspace in Southern Ontario. Aside from parking, not any large cons.
+:* Jonathan - Echo everything said so far. Sure it's a little bit smaller, great location, transit, visibility, supportive landlord and allows us to modify the space. Hard to find that combination. Would hate to see us miss this opportunity.
+:* Ben - Pandora space wasn't my first choice. Going back to the financial option, we have a mandate to live within our means. We're member run and owned, without requirement of fund raising. Having the model we have, we have freedoms and constraints. Kent isn't the best place, but best location considering options. These opportunities are rare.
+:* Rob G - What Ben mentioned is one of our strongest pillars in comparison to other maker spaces. US maker spaces were even worse off. City and region recognizes this.
+:* Doc - Sounds like the landlord wants us. If timing is a factor, then open up the possibility of quicker connection with the space. 
+:* Darcy - discussion of membership fees would be at another member/board meeting
+:* James - reluctant at first. Didn't want to move. Went to Kent st. and measured it up. Feel it's big enough. We have no idea what will present itself in the future. Definitely don't want to pay the CBRE tax. Keep in mind, you can't pick up in move. Going to be a lot of work. 
+:* Matthew - Points of attraction. Near express, near Grand River Rocks. Positive place for us. Yes, some downsizing. A lot of possibilities even in a smaller space. Feel it's feasible space.
+:* Doug - Still on the fence. Good points - building evokes positive feeling. Not convinced we'll have enough shop space with what we have now and moving forward. Change mind if a convincing floor plan is presented. We found out about Pandora via connected community. Not convinced Pandora is our only possibility. Wishes to ammend the motion - to look at Pandora floor plan for membership to understand impact of change. To consider alternatives while investigating Pandora. Go for Pandora but keep options open.
+:* Alex - opposed to changes
+:* Ben - open to keeping our eyes open, but without time constraints on alternatives
+:* Michael - proposed ammendment make the board any less effective in pursuing Pandora - Darcy doesn't feel it will
+:* Jonathan - when it comes to crunch time. If we have not found anything else suitable. 
+:* Doug: detailed evaluation of space requirements and consider other possible options whie pursuing Pandora
+:* Ben: we're not just going to sign a lease tomorrow. Due dilligence will be happening to make sure it is a proper fit.
+:* Cedric: was expecting that the board to choose a space, but if it didn't pan out, that we wouldn't require another members meeting. Board be empowered to select a new space, possibly Pandora, or another space should it come to light. Doug agrees to this.
+:* Doc: possibility of putting in our own offers on other spaces
+:* James: Other spaces we've looked at, we'd be offering them half of what they're asking
+:* Ammendment vote - Cedric: Vote to empower the board to make the decision about locating a new space, possibly Pandora, and if not, another location.
+:* All in favour: Unanimous + proxy votes
+
+:* Mark - main issue is that it's happened too quickly. Require critical thought into Pandora. Current search list of what's available on the market at the moment. Spaces under 5000 sq ft aren't in the scopes of real estate agents. We'll have to spend a little more effort in locating a space in our size requirement. Other options, partnerships, funding, etc.
+:* Bernie - looks like a good cross section of what's available. Lucky to find anything that we can afford with the combination of pluses. Went to space and met landlord, got a good feeling about it.
+:* Ben - only comment to partnerships - goes against our current operating model. If we choose to pursue this, we'd have to change our business model.
+:* All in favour to vote: Unanimous
+:* Motion on the floor: 
+:* All in favour: Unanimous
+:* Opposed (including proxy): None
+
+=== Adjournment ===
+Move to adjourn: James
+Seconded: Ed
+All in favour: Unanimous
+Meeting adjourned at 9:46pm

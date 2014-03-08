@@ -1,0 +1,37 @@
+{{Meeting
+|Date=2014/02/27
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, Ontario Canada
+|Meeting Type=General Members Meeting
+}}
+=== Call to Order ===
+Meeting called to order by Darcy at 19:30
+
+==== Approval of the Agenda ====
+:* Motion to approve agenda by Darcy
+:** Seconded by Jonathan
+:** Approved unanimously
+
+==== Remarks from the President ====
+:* We're awesome.
+:* Congratulations Bob.
+
+==== Announcement of a New Director ====
+:* Announced
+
+==== By-law amendment ====
+Proposed change to membership by-law:
+:* Motion to change bylaws to allow board to determine membership admission policy by Darcy
+:** Seconded by James
+:** Approved unanimously less one abstention.
+
+Amendment to replace all of section A of II Membership as follows:
+
+:* II. Membership
+:** A. Admittance to membership
+:*** 1. The conditions under which membership will be issued are determined either by the Board, or by a Director, Officer, Member, or Committee appointed by the Board to oversee the issuance of membership.
+
+=== Adjournment ===
+:* Motion to adjourn by Darcy
+:** Seconded by Ryan
+:** Approved unanimously.

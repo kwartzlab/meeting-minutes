@@ -1,0 +1,14 @@
+{{Meeting
+|Date=2010-02-17
+|Time=1900
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=General Members Meeting
+}}
+# Call to order
+# Meeting Procedure
+# Membership Hiatus
+# Membership Vetting
+# Vision for 2010
+# Bylaws (incl. Board Election Procedures)
+# Non-members in KwartzLab
+# Adjournment

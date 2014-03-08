@@ -1,0 +1,12 @@
+{{Meeting
+|Date=2009-09-22
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=General Members Meeting
+}}
+=Agenda=
+# Call to Order
+# Approval of the Agenda
+# Confirmation of Bylaws Passed at September 9th, 2009 Board Meeting
+# Confirmation of Special Resolution passed at the September 9th, 2009 Board Meeting
+# Adjournment
