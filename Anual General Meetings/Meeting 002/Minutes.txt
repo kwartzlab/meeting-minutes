@@ -1,0 +1,12 @@
+{{Meeting
+|Date=June 4th, 2011
+|Time=7:00 PM
+|Address=283 Duke St W, Suite 106, Kitchener, ON
+|Meeting Type=Annual General Meeting
+}}
+# Presidents Remarks
+# 2010 Financial Report
+#* Be it resolved that the Financial Report for 2010 as presented by the Treasurer be accepted
+# Board Elections
+#* Be it resolved that _____, _____, ______, ______, _____, _____, and _____ be appointed as the Board of Directors for KwartzLab Society Inc. for a one year term beginning on July 1, 2011"
+# Adjournment

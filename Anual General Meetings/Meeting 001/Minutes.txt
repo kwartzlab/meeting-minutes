@@ -1,0 +1,11 @@
+{{Meeting
+|Date=2010-08-08
+|Time=1930
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Annual General Meeting
+}}
+# Presidents Remarks
+# 2009 Financial Report
+# By-law adoption
+# Board Elections
+# Adjournment
