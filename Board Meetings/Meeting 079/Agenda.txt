@@ -1,0 +1,56 @@
+{{Meeting
+|Date=2012/05/14
+|Time=20:30
+|Address=283 Duke Street West Unit 106 Kitchener Ontario Canada
+|Meeting Type=Board Meeting
+|Minutes=Board_Meeting_079.pdf
+|Financials=Kwartzlab_Financial_Report_5-2012.pdf
+}}
+# Call to Order
+# Approval of the Agenda
+# Status of 16 April 2012 ([[Board_Meeting_078]]) Board Minutes
+# Status of 12 March 2012 ([[Board_Meeting_077]]) Board Minutes
+# Report from the President
+# Report from the Treasurer
+#New Business
+## Makerfaire Detroit
+## Taylor Morey - Reimbursement for laser ducting improvements
+## Annual General Meeting & Board Elections
+#Old Business
+## Long-term discussion with CEI.
+### Requirements for space (sq.ft, amenities, location, etc.)
+## Laser fumes
+## Empowering members
+### Also, minimizing board meetings
+## Hiring a bookkeeper
+## Headshots from the Heart public event [http://headshotsmarathon.org/home/]
+### May 26-27
+## Recharging the kitchen fire extinguisher - $30
+## National Engineering Month "tradeshow"
+## SO SCIFI
+## Treehaus partnership
+## Building community relationships
+## Laser discussion
+## Shop Status
+## Trillium Grants
+## Business Plan
+## kwartzlab [[kick]] kit pilot (jb)
+## Small tool acquisitions - vice?
+## Membership Drive
+## Artist in residence program
+### Discussing space usage limitations with artists.
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Andrew
+
+==== Regrets ====
+
+
+==== Unknown ====

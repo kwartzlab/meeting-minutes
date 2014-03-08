@@ -1,0 +1,31 @@
+{{Meeting
+|Date=2011/12/28
+|Time=16:39
+|Address=283 Duke Street West Unit 106 Kitchener Ontario Canada
+|Meeting Type=Board Meeting
+|Minutes=Board_Meeting_073.pdf
+}}
+
+# Call to Order
+# Approve or decline Rob Green's membership application
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Darcy
+Andrew
+Doug
+Rob
+
+==== Regrets ====
+Gus
+James
+Alex
+
+==== Unknown ====
+
+Note: Due to time constraints, the agenda was implicit and not posted until 2 January 2012.

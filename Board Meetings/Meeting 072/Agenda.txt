@@ -1,0 +1,47 @@
+{{Meeting
+|Date=December 8, 2011
+|Time=8:30pm
+|Address=283 Duke Street West Unit 106 Kitchener Canada
+|Meeting Type=Board Meeting
+|Minutes=Board_Meeting_072.pdf‎
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of October 13 Board Minutes
+# Report from the President
+# Report from the Treasurer
+# New Business
+## New member application: Taylor Morey
+## Heavy Lab door access
+## Culture Camp
+# Old Business
+## Heavy Equipment Lab
+## Trillium Grants
+## Business Plan
+## Getting an up-to-date members list
+## Status update on laser cutter acquisition
+## kwartzlab [[kick]] kit pilot (jb)
+## Small tool acquisitions (socket set, hand drill, etc.)
+## Membership Drive
+## Artist in residence program
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Darcy
+Andrew
+Doug
+Alex
+Rob
+
+==== Regrets ====
+
+Gus
+James
+
+==== Unknown ====

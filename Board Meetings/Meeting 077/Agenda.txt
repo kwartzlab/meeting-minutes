@@ -1,0 +1,46 @@
+{{Meeting
+|Date=2012/03/12
+|Time=20:30
+|Address=283 Duke Street West Unit 106 Kitchener Ontario Canada
+|Meeting Type=Board Meeting
+|Minutes=Board_Meeting_077.pdf‎
+}}
+# Call to Order
+# Approval of the Agenda
+# Approval of 9 February 2012 ([[Board_Meeting_075]]) Board Minutes
+# Report from the President
+# Report from the Treasurer
+#New Business
+## Ubuntu Global Jam report
+## Recharging the kitchen fire extinguisher - $30
+## Reimbursing Ben for cleaning supplies, etc.
+## KW Woodworking Show 
+### http://www.woodshows.com/index.php?categoryid=17
+## National Engineering Month "tradeshow"
+### Monday March 26 9am-1pm at Waterloo Inn
+# Old Business
+## SO SCIFI
+## Treehaus partnership
+## CEI Funding 101 report
+## Building community relationships
+## Laser discussion
+## Shop door access
+## Shop Status
+## Trillium Grants
+## Business Plan
+## kwartzlab [[kick]] kit pilot (jb)
+## Small tool acquisitions - vice?
+## Membership Drive
+## Artist in residence program
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Darcy, Alex, Rob, Gus, Doug, James
+==== Regrets ====
+==== Unknown ====

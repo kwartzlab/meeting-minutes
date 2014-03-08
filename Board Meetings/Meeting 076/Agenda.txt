@@ -1,0 +1,25 @@
+{{Meeting
+|Date=2012/02/21
+|Time=21:30
+|Address=283 Duke Street West Unit 106 Kitchener Ontario Canada
+|Meeting Type=Board Meeting
+|Minutes=Board_Meeting_76.pdf‎
+}}
+# Call to Order
+# Approval of the Agenda
+# New Business
+## Spreading the load: splitting the treasurer's workload
+## Selection of a treasurer
+# Action item review
+# Adjournment
+
+
+=== Director RSVP ===
+
+A minimum of 4 Directors are needed to make quorum. 
+
+==== Attending ====
+Darcy, James, Alex, Rob, Gus, Doug
+==== Regrets ====
+Andrew
+==== Unknown ====

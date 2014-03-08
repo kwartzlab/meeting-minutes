@@ -1,0 +1,7 @@
+{{Meeting
+|Date=2012//
+|Time=
+|Address=283 Duke Street West Unit 106 Kitchener Ontario Canada
+|Meeting Type=Board Meeting
+|Minutes=
+}}
