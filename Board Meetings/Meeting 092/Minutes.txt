@@ -1,0 +1,114 @@
+{{Meeting
+|Date=2012/12/17
+|Time=19:30
+|Address=283 Duke St. W., Unit 106 Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+
+=== Call to Order ===
+:* Meeting called to order by Darcy Casselman at 19:43
+
+=== Approval of the Agenda ===
+:* Motion Forwarded: Rob
+:* Motion Second: Darcy
+:* All in favour: Unanimous
+
+=== Report from the President ===
+:* Nothing to report at this meeting
+
+=== Report from the Treasurer ===
+:* No formal report at this time. $8700 in bank.
+:* $2200 in deposits going in
+:* first/last rent for new place sent already
+:* going to look for accountant/bookkeeper for year end taxes/bookkeeping
+
+=== New Business ===
+==== Membership Approval for Terry Wilkinson ====
+:* Approved unanimous via mailing list
+:* Action Item: Rob to add to mailing lists
+:* Action Item: Ben to send acceptance emails, etc.
+
+==== Membership Dues Owed Follow Up ====
+:* A couple of members are getting close to 2 month behind. Ben following up
+
+==== Hackademy Collaboration - Family Day (To Be Named) ====
+:* Doug: Original idea was a 3D printer workshop. Idea exploded from there
+:* Asking permission to associate Kwartzlab's name to the event
+:* Use Kwartzlab name when approaching corporations for sponsorship
+:* As 'joint production' event
+:* Requesting money/resources for 
+:* Computers for computer programming course
+:* Money for 3d Printers
+:* Money for consumables
+:* Question raised whether this event can happen within 2 months
+:* Planning will be scalable to work around any possible contigency plans that may come up
+:* possible loaning of 3D printers from various members
+:* There is interest from members in assisting with the 3D printing workshop
+:* Doug's not asking for any funding from Kwartzlab. Hoping to have event with as little money output as possible
+:* Ben: Asking about commitment related to event as it relates to the move for Kwartzlab in the next month and a bit
+:* Doug: will take any volunteers that he can get
+:* Motion: Whether the board is willing to associate their name to the event
+:* Motion carried by: Doug
+:* Seconded: Darcy
+:* All in favour: Unianimous
+
+==== Health and Safety ====
+:* A lot of discussion around health and safety with the lab
+:* James recommending having a safety class for all members every year
+:* Ben proposes safety orientation for new members
+:* Motion: to have all new members sign health and safety document
+:* Motion forwarded by: Ben
+:* Seconded by: Karl
+:* All in favour: 5 board members 
+:* Opposed: 
+:* Obstaining: 2 board members
+:* Discussion came up after the vote about getting more information around this
+
+=== Old Business ===
+
+==== Pandora Lease ====
+:* It's signed and the cheque has been deposited. We have the keys.
+
+==== Moving ====
+:* Timelines, details, expenses, etc.
+:* Pay for current month rent, with overlap in January (last month's rent) to landloard at Boehmer Box and provide notice
+:* This allows us to build out the new location and then move everything in during January
+:* Removal of additional electrical that we installed
+:* Emailing membership about move, also copies of notice/move to lawyer as well
+:* Need to plan for moving / build out
+:* Need to book moving truck(s) to approve expenses
+:* Previous Action Item: to plan out series events that need to happen to execute us leaving / moving / buildout for the new location - to be allocated according to areas. Plan out on the WIKI - Darcy has created the page
+:* Previous Action Item: Letter sent to lawyer, cc:ed board - Rob Gissing - Done
+:* Updates: Christian to move out existing items from the space over the next two weeks
+:* Christian will leave some hardware around if we want to use them
+:* Ben outlined what we wanted to change with the space, all in alignment with Christian.
+
+==== Trillium Grants ====
+:* Previous Action Item: Darcy to do press release and blog posting - Not done yet
+:* Previous Action Item: Need to pick a day for the party (TBD related to move) - Not done yet
+
+=== Action item review ===
+
+=== Adjournment ===
+Move to adjourn at 20:21 forwarded by: Darcy
+Second: Ben
+All in favour: Unanimous
+
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Darcy
+* Mark
+* Ben
+* Rob
+* Doug
+* Karl
+* James
+
+==== Regrets ====
+* 
+ 
+==== Unknown ====
+*

@@ -1,0 +1,127 @@
+{{Meeting
+|Date=2013/02/11
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+
+=== Call to Order ===
+:* Meeting called to order by Darcy at 20:00
+
+=== Approval of the Agenda ===
+:* All in favour: Unanimous
+
+=== Report from the President ===
+:* We're busy with buildout and prep this week for Saturday
+
+=== Report from the Treasurer ===
+:* With submitted receipts, we are out of RIM budgeted money
+:* Build out $7400
+:* Still have full Trillium Grant money
+:* Gas / Water bill was a little high this round, not unexpected
+:* Tool fund - $150 - purchases for tools recently
+:* Need to slow to stop any more build out expenses at this point
+
+=== New Business ===
+
+==== Membership Dues Owed Follow Up ====
+:* One member is up for suspension - going to communicate with the member - possible abandonment?
+
+==== Reimbursements ====
+:* Rob - $13.77 - cleaning supplies
+:* Ben - $140.58 - Various buildout expenses including keys
+:* Taylor - $26.15 - plumbing
+:* Mark - $236.60 - various building items
+:* Mark - $458.61 - coming out of tool fund (compound mitre saw)
+:* All in favour - unanimous, Ben abstains from his expense, Rob abstains from his expense
+
+==== Insurance ====
+:* insurance agent to come by tomorrow
+:* Need to have discussion about insuring new space - agent said it'll probably go up due to different location and situation
+:* No information on possible cost increase
+
+=== Old Business ===
+
+==== Opening Night Planning ====
+:* Darcy wants to ping press 
+::* talked with Gus, said he couldn't do it
+::* Someone has talked with Cord
+::* Darcy to Martin De Groot. Mark said that he will be joining us for our party
+:* Two bands to provide live music for the event - bands are confirmed
+::* We'll need to contact the bands for follow up
+::* Discussion around not renting hardware for this event
+:* Cash bar for the event
+:* Action Item: pamplets/flyers to neighbours - created, being edited - distibuted the last week - DONE
+::* Post on posts? Universities? In Progress
+:* As far as number people that we can host, we should be good in regards to numbers as per square footage
+:* We need to make sure rear door is clear and accessible as a fire exit (already is)
+:* Any chance of getting printer working? Requires power. Looking into other avenues for the posters - DONE
+:* Action Item: Gus - alcohol selection - Gus taking care of alcohol selections
+:* Action Item: Kwartzlab swag - Ben - in progress, printed, just need to make the pins - Stickers and buttons are DONE
+:* Action Item: James/Agnes to look into Tshirts and/or creating them - James working on design, need to find shirt - TBD
+:* Action Item: Band - need to follow up with band for announcing / advertising / logos - Rob
+
+==== Kent Street Buildout / Prep ====
+:* Prioritization for this week
+::* Doug - sign creations - XL Screen printing to do the signs - need to contact Doug for rear sign. Ben got front sign done - picking up tomorrow
+::* Action Item: Drywall panelling / mudding - Karl / Mark / Bernie - in progress
+::* Action Item: 2nd floor - Andrew, Chris B., Mark - electrical in progress, everything else is done
+::* Action Item: Network drops - Ben - waiting to do the ones in the back (waiting on Taylor and plumbing pipe). Drops for upstairs, use existing holes in floor to run lines - progress
+::* Action Item: Kitchenette - Andrew/Rob/Taylor - in progress - need to drywall / frame by end of this week - DONE for now
+::* Action Item: James - door security hardware investigation - been ordered. Strike can be put on the back door - need to pick up and install
+::* Action Item: Ben - rear door replacement - need to find a door - pausing this Action Item
+::* Action Item: Electrical for Kitchen - in progress
+::* Action Item: Laser vent tube preparation / work working vent tube prep - DONE
+
+==== Trillium Grants ====
+:* Mark - Ontario Arts council - found other funds to investigate as well - deadline is this April - period doesn't start until 2014
+:* Mark - set deadlines for items to purchase after opening party. Fill out the list, have a membership/interested party meeting to make a decision on what to buy
+:* Once this purchasing round is done, we can focus on future grant applications
+:* Previous Action Item: Darcy to do press release and blog posting - Press advisory instead of a release - paused for now
+:* Previous Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time - paused for now
+:* Doug would like to look into getting the 3D printer with Trillium grant money sooner than later, possibly for the party event - no update at this time
+:* Need to re-get quotes for the items listed from the grant to help start the purchasing process - can be done by members to get 3 quotes and bring those back to the board for review
+:* Action Item: Darcy - original quote list can be scanned and put up on the wiki, currently sent via Admin mailing list
+:* Action Item: 3D Printer - Doug to order Wednesday latest (approved via mailing list) - in progress, James to provide card for purchase
+
+==== Family Collaboration - Family Day (To Be Named) ====
+:* Followup
+:* Doug - email sent to members list with a bunch of information. The event is going ahead. 3D printer event needs to be hashed out. Hoping to get about 6 printers.
+:* Doug to talk with THEMUSEUM about the details around the event 
+:* Monday Feb 18th, 10am-4pm
+:* Mark inquired about having a Kwartzlab table at the event - Action Item: Doug to look into this
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Doc is concerned about people not wearing eye protection. The board supports his advocacy to have proper protection. Glasses have been purchases and brought to Kent for the build out
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various
+:* No updates this meeting
+
+=== Action item review ===
+
+=== Adjournment ===
+Move to adjourn at 20:44
+Forwarded by: Karl
+Second: Mark
+In favour: Unanimous
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Darcy
+* Karl
+* Rob
+* Mark
+* Ben
+
+==== Regrets ====
+* Doug
+* 
+ 
+==== Unknown ====
+*
+
+==== Unknown ====
+*

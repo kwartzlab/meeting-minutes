@@ -1,0 +1,131 @@
+{{Meeting
+|Date=2013/01/28
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, Ontario Canada
+|Meeting Type=Board Meeting
+}}
+=== Call to Order ===
+:* Meeting called to order by Darcy at 20:00
+
+=== Approval of the Agenda ===
+:* Motion Forwarded: 
+:* Motion Second: 
+
+=== Report from the President ===
+:* We're awesome
+
+=== Report from the Treasurer ===
+:* Deposits for late cheques have gone in
+
+=== New Business ===
+
+==== Membership Dues Owed Follow Up ====
+:* Follow up next meeting
+
+==== Reimbursements ====
+:* Karl Williams: $41.52 - plywood
+:* Andrew Mackie: $80.00 - kitchen cabinets 
+:* Ben Brown: $161.86 - Ducting items, insulation, glue, electrical supplies
+:* All in favour: all but Ben (can't vote)
+
+==== Board Meeting Intervals ====
+:* Weekly until buildout is done
+
+==== Couch from Mike ====
+:* Mike to bring in his wood couch for the lounge
+
+==== Approval for Ed's electrical ====
+:* Electrical for kitchen buildout and kiln wiring: $350
+:* Need to look into getting money for the 100A service wire we used at Boehmer (approx value $600) to help offset costs
+:* Approval for $350 Moved by James
+:* Second by Ben
+:* All in favour: unanimous
+
+=== Old Business ===
+
+==== Opening Night Planning ====
+:* Darcy - not a Trillium / opening party, just opening party. No press releases, etc. - Action Item: Post blog
+:* Two bands to provide live music for the event
+:* Cash bar for the event
+:* Action Item: pamplets/flyers to neighbours - created, being edited - in progress - Mark, Andrew
+:* Action Item: Gus - bar license - got it - Done
+:* Action Item: Gus - alcohol selection
+:* Action Item: Kwartzlab swag - Ben - in progress, printed, just need to make the pins
+:* Action Item: Posters - Andrew
+:* Action Item: James/Agnes to look into Tshirts and/or creating them - James working on design, need to find shirt
+:* Action Item: Band - need to follow up with band for announcing / advertising / logos - Doug
+
+==== Snow removal ====
+:* Hire somebody?
+:* Doug: has a source that seems fairly inexpensive - per snow work rather than contract - Doug's estimate - $100 per round
+:* Doug's estimate was turned down
+:* Looks like the city does the Charles st. sidewalk
+:* Coming off agenda
+
+==== Move to Kent Street ====
+:* Prioritization for this week
+::* Doug - sign creations - XL Screen printing to do the signs - no update this meeting
+::* Action Item: Drywall panelling / mudding - Karl / Mark - in progress, looks great
+::* Action Item: 2nd floor - Andrew, Chris B., Mark - in progress
+::* Action Item: Network drops - Ben - waiting to do the ones in the back (waiting on Taylor and plumbing pipe). Drops for upstairs, use existing holes in floor to run lines
+::* Action Item: Kitchenette - Andrew/Rob/Taylor - in progress
+::* Action Item: James - door security hardware investigation - in progress
+::* Action Item: Ben - rear door replacement - need to find a door
+::* Action Item: Electrical for Kitchen - in progress
+::* Action Item: Decommissioning of electrical at Boehmer - done
+::* Action Item: Boehmer remaining clean up - Rob to lead this - have to do another sweep before Thursday
+::* Action Item: Cleaning up the space / organizing - in progress
+::* Action Item: Laser vent tube preparation / work working vent tube prep - in progress
+
+==== Trillium Grants ====
+:* Previous Action Item: Darcy to do press release and blog posting - Press advisory instead of a release
+:* Previous Action Item: Need to pick a day for the party (TBD related to move) - Not done yet, need to give dignitaries 3-4 weeks lead time
+:* Doug would like to look into getting the 3D printer with Trillium grant money sooner than later, possibly for the party event
+:* Need to re-get quotes for the items listed from the grant to help start the purchasing process - can be done by members to get 3 quotes and bring those back to the board for review
+:* Action Item: Darcy - original quote list can be scanned and put up on the wiki, currently sent via Admin mailing list
+:* Proposed Date: TBD
+:* Action Item: 3D Printer - Doug to order Wednesday latest (approved via mailing list) - in progress, James to provide card for purchase
+:* Action Item: Mark to create a public document where people can submit what they want (also provide original document + quotes) - Done
+
+==== Hackademy Collaboration - Family Day (To Be Named) ====
+:* Followup
+:* Doug - email sent to members list with a bunch of information. The event is going ahead. 3D printer event needs to be hashed out. Hoping to get about 6 printers.
+:* Doug to talk with THEMUSEUM about the details around the event 
+:* Monday Feb 18th, 10am-4pm
+:* Mark inquired about having a Kwartzlab table at the event - Action Item: Doug to look into this
+
+==== Health and Safety ====
+:* Discussion came up after the vote about getting more information around this
+:* Doc is concerned about people not wearing eye protection. The board supports his advocacy to have proper protection. Glasses have been purchases and brought to Kent for the build out
+:* Discussions over changing policies for Tuesday open nights for non-members and usage of tools and restricting usage of them
+:* Tagging of tools for various
+:* No updates this meeting
+
+=== Action item review ===
+
+=== Adjournment ===
+Move to adjourn at 20:42
+Forwarded by: Darcy
+Second: Rob
+In favour: Unanimous
+
+
+=== Director RSVP ===
+* A minimum of 4 Directors are needed to make quorum
+
+==== Attending ====
+* Karl
+* Ben
+* Mark
+* Rob
+* Darcy
+* James
+
+==== Regrets ====
+*
+ 
+==== Unknown ====
+*
+
+==== Unknown ====
+*
