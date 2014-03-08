@@ -1,0 +1,122 @@
+{{Meeting
+|Date=2013/11/20
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Ben
+:* James
+:* Jaymis
+:* Darcy
+:* Doug
+
+=== Absent ===
+:* Mark
+
+=== Call to Order ===
+:* Called to order at 19:47 by Darcy
+
+=== Approval of Agenda ===
+:* Approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Approved unanimously
+
+=== Report from the President ===
+:* We're awesome.
+
+=== Report from the Treasurer ===
+:* $12,300 in bank
+:** $900 deposit pending
+:* $394 in PayPal
+:* ~$1800 in capital fund
+:* $1820 left in Trillium grant
+:* no reimbursements
+:* $5 in donations
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* Doug will communicate status of meeting with the Working Centre to Christine (done)
+:* Ben will send an invoice to Sean Yo for Hacky Halloween stuff in the amount to $250 (waiting on reply)
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+
+==== Reimbursements ====
+:* no new reimbursements
+
+==== Review of mailing list votes ====
+:* only membership votes
+
+==== Documentation of Board Procedures ====
+:* nothing new to see here, move along
+
+=== New Business ===
+
+==== Membership Register out of Date ====
+:* Ben is catching up on this.
+:* This can be replaced with a Stripe WordPress plug-in for $99.
+:* Motion to get WordPress plug-in for $99 by Darcy.
+:** Seconded by: Doug
+:** approved unanimously
+:* Action item: get WordPress plug-in for membership register (Ben)
+
+==== Electrical Work ====
+:* Motion to approve as discussed on the mailing list ($1505.73) by Darcy
+:** Seconded by: Jonathan
+:** approved unanimously
+
+==== Software for Lab ====
+:* Motion to purchase Adobe bundle for kwartzlab for $165 by Jaymis
+:** Seconded: Jonathan
+:** approved unanimously
+:* Motion to purchase QuickBooks 2013 Premium for kwartzlab for $45
+:** Seconded by: Doug
+:** approved unanimously
+
+=== Old Business ===
+
+==== Youth Maker Workshops at the Working Centre ====
+:* Ontario Gov't approved expression of interest.
+:* Stephanie at the Working Centre is working on a grant application.
+
+==== Receipts for Sean Yo ====
+:* Receipts for Hacky Hallowe'en electronics so that we can get a $250 grant from Mozilla
+:* Still in progress pending a response with his details.
+
+==== Review of Purchasing Procedure ====
+:* Action item: send purchasing procedure to mailing list for discussion (Ben)
+
+==== Membership Application Process ====
+:* Action item: send info sheet draft to mailing list (Ben)
+:* Action item: update member application form on website (Ben)
+:* Action item: send member instructions to mailing list (Ben)
+
+==== Trillium Grant Update ====
+:* We must submit our report by 1 March 2014.
+:* Reports must be made on time or bad things happen.
+:* Action item: prepare report (Jaymis)
+:* We should be recognizing the Trilium foundation in public communications.
+:* There needs to be a recognition thing with the local MPPs and Trillium people.
+:** They must know when this is happening.
+:* Motion to have Trillium schmoosefest on 18 January 2013 by Darcy
+:** Seconded by Doug
+:** approved unanimously
+
+=== Review of Action Items from this Meeting ===
+:* Ben will send an invoice to Sean Yo for Hacky Halloween stuff in the amount to $250
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+:* Action item: get WordPress plug-in for membership register (Ben)
+:* Action item: send purchasing procedure to mailing list for discussion (Ben)
+:* Action item: send info sheet draft to mailing list (Ben)
+:* Action item: update member application form on website (Ben)
+:* Action item: send member instructions to mailing list (Ben)
+
+=== Adjournment ===
+:* Motion to adjourn by Jonathan
+:** Seconded by Ben
+:** approved unanimously
+:* Adjourned at 20:23

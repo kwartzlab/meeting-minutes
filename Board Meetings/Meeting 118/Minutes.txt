@@ -1,0 +1,44 @@
+{{Meeting
+|Date=2014/02/17
+|Time=19:00
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Darcy
+:* Jaymis
+:* Ben
+:* Doug
+:* James
+
+=== Absent ===
+
+=== Call to Order ===
+:* Called to order by Darcy at 19:12
+
+=== Approval of Agenda ===
+:* moved by Darcy, seconded by Jonathan, approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Postponed to next meeting
+
+
+=== New Business ===
+
+==== Appointment of a new director ====
+:* Motion to approve Bob DeGregory as a director of Kwartzlab.
+:** By Darcy
+:** Seconded by Ben
+:** Doug feels that it would be good to have diversity on the board.
+:** approved unanimously
+
+==== Approval of haitus ====
+:* Motion to approve Catherine Holloway's haitus, from May-August 2014.
+:** By Darcy
+:** Seconded by Jonathan
+:** Approved unanimously except by Jaymis who was opposed
+
+=== Adjournment ===
+:* Motion to adjourn. Moved by Ben, seconded by Jaymis, unanimously approved.
+:* adjourned at 19:17

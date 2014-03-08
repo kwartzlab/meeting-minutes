@@ -1,0 +1,116 @@
+{{Meeting
+|Date=2014/01/22
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+|Financials=Kwartzlab Financial Report - January 2014.pdf
+}}
+=== Attending ===
+:* Ben
+:* Darcy
+:* James
+:* Jaymis
+:* Doug
+:* Jonathan
+:* Mark
+
+=== Absent ===
+
+=== Call to Order ===
+:* Called to order by Darcy at 19:38
+
+=== Approval of Agenda ===
+:* moved by Darcy, seconded by Ben, approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* moved by Darcy, seconded by Ben, approved unanimously
+
+=== Report from the President ===
+:* we're awesome
+
+=== Report from the Treasurer ===
+:* (attached)
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* contact Mark Pitcher re: dealing with his statement. Jaymis. (didn't receive)
+:* Doug: contact MPPs for Trillium party (ongoing)
+:* snow blower, James (insufficient funds budgeted)
+:* trillium grant spending, James (not yet)
+
+==== Reimbursements ====
+:* Ratified vote to approve purchase of $104.07 (approved unanimously)
+
+==== Review of mailing list votes ====
+:* 
+
+==== Board Process Review ====
+:* Motion to remove board procedure allowing mailing list votes by Ben
+:** seconded by Darcy
+:** approved unanimously
+:* Action item: remove board procedure allowing mailing list votes (Jonathan)
+
+==== Documentation of Board Procedures ====
+:* Board procedure page is updated. Thanks, Ben.
+
+=== New Business ===
+
+==== Haitus Vote for Clive Bilewitz ====
+:* Motion by Darcy to allow Clive Hiatus until May
+:** Seconded by Ben
+:** approved unanimously
+
+==== Haitus Vote for Rob Adlers ====
+:* Motion by Darcy to allow Rob Adlers haitus unil November
+:** seconded by Jaymis
+:** approved unanimously
+
+==== Member grievance ====
+:* Addressing the member conflict brought to the attention of the board
+:* Action item: Talk to members involved in grievance (Jaymis)
+
+=== Old Business ===
+
+==== Addressing Concerns Raised in Mark Pitcher's Statement During Meeting 114 ====
+:* Committee of inquiry
+:* Action item: Mark to make ammendment to statement made in meeting 114.
+:* Motion to have a committee, consisting of Jaymis, Steph and Gus, look into the allegations made in Mark's statement during meeting 114, taking no more than one month, and reporting back to the board with a summary and recommendation by Darcy
+:** seconded by Jonathan
+:** unanimous with the exception of Mark, who abstained
+
+==== Snow Removal ====
+:* Update on snow blower purchase and other snow clearance options
+:* Action item: get information on snow removal services (Jaymis & James)
+
+==== 3D Printer ====
+:* Doug proposes getting a classrom set of 3D printers. - Update? 
+:* no update
+
+==== Member Meeting ====
+:* Proposed meeting on 27 February.
+:* To amend Issuance of Membership By-law change approved during meeting 114.
+
+==== Software for Lab ====
+:* Update from Ben?
+:* Out of stock, we'll purchase when stock is available.
+
+==== Membership Application Process ====
+:* On hold.
+
+==== Trillium Grant Update ====
+:* Trillium party guests/date? 
+:* How to spend remaining money. Proposal is tooling for CNC mill and router. Update?
+:* John Milloy cannot commit to a particular date or time.
+
+=== Review of New Action Items from this Meeting ===
+:* Doug: contact MPPs for Trillium party
+:* trillium grant spending, James
+:* Action item: remove board procedure allowing mailing list votes (Jonathan)
+:* Action item: Talk to members involved in grievance (Jaymis)
+:* Action item: Mark to make ammendment to statement made in meeting 114.
+:* Action item: get information on snow removal services (Jaymis & James)
+
+=== Adjournment ===
+:* Motion to adjourn. Moved by Darcy, seconded by James, unanimous.
+:* adjourned at 20:47.

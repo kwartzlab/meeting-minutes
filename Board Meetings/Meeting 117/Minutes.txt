@@ -1,0 +1,131 @@
+{{Meeting
+|Date=2014/02/13
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Darcy
+:* Jaymis
+:* Ben
+:* Doug
+
+=== Absent ===
+:* James
+
+=== Call to Order ===
+:* Called to order by Darcy at 19:48
+
+=== Approval of Agenda ===
+:* moved by Darcy, seconded by Ben, approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Approval has been delayed
+:** We should add more information about Mark's resignation
+
+=== Report from the President ===
+:* We're awesome
+
+=== Report from the Treasurer ===
+:* ~$9600 in the bank
+:* ~$180 in PayPal
+:* Full report pending
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* Doug: contact MPPs for Trillium party (done)
+:* trillium grant spending, James (James not present)
+:* Action item: remove board procedure allowing mailing list votes (Jonathan) (done)
+:* Action item: Talk to members involved in grievance (Jaymis) (done)
+:* Action item: Mark to make amendment to statement made in meeting 114. (done)
+:* Action item: get information on snow removal services (Jaymis & James)
+
+==== Reimbursements ====
+:* Jaymis $38.90 (cleaning supplies)
+:** approved by Ben
+
+:* Ryan $51.28 belt sanding belts
+:** motioned by Ben, seconded by Darcy, approved unanimously
+
+==== Review of mailing list votes ====
+:* Membership vote: Enrico Cianni
+:* Public Event Vote: Open Data Day, Sat Feb 22
+:* Mach3 and CNC Control purchase pre-approval ($375 from Trillium)
+:* Heather Morton membership vote
+
+:* Motion to ratify all of the above by Darcy, seconded by Jonathan, approved unanimously
+
+==== Documentation of Board Procedures ====
+:* Board procedure page is updated. Thanks, Ben.
+
+=== New Business ===
+
+==== Mark Pitcher's resignation ====
+:* Formal acceptance of resignation
+:** Motion to accept Mark's resignation by Darcy, seconded by Ben, approved unanimously.
+
+==== Appointment of a new director ====
+:* Process
+:* Nominations
+:* Motion to have nominations and poll to be carried out on the mailing list by Darcy, seconded by Jaymis
+:** Open nominations for 5 days
+:** Poll for 5 days
+:** approved unanimously
+:* Board meeting must happen before general meeting
+
+==== Board resolutions over the mailing list ====
+:* Jonathan would like to discuss using PGP signing
+:* Action item: set up PGP key signing (Jonathan)
+
+==== MakerFaire Waterloo ====
+:* We basically have approval to have the event at city hall.
+:* Action item: Get a firmer commitment from city hall (Jaymis)
+:* Proposal for robot walk
+:* Proposal for soap box race
+:** $1000 requirement
+
+=== Old Business ===
+
+==== Member grievance ====
+:* Addressing the member conflict brought to the attention of the board
+:* Action item: Talk to members involved in grievance (Jaymis) (done)
+o:* resolved
+
+==== Addressing Concerns Raised in Mark Pitcher's Statement During Meeting 114 ====
+:* Mark's retraction
+:* Committee of inquiry, update and confirmation of status
+:* Motion to accept the retraction of Mark's statement by Darcy, seconded by Jonathan, unanimously approved
+:* Committee will still investigate regardless of retraction
+
+==== Snow Removal ====
+:* Proposal to hire Don MacRae to clear sidewalks and driveways.
+:* Motion to make an offer of $100/mo to Don MacRae to plow sidewalks by Jonathan, seconded Ben, approved unanimously
+
+==== 3D Printer ====
+:* Doug proposes getting a classroom set of 3D printers. - Update? 
+:* Doug is preparing a pitch to potential corporate sponsors to get 3D printers.
+:** Kwartzlab would own the printers, but run public events and loan them out for educational purposes.
+
+==== Member Meeting ====
+:* Proposed meeting on 27 February.
+:* To amend Issuance of Membership By-law change approved during meeting 114.
+:* Motion to approve agenda for membership meeting by Darcy, seconded by Jaymis, unanimously approved
+
+==== Membership Application Process ====
+:* On hold, pending by-law change.
+
+==== Trillium Grant Update ====
+:* Trillium party report
+:* How to spend remaining money. Proposal is tooling for CNC mill and router. Update?
+:* Some receipts still outstanding
+
+=== Review of New Action Items from this Meeting ===
+:* trillium grant spending, James (James not present)
+:* Action item: set up PGP key signing (Jonathan)
+:* Action item: Get a firmer commitment from city hall (Jaymis)
+
+=== Adjournment ===
+:* Motion to adjourn. Moved by Darcy, seconded by Doug, unanimously approved.
+:* adjourned at 20:34.

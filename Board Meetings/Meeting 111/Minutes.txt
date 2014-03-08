@@ -1,0 +1,180 @@
+{{Meeting
+|Date=2013/11/06
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jaymis
+:* Ben
+:* Doug
+:* Darcy
+:* James
+:* Special Guest, Joe Mancini and Martin from The Working Centre
+
+=== Absent ===
+:* Jonathan
+:* Mark
+
+=== Call to Order ===
+:* Called by Darcy at 7:45pm
+:* Seconded by Doug
+:* Approved Unanimously
+
+=== Approval of Agenda ===
+:* Moved by Doug
+:* Seconded by Darcy
+:* Approved Unanimously
+
+==== Youth Maker Workshops at the Working Centre ====
+:* Doug gave an overview of how we got to this point:
+:* Ontario Government Grant for job skills training 
+:* Kwartzlab will run this 10-week workshop
+:* Working Centre applied for the grant on Kwartzlab's behalf and will pay Kwartzlab to run the workshops
+:* This is an opportunity to approach corporate sponsors to get donations to run this workshop
+:* The Working Centre is Non-profit with Charitable status
+:* Joe Mancini to speak about this.
+:* Joe: There is a process to go through to ensure donations are legitimate 
+:* These Grants can be depressing, due to their limitations and conditions
+:* The Community and Industry Stream has 20 million
+:* Entrepreneurial skills: movie, graphic, and website design
+:* Maker skills are a crucial aspect
+:* already doing a lot of this (first three) on their own
+:* looking for ways to take the inherent technical skills youth have and make them marketable skills in the workplace
+:* The grants are meant to cover training, not equipment
+:* Will look into corporate donations to cover equipment
+:* Having a partnership with The Working Centre can benefit Kwartzlab
+
+=== Approval of Previous Meeting Minutes ===
+:* Motion by Ben
+:* Seconded by James
+:* Unanimously approved
+
+=== Report from the President ===
+:* My hands are sore (as I am the one filling in for the secretary role)
+
+=== Report from the Treasurer ===
+:* Depending upon how you count members, we have up to 59 people
+:* Sooncon donated $1K
+:* $1840 left in Trillium
+:* Electrical needs to be done for CNC
+
+=== Recurring Business ===
+
+==== Previous Meeting Action Items ====
+:* Action item: update board procedures on website (Jonathan)
+not done yet
+:* Action item: remove tool committee (Jonathan)
+:* Action item: Send a re-wording of board procedure to Mark (Ben)
+:* Action item: Pick up supplies for cleaning of concrete (James)
+
+(Bob did this recently. He kicks ass. At least James' ass.)
+
+==== Reimbursements ====
+:* Reimbursement for Agnes
+:* Reimbursement for Gillian
+:* Reimbursement for Ben
+:* Reimbursement for James 
+:* Bell Cartage
+:* Bob's extra money for the shed
+
+:* Motion to reimburse James Bastow for SoOnCon & Hacky Halloween expenses
+:* Moved: Ben
+:* Seconded: Jaymis
+:* James obstains
+:* Passes unanimously (minus James)
+
+:* Motion to reimburse Agnes N for SoOnCon & Hacky Halloween expenses
+:* Moved: Ben 
+:* Seconded: James
+:* Passes unanimously
+
+:* Motion to reimburse Gillian Gutenberg for SoOnCon Food/Drinks
+:* Moved: Ben
+:* Seconded: James
+:* Passes unanimously
+
+:* Motion to reimburse Ben Brown for SoOnCon 
+:* Moved: Darcy
+:* Seconded: James
+:* Passes unanimously (minus Ben)
+
+==== Documentation of Board Procedures ====
+:* Not done
+
+==== Review of mailing list votes ====
+:* Approved the expression of interest for the grant thingy with The Working Centre
+
+=== New Business ===
+
+==== Receipts for Sean Yo ====
+:* Receipts for Hacky Hallowe'en electronics so that we can get a $250 grant from Mozilla
+
+==== Youth Members (16 & 17) ====
+:* Youths should be eligible to apply for memberships like anyone else.
+:* For legal reasons, they can't hold board positions.
+:* Youth members should otherwise have all the same rights and privileges as any other member.
+:* Doug moves
+:* James seconds
+:* all in favour
+
+==== Mystery Member Behind on Dues ====
+:* Ben to discuss this.
+:* will follow up with member
+
+==== Public Event: 3D Printer Meeting ====
+:* November 7th
+:* meetings will happen once in a while
+
+:*Ben killed the fly. It was a feat of timing and courage.
+
+:*Doug moves
+:*Darcy seconds
+:*unanimously approved
+
+=== Old Business ===
+
+==== SoOnCon ====
+:* It made money
+:* James revived 3 badges
+:* Thinkhaus may do it next year
+
+==== Board Manual ====
+:* skip
+
+==== Review of Purchasing Procedure ====
+:* It is not unanimous if there is an abstention due to reasons of conflict of interest
+
+=== Stolen items reimbursements ===
+:* It was unanimous, money coming out of the capital fund
+:* James moves to cover up to $1600 
+:* Jaymis seconds
+:* Unanimous approval
+
+==== Membership Application Process ====
+:* Ben was busy. Ben hopes to have something concrete for the next board meeting.
+:* New members will need to have a current member vouch for them.
+:* Should there be a minimal amount of feedback before voting on the member?
+:* The member sponsoring them has to submit the application for them
+
+==== Cleaning Paint Stains ====
+:* Bob did this and he is awesome. He is a God among men.
+
+==== Hacky Halloween ====
+:* Done. 80 kits. More people, but less participants
+
+==== Trillium Grant Update ====
+:* Electrical to commission the router
+:* Ravi knows a guy. An actual professional guy. 
+:* May use Ravi's guy for both Trillium and other outstanding electrical projects
+
+=== Action items from this meeting ===
+:* Doug will communicate status of meeting with the Working Centre to Christine
+:* Ben will send an invoice to Sean Yo for Hacky Halloween stuff in the amount to $250
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+
+=== Adjournment ===
+:* Motion to adjourn at 9:23pm by Darcy
+:* Seconded by Ben
+:* Approved Unanimously

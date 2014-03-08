@@ -1,0 +1,104 @@
+{{Meeting
+|Date=2014/01/08
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+|Financials=
+}}
+=== Attending ===
+:* Ben
+:* Darcy
+:* James
+:* Jaymis
+:* Doug
+
+=== Absent ===
+:* Jonathan
+:* Mark
+
+=== Call to Order ===
+:* Called to order by Darcy at 7:45pm
+
+=== Approval of Agenda ===
+:* moved by Jaymis, seconded by James, unanimous
+
+=== Approval of Previous Meeting Minutes ===
+:* Motion to redact names from Mark Pitcher's statement, read into the previous meeting minutes, on the basis that otherwise, the statement is libellous. Moved by Darcy, seconded by Jaymis. Ben abstains. Unanimous.
+:* Motion to approve previous meeting minutes, as amended. With respect to Mark's statement, this vote acknowledges Mark's statement, but does not indicate an endorsement of the statement. Moved by Darcy, seconded by Ben. Unanimous.
+
+=== Report from the President ===
+:* We are getting to awesome.
+
+=== Report from the Treasurer ===
+The actual report will be delayed, still processing the monthly dues and
+I still have to empty the deposit box since the last meeting. Will send
+it along later this week.
+
+* Bank Balance: $9792.97
+* Paypal: $0
+* All remaining cheques from 2013 have been deposited as of this Monday.
+* No new reimbursements.
+* Trillium Grant still sits at $473.05. Need to spend ASAP.
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* Action item: update board procedures on website (Jonathan). Not done yet.
+:* Action item: remove tool committee (Jonathan). Not done yet.
+:* Action item: send member instructions to mailing list (Ben) (on hold) Still on hold, pending new bylaws.
+:* Action item: draft new by-laws and put them to a general meeting (Ben). Some progress, but stalled by higher priority board work.
+:* Action item: get quotes for snow removal (Jaymis). Costs of snow removal services is ridiculous. Getting a snow blower is the preferred option.
+:* Action item: get credentials for Trilium account (Mark). Done.
+
+==== Reimbursements ====
+:* nothing new
+
+==== Review of mailing list votes ====
+
+==== Board Process Review ====
+:* nothing new
+
+==== Documentation of Board Procedures ====
+:* nothing new
+
+=== New Business ===
+
+==== New Board Procedure: Notification of Board meetings ====
+:* Be it resolved that board members shall be notified at least 24 hours in advance of board meetings via the BOD mailing list, for those board meetings that require advance notification as per the bylaws. Darcy moves, James seconds, unanimous.
+
+==== Addressing Concerns Raised in Mark Pitcher's Statement During Meeting 114 ====
+:* In response to Mark Pitcher's Statement during meeting 114, we propose to set up an independent committee of inquiry which has the power to investigate allegations of wrongdoing by the board as a whole or by individual board members. This committee will make recommendations that will be acted on by the board of directors at their discretion. Since Mark Pitcher is absent, this resolution is deferred until we can get his input. The composition of the committee will need to be formulated and agreed upon.
+
+=== Old Business ===
+
+==== Snow Removal ====
+:* Action item: get quotes for snow removal (Jaymis). James will look into a snow blower for purchase (action item). 
+
+==== 3D Printer ====
+:* Doug proposes getting a classrom set of 3D printers. - Update? In progress.
+
+==== Member Meeting ====
+:* Proposed meeting on 13 February.
+:* To amend Issuance of Membership By-law change approved during meeting 114.
+:* No update.
+
+==== Software for Lab ====
+:* Ben is dealing with an address change. (Adobe Creative Suite and Quickbooks). Cheque signed, will be sent shortly. $244.08.
+
+==== Membership Application Process ====
+:* On hold.
+
+==== Trillium Grant Update ====
+:* Trillium party guests/date? MPPs not responding to email. Doug action item.
+:* Action item: get credentials for Trilium account (Doug) Done.
+:* How to spend remaining money. Proposal is tooling for CNC mill and router.
+
+=== Review of New Action Items from this Meeting ===
+:* contact Mark Pitcher re: dealing with his statement. Jaymis.
+:* Doug: contact MPPs for Trillium party
+:* snow blower, James
+:* trillium grant spending, James
+
+=== Adjournment ===
+:* Motion to adjourn. Moved by Darcy, seconded by Jaymis, unanimous.
+:* adjourned at 8:44pm.

@@ -1,0 +1,134 @@
+{{Meeting
+|Date=2013/12/18
+|Time=20:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+|Financials=Kwartzlab Financial Report - December 2013.pdf
+}}
+=== Attending ===
+:* Jonathan
+:* Ben
+:* Darcy
+:* Mark
+:* James
+:* Jaymis
+:* Doug
+
+=== Absent ===
+
+=== Call to Order ===
+:* Called to order by Darcy at 19:40
+
+=== Approval of Agenda ===
+:* approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* Mark opposed
+:* all else approved
+
+=== Report from the President ===
+:* we're awesome
+
+=== Report from the Treasurer ===
+:* (attached)
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+:* Action item: get WordPress plug-in for membership register (Ben) (done - needs configuration)
+:* Action item: send member instructions to mailing list (Ben) (on hold)
+:* Action item: draft new by-laws and put them to a general meeting (Ben)
+:* Action item: see if lawyer can look over new by-laws (Jonathan) (done)
+:* Action item: draft membership by-law proposal to include delegation (Steph) (done)
+
+==== Reimbursements ====
+
+===== Air Liquide =====
+:* $85.43 for tank rental
+:** moved by: Ben
+:** seconded by: James
+:** approved unanimously
+
+==== Review of mailing list votes ====
+
+===== Membership of Marius Kintel =====
+:* Mark abstained
+:* all else approved
+
+==== Board Process Review ====
+:* nothing new
+
+==== Documentation of Board Procedures ====
+:* nothing new
+
+=== New Business ===
+
+==== Snow Removal ====
+:* Catherine has volunteered
+:** We should remove her from the cleaning schedule if she's doing this.
+:* Action item: get quotes for snow removal (Jaymis)
+
+==== 3D Printer ====
+:* Doug proposes getting a classrom set of 3D printers.
+:* The Working Centre would pay us to run courses.
+:* They could be used for library outreach events.
+:* The proposed printers are good for long runs.
+:* We could get corporate sponsorship and grants.
+:* motion to do the above by Doug
+:** Seconded by Jonathan
+:** approved unanimously
+
+==== Statement from Mark Pitcher ====
+:* Mark Pitcher removes all approvals for minutes due to a history of deception and purposeful misinformation during board meetings by several board members.
+:* During BOD meeting #105 [name redacted] deceived the board about the Tool Committee leading to a misinformed vote by other board members.
+:* BOD meeting #105 was moved to a time that excluded Mark Pitcher so other board members could be misled during voting.
+:* BOD meeting #113 was called with no notice to Mark Pitcher, and set at a time to exclude Mark.
+:* [name redacted] deceived board members about discussing dues payments with Mark Pitcher, and did not attempt to contact Mark as per Charter.
+:* Board Meetings and internal board discussions are carried out public and on a public forum contrary to law.
+
+=== Old Business ===
+
+==== Re-Visiting By-Laws ====
+:* Proposed change to membership by-law:
+:** II. Membership
+:*** A. Issuance of membership
+:**** 1. The conditions under which membership will be issued are determined either by the Board, or by a Director, Officer, Member, or Committee appointed by the Board to oversee the issuance of membership.
+:* Motion to approve in priciple the proposed bylaw ammendment to be ratified by a general meeting (Darcy)
+:** Seconded by Doug
+:** approved unanimously
+
+==== Member Meeting ====
+:* Proposed meeting on 13 February.
+
+==== Software for Lab ====
+:* Ben is dealing with an address change.
+
+==== Youth Maker Workshops at the Working Centre ====
+:* Grant application is in.  We'll find out mid-February
+:* can be removed from old business
+
+==== Review of Purchasing Procedure ====
+:* procedure no longer conflicts with bylaws
+:* can be removed from old business
+
+==== Membership Application Process ====
+:* no news
+
+==== Trillium Grant Update ====
+:* Action item: get credentials for Trilium account (Doug)
+
+=== Review of Action Items from this Meeting ===
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+:* Action item: send member instructions to mailing list (Ben) (on hold)
+:* Action item: draft new by-laws and put them to a general meeting (Ben)
+:* Action item: get quotes for snow removal (Jaymis)
+:* Action item: get credentials for Trilium account (Mark)
+
+=== Adjournment ===
+:* Motion to adjourn (Darcy)
+:** Seconded (Ben)
+:** approved unanimously
+:* adjourned at 20:36

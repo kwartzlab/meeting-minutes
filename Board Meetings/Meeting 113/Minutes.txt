@@ -1,0 +1,149 @@
+{{Meeting
+|Date=2013/12/04
+|Time=20:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Darcy
+:* Jaymis
+:* Doug
+:* James
+:* Ben
+
+=== Absent ===
+:* Mark
+
+=== Call to Order ===
+:* Called to order by Darcy at 20:46
+
+=== Approval of Agenda ===
+:* approved unanimously
+
+=== Approval of Previous Meeting Minutes ===
+:* approved unanimously
+
+=== Report from the President ===
+:* We're only awesome if we can solve this mailing list stuff tonight.
+
+=== Report from the Treasurer ===
+:* pending
+:* $11,000 in bank
+:* 62 members
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* Ben will send an invoice to Sean Yo for Hacky Halloween stuff in the amount to $250 (done)
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+:* Action item: get WordPress plug-in for membership register (Ben)
+:* Action item: send purchasing procedure to mailing list for discussion (Ben) (done)
+:* Action item: send info sheet draft to mailing list (Ben) (done)
+:* Action item: update member application form on website (Ben) (done)
+:* Action item: send member instructions to mailing list (Ben)
+
+==== Reimbursements ====
+
+===== Tap & Die Set =====
+:* $45.20 for 60 piece set
+:** motion by Darcy
+:** Seconded by Doug
+:** unanimous with Doug's abstention
+
+===== CNC Router Water pump =====
+:* $41.01
+:** motion by Darcy
+:** seconded by Doug
+:** unanimous with James' abstention
+
+===== Drill Bits ====
+:* $33.32 to James
+:** motion by Ben
+:** seconded by Jaymis
+:** unanimous with James' abstention
+
+===== Electrical =====
+:* $1395.55 to BH Ruby Electric
+:** motion by Ben
+:** seconded by Darcy
+:** approved unanimously
+
+===== Ladder & 2 Drills =====
+:* $229.38 to Agnes
+:** motion by Ben
+:** seconded by Jonathan
+:** approved unanimously
+
+==== Review of mailing list votes ====
+
+==== Board Process Review ====
+:* to be recurring
+
+===== Member Vote: John Wynen =====
+:* approved
+
+==== Documentation of Board Procedures ====
+:* none yet
+
+=== New Business ===
+
+==== Re-Visiting By-Laws ====
+:* current by-laws not scaling well
+:* Action item: draft new by-laws and put them to a general meeting (Ben)
+:* ONCA is a consideration
+:* Action item: see if lawyer can look over new by-laws (Jonathan)
+
+==== Mark ====
+:* Mark should be well enough to attend board meetings starting next week.
+:* next meeting on the 18th at 19:30
+
+==== Member Meeting ====
+:* will probably be upcoming
+:* requires notice period
+:* requires agenda in advance
+
+=== Old Business ===
+
+==== Software for Lab ====
+:* pending
+
+==== Youth Maker Workshops at the Working Centre ====
+:* pending
+
+==== Review of Purchasing Procedure ====
+:* proposed new procedure:
+:** All requests for reimbursements must be submitted to the member’s mailing list for approval by the Treasurer. Requests must include an itemized cost estimate. Requests for reimbursements totalling under $50 for consumable purchases may be submitted after the purchase has been made. All other requests should be submitted prior to purchase.
+:** The Treasurer may grant approval for consumable purchases totalling no more than $50, at the Treasurer’s discretion. For all other reimbursement requests, Treasurer approval may only be granted with the support of all active Directors as expressed on the members’ mailing list, or by a majority vote of the Board of Directors.
+:** motion by Ben
+:** seconded by Jaymis
+:** approved unanimously
+:* Action item: update board procedure (Jonathan)
+
+==== Membership Application Process ====
+:* Action item: draft membership by-law proposal to include delegation (Steph)
+:* motion: ratify all members in good standing on the membership register
+:** by: Doug
+:** seconded: Darcy
+:** approved unanimously
+:* vote to pass new membership application procedure as outlined on mailing list
+:** motion by: Ben
+:** James
+:** approved unanimously
+
+==== Trillium Grant Update ====
+:* Action item: invite dignitaries (Doug)
+:* router will be moved for party
+
+=== Review of Action Items from this Meeting ===
+:* Action item: update board procedures on website (Jonathan)
+:* Action item: remove tool committee (Jonathan) 
+:* Action item: get WordPress plug-in for membership register (Ben)
+:* Action item: send member instructions to mailing list (Ben)
+:* Action item: draft new by-laws and put them to a general meeting (Ben)
+:* Action item: see if lawyer can look over new by-laws (Jonathan)
+:* Action item: draft membership by-law proposal to include delegation (Steph)
+
+=== Adjournment ===
+:* adjournment at 22:03
