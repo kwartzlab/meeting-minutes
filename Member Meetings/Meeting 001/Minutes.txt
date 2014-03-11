@@ -1,12 +1,155 @@
-{{Meeting
-|Date=2009-09-22
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=General Members Meeting
-}}
-=Agenda=
-# Call to Order
-# Approval of the Agenda
-# Confirmation of Bylaws Passed at September 9th, 2009 Board Meeting
-# Confirmation of Special Resolution passed at the September 9th, 2009 Board Meeting
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: General Members
+* Date: Thursday, September 22, 2009
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #01
+
+
+Distribution: To all KwartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1933 EST. The Secretary, Stephanie Smith, recorded the minutes. A quorum of members was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Chair, and accepted by the general consent of the membership present.
+
+3. Confirmation of Bylaws Passed at September 9th, 2009 Board Meeting
+---------------------------------------------------------------------
+
+Be it resolved that the following Bylaws be adopted as the Bylaws of
+KwartzLab Society Inc.
+
+Definitions
+
+"members meeting" shall also include annual meetings and general meetings.
+New Membership Approval Process
+
+   1. Persons wishing to become members of KwartzLab must file an application with the Board. The Board shall determine the form of the application. The Board shall notify the membership via the "Members" mailing list when they receive such an application.
+   2. A person who has fulfilled the requirements of paragraph 1 may be admitted to membership by a resolution of Board at a meeting duly called for that purpose. The Board must give notice to the "Members" mailing list at least five calendar days before the resolution is to be considered by the Board.
+   3. A person admitted to membership by the Board of Directors shall have no privileges until their initial dues and first monthly dues are paid. The Board may by resolution set a schedule for pro-rated dues for the first month of membership, based on the date of the member's approval.
+
+Dues
+
+   1.
+
+      The Board of Directors may by resolution set the dues for the corporation, which may be either or both of:
+
+      (a) Initial dues, i.e. dues which are payable before a person can become a member;
+
+      (b) Monthly dues, i.e. dues which are recurring and payable on the last day of each month (for the following month).
+   2.
+
+      If the Board passes a resolution which raises the initial or monthly dues by more than 10%, that resolution is effective only until confirmed at a general meeting of the Corporation duly called for that purpose. Such a meeting must be held within 30 days of the initial adoption of the resolution. If the resolution is not confirmed within 30 days, the resolution shall be rendered invalid.
+
+Meetings of Members
+
+   1.
+
+      KwartzLab may give notice of any members meeting via email to the address on record with the corporation as recorded on the "Announce" mailing list, and this shall constitute sufficient notice for the meeting.
+
+      (a) Notice of any members meeting shall be given at least ten calendar days before the meeting.
+
+      (b) Notice for annual and general meetings shall contain the agenda, or a link to the agenda published on the KwartzLab website, for the meeting.
+   2. The quorum for members meetings shall be ten members or one quarter of the total membership of KwartzLab Society Inc., whichever is higher.
+   3. Members may not vote via proxy at members meetings.
+
+Membership Hiatus
+
+   1. A member may apply to the Board to have their membership placed on hiatus for a period of no less than two months. Such application must specify the start and end dates of the hiatus. The Board may approve a member's hiatus by resolution at meeting of the Board.
+   2. During the time a member is on hiatus, they are not required to pay dues, nor shall they have any of the privileges afforded a member, except for the privilege of voting at members meetings called after the hiatus was requested.
+   3. A member may voluntarily terminate their hiatus at any time by notifying the Board of Directors they wish to do so and paying their monthly dues for the current month. No discounts shall be given for partial months.
+
+Suspension or Termination of Memberships
+
+   1. KwartzLab may suspend or terminate the membership of a member by passing a special resolution (2/3 vote) at a general meeting duly called for that purpose. A suspended member shall have no privileges of membership during the time of the suspension. All dues shall continue to be assessed for suspended members.
+   2.
+
+      A resolution under paragraph 1 is not valid unless:
+
+      (a) Prior written notice is given to the member setting forth the grounds on which the suspension or termination is sought;
+
+      (b) This notice is given to the member no fewer than 10 calendar days before the general meeting called to consider the resolution of suspension or termination;
+
+      (c) an opportunity is given to the member to appear, either personally or by a person authorized under the Law Society Act to represent the member, to make submissions at the general meeting called to consider the resolution of suspension or termination of that member.
+   3.
+
+      Suspension for Minor Infractions
+
+      (a) The Board of Directors may suspend a member for a term of no greater than one month by resolution at a meeting of the Board duly called for that purpose if:
+
+      i. The member is in arrears on their monthly dues.
+
+      (b) A resolution under sub-paragraph a) is not valid unless:
+
+      i. The member is given notice setting forth the grounds on which the suspension is sought (email notice shall be sufficient);
+
+      ii. This notice is given to the member no fewer than five calendar days before the meeting of the board of directors called to consider the resolution;
+
+      iii. an opportunity is given to the member to appear, either personally or by a person authorized under the Law Society Act to represent the member, to make submissions at the meeting of the board called to consider the resolution.
+
+      (c) If the member suspended under this paragraph rectifies all the condition(s) in sub-paragraph a) for which they were suspended, the Board shall forthwith take any action required to restore that member's status.
+
+So moved by the President.
+Seconded by Ben Brown.
+In Favour: 12
+Opposed: 0
+Abstained: 0
+
+4. Confirmation of Special Resolution passed at the September 9th, 2009 Board Meeting
+-----------------------------------------------------------------------------
+
+Be it resolved that, subject to ratification at a general member
+meeting, the opportunity for charter members to join the corporation
+as full members shall end October 31. After that date, they must
+re-apply as new members.
+    
+So moved by the President.
+Seconded by Alexandra Dysinski.
+
+The President moved to make the following amendment to the motion:
+
+  Be it resolved that, subject to ratification at a general member
+  meeting, the opportunity for *pending* charter members to join the 
+  corporation as full members shall end October 31. After that date, 
+  they must re-apply as new members.
+  
+  Amendment seconded by Alexandra Dysinski.
+  In Favour: 12
+  Opposed: 0
+  Abstained: 0
+  
+  Amendment carries.
+  
+In Favour: 12
+Opposed: 0
+Abstained: 0
+
+Motion carries.
+
+5. Adjournment
+--------------
+
+The meeting was adjourned at 1942EST.
+
+Motion moved by Stephanie Smith.
+Seconded by Alexandra Dysinski.
+In Favour: 12
+Opposed: 0
+Abstained: 0

@@ -1,12 +1,69 @@
-{{Meeting
-|Date=June 4th, 2011
-|Time=7:00 PM
-|Address=283 Duke St W, Suite 106, Kitchener, ON
-|Meeting Type=Annual General Meeting
-}}
-# Presidents Remarks
-# 2010 Financial Report
-#* Be it resolved that the Financial Report for 2010 as presented by the Treasurer be accepted
-# Board Elections
-#* Be it resolved that _____, _____, ______, ______, _____, _____, and _____ be appointed as the Board of Directors for KwartzLab Society Inc. for a one year term beginning on July 1, 2011"
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Annual General Members Meeting
+* Date: Saturday, June 4, 2011
+* Time: 7:00pm
+* Location: KwartzLab Society Inc.
+* Meeting #02
+
+Distribution: To all KwartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The Board Chair, Eric Gerlach, called the meeting to order at 1928 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of members was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. President's Remarks
+----------------------
+The President incited the membership to wish Andrew Mackie a most felicitous birthday, with song and colourful commentary.
+
+After the revelry subsided, the President reminisced on KwartzLab's 2-year history, and the importance of community for makers. In addition to creating a community for makers within KwartzLab, we have also established strong relationships between KwartzLab and the larger community. Hundreds of people have visited our space, and both cities know who we are. 
+
+The President acknowledged that he hasn't been as public as he wished to be (admittedly, no KwartzLab president to date has), and he looks forward to seeing where new leadership will take KwartzLab in the coming year. He also hopes to see the KwartzLab community grow stronger, and to do more as a group.
+
+The President commented upon the election process, and how important it is to always be able to elect Directors, rather than having them acclaimed. 
+
+3. Report from the Treasurer
+----------------------------
+After acknowledging that Power Point presentations suck, the Treasurer, Ben Brown, presented the membership with the 2009 Financial Report & Presentation.
+
+KwartzLab remains solvent, although our operating budget is exceedingly lean. The Treasurer also highlighted an upcoming donation that KwartzLab will receive from RIM, through their Proud2Be program. There was a brief discussion regarding how members would like to see that money spent. General consensus is that purchasing a laser cutter would be a good investment.
+
+The Treasurer further announced that the KwartzLab membership has unanimously waived the need for financial audit of the 2010 year.
+
+The Financial Report, as presented, was accepted by unanimous consent of the membership.
+
+   
+4. Board Elections
+------------------
+
+Stephanie Smith acted as Elections Co-ordinator, and Chris Bruner & Katrina Somers acted as scrutinizers for the ballot count. The membership presented no objections to these assignments, and consented to proceed with the vote.
+
+"Be it resolved that Alex Williams, Ben Brown, Robert Gissing, Andrew Mackie, Darcy Casselman, James Bastow, & Rob Adlers be appointed as the directors of KwartzLab Society Inc. for a term beginning July 1, 2011."
+
+The President, Robert Gissing, addressed the membership to reaffirm how glad he is that KwartzLab was able to hold an election. The membership responded with chants of "Default! Default!"
+
+    Motion so moved by Stephanie Smith
+    Seconded by Doug Moen
+    
+    Motion carries unanimously. 
+
+5. Adjournment
+--------------
+
+The meeting was adjourned at 2028 EDT.
+
+So moved by James Bastow.
+Seconded by Ben Brown.
+Carries unanimously.

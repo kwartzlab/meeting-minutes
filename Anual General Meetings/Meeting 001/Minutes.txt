@@ -1,11 +1,109 @@
-{{Meeting
-|Date=2010-08-08
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=Annual General Meeting
-}}
-# Presidents Remarks
-# 2009 Financial Report
-# By-law adoption
-# Board Elections
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: Annual General Members Meeting
+* Date: Thursday, July 8, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #01
+
+ATTENDANCE
+
+* Directors:  Eric Gerlach, Robert Gissing, Stephanie Smith, Cedric 
+  Puddy, Ben Brown, Alexandra Dysinski, Darin White
+* KwartzLab Members: Paul Walker, Bevan Lantz, Karl Williams, Chris Vollick, 
+  Matt Bell, Chris Bruner, Andrew Mackie, Bernie Rohde, James Bastow, Alex 
+  Williams, Darcy Casselman, Doug Moen, Natalie Silvanovich, Pawel Czarny, 
+  Jessica Clayman, Ed Maste
+
+Distribution: To all KwartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1935 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of members was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. President's Remarks
+----------------------
+The President briefly addressed the membership, reviewing KwartzLab's first year achievements:
+
+  * incorporation
+  * very successful 5+5 events
+  * participated in multiple hackathons through-out the year
+  * participated in Ubuntu Global Jam
+  * hosted numerous art exhibits for local artists
+  * doubled our physical space
+
+The President further outlined the purpose of the Annual General Meeting -- to complete any outstanding business of the corporation. The membership was invited to let the Chair know if they had any additional comments or questions they would like to make during the meeting itself.
+
+3. Report from the Treasurer
+----------------------------
+The Treasurer presented the membership with the 2009 Financial Report.
+
+A member asked the Treasurer to clarify how the increased rent of the Tool Room impacts the listed budget. Although there is currently no item in the budget to cover the increased rent, the expense is covered by not spending all of the discretionary items that are in the budget. 
+
+The Financial Report, as presented, was accepted by unanimous consent of the membership.
+
+4. By-law adoption
+------------------
+
+"Be it resolved that the text at
+http://gerlach.ca/kwartzlab/bylaws.html be adopted as the bylaws of
+KwartzLab Society Inc."
+
+As the drafted bylaws have been available for review for the past couple weeks, the membership consented to proceed to a vote without reviewing the text during the meeting.
+   
+    Motion so moved by Eric Gerlach
+    Seconded by Stephanie Smith
+   
+    In Favour: 19
+    Opposed: 0
+    Abstained: 2 
+   
+    Motion Carries.
+   
+5. Board Elections
+------------------
+
+The President briefly addressed the membership, outlining the role and responsibility of the Board: the Board is the body which manages the affairs of KwartzLab Society Inc.; the Board makes all of the legal decisions, and assumes all of the legal responsibility.
+
+Members Rob Adler and Joël Larose arrived prior to the vote.
+
+Natalie Silvanovich acted as Elections Co-ordinator, and Doug Moen, Ed Maste, & Andrew Mackie acted as scrutineers for the ballot count. The membership presented no objections to these assignments, and consented to proceed with the vote.
+
+"Be it resolved that Alex Williams, Ben Brown, Cedric Puddy, Eric Gerlach, Paul Walker, Robert Gissing, and Steph Smith be appointed as the directors of KwartzLab Society Inc. for a term beginning July 1, 2010."
+
+Stephanie Smith addressed the membership to acknowledge that all of the nominations for election were excellent, and KwartzLab would have had a great Board with any of them.
+
+Robert Gissing addressed the membership to acknowledge and thank the Directors who were now standing down: Darin White, and Alexandra Dysinski.
+
+    Motion so moved by Alexandra Dysinski
+    Seconded by Doug Moen
+    
+    Motion carries unanimously, with a dulcet blast of vuvuzela.
+    
+6. President's Closing Remarks
+------------------------------
+
+The President addressed the membership again, to amend his remarks:
+
+KwartzLab Society Inc. has received signed consent from every member to waive its yearly audit, and as such, and in full accordance with the law, has chosen not to appoint an Auditor at this Annual General Meeting.
+
+7. Adjournment
+--------------
+
+The meeting was adjourned at 2012 EDT.
+
+So moved by Darcy Casselman.
+Seconded by Joël Larose.
+Carries unanimously.

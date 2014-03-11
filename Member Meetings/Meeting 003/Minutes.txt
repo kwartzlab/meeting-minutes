@@ -1,11 +1,80 @@
-{{Meeting
-|Date=2010-04-29
-|Time=1930
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=General Members Meeting
-}}
-# Call to Order
-# Approval of the Agenda
-# Remarks from the Chair
-# Termination of Michael Kowalski's Membership
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: General Members
+* Date: Thursday, April 29, 2010
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #03
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Robert Gissing, Stephanie Smith, Cedric 
+  Puddy, Ben Brown, Alexandra Dysinski
+
+OTHERS
+
+* KwartzLab Members: Kyle Spaans, Darcy Casselman, Pawel, Doug Moen, Chris 
+  Bruner, Bevan Lantz
+
+
+Distribution: To all KwartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1948 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of members was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Chair, and accepted by the general consent of the membership present.
+
+3. Remarks from the Chair
+-------------------------
+
+The Chair reviewed the technical process of membership termination with the membership. A special resolution has all ready been passed by the Board; it now needs to be approved by 2/3 of the present membership.
+
+4. Termination of Michael Kowalski's membership
+-----------------------------------------------
+
+Special Resolution: Recognizing that his dues are over two months in
+arrears, be it resolved that Michael Kowalski's membership in
+KwartzLab Society Inc. be terminated. Be it further resolved that he
+be given 7 days to arrange pickup of his property at KwartzLab, after
+which time it may be disposed. 
+
+Per bylaws, a notice was delivered by express post (no signature) 10 days before this meeting.
+
+So moved by Robert Gissing.
+Seconded by Kyle Spaans.
+
+Discussion: The membership reviewed the numerous attempts to contact Michael Kowalski via phone, email, and in person. 
+
+There was further discussion regarding the fact that the physical KwartzLab space is currently secured only by a traditional key and lock set. Although we are terminating a membership, we have no actual means of revoking access at this point in time. However, we will be moving to an RFID access system in the near future, which will render this issue moot.
+
+In Favour: 13
+Opposed: 0
+Abstained: 0
+
+Motion carries.
+
+5. Adjournment
+--------------
+
+The meeting was adjourned at 1958EDT.
+Motion moved by Alexandra Dysinski
+Seconded by Ben Brown.
+In Favour: 13
+Opposed: 0
+Abstained: 0
