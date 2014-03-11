@@ -1,14 +1,76 @@
-{{Meeting
-|Date=2010-02-17
-|Time=1900
-|Address=283 Duke Street West Unit 106 Kitchener Canada
-|Meeting Type=General Members Meeting
-}}
-# Call to order
-# Meeting Procedure
-# Membership Hiatus
-# Membership Vetting
-# Vision for 2010
-# Bylaws (incl. Board Election Procedures)
-# Non-members in KwartzLab
-# Adjournment
+KWartzLab Society Inc. 
+======================
+Meeting Minutes
+----------------------
+
+# Metadata
+* Type of Meeting: General Members
+* Date: Thursday, February 17
+* Time: 7:30pm
+* Location: KwartzLab Society Inc.
+* Meeting #02
+
+BOARD MEMBERS
+
+* Present:  Eric Gerlach, Robert Gissing, Stephanie Smith, Cedric 
+  Puddy, Ben Brown, Alexandra Dysinski, Darin White
+
+OTHERS
+
+* KwartzLab Members: Bevan Lantz, James Bastow, Pawel, Alex Williams, Michael Kowalski, Darcy Casselman, Doug Moen, Jessica Clayman, Jonathan Lamothe, Ed Blanchard, Matt Bell
+
+
+Distribution: To all KwartzLab Society Members
+
+-----------------------------------------------------------------------
+
+These minutes are considered complete and correct.  Please advise the Secretary <secretary@kwartzlab.ca> of any errors or omissions.  Otherwise, these minutes will be considered an accurate record of the discussions.
+
+Proceedings:
+==============
+
+1. Call to Order
+----------------
+
+The President Eric Gerlach acted as Chair for the meeting, and called the meeting to order at 1907 EDT. The Secretary, Stephanie Smith, recorded the minutes. A quorum of directors was present, and the meeting, having been duly convened, was ready to proceed with business.
+
+2. Approval of the Agenda
+-------------------------
+
+The agenda was presented by the Chair. Darin White requested that the discussion on Vision be moved to the beginning of the meeting, and all other items for discussion be demoted to optional, pending time and interest.
+
+Bevan Lantz seconds this motion. It passed by near-unanimous consent of the membership present.
+
+
+3. Meeting Procedure
+--------------------
+
+The Chair outlined the format and procedures which would be followed for the meeting. While the meeting is being broadcast live on our webcam, the broadcast is video-only.
+
+The Chair will be keeping to a speakers list, and advises the membership that they can call to limit discussion at any time.
+
+4. 2010 Vision
+--------------
+
+Darin White presented his "Brief History of KwartzLab" deck, and identified keys opportunities for growth:
+
+  * more tools
+  * more money (grants, fund-raising)
+  * more events
+  * more space
+  
+Eric Gerlach talked more specifically about opportunities for Space Expansion. No commitment has been made at this point; we are merely surveying possible options.
+
+Alex Williams talked more specifically about tools which the lab would benefit from acquiring.
+
+There was a detailed discussion among the membership regarding the sorts of larger projects they would like to pursue in the coming year, and ways to improve KwartzLab's outreach to the local community. Some needed infrastructure projects (storage, electrical, etc.) were also identified.
+
+There was a brief discussion among the membership regarding inter-member communication, and how we can better keep all members in the loop of what's happening in the lab.
+
+5. Adjournment
+--------------
+Adjournment moved by Darin White
+Seconded by James Bastow
+In Favour: 13
+Opposed: 1
+Abstained: 1
