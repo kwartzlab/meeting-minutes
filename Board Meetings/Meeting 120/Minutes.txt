@@ -53,12 +53,15 @@
 :** approved unanimously
 
 ==== Documentation of Board Procedures ====
-:* (nothing new)
+:* regarding date and frequency of board meetings
 
 === New Business ===
 
 ==== Procedure for Filling Board Vacancies ====
 :* Action item: Draft a formal procedure for filling future board vacancies (Darcy)
+
+==== Getting a phone number ====
+:* Setting up a VoIP voice mail box for the lab.
 
 === Old Business ===
 
