@@ -1,0 +1,95 @@
+{{Meeting
+|Date=2014/03/26
+|Time=19:30
+|Address=33 Kent Ave., Kitchener, ON
+|Meeting Type=Board Meeting
+}}
+=== Attending ===
+:* Jonathan
+:* Darcy
+:* Jaymis
+:* Ben
+:* Doug
+:* James
+:* Bob
+
+=== Absent ===
+
+
+=== Call to Order ===
+:* Called to order by Darcy at 
+
+=== Approval of Agenda ===
+:* moved by , seconded by , 
+
+=== Approval of Previous Meeting Minutes ===
+:* Approving minutes for 119
+:** Motion to approve meeting 119 by , seconded by , 
+
+=== Report from the President ===
+:* We're awesome
+
+=== Report from the Treasurer ===
+:* 
+
+=== Recurring Business ===
+
+==== Previous meeting action items ====
+:* trillium grant spending, James (James)
+:* Action item: set up PGP key signing (Jonathan)
+:* Action item: Draft a formal procedure for filling future board vacancies (Darcy)
+:* Action item: Get someone from Capacity Waterloo to give a board governance information session (Darcy)
+:* Action item: Strike committee from minutes (Jonathan)
+:* Action item: Put bylaw changes on agenda for AGM (Darcy)
+:* Action item: Talk to Don Macrae about snow removal (Jonathan)
+:* Action item: have a meeting with any members who want to have input on the new membership procedure (Doug)
+
+==== Reimbursements ====
+:* Knives and markers (Doug)
+:** Pre-approved
+
+==== Review of mailing list votes ====
+:* Vote to ratify membership of Eric Moon and Jessica Clayman
+:** approved unanimously
+
+==== Documentation of Board Procedures ====
+:* regarding date and frequency of board meetings
+
+=== New Business ===
+
+==== Procedure for Filling Board Vacancies ====
+:* Action item: Draft a formal procedure for filling future board vacancies (Darcy)
+
+==== Getting a phone number ====
+:* Setting up a VoIP voice mail box for the lab.
+
+=== Old Business ===
+
+==== Board resolutions over the mailing list ====
+:* Jonathan would like to discuss using PGP signing
+:** Will be done at the Gibson hacking event.
+
+==== MakerFaire Waterloo ====
+:* Update on commitment from city hall (Jaymis)
+:** $1000 requirement
+:** Appointment to make a deposit with the City of Kitchener
+
+==== Snow Removal ====
+:* Snow probably not as cleared as we'd like.
+:* Action item: Talk to Don Macrae about this (Jonathan)
+
+==== 3D Printer ====
+:* Doug proposes getting a classroom set of 3D printers. - Update?
+:* Talk to media contacts
+:* Crowd-funding through indiegogo?
+:* Good results on crowd-funding can get us better results from corporate sponsors.
+
+==== Membership Application Process ====
+:* Approval of Ben's proposal (fill in here, please)
+:* Action item: have a meeting with any members who want to have input on the new membership procedure (Doug)
+
+=== Review of New Action Items from this Meeting ===
+
+=== Adjournment ===
+:* Motion to adjourn. Moved by Darcy, seconded by Jaymis, unanimously approved.
+:* adjourned at 20:45
