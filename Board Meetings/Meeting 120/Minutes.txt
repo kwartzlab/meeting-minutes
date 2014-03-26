@@ -63,6 +63,9 @@
 ==== Getting a phone number ====
 :* Setting up a VoIP voice mail box for the lab.
 
+==== Transcription Errors found in By-Laws ====
+:* Jonathan found some minor errors in the bylaws that appear to be typos/transcription errors, and would ike to review them quickly.
+
 === Old Business ===
 
 ==== Board resolutions over the mailing list ====
