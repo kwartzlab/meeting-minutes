@@ -1,8 +1,11 @@
 # Meeting
 
 Date: 2014/03/26
+
 Time: 19:30
+
 Address: 33 Kent Ave., Kitchener, ON
+
 Meeting Type: Board Meeting
 
 ## Attending
