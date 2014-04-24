@@ -33,7 +33,7 @@ Meeting Type: Board Meeting
 
 * Approving minutes for 119
 
-    * Motion to approve meeting 119 by , seconded by , 
+    * Motion to approve meeting 119 by Darcy, seconded by Jaymis, approved unanimously.
 
 ## Report from the President
 
