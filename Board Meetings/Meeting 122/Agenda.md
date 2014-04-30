@@ -12,7 +12,6 @@ Meeting Type: Board Meeting
 
 ## Absent
 
-
 ## Call to Order
 
 * Called to order by  at 
@@ -25,10 +24,6 @@ Meeting Type: Board Meeting
 
 * Approving minutes for 121
     * Motion to approve meeting 120 by , seconded by , 
-
-## Report from the President
-
-## Report from the Treasurer
 
 ## New Business
 
