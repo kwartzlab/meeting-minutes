@@ -56,6 +56,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Steph as Volunteer Coordinator
+
 ### New Member Application of Andrew Bass
 
 ### Cleaning Quotes
