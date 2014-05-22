@@ -48,11 +48,15 @@ Meeting Type: Board Meeting
 
 ### Reimbursements
 
+#### Reimbusement for CNC Dust Boot (Karl)
+
 ### Member Votes
 
 ### Documentation and Board Procedures
 
 ## New Business
+
+### New Member Application of Andrew Bass
 
 ### Cleaning Quotes
 
