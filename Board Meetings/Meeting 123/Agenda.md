@@ -48,7 +48,7 @@ Meeting Type: Board Meeting
 
 ### Reimbursements
 
-#### Reimbusement for CNC Dust Boot (Karl)
+#### Reimbusement for CNC Dust Boot ($205.69 - Karl)
 
 ### Member Votes
 
