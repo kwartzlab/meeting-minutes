@@ -95,19 +95,19 @@ Meeting Type: Board Meeting
 
 ### Report for Trillium
 
-* previously covered
+* no new discussion
 
 ### Procedure for Filling Board Vacancies
 
-* previously covered
+* no new discussion
 
 ### Getting a phone number
 
-* previously covered
+* no new discussion
 
 ### Board resolutions over the mailing list
 
-* previously covered
+* no new discussion
 
 ### MakerFaire Waterloo
 
@@ -115,7 +115,7 @@ Meeting Type: Board Meeting
 
 ### Application Process
 
-* previously covered
+* no new discussion
 
 ## Review of New Action Items from this Meeting
 
