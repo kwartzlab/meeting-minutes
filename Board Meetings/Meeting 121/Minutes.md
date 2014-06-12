@@ -70,6 +70,7 @@ Meeting Type: Board Meeting
     * pre-approved
 * Doug M - $28.56 for bathroom supplies (approved consumable, cheque already cut)
     * pre-approved
+
 ### Member Votes
 
 * Motion to ratify memberships of Alex Gerlach and Neil Eaton
