@@ -45,9 +45,9 @@ Meeting Type: Board Meeting
 
 ## New Business
 
-### Hiatus of Ralph Janke
-
 ### Review of Board Procedures
+
+### Hiatus of Ralph Janke
 
 ### PGP Key Exchange for Directors
 
