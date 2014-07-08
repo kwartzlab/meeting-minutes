@@ -9,13 +9,21 @@ Address: 33 Kent Ave., Kitchener, ON
 Meeting Type: Board Meeting
 
 ## Attending
+* Jonathan
+* James
+* Ravi
+* Steph
+* Cedric
+* Doug
+* Jaymis
 
 ## Absent
 
 ## Call to Order
-* Called to order by  at 
+* Called to order by Cedric at 20:49
 
 ## Approval of Agenda
+
 
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from board meeting 124
@@ -48,6 +56,8 @@ Meeting Type: Board Meeting
 ### Password Manager
 
 ### Membership Dues by Electroinc Payment
+
+### Heavy Lab Reorganization
 
 ## Old Business
 
