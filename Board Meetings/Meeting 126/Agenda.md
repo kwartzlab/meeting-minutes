@@ -2,7 +2,7 @@
 
 Date: 2014-07-07
 
-Time: 19:30
+Time: 20:30
 
 Address: 33 Kent Ave., Kitchener, ON
 
