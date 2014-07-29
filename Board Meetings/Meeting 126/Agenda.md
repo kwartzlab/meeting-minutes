@@ -47,6 +47,8 @@ Meeting Type: Board Meeting
 
 ### Review of Board Procedures
 
+### Hiatus of Ralph Janke
+
 ### PGP Key Exchange for Directors
 
 ### Job Descriptions for Directors
