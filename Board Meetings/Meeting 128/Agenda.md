@@ -38,6 +38,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Financial Audit
+
 ## Old Business
 
 ### Asset List
