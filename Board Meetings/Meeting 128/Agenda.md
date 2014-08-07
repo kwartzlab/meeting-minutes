@@ -38,7 +38,11 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Purchasing Approval of LaserJet 2300 Toner Cartridges
+
 ### Financial Audit
+
+### Drew Ripley Membership Application
 
 ## Old Business
 
