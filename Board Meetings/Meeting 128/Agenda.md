@@ -44,6 +44,8 @@ Meeting Type: Board Meeting
 
 ### Drew Ripley Membership Application
 
+### Kwartzlab Table at Toronto Mini Maker Faire
+
 ## Old Business
 
 ### Asset List
