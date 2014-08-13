@@ -46,6 +46,8 @@ Meeting Type: Board Meeting
 
 ### Kwartzlab Table at Toronto Mini Maker Faire
 
+### Doug's Status
+
 ## Old Business
 
 ### Asset List
