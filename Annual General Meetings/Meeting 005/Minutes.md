@@ -20,7 +20,7 @@
         * Seconded by: Ed Maste
         * Approved unanimously
 
-	> Nominees\*:
+	> Nominees:
 	* Ravi Baboolal,
 	* James Bastow,
 	* Bob DeGregory,
