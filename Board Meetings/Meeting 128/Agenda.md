@@ -55,8 +55,6 @@ Meeting Type: Board Meeting
 
 ### Lease Renewal
 
-### Review of Board Procedures
-
 ### PGP Key Exchange for Directors
 
 ### Job Descriptions for Directors
@@ -64,8 +62,6 @@ Meeting Type: Board Meeting
 ### Broken Window
 
 ### Password Manager
-
-### Membership Dues by Electronic Payment
 
 ### Heavy Lab Reorganization
 
