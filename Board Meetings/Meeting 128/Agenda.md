@@ -20,7 +20,6 @@ Meeting Type: Board Meeting
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from AGM 5
 * Approval of minutes from board meeting 127
-* Approval of minutes from board meeting 128
 
 ## Report from President
 
