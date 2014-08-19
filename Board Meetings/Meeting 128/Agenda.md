@@ -48,6 +48,8 @@ Meeting Type: Board Meeting
 
 ### Doug's Status
 
+### Insurance Renewal
+
 ## Old Business
 
 ### Asset List
