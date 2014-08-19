@@ -41,7 +41,13 @@ Meeting Type: Board Meeting
 
 ### Reimbursements
 
+### Michael Ahrens' Haitus
+
 ## New Business
+
+### Board Procedure for Notifying Members of Membership Status Changes
+
+### Asset List
 
 ### Lease Renewal
 
