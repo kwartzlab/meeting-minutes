@@ -20,7 +20,7 @@ Meeting Type: Board Meeting
 * Doug
 
 ## Call to Order
-* Called to order by Cedric at 80:25
+* Called to order by Cedric at 20:25
 
 ## Approval of Agenda
 * Motion to approve by Cedric
