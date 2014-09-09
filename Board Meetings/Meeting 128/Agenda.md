@@ -20,7 +20,6 @@ Meeting Type: Board Meeting
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from AGM 5
 * Approval of minutes from board meeting 127
-* Approval of minutes from board meeting 128
 
 ## Report from President
 
@@ -56,8 +55,6 @@ Meeting Type: Board Meeting
 
 ### Lease Renewal
 
-### Review of Board Procedures
-
 ### PGP Key Exchange for Directors
 
 ### Job Descriptions for Directors
@@ -65,8 +62,6 @@ Meeting Type: Board Meeting
 ### Broken Window
 
 ### Password Manager
-
-### Membership Dues by Electronic Payment
 
 ### Heavy Lab Reorganization
 
