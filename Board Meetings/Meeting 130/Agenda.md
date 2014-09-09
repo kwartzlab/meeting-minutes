@@ -37,6 +37,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Dave Metcalf's Re-Application
+
 ## Old Business
 
 ### Hacky Hallowe'en
