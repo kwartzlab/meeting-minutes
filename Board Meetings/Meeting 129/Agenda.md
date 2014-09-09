@@ -41,6 +41,8 @@ Meeting Type: Board Meeting
 
 ### Earmarking Funds
 
+### Hacky Hallowe'en
+
 ## Old Business
 
 ### Financial Audit
