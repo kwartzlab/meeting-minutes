@@ -39,6 +39,8 @@ Meeting Type: Board Meeting
 
 ### Applicaiton of Dirk Hamoen
 
+### Earmarking Funds
+
 ## Old Business
 
 ### Financial Audit
