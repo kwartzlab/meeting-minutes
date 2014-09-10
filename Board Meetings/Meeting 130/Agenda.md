@@ -39,6 +39,8 @@ Meeting Type: Board Meeting
 
 ### Dave Metcalf's Re-Application
 
+### Bylaw Ammendment (Membership Classes)
+
 ## Old Business
 
 ### Hacky Hallowe'en
