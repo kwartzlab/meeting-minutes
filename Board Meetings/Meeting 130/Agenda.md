@@ -37,6 +37,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Joe Bruggeman's Application
+
 ### Dave Metcalf's Re-Application
 
 ### Bylaw Ammendment (Membership Classes)
