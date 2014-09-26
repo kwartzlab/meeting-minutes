@@ -37,6 +37,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Trillium Grant
+
 ### Joe Bruggeman's Application
 
 ### Dave Metcalf's Re-Application
