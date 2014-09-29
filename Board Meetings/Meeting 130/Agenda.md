@@ -33,6 +33,12 @@ Meeting Type: Board Meeting
 * Action item: review job descriptions (all directors)
 * Action item: Get money for Hacky Hallowe'en from Family Hack Jam (Jaymis)
 
+### Membership Applications
+
+#### Joe Bruggeman's Application
+
+#### Dave Metcalf's Re-Application
+
 ### Reimbursements
 
 #### Ben's Reimbursment ($116.28)
@@ -42,10 +48,6 @@ Meeting Type: Board Meeting
 ## New Business
 
 ### Trillium Grant
-
-### Joe Bruggeman's Application
-
-### Dave Metcalf's Re-Application
 
 ## Old Business
 
