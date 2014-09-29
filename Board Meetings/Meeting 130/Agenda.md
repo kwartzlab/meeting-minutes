@@ -43,6 +43,8 @@ Meeting Type: Board Meeting
 
 #### Ben's Reimbursment ($116.28)
 
+#### Agnes' Reimbursement ($127.77 - heat transfer vinyl)
+
 #### Pre-Approval of Angle Grinder
 
 ### Doug's Status
