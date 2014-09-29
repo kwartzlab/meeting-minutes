@@ -43,6 +43,8 @@ Meeting Type: Board Meeting
 
 #### Ben's Reimbursment ($116.28)
 
+#### Pre-Approval of Angle Grinder
+
 ### Doug's Status
 
 ## New Business
