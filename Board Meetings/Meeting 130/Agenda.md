@@ -21,6 +21,7 @@ Meeting Type: Board Meeting
 
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from board meeting 129
+* Approval of financial report from board meeting 128
 
 ## Report from President
 
