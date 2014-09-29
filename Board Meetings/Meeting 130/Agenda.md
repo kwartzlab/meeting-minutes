@@ -33,6 +33,10 @@ Meeting Type: Board Meeting
 * Action item: review job descriptions (all directors)
 * Action item: Get money for Hacky Hallowe'en from Family Hack Jam (Jaymis)
 
+### Reimbursements
+
+#### Ben's Reimbursment ($116.28)
+
 ### Doug's Status
 
 ## New Business
