@@ -44,7 +44,7 @@ Meeting Type: Board Meeting
 
 ## Report from Treasurer
 * No formal report
-* 60 members overdue
+* 16 members overdue
     * 2 of which overdue for September and October
 * HST filings ready to submit waiting on forms (30 days)
 * We got $1500 from Proud2Be
