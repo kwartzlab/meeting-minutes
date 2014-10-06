@@ -37,6 +37,11 @@ Meeting Type: Board Meeting
 ### Membership Applications
 
 ### Reimbursements
+* Reimbursement to Agnes Niewiadomski for hot glue gun & glue sticks - $40.52
+* Reimbursement to Ravi Baboolal for 5 year party food & supplies - $134.96
+* Reimbursement to Steph Smith for 5 year party SOP & food - $99.55
+* Reimbursement to James Bastow for 5 year party food & supplies - $274.47
+* Reimbursement to Cedric Puddy for 5 year party alcohol & lights - $457.75
 
 ### Doug's Status
 
