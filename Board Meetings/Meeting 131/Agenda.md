@@ -42,6 +42,7 @@ Meeting Type: Board Meeting
 * Reimbursement to Steph Smith for 5 year party SOP & food - $99.55
 * Reimbursement to James Bastow for 5 year party food & supplies - $274.47
 * Reimbursement to Cedric Puddy for 5 year party alcohol & lights - $457.75
+* Reimbursement to Neil Eaton for fire extinguisher - $90
 
 ### Doug's Status
 
