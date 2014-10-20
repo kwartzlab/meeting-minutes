@@ -49,6 +49,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Review of Board Board Procedure Re: Modifying Members' Status
+
 ## Old Business
 
 ### Trillium Grant
