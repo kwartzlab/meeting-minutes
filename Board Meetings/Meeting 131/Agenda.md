@@ -35,6 +35,7 @@ Meeting Type: Board Meeting
 * Action item: Get money for Hacky Hallowe'en from Family Hack Jam (Jaymis)
 
 ### Membership Applications
+* Mark Steffan's membership application
 
 ### Reimbursements
 * Reimbursement to Agnes Niewiadomski for hot glue gun & glue sticks - $40.52
