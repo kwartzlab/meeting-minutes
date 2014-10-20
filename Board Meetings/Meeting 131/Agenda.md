@@ -11,6 +11,8 @@ Meeting Type: Board Meeting
 ## Attending
 
 ## Absent
+* Jonathan
+* Doug
 
 ## Call to Order
 * Called to order
