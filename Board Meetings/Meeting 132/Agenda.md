@@ -44,6 +44,8 @@ Meeting Type: Board Meeting
 
 ### Sean Sinclair's Application For Hiatus
 
+### Sewing Workshop Approval
+
 ## Old Business
 
 ### Review of Board Board Procedure Re: Modifying Members' Status
