@@ -42,7 +42,7 @@ Meeting Type: Board Meeting
 
 ## New Business
 
-### Sean Sinclairs Application For Hiatus
+### Sean Sinclair's Application For Hiatus
 
 ## Old Business
 
