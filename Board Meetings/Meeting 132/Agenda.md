@@ -48,6 +48,8 @@ Meeting Type: Board Meeting
 
 ### Fairy Door Painting Event
 
+### Member Meeting & Director By-Election
+
 ## Old Business
 
 ### Review of Board Board Procedure Re: Modifying Members' Status
