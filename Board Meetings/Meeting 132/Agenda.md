@@ -46,6 +46,8 @@ Meeting Type: Board Meeting
 
 ### Sewing Workshop Approval
 
+### Fairy Door Painting Event
+
 ## Old Business
 
 ### Review of Board Board Procedure Re: Modifying Members' Status
