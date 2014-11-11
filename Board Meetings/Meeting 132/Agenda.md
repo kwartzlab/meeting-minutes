@@ -28,6 +28,8 @@ Meeting Type: Board Meeting
 
 ## Recurring Business
 
+### Financial Internal Review
+
 ### Previous Meeting Action Items
 * Action item: collect director PGP keys and put them on file (Jonathan)
 * Action item: review job descriptions (all directors)
@@ -50,13 +52,13 @@ Meeting Type: Board Meeting
 
 ### Member Meeting & Director By-Election
 
+### Dirk Hamoen's Hiatus Request
+
 ## Old Business
 
 ### Review of Board Board Procedure Re: Modifying Members' Status
 
 ### Trillium Grant
-
-### Financial Internal Review
 
 ### Lease Renewal
 
