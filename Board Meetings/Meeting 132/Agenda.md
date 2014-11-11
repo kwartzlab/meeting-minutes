@@ -44,8 +44,6 @@ Meeting Type: Board Meeting
 
 ## New Business
 
-### Sean Sinclair's Application For Hiatus
-
 ### Sewing Workshop Approval
 
 ### Fairy Door Painting Event
@@ -55,6 +53,8 @@ Meeting Type: Board Meeting
 ### Dirk Hamoen's Hiatus Request
 
 ## Old Business
+
+### Sean Sinclair's Application For Hiatus
 
 ### Review of Board Board Procedure Re: Modifying Members' Status
 
