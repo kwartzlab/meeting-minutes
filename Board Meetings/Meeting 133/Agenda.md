@@ -43,6 +43,8 @@ Meeting Type: Board Meeting
 * Action item: ask for election coordinaor volunteers (James)
 
 ### Membership Applications
+* Erin Kelly
+    * pre-approved on mailing list
 
 ### Reimbursements & Purchase Approvals
 * Reimbursement to James Bastow for Paper Towels ($54.19)
