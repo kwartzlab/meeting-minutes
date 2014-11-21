@@ -48,6 +48,7 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 * Reimbursement to James Bastow for Paper Towels ($54.19)
+* Reimbursement to Ravi Baboolal for Snow Blower Repairs ($100)
 
 ## New Business
 
