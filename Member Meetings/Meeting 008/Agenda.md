@@ -19,6 +19,14 @@ Address: 33 Kent Ave., Kitchener, Ontario Canada
 
 ## Remarks from the President
 
+## Appointment of a new director
+
+  * Be it resolved that \_\_\_\_\_ be appointed to the Board of Directors until July 1, 2015.
+
+## Acceptance of financial review
+
+  * Be it resolved that the Financial Review as presented by the Financial Review Committee be accepted.
+
 ## Adjournment
 * Motion to adjourn
     * by: 
