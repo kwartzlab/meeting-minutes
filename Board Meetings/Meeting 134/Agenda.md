@@ -47,6 +47,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Drain Venting
+
 ## Old Business
 
 ### Member Meeting & Director By-Election
