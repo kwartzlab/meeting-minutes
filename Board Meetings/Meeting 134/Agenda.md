@@ -45,6 +45,10 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Woodworking Tool Shaprening Supplies
+* To: Sean Stoughton
+* Amount: $50-75
+
 ## New Business
 
 ### Drain Venting
