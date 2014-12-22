@@ -23,7 +23,7 @@ Address: 33 Kent Ave., Kitchener, Ontario Canada
 ## Appointment of a new director
 * Be it resolved that John Wynen be appointed to the Board of Directors until July 1, 2015.
   * motion by: James Bastow
-  * seconded: doug
+  * seconded: Doug Moen
   * approved unanimously with exception of John Wynen, who abstained
 
 ## Acceptance of financial review
