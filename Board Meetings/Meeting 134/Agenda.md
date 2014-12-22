@@ -47,7 +47,7 @@ Meeting Type: Board Meeting
 
 #### Woodworking Tool Shaprening Supplies
 * To: Sean Stoughton
-* Amount: $50-75
+* Amount: $81.13
 
 ## New Business
 
