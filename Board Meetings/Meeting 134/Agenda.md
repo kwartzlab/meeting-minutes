@@ -53,6 +53,10 @@ Meeting Type: Board Meeting
 * To: Neil Eaton
 * Amount: $33.67
 
+#### Band Saw Blade Splicing Kit
+* To: Neil Eaton
+* Amount: $44.10
+
 ## New Business
 
 ### Drain Venting
