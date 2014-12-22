@@ -49,6 +49,10 @@ Meeting Type: Board Meeting
 * To: Sean Stoughton
 * Amount: $81.13
 
+#### Wheels for Large Bandsaw
+* To: Neil Eaton
+* Amount: $33.67
+
 ## New Business
 
 ### Drain Venting
