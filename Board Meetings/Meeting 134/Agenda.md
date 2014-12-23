@@ -71,6 +71,8 @@ Meeting Type: Board Meeting
 
 ### Disolve Audit Fund
 
+### Trello
+
 ## Old Business
 
 ### Member Meeting & Director By-Election
