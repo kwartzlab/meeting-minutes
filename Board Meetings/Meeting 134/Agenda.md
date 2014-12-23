@@ -63,6 +63,10 @@ Meeting Type: Board Meeting
 * To: Neil Eaton
 * Amount: $44.10
 
+#### Angle Grinder
+* To: Ravi Baboolal
+* Amount: $90.36
+
 ## New Business
 
 ### Drain Venting
