@@ -49,9 +49,13 @@ Meeting Type: Board Meeting
 
 ## New Business
 
-### Drain Venting
+### 2015 Operating Budget Draft
+
+### Non-Member Tool Use
 
 ## Old Business
+
+### Drain Venting
 
 ### Heavy Lab Reorganization
 
