@@ -110,15 +110,15 @@ The final consensus was:
 
 * TON visitors need to be made aware that some tools are members only, and to look for the label.
 
-Action item: Follow up with Ben on the updated Asset Tag (James)
+* Action item: Follow up with Ben on the updated Asset Tag (James)
 
-Action item: Create interim "members only" labels for the most fragile machines (Ravi)
+* Action item: Create interim "members only" labels for the most fragile machines (Ravi)
 
 ## Old Business
 
 ### Drain Venting
 
-Action item: fix drain vent (James) - Postponed
+* Action item: fix drain vent (James) - Postponed
 
 James reported that no progress has been made on this yet. The venting is not pressing, and we should wait until Spring, when it will be easier to deal with.
 
@@ -135,9 +135,8 @@ The metalworking area still needs some work. In particular, the welding shields 
 The electrical rewiring project is proceeding. An outline of the work to be done has been drafted, and we should be receiving a quote shortly.
 
 ## Review of New Action Items from this Meeting
-
-ACTION ITEM: Follow up with Ben on the updated Asset Tag (James)
-ACTION ITEM: Create interim "members only" labels for the most fragile machines (Ravi)
+* Action item: Follow up with Ben on the updated Asset Tag (James)
+* Action item: Create interim "members only" labels for the most fragile machines (Ravi)
 
 ## Adjournment
 * Motion to adjourn
