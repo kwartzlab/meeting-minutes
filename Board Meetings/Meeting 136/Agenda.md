@@ -45,6 +45,10 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Pneumatic Stapler
+* Pay to: Mike Robertson
+* Amount: $46
+
 ## New Business
 
 ## Old Business
