@@ -33,9 +33,7 @@ Meeting Type: Board Meeting
 
 ## Report from President
 
-
 ## Report from Treasurer
-
 
 ## Recurring Business
 
