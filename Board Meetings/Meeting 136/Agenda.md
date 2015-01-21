@@ -43,6 +43,8 @@ Meeting Type: Board Meeting
 
 ### Membership Applications
 
+#### Nelson Leung
+
 ### Reimbursements & Purchase Approvals
 
 #### Pneumatic Stapler
