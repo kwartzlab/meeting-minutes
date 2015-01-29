@@ -51,6 +51,10 @@ Meeting Type: Board Meeting
 * Pay to: Mike Robertson
 * Amount: $46
 
+#### Salt
+* Pay to: Jaymis Goertz
+* Amount: $13.99
+
 ## New Business
 
 ## Old Business
