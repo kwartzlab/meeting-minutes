@@ -57,6 +57,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Snow Clearing
+
 ## Old Business
 
 ### Non-Member Tool Use
