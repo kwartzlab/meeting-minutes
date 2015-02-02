@@ -24,7 +24,6 @@ Meeting Type: Board Meeting
     * 
 
 ## Approval of Previous Meeting Minutes
-
 * Approval of minutes from board meeting 135
     * motion to approve
         * by: 
