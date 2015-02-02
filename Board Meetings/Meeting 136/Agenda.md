@@ -55,6 +55,10 @@ Meeting Type: Board Meeting
 * Pay to: Jaymis Goertz
 * Amount: $13.99
 
+#### Glue Guns
+* Pay to: Agnes Niewiadomski
+* Amount: $28.48
+
 ## New Business
 
 ### Snow Clearing
