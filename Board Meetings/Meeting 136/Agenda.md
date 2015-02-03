@@ -64,6 +64,8 @@ Meeting Type: Board Meeting
 
 ### Membership Issues
 
+### TWC Partnership
+
 ## Old Business
 
 ### Non-Member Tool Use
