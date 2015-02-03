@@ -66,6 +66,8 @@ Meeting Type: Board Meeting
 
 ### TWC Partnership
 
+### Waterloo Mini Maker Faire
+
 ## Old Business
 
 ### Non-Member Tool Use
