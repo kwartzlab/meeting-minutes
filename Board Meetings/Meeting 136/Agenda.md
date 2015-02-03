@@ -68,6 +68,8 @@ Meeting Type: Board Meeting
 
 ### Waterloo Mini Maker Faire
 
+### UW Letter of Agreement
+
 ## Old Business
 
 ### Non-Member Tool Use
