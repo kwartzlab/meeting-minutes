@@ -52,6 +52,10 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Painter's Tape & Hand Soap
+* pay to: Agnes Niewiadomski
+* amount: $49.52
+
 ## New Business
 
 ## Old Business
