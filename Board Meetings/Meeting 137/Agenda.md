@@ -58,6 +58,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Hiatus Request for Kanoa Haley
+
 ## Old Business
 
 ### Snow Clearing
