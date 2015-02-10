@@ -48,6 +48,8 @@ Meeting Type: Board Meeting
 
 ### Membership Applications
 
+#### Paul Walker
+
 ### Reimbursements & Purchase Approvals
 
 ## New Business
