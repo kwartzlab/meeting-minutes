@@ -56,6 +56,10 @@ Meeting Type: Board Meeting
 * pay to: Agnes Niewiadomski
 * amount: $49.52
 
+#### ALGOT Shelving Units for Upstairs
+* pay to: Agnes Niewiadomski
+* amount: $532.68
+
 ## New Business
 
 ### Hiatus Request for Kanoa Haley
