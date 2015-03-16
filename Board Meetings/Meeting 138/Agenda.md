@@ -54,6 +54,14 @@ Meeting Type: Board Meeting
 * amount: $21.31
 * payable to: Agnes Niewiadomski
 
+#### Heavy Lab Stuff
+* details:
+    * foot plate for Milwaukee sawzall
+    * utility knives for heavy lab
+    * power switch for horizontal hacksaw
+* amount: $24.23
+* payable to: Neil Eaton
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
