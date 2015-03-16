@@ -62,6 +62,13 @@ Meeting Type: Board Meeting
 * amount: $24.23
 * payable to: Neil Eaton
 
+#### More Heavy Lab Stuff
+* details:
+    * bolts & anchors for drill press
+    * construction adhesive for heavy lab ramp
+* amount: $25.77
+* payable to: Neil Eaton
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
