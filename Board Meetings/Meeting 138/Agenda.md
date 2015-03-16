@@ -52,6 +52,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Hiatus Extension for Michael Ahrens
+
 ## Old Business
 
 ### Snow Clearing
