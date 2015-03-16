@@ -69,6 +69,10 @@ Meeting Type: Board Meeting
 * amount: $25.77
 * payable to: Neil Eaton
 
+#### WD-40
+* amount: 6.76
+* payable to: Neil Eaton
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
