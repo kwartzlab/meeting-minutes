@@ -46,6 +46,10 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Furnace Filters
+* amount: $5.64
+* payable to: Jaymis Goertz
+
 ## New Business
 
 ## Old Business
