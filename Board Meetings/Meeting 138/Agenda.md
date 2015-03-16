@@ -50,6 +50,10 @@ Meeting Type: Board Meeting
 * amount: $5.64
 * payable to: Jaymis Goertz
 
+#### Cleaning Sprays & Bathroom Garbage Bags
+* amount: $21.31
+* payable to: Agnes Niewiadomski
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
