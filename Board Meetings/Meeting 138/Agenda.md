@@ -77,6 +77,14 @@ Meeting Type: Board Meeting
 * amount: ~$60
 * payable to: Agnes Niewiadomski
 
+#### Even More Heavy Lab Stuff
+* details:
+    * laminating pouches for signs
+    * welding wire
+    * sandpaper
+* amount: $68.29
+* payable to: Neil Eaton
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
