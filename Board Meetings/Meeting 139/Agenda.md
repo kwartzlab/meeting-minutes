@@ -49,6 +49,11 @@ Meeting Type: Board Meeting
 * payable to: Neil Eaton
 * should have been mentioned in board meeting 138
 
+#### Tables and Legs
+* amount: $298.18
+* payable to: James Bastow
+* should have been mentioned in board meeting 138
+
 ## New Business
 
 ## Old Business
