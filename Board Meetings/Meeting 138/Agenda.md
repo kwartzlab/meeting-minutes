@@ -73,6 +73,10 @@ Meeting Type: Board Meeting
 * amount: 6.76
 * payable to: Neil Eaton
 
+#### Plywood & Screws for Shelves
+* amount: ~$60
+* payable to: Agnes Niewiadomski
+
 ## New Business
 
 ### Hiatus Extension for Michael Ahrens
