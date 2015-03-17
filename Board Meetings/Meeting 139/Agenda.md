@@ -44,6 +44,11 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Hand Sander
+* amount: $45+HST
+* payable to: Neil Eaton
+* should have been mentioned in board meeting 138
+
 ## New Business
 
 ## Old Business
