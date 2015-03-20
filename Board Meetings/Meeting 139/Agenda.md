@@ -54,6 +54,10 @@ Meeting Type: Board Meeting
 * payable to: James Bastow
 * should have been mentioned in board meeting 138
 
+#### Circular Saw Blade Set
+* amount: $50+HST
+* payable to: Neil Eaton
+
 ## New Business
 
 ## Old Business
