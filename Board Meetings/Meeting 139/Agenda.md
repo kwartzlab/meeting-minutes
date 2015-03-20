@@ -58,6 +58,10 @@ Meeting Type: Board Meeting
 * amount: $50+HST
 * payable to: Neil Eaton
 
+#### Torpedo Level for Upstairs Shelving
+* amount: $14.50
+* payable to: Agnes Niewiadomski
+
 ## New Business
 
 ## Old Business
