@@ -62,6 +62,10 @@ Meeting Type: Board Meeting
 * amount: $14.50
 * payable to: Agnes Niewiadomski
 
+#### Card Stock
+* amount: $19.99
+* payable to: Ben Brown
+
 ## New Business
 
 ## Old Business
