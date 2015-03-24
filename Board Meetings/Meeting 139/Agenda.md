@@ -66,6 +66,10 @@ Meeting Type: Board Meeting
 * amount: $19.99
 * payable to: Ben Brown
 
+#### TWC Instruction & Parts
+* amount: $174
+* payable to: Christine Van Walraven
+
 ## New Business
 
 ## Old Business
