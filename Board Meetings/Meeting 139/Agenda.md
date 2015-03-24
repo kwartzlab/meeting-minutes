@@ -77,6 +77,13 @@ Meeting Type: Board Meeting
 * amount: $235.23
 * payable to: Christine Van Walraven
 
+#### Idea Exchange Supplies
+* details:
+    * white clay
+    * hot glue sticks
+* amount: $39.45
+* payable to: Christine Van Walraven
+
 ## New Business
 
 ## Old Business
