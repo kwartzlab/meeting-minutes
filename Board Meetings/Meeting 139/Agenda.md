@@ -70,6 +70,13 @@ Meeting Type: Board Meeting
 * amount: $174
 * payable to: Christine Van Walraven
 
+#### TWC Supplies
+* details:
+    * USB sticks, memory cards, and memory readers for TWC course
+    * Misc office and morning coffee supplies for TWC course
+* amount: $235.23
+* payable to: Christine Van Walraven
+
 ## New Business
 
 ## Old Business
