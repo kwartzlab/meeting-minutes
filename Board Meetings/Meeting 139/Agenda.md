@@ -42,6 +42,8 @@ Meeting Type: Board Meeting
 
 ### Membership Applications
 
+#### Joseph Missio
+
 ### Reimbursements & Purchase Approvals
 
 #### Hand Sander
