@@ -9,6 +9,13 @@ Address: 33 Kent Ave., Kitchener, ON
 Meeting Type: Board Meeting
 
 ## Attending
+* Cedric
+* Steph
+* Ravi
+* James
+* John
+* Jaymis
+* Jonathan
 
 ## Absent
 
