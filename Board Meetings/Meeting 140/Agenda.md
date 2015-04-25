@@ -42,6 +42,8 @@ Meeting Type: Board Meeting
 
 ### Membership Applications
 
+#### Mischa Kavin
+
 ### Reimbursements & Purchase Approvals
 
 ## New Business
