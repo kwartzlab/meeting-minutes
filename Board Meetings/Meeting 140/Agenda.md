@@ -46,6 +46,14 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### TWC Course Instructors Fee
+* Amount: $165
+* Payable to: Ryan Wicks
+
+#### Instructors Fee
+* Amount: $330
+* Payable to: Agnes Neiwiadomski
+
 ## New Business
 
 ## Old Business
