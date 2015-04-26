@@ -54,6 +54,11 @@ Meeting Type: Board Meeting
 * Amount: $330
 * Payable to: Agnes Neiwiadomski
 
+#### Mentoring Fee & Supplies for TWC Course
+* Amount: $329.89
+* Payable to: Christine Van Walraven
+
+
 ## New Business
 
 ## Old Business
