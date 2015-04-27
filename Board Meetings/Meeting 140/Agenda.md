@@ -63,6 +63,8 @@ Meeting Type: Board Meeting
 
 ### Hiatus Request for Nelson Leung
 
+### AGM
+
 ## Old Business
 
 ### TWC Partnership
