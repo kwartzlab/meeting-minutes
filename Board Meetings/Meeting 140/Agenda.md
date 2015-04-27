@@ -61,6 +61,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Hiatus Request for Nelson Leung
+
 ## Old Business
 
 ### TWC Partnership
