@@ -69,7 +69,7 @@ Meeting Type: Board Meeting
 
 ### TWC Partnership
 
-### Waterloo Region Mini Maker Faire (WRMMF)
+### Maker Expo
 
 ### Heavy Lab Reorganization
 
