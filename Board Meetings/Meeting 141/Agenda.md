@@ -43,6 +43,8 @@ Meeting Type: Board Meeting
 
 ### Membership Applications
 
+#### Nick Grawburg
+
 ### Reimbursements & Purchase Approvals
 
 ## New Business
