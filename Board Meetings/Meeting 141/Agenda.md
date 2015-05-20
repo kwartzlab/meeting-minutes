@@ -61,6 +61,8 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Year of Code Partnership
+
 ## Old Business
 
 ### AGM
