@@ -47,6 +47,18 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Shelving Equipment
+* amount: $62.40
+* payable to: Agnes Niewiadomski
+
+#### Maker Expo Domain Registration
+* amount: $58.44
+* payable to: Ben Brown
+
+#### Hardware for AIR Photo Booth
+* amount: $157.81
+* payable to: Darin White
+
 ## New Business
 
 ## Old Business
