@@ -75,6 +75,12 @@ Meeting Type: Board Meeting
 
 ## New Business
 
+### Internal Financial Review
+
+### Code of Conduct
+
+### Dirk Hamoen's Withdrawl
+
 ## Old Business
 
 ### Year of Code Partnership
