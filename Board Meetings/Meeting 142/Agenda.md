@@ -49,6 +49,30 @@ Meeting Type: Board Meeting
 
 ### Reimbursements & Purchase Approvals
 
+#### Wordpress Theme for Maker Expo
+* amount: $61.68
+* payable to: Ben Brown
+
+#### Instructing Fee
+* amount: $165
+* payable to: Neil Eaton
+
+#### Mentoring Fee
+* amount: $60
+* payable to: Bernie Rohde
+
+#### Mentoring Fee & Expenses
+* amount: $195.00
+* payable to: Shaun Zimmerman
+
+#### Mentoring Fee & Expenses
+* amount: $142.18
+* payable to: Christine Van Walraven
+
+#### Venue Booking for Cork Hall (Maker Expo Launch Party)
+* amount: $455.74
+* payable to: Cam Turner
+
 ## New Business
 
 ## Old Business
