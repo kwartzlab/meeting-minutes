@@ -9,6 +9,7 @@
 2. 2014 Financial Report
 
     * Be it resolved that the Financial Report for 2014 as presented by the Treasurer be accepted.
+    * Motion to waive the financial audit requirement for 2014.
 
 3. Code of Conduct
 	
