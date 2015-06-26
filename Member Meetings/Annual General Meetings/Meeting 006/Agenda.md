@@ -14,6 +14,7 @@
 3. Code of Conduct
 	
 	* Be it resolved that the Code of Conduct be accepted and adopted as presented.
+	* Be it resolved that the bylaws be revised as presented.
 
 4. Board Elections
 
@@ -23,6 +24,7 @@
 	* Ravi Baboolal,
 	* James Bastow,
     * Michael Davenport
+	* Jaymis Goertz
 	* Cedric Puddy
 	* Stephanie Smith,
 	* Christine Van Walraven,
