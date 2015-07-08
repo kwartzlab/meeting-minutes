@@ -78,6 +78,10 @@ None
 
 ### Reimbursements & Purchase Approvals
 
+#### Laser Cutter Repairs - needs discussion/approval
+* amount: $400 USD
+* fund: To Be Discussed
+
 #### Toilet Paper
 * amount: $18.03
 * payable to: James Bastow
