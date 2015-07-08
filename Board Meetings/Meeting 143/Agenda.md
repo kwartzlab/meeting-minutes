@@ -88,7 +88,7 @@ None
 * fund: Operations (consumable)
 
 #### Mig Wire
-* amount: $112.42
+* amount: $12.42
 * payable to: Sean Stoughton
 * fund: Operations (consumable)
 
