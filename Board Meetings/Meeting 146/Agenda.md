@@ -91,6 +91,23 @@ Minutes by:  Cedric Puddy
 * 146: One member is overdue, and board action will be needed.  To be discussed in-camera.
 
 ### Reimbursements & Purchase Approvals
+* $728.74 payable to CCj (No RR#) Maker Expo Cheque# 424 AP Licenses for Maker Expo
+* $498.89 payable to CRS Contractor (No RR#) Maker Expo Cheque# 426 Crowd Control Barriers
+* $125.00+ HST RR# 321251547981738838 for approval from Neil Eaton for:
+	* Vendor		 Home Depot		 
+	* Amount		 $64+HST		 
+	* Description		 
+		* Item 1: 20 piece screw driver set -$15 Our philips and robertson screwdrivers have gone missing. It is cheaper to buy a set, even if we only need 3 or 4.
+		* Item 2: 3 piece folding hex wrench kit -$14. We dont have the correct holders for our mismatched collection of wrenches and no one would use them if we did. The folding wrenches are harder to misplace. 
+		* Item3: 3L Carpenters glue - $35.  Used for refilling smaller containers
+	* --
+	* Vendor		 TSC		 
+	* Amount		 50 + HST		 
+	* Description		 3 pack saw blades for table saw and miter saw. The current ones are dull, but they have lasted well so using the same brand. On sale this week.
+	* --
+	* Vendor		 Lee Valley		 
+	* Amount		 $11 + HST		 
+	* Description		 3 X 500 mL squeeze bottles for glue. All of ours are lost or wearing out.	
 
 ## New Business
 * Allowing data from the membership register to be available to the door
@@ -113,7 +130,7 @@ control system
 * 146: 
 
 ## Review of New Action Items from this Meeting
-* Cedric: remove Erica Shelley from membership register
+* 
 
 ## Adjournment
 * Motion to adjourn
