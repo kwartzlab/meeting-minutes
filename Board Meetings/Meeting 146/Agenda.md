@@ -76,7 +76,8 @@ Minutes by:  Cedric Puddy
 * Jonathan Lamothe withdrawn as of approximately 2015-07-25; somehow did not get previously formally documented in the minutes.
 
 #### Membership Applications
-* None.
+* Application from Aarno Aapro - voted online, needs to be ratified, formalized. 
+	* 146: 
 
 #### Membership Withdrawals
 * Erica Shelley - withdrawing from the lab
