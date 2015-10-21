@@ -82,14 +82,22 @@ Minutes by:  Cedric Puddy
 * Erica Shelley - withdrawing from the lab
 	* 145: To be marked as withdrawn in the membership registrar.
 	* 146: Has been documented as such, to be removed from future minutes.
+* Andrew Bass - has withdrawn from the lab; needs to be formalized.
+	*146:
 
 #### Overdue Accounts (In Camera)
 * 145: None; though there is one member who is 2 days from being overdue, who Steph is attempting to communicate with currently - the board may have to take action at the next meeting.
-* 146: 
+* 146: One member is overdue, and board action will be needed.  To be discussed in-camera.
 
 ### Reimbursements & Purchase Approvals
 
 ## New Business
+* Allowing data from the membership register to be available to the door
+control system
+* Approval of $300 budget for next weeks party
+* Approval of $500 to build six storage racks and buy bins for them
+* Water leak -- report to Christian
+* Loaning tools to the Lab - labelling, vetting, damage, etc.
 
 ## Old Business
 
