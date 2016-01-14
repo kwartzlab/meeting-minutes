@@ -106,6 +106,8 @@ Reimbursements since the last meeting:
 * CapEx/Heavy Lab: 480 $112.92 to Cam Turner for welding curtains (RR 327305408971410662)
 
 ## New Business
+* Maker Expo 2016 firing up.
+* Heavy Lab update from Neil.
 
 ## Old Business
 
