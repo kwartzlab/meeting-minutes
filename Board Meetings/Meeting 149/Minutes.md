@@ -1,4 +1,4 @@
-# Board Meeting 148
+# Board Meeting 149
 
 Date: 20160114
 Time: 2035
@@ -45,7 +45,7 @@ Minutes by: Cedric
  * motion to accept
      * by: Ravi
      * seconded: James
-        * approved: unanimous - probably
+        * approved: unanimous
 
 ## Recurring Business
 
