@@ -106,6 +106,8 @@ OpEx: $45.00 to Agnes Niewiadomski for collapsable clothing rack (RR 33097860153
 	* This has not been unanimously approved on the mailing list yet, will need vote.
 
 ## New Business
+* Christine - Volunteer Management
+	* 149: During heavy lab discussion, questions about fresh ways to engage people in helping around the lab came up.  Plan was to talk further at meeting 150.
 
 ## Old Business
 
