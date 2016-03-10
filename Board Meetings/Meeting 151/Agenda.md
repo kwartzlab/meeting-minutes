@@ -31,11 +31,11 @@ Minutes by: Cedric
      * seconded: 
      * approved: 
 
-## Report from President:
+## Report from President
 	* 150: Everything is awesome, lab running alright, member engagement ignited by coat rack topic.
 	* 151:
 
-## Report from Treasurer:
+## Report from Treasurer
 	* 150: Year end will be done shortly, situation nominal; we remain in the black.
 	* 151: 
 
@@ -63,7 +63,7 @@ Minutes by: Cedric
 	* 150: Has login, is working on it.
 	* 151: 
 
-### Membership Changes: 
+### Membership Changes 
 	* Lauren Archer: 
 		* 151: has paid dues, is all setup.  Does she have a key? (If so, remove from future).
 	* Sam Tagliabracci:
@@ -84,7 +84,7 @@ Minutes by: Cedric
 		* 150: Needs to be wrapped up now.
 		* 151: Has been wrapped up; remove from future.
 
-#### Overdue Accounts (In Camera):
+#### Overdue Accounts (In Camera)
 	* 1 overdue account for discussion.
 	* E.K. withdrawl to be discussed.
 	* E.M. membership
@@ -110,7 +110,7 @@ Reimbursements since the last meeting:
 	* 150: Christine is now free of the TWC, and is now engaging on the volunteer
 	* 151:
 
-### Front and Back Doors:
+* Front and Back Doors:
      * 147: Jaymis awaiting quote from G&A before taking further action. Ravi to enquire to see if we can get a second quote. Once quotes are received Jaymis will contact Christian to see about sharing costs. 
      * 148: Jaymis says it has been trouble, GA has new system that is not working well.  We have one quote that is about $1083 for changes that we do not believe will fix the sticking issue.
      * 149: n/c
