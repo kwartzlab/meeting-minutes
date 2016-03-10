@@ -92,6 +92,9 @@ Minutes by: Cedric
 
 ### Reimbursements & Purchase Approvals
 Reimbursements since the last meeting:
+* Opex: CH 497 for $159.56 to Neil Eaton (Consumable & small tool portion of RR 332315892981106936)
+* Opex: CH 498 for $235.32 to Neil Eaton (Heavy Lab Phase 5 portions of RR 332315892981106939 & 332315392981989873)
+* Opex: CH 499 for $13.56 to Neil Eaton (Heavy Lab Phase 2 portion of RR 332315392981989873)
 
 ## New Business
 * 2016 Operating Budget Approval
