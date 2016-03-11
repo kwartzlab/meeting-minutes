@@ -108,7 +108,7 @@ Reimbursements since the last meeting:
 * Christine - Volunteer Management
 	* 149: During heavy lab discussion, questions about fresh ways to engage people in helping around the lab came up.  Plan was to talk further at meeting 150.
 	* 150: Christine is now free of the TWC, and is now engaging on the volunteer
-	* 151:
+	* 151: To discuss: Warden/BOD Liability and indemnity clause?
 
 * Front and Back Doors:
      * 147: Jaymis awaiting quote from G&A before taking further action. Ravi to enquire to see if we can get a second quote. Once quotes are received Jaymis will contact Christian to see about sharing costs. 
