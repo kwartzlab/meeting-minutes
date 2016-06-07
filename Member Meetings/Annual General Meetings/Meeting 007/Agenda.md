@@ -13,6 +13,6 @@
 
 3. Board Elections
 
-    * Be it resolved that James Bastow, Doug Moen, Stephanie Smith, Jim Tigwell, Ryan Wicks and John Wynen be appointed as the Board of Directors for Kwartzlab Society Inc. for a one year term beginning on July 1, 2016.
+    * Be it resolved that James Bastow, Doug Moen, Stephanie Smith, Jim Tigwell, Christine Van Walraven, Ryan Wicks and John Wynen be appointed as the Board of Directors for Kwartzlab Society Inc. for a one year term beginning on July 1, 2016.
 
 5. Adjournment
