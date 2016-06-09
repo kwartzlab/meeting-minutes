@@ -1,4 +1,4 @@
-# Board Meeting 154
+# Board Meeting 154.
 
 Date: 20160609
 Time: 2030
@@ -29,7 +29,7 @@ Minutes by: Cedric
  * motion to approve
      * by: 
      * seconded: 
-     * approved; unanimous Davenport
+     * approved; unanimous
 
 ## Report from President
 	* 151: <crickets>  (James couldn't make it).
@@ -102,7 +102,7 @@ Minutes by: Cedric
 		* 154: most updates/cleanup done; notes in archive need to be completed.
 
 #### Overdue Accounts (In Camera)
-	* No overdue accounts for discussion.
+	* 1 overdue account for discussion; would be at 90 days, so subject to termination
 
 ### Reimbursements & Purchase Approvals
 Reimbursements since the last meeting:
