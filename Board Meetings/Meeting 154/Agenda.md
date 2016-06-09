@@ -73,7 +73,7 @@ Minutes by: Cedric
 	* 154: 
 
 ## New Business
-* None
+* Cedric - would like to re-org Meeting Minutes repo; we have been operating long enough that a single flat directory is awkward; finding specific data is hard.  Would like to add year directories to BOD meetings tree, add dates to directory names so that you can actually easily find a meeting that happened on a given month, and such like.
 
 ### Membership Changes 
 	* Lauren Archer: 
