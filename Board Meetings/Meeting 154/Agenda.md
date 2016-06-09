@@ -112,14 +112,14 @@ Reimbursements since the last meeting:
 * Discretionary: $60.00 - 6/7/2016 - Neil Eaton - bench grinder	Dennis Dueck (via kijiji)	6 inch bench grinder + 1 general purpose wheel + 1 wire wheel (341134293981977126)
 * Discretionary: $5.63 - 6/7/2016 - Neil Eaton - home hardware - 3 in 1 motor oil (341134293981977126)
 * Discretionary: $8.15 - 6/7/2016 - Neil Eaton - Canadian Tire PLUG-3WIRE,250V (341134293981977126)
-*Discretionary: $48.40 - 6/7/2016 - Neil Eaton - AliExpress 2 motor control ac contactor (341134293981977126)
-*Heavy Lab-ph6: $11.41 - 6/7/2016 - Neil Eaton - home hardware	lumber for metal topped bench (341134293981977126)
-*Heavy Lab-ph6: $49.95 - 6/7/2016 - Neil Eaton - Lowes brackets for shelf along laser room wall (341134293981977126)
-*Heavy Lab-ph6: $5.64 - 6/7/2016 - Neil Eaton - Canadian Tire adhesive for metal topped bench - on receipt as ADHES, FLOOR PL4 (341134293981977126)
-*OpEx: $7.68 - 6/7/2016 - Neil Eaton - Canadian Tire plug to replace damaged tablesaw plug 15A, 125V PLUG (341134293981977126)
-*Discretionary: $60.00 - 6/7/2016 - Neil Eaton - Pallet Truck, from Melody Thornton (via kijiji) (341134425981955340)
-*Heavy Lab-ph6: $21.23 - 6/7/2016 - Neil Eaton - Spaenaur nuts and bolts for metal topped bench	(341135919981496157)
-*Discretionary: $95.60 - 6/7/2016 - Neil Eaton - Auction stuff Jantzi, details in records and mailing list (341135919981496157)
+* Discretionary: $48.40 - 6/7/2016 - Neil Eaton - AliExpress 2 motor control ac contactor (341134293981977126)
+* Heavy Lab-ph6: $11.41 - 6/7/2016 - Neil Eaton - home hardware	lumber for metal topped bench (341134293981977126)
+* Heavy Lab-ph6: $49.95 - 6/7/2016 - Neil Eaton - Lowes brackets for shelf along laser room wall (341134293981977126)
+* Heavy Lab-ph6: $5.64 - 6/7/2016 - Neil Eaton - Canadian Tire adhesive for metal topped bench - on receipt as ADHES, FLOOR PL4 (341134293981977126)
+* OpEx: $7.68 - 6/7/2016 - Neil Eaton - Canadian Tire plug to replace damaged tablesaw plug 15A, 125V PLUG (341134293981977126)
+* Discretionary: $60.00 - 6/7/2016 - Neil Eaton - Pallet Truck, from Melody Thornton (via kijiji) (341134425981955340)
+* Heavy Lab-ph6: $21.23 - 6/7/2016 - Neil Eaton - Spaenaur nuts and bolts for metal topped bench	(341135919981496157)
+* Discretionary: $95.60 - 6/7/2016 - Neil Eaton - Auction stuff Jantzi, details in records and mailing list (341135919981496157)
 
 ## Recurring Business
 
