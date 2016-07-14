@@ -108,7 +108,7 @@ Minutes by: Ryan
 
 ### Reimbursements & Purchase Approvals
 Reimbursements since the last meeting:
-	* None
+	* Vacuum, Ben, from a previous meeting
 
 * Motion to approve all expenses
 		* By: 
