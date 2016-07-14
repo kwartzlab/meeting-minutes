@@ -37,13 +37,19 @@ Minutes by: Ryan
      * seconded: 
      * approved: 
 
+* Approval of minutes from General membership meeting 007
+ * motion to approve
+     * by: 
+     * seconded: 
+     * approved: 
+
 ## Report from President
 	* 156:
 
 ## Report from Treasurer
 	* 156
 
-* May, 2016 Financial Report
+* June, 2016 Financial Report
  * motion to accept
      * by: 
      * seconded: 
@@ -72,6 +78,7 @@ Minutes by: Ryan
 ## New Business
 
 	* Board Transition Work: Signing authority, Locker Keys, Registering change of directors with corporation Canada. Steph has a list.
+	* Lease Discussion with Christian 
 
 ### Membership Changes 
 	* Melissa Pynkoski:
@@ -84,11 +91,17 @@ Minutes by: Ryan
 	* Steve Dougherty: Applied 2016-05-31; Member as of 2016-06-08, needs full set up.
 		* 154: Has Paid.  Full setup complete.  Has key?
 		* 156: Has Key. Remove from future.
+	* Nathan Banks:
+		*156: Applied 2016-06-21, accepted 2016-07-12. Has not been contacted, nothing else done.
+	* Jenn Blain: Applied 2016-05-24, asked to come out more often. Ravi contacted her about his.
+
 * Member withdrawals:
 	* Sean Sinclair
 		* 153: will confirm membershipreg has been updated.
 		* 154: most updates/cleanup done; notes in archive need to be completed.
 		* 156:
+	* Alex Gerlach
+		* 156: Will need to update register. 
 
 #### Overdue Accounts (In Camera)
 	* 2 members have overdue accounts
