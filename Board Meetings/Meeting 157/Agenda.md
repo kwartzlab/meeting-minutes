@@ -1,52 +1,35 @@
 # Board Meeting 156.
 
-Date: 20160714  
+Date:   
 Time: 1930  
 Address: 33 Kent Ave., Kitchener, ON  
 Meeting Type: Board Meeting  
 Minutes by: Ryan  
 
 ## Attending
-* Present: James, Cedric, Steph, Doug, Ryan, John, Christine
-* Absent: Jim
+* Present:
+* Absent:
 
 ## Call to Order
 * Called to order
- * by: Christine
- * seconded: Doug
- * approved: unanimous
- * at: 19:39
+ * by:
+ * seconded:
+ * approved:
+ * at:
 
 ## Approval of Agenda
 * Motion to approve
- * by: Doug
- * seconded: James
- * approved: Unamnimous
+ * by:
+ * seconded:
+ * approved:
 
 ## Approval of Previous Meeting Minutes  
 
-* Approval of minutes from board meeting 154  
- *	Steph - Steve Doherty had not paid a that point (being pedantic), note in these minutes, and update them. Then we will approve. Paid as of today
- * motion to approve amended minutes
-     * by: James
-     * seconded: Christine
-     * approved: Unanimous  
-
-
-* Approval of minutes from board meeting 155
+* Approval of minutes from board meeting 156
  * motion to approve
-     * by: James
-     * seconded: Christine
-     * approved: Unanimous
-
-
-* Approval of minutes from General membership meeting 007  
- * John - spelled name wrong (change to Wynen)
- * motion to approve amended minutes
-     * by: Steph
-     * seconded: Christine
-     * approved: Unanimous
-
+     * by:
+     * seconded:
+     * approved:
 
 ## Report from President
  * 156: Doug - Yeah, that's my job now. Everything is awesome.
