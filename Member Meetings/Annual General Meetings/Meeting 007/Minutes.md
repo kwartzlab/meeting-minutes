@@ -35,7 +35,7 @@
 2. 2015 Financial Report
 	* Motion to waive the financial audit requirement for 2015.
 		* Motion to approve
-			* by: John Wienin
+			* by: John Wynen
 			* seconded: Jaymis
 			* approved; unanimous
 	* Be it resolved that the Financial Report for 2015 as presented by the Treasurer be accepted.
