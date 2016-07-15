@@ -26,7 +26,7 @@ Minutes by: Ryan
 ## Approval of Previous Meeting Minutes  
 
 * Approval of minutes from board meeting 154  
- * in camera amendment, see Steph's e-mail
+ *	Steph - Steve Doherty had not paid a that point (being pedantic), note in these minutes, and update them. Then we will approve. Paid as of today
  * motion to approve amended minutes
      * by: James
      * seconded: Christine
