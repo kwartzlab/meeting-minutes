@@ -74,7 +74,8 @@ Minutes by: Ryan
 
  * Should new member financial information be discussed in camera?
   - 157: Ben noticed that we reference new members and whether they've paid their dues in the minutes. Should this be in camera?
-
+ * Safety procedures and training for lathe.
+  - 157:
 ## Recurring Business
 
 ### Membership Changes
