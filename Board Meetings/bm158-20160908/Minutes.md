@@ -54,7 +54,7 @@ Minutes by: James
 * Christine will be updating the wiki and approaching additional people before next meeting.
  * 157: Aarno has volunteered to be cleaning warden, happy to contribute. Christine and Steph will go over his duties with him. Wiki is updated, 4 wardens. Picked up Sean Stoughton as Safety Equipment Warden. Need to put together safety checklist. Will be putting together 4 safety stations with first aid kits and fire extinguisher. Safety is everyone's responsibility, he will keep track of safety gear.  
  James: I can be laser supreme overlord. Officially coolest warden name.
-  * 158: Not Presence
+  * 158: Not Present
 * Jaymis to get Davenport a copy of the GA quote (update to "Front door closing").
  * 157: Quote is probably not useful. Action item, get two quotes.
  * 158: No Update.
