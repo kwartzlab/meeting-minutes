@@ -1,0 +1,60 @@
+
+So, after a month of testing and feedback, I've re-jigged the proposed membership process a little. I've also outlined how the Membership Committee could work, and possible duties. This is what I'm planning to discuss at tomorrow's BoD meeting.
+
+Kwartzlab Membership Process v2
+
+This proposal is meant to streamline the Kwartzlab membership process, and reduce barriers to entry. It's also meant to help reduce the workload of the BoD when onboarding new members, by shifting some duties to a membership committee.
+
+Committee Members are Kwartzlabbers who frequent TON, who are volunteering to help identify newcomers, give tours, and take applicants through the membership process.
+
+1. Person walks into the lab and asks about joining up.
+
+2. One or more of the Committee Members gives a tour, brief chat about membership (benefits, cost). Invites person to become an applicant.
+
+3. Three Committee Members sits down with the applicant and an interview is conducted with predetermined questions. Answers are entered into an online membership form, along with the applicant's contact info and photo.
+
+    How did you hear about Kwartzlab?
+    Have you visited Kwartzlab before? If so, any particular events or just Tuesday Open Nights in general?
+    Do you know any current members? Referred by anyone?
+    Have you been a part of another hackerspace before?
+    What sort of projects are you looking to work on at Kwartzlab? What projects have you worked on in the past?
+    Are you looking to develop any particular skills as a Kwartzlab member?
+    Kwartzlab is a member-run organization. As such, we all share some duties, such as clean up and general equipment maintenance. Are you OK with volunteering some of your time (generally 1-2 hours a month) to help keep Kwartzlab up and running?
+    Do you have any special skills in this regard to help out (machine maintenance, etc)?
+    There is an annual general meeting you would be expected to attend, where we vote on anything that concerns our space as a whole, like changing rules or electing board members. Are you OK with attending such a meeting?
+    Do you agree to the Kwartzlab Code of Conduct?
+
+4. Application is then sent to the BoD and Members list and we have a five-day waiting period. Committee Members and Kwartzlabbers can chime in on their experience with the applicant. One of two outcomes happen:
+
+a) If there are no issues or concerns brought up during the waiting period -- the applicant automatically becomes a member (no immediate BoD vote required). The BoD then ratifies the new member at their next meeting.
+
+b) If there are issues or concerns brought up, the application is deferred until they can be addressed or resolved. Perhaps we ask them to come to another TON and meet more members. Or if they cannot be resolved, we simply say no.
+
+If the member is admitted, the Membership Coordinator welcomes the new member and directs them to setup payment with the Treasurer. Once the committee is informed of the payment, the Membership Coordinator assigns them a key and adds the member to the mailing lists.
+
+** Role of the Membership Committee **
+
+The Membership Committee is made up of various Kwartzlabbers who volunteer to give tours and take applicants through the membership process as outlined above.
+
+The Committee is headed up by a Membership Coordinator, who is responsible for:
+
+- Maintaining the list of committee members
+- Ensuring enough committee members are attending TON to do interviews/applications
+- Communicate with applicants on their approval status, welcome new members and facilitate payment with the Treasurer.
+- Once the new member has paid dues, they would then be responsible for adding the new member on the mailing lists and assigning them a key.
+
+The committee would have a separate mailing list for general communications (roll call for TONs, payment notifications from the board, etc) that don't need to clutter up the member's list.
+
+-------------------------------
+
+So, there it is. Questions? :)
+
+Ben
+
+
+_______________________________________________
+KWartzLab Members discussion list
+Members@kwartzlab.ca
+http://kwartzlab.ca/mailman/listinfo/members_kwartzlab.ca
+
+
