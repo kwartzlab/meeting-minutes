@@ -92,14 +92,33 @@ Minutes by: Jim Tigwell
 ### Overdue Accounts (In Camera)
 
 ### Reimbursements & Purchase Approvals
-Purchase approval since the last meeting:
- * Sean Stoughton:
-  * Auto-ignite torch ~$60 from Amazon or Home Depot
+Purchase approval since the last meeting (HST included in all costs):
+ * Neil Eaton
+  * Furnace filters for paint booth $16.81 from Home Depot
+  * Grinding wheel $10.16 from Home Depot
+  * Combination beltédisc sander $75.00 from Karl Nabert
+Total: $101.97
+ 
+ * Neil Eaton
+  * Electrical box $28.46 from Digikey
+  * Indicator light $19.30 from Newark Element 14
+  * Circuit breaker, double pole 15 amp $21.44 from Home Depot
+  * Power cord (SJOOW14) $11.25 from Home Depot
+  * Electrical fittings $17.42 from Home Depot
+  * Connectors to stop welding curtain ring failure $19.70 from Home Hardware
+  * Dowel and nails to hang things $7.68 from Home Depot
+  * OSB plywood for metal working bench and under cabinet shelves $35.03 from Home Depot
+Total: $160.28
 
-Reimbursements since the last meeting:
+
+ * Sean Stoughton:
+  * Auto-ignite torch $67.51 from Home Depot
+
  * Ravi Boobalal:
   * Forklift rental for Mill transport $111.87 from Integralift Sales and Services
-  * Truck rental for Mill transport  $100 from Sam's Trucking
+  * Truck rental for Mill transport $100 from Sam's Trucking
+Total: $211.87
+
 
 
 ## Review of New Action Items from this Meeting
