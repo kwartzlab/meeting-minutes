@@ -97,7 +97,7 @@ Purchase approval since the last meeting (HST included in all costs):
   * Furnace filters for paint booth $16.81 from Home Depot
   * Grinding wheel $10.16 from Home Depot
   * Combination beltédisc sander $75.00 from Karl Nabert
-Total: $101.97
+  * Total: $101.97
  
  * Neil Eaton
   * Electrical box $28.46 from Digikey
@@ -108,7 +108,7 @@ Total: $101.97
   * Connectors to stop welding curtain ring failure $19.70 from Home Hardware
   * Dowel and nails to hang things $7.68 from Home Depot
   * OSB plywood for metal working bench and under cabinet shelves $35.03 from Home Depot
-Total: $160.28
+  * Total: $160.28
 
 
  * Sean Stoughton:
@@ -117,7 +117,7 @@ Total: $160.28
  * Ravi Boobalal:
   * Forklift rental for Mill transport $111.87 from Integralift Sales and Services
   * Truck rental for Mill transport $100 from Sam's Trucking
-Total: $211.87
+  * Total: $211.87
 
 
 
