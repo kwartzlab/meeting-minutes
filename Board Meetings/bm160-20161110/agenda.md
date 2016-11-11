@@ -4,7 +4,7 @@ Date: 10 November 2016
 Time: 1930  
 Address: 33 Kent Ave., Kitchener, ON  
 Meeting Type: Board Meeting  
-Minutes by: Jim Tigwell
+Agenda by: Jim Tigwell
 
 ## Attending
 * Present:
@@ -61,6 +61,7 @@ Minutes by: Jim Tigwell
 
 ## New Business
 
+* Appoint Shaun Zimmerman to the board
 
 ## Recurring Business
 
