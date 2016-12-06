@@ -7,8 +7,8 @@ Meeting Type: Board Meeting
 Minutes by: Jim Tigwell
 
 ## Attending
-* Present: Doug Moen, Christine van Walraven, James Bastow, Jim Tigwell
-* Absent: Steph
+* Present: Doug Moen, Christine van Walraven, James Bastow, Jim Tigwell, John Wynen
+* Absent: Steph Smith, Shaun Zimmerman
 
 ## Call to Order
 * Called to order
@@ -72,13 +72,13 @@ Minutes by: Jim Tigwell
   * by: James
   * seconded: Christine
   * approved: Unanimous
-* Report from Neil on costs to get the Bridgeport Mill running
+* Report from Neil Eaton on costs to get the Bridgeport Mill running
   * ~$600 for transformer, including installation
   * ~$300 for milling vice
   * ~$90 for collet set
   * ~$20 for drill chuck
   * ~$100 for End Mills
- * Motion to allocate $1100 to Ravi for the comission of the mill
+ * Motion to allocate $1100 to Ravi Boobalal for the comission of the mill
   * by: James
   * seconded: Christine
   * approved: Unanimous
