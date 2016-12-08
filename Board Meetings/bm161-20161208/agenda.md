@@ -36,7 +36,7 @@ Minutes by: Jim Tigwell
  * 160: Mills are awesome, lasers also confirmed as awesome. Cleaning shelf...awesome. Warden meeting reported as awesome. 
 
 ## Report from Treasurer
- * 159: 
+ * 160: 
 
 * November, 2016 Financial Report
   * motion to accept
