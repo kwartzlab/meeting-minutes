@@ -81,17 +81,14 @@ Minutes by: Jim Tigwell
         * seconded: Jim  
         * approved: Unanimous
     * 160: Laser repair is progressing, James' hope is to have it complete by Tuesday Open Night.
-  * Strategy for Tool Maintenance
+ * Strategy for Tool Maintenance
     * 159: Ticketing system for marking when maintenance is needed. Big red tags for labelling when tools are bad. Central location for tagging broken equipment. Will help with notification. Dedicated computer for logging damamged tools. We can't label anything, but we do have the list for reporting/issue tracking.
       * Start with tickets. Look at warden to set up and maintain system.
       * Options for resolving tickets: Ticket resolution lottery at next AGM. Every solved ticket is a free drink.
     * 160: Ticketing system approved, Jim to write SOP and follow up with Ben Brown for implementation. Jim also volunteers to be Ticket Warden
-  * Quick Turn Expense Approval / Budgets for Consumables
+ * Quick Turn Expense Approval / Budgets for Consumables
     * 159: We have enough of a buffer that we could set aside budgets for maintenance and tools. Current standard is up to $50 does not need approval. Consumables is not well defined. Wardens could get a monthly budget that roles over month per month for larger shopping sessions (not necessarily consumables). It's really easy to add new accounts. Projects can always be pre-approved as well.
     * 160: Pending consultation with Treasurer
-  * Metal Lathe can be left powered after key removed.
-    * 159: Ask Neil about keyswitch.
-    * 160: Neil confirms that there are ten keys, increasing the availability of the lathe without compromising the security. 
 
 
 ### New Members
@@ -106,7 +103,8 @@ Minutes by: Jim Tigwell
 ### Reimbursements & Purchase Approvals
 
 Reimbursements since the last meeting (HST included in all costs):
- * Drew Ripley
+
+* Drew Ripley
   * Wood bandsaw blade $24.86 from Lee Valley
   * Metal bandsaw blade $43.92 from Lee Valley
   * Total: $68.78
