@@ -90,7 +90,9 @@ Minutes by: Jim Tigwell
 ## New Business
 
 * Serving the Notice of Trespass
-    * 161: James to ensure the board locker has a copy of all keys.
+
+* Member Hiatus (Bob DeGregory)
+
 
 ### New Members
  * Tony Mantell
