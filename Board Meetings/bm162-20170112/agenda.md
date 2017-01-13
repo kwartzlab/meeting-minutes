@@ -97,8 +97,6 @@ Minutes by: Jim Tigwell
 ### New Members
  * Tony Mantell
  * Emma Timmins
- * Derek Kat
- * David Forshner
   * motion to ratify the membership of all new members
    * by: 
    * seconded: 
@@ -106,6 +104,7 @@ Minutes by: Jim Tigwell
 
 ### Member withdrawals:
  * Stephanie Trotter
+ * Jessica Clayman
 
 ### Overdue Accounts (In Camera)
 
