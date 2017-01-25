@@ -1,10 +1,10 @@
 # Board Meeting 162
 
-Date: 12 January 2017
-Time: 1930
-Address: 33 Kent Ave., Kitchener, ON
-Meeting Type: Board Meeting
-Minutes by: Jim Tigwell
+* Date: 12 January 2017
+* Time: 1930
+* Address: 33 Kent Ave., Kitchener, ON
+* Meeting Type: Board Meeting
+* Minutes by: Jim Tigwell
 
 ## Attending
 * Present: John Wynen, Doug Moen, Jim Tigwell, Christine van Walraven, Shaun Zimmerman, Steph Smith
@@ -41,17 +41,17 @@ Minutes by: Jim Tigwell
 * 161: Nothing to report
 * 162: HST remittance ready for submission
  * Motion to amend the agenda to include the acceptance of the HST remittance
-  * by: John
-  * seconded: Christine
-  * approved: Unanimous
+   * by: John
+   * seconded: Christine
+   * approved: Unanimous
  * Motion to accept the HST remittance
-  * by: John
-  * seconded: Shaun
-  * approved: Unanimous
+   * by: John
+   * seconded: Shaun
+   * approved: Unanimous
  * Motion to accept the December, 2016 Financial Report
-  * by: Shaun
-  * seconded: John
-  * approved: Unanimous
+   * by: Shaun
+   * seconded: John
+   * approved: Unanimous
 
 ## Recurring Business
 
