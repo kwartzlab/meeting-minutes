@@ -70,6 +70,11 @@
 * James to get quote for snow removal
  * 161: Dirt and Snow to be contacted again
  * 162: Still seeking quotes. Cedric to seek a quote from Ghent Winterworks
+   * Motion to preapprove $1000 for snow removal
+     * by: Doug
+     * seconded: Christine
+     * approved: Christine, Doug, Jim, Steph, Shaun
+     * against: John
 * Laser Fix
     * 159: Approval of Tube Expense. James submitted it. ~1400 Cad. Needs to be bank transfer. James will need reimbursement for tax, brokerage and mounts.
       * motion to approve up to $2000 CAD for fixing the laser.
