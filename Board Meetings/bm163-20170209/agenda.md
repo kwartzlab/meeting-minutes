@@ -101,6 +101,7 @@
 
 ## New Business
  * Knowledge management discussion
+ * Discuss future plans for the lab
 
 * Member Hiatus (Nelson Leung)
  * Motion to accept
