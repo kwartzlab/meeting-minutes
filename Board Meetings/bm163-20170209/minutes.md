@@ -43,9 +43,9 @@
 * 161: Nothing to report
 * 162: HST remittance ready for submission
  * Motion to amend the agenda to include the acceptance of the HST remittance
-  * by: John
-  * seconded: Christine
-  * approved: Unanimous
+   * by: John
+   * seconded: Christine
+   * approved: Unanimous
  * Motion to accept the HST remittance
   * by: John
   * seconded: Shaun
