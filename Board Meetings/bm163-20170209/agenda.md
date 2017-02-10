@@ -126,8 +126,16 @@
 
 ### Reimbursements & Purchase Approvals
 
+* Reimbursement Request
  * Ben Brown
   * 3 year SSL certificate $50.93 from RapidSSL
+  
+* Purchase Approval
+ * James Bastow
+  * $50.46 Laser tube/PSU taxes & brokerage from DHL
+  * $221.07 Laser PLC from RobotShop
+  * $38.57 Laser parts from Sayal/Rexall
+  * $230.03 Laser parts from TES
 
 ## Review of New Action Items from this Meeting
 
