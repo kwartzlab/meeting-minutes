@@ -100,7 +100,7 @@
 
 
 ## New Business
- * Membership Coordinator - board to discuss whether the Membership Coordinator should be a director
+ * Kwartzlab Organizational Structure - Board to discuss whether the Membership Coordinator should be a director, and the lab's organizational structure as a whole
 
 
 ### New Members
