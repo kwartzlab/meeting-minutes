@@ -123,6 +123,8 @@
    * 165: 
  * Garbage - Board to discuss shifting rules in city trash collection
    * 165: 
+* Drink fridge - check-in with Cedric to see if the drink fridge needs checking in on
+   * 165: 
 
 
 ### New Members
