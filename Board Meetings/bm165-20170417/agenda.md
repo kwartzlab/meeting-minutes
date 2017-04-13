@@ -1,6 +1,6 @@
 # Board Meeting 165
 
-* Date: 17 April 2017
+* Date: 13 April 2017
 * Time: 1930
 * Address: 33 Kent Ave., Kitchener, ON
 * Meeting Type: Board Meeting
@@ -121,6 +121,8 @@
 ## New Business
  * Recent lab thefts - Board to discuss recent lab larceny and matters related to Open Night thefts
    * 165: 
+ * Garbage - Board to discuss shifting rules in city trash collection
+   * 165: 
 
 
 ### New Members
@@ -140,6 +142,7 @@
 ### Reimbursements & Purchase Approvals
 * Ben Brown
    * Lockers $350 from kijiji
+   * UPS for door units $135.58 from Canada Computers
  
 * Drew Ripley
    * Bandsaw blade spool $150 from Tracers Tools Co. Inc.
