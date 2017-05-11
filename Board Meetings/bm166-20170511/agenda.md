@@ -7,8 +7,8 @@
 * Minutes by: Jim Tigwell
 
 ## Attending
-* Present: 
-* Absent: 
+* Present: Shaun Zimmerman, Steph Smith, James Bastow, John Wynen, Doug Moen, Jim Tigwell
+* Absent: Christine van Walraven
 
 ## Call to Order
 * Called to order
@@ -143,6 +143,16 @@
 ### Overdue Accounts (In Camera)
 
 ### Reimbursements & Purchase Approvals
+
+* Ben Brown
+   * $254.84 from ebay for Canon T1i DSLR Camera with kit lens
+   * $21.86 from Amazon for AC Adapter for Canon T1i DSLR Camera
+   * $112.72 from Canada Computers for WD 1TB Black Edition HDD 
+   
+ * Motion to approve all purchases
+   * by: 
+   * seconded: 
+   * approved: 
 
 ## Review of New Action Items from this Meeting
 
