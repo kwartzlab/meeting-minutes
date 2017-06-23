@@ -51,3 +51,4 @@
 			* by: Tennessee
 			* seconded: Steph
 			* approved: Unanimous 
+			* Adjourned: 1950
