@@ -47,8 +47,8 @@
 			* approved: Unanimous 
 
 4. Adjournment
-		* Motion to approve
-			* by: Tennessee
+	* Motion to approve
+		* by: Tennessee
 			* seconded: Steph
 			* approved: Unanimous 
 			* Adjourned: 1950
