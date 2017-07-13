@@ -92,7 +92,7 @@
    * 167: The issue has been (mostly) resolved. Remaining issue is getting Andre's stuff out of the lab.
 
 ## New Business
-    
+   * Board Transition information
 
 ### New Members
  * Benjamin Tompkins
