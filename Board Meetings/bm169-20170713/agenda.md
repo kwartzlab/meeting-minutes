@@ -105,7 +105,9 @@
 ### Member Hiatus
  
 ### Member withdrawals:
-  
+
+  * Evan Barks
+
 ### Overdue Accounts (In Camera)
 
 
