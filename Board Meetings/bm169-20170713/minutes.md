@@ -51,26 +51,26 @@
 ## Recurring Business
 
 ### Previous Meeting Action Items
-* Steph: document best practices for treasurer & cash handling procedures for special events
- * 143: Steph will draft a thing
- * [...]
- * 165: Further documentation will need to happen with the new Treasurer, or in cooperation with Steph. 
- * 167: ditto
- * 169: Melissa and Jim  to meet with Steph and continue documenting procedures and best practices. 
+ * Steph: document best practices for treasurer & cash handling procedures for special events
+   * 143: Steph will draft a thing
+   * [...]
+   * 165: Further documentation will need to happen with the new Treasurer, or in cooperation with Steph. 
+   * 167: ditto
+   * 169: Melissa and Jim  to meet with Steph and continue documenting procedures and best practices. 
  
-* Long Term Strategic Planning
- * 161: Doug proposed one meeting a year dedicated to discussing the long term vision and strategy of the lab, and to begin organizing an unconference on the direction of Kwartzlab.
- * 162: [...]
- * 163: Doug delegates to Ben, Neil, and Drew. there's merit to holding a planning meeting once a month on the direction of Kwartzlab.
-    * Discussion around the possibility of leasing at 44 Gaukel once the city's RFP for property management has progressed.
-    * Doug to talk with Thom Ryan concerning 44 Gaukel and Catalyst to get the lay of the land.
-    * Discussion around membership growth plan, and creating a sustainable space for makers in KW
-    * Proposed assembling a team to address growth and sustainability issues.
- * 164: There may be an opportunity to work with KW woodworking club, circumstances depending. 
- * 165: KW Woodworking Club has relocated successfully. Jim to follow up with Ben, Neil, and Drew. 
- * 166: KW Woodworking Club may have additional space in their building. John to chat with Tony and follow up. 
- * 167: John will talk to Tony tomorrow
- * 169: Doug to follow up with John about meeting with the KW Woodworking Club
+ * Long Term Strategic Planning
+   * 161: Doug proposed one meeting a year dedicated to discussing the long term vision and strategy of the lab, and to begin organizing an unconference on the direction of Kwartzlab.
+   * 162: [...]
+   * 163: Doug delegates to Ben, Neil, and Drew. there's merit to holding a planning meeting once a month on the direction of Kwartzlab.
+     * Discussion around the possibility of leasing at 44 Gaukel once the city's RFP for property management has progressed.
+     * Doug to talk with Thom Ryan concerning 44 Gaukel and Catalyst to get the lay of the land.
+     * Discussion around membership growth plan, and creating a sustainable space for makers in KW
+     * Proposed assembling a team to address growth and sustainability issues.
+   * 164: There may be an opportunity to work with KW woodworking club, circumstances depending. 
+   * 165: KW Woodworking Club has relocated successfully. Jim to follow up with Ben, Neil, and Drew. 
+   * 166: KW Woodworking Club may have additional space in their building. John to chat with Tony and follow up. 
+   * 167: John will talk to Tony tomorrow
+   * 169: Doug to follow up with John about meeting with the KW Woodworking Club
 
 * Warden report (Christine)
   * 163: Christine to investigate the possibilities of a property maintenance warden
