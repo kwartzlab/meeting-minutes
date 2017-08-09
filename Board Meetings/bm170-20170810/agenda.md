@@ -24,7 +24,7 @@
  * approved: 
 
 ## Approval of Previous Meeting Minutes
-* Approval of minutes from board meeting 168
+* Approval of minutes from board meeting 169
  * motion to approve
  * by: 
  * seconded: 
