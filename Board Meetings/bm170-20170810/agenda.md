@@ -103,10 +103,13 @@
 ## New Business
  * Tools & training
    * Request to the baord for a training rubric or checklist for tools.
+   * Additional determination of who is warden for which tools, and who is a qualified trainer. 
  * Tool Lockouts
    * Discussion on board list to pursue and prioritize lockouts on tools.
  * Changes to membership application procedure
    * Request to the Members List to require a minimum of +1s for new members, as well as the possibility of a probationary period.
+ * Dumpster for back lot
+   * Jim followed up with James, area next to the shed requires clearing before the dumpster can be placed. Ryan Consell (Shed Warden) looking to do a dump run if someone can arrange a truck.
 
 ### New Members
  * Amgad Fanous
