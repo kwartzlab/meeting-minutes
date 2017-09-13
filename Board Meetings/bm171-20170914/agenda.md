@@ -116,6 +116,7 @@
 
 ## New Business
  
+ * Moderated Mailing Lists
  
 ### New Members
 
