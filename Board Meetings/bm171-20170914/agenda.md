@@ -121,6 +121,8 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
  
 ### Member withdrawals
 
+ * Bevan Lantz
+
 ### Overdue Accounts (In Camera)
 
 
