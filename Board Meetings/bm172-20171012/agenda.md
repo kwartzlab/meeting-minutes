@@ -149,12 +149,8 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
 
 ### Reimbursements & Purchase Approvals
 
-* Michael Davenport
-   * $33.83 for paper towels
-* Sean Stoughton
-   * $27.67 for Flap wheels for the angle grinder
-* James Bastow  
-  * $30.24
+* Melissa Pynkoski
+   * $28.82 for stamps
 
 * Motion to approve
  * by: 
