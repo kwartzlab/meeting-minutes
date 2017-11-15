@@ -18,13 +18,13 @@
  * at: 
 
 ## Approval of Agenda
-* Motion to approve Doug Moen
+* Motion to approve 
  * by: 
  * seconded: 
  * approved: 
 
 ## Approval of Previous Meeting Minutes
-* Approval of minutes from board meeting 171
+* Approval of minutes from board meeting 172
  * motion to approve 
  * by: 
  * seconded: 
