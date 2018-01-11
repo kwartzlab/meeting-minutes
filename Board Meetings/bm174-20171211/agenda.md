@@ -7,8 +7,8 @@
 * Minutes by: Chris Bruner
 
 ## Attending
-* Present: Doug Moen, Jim Fare, , Shaun Zimmerman, Melisa Pynkoski, Mike Robertson, Chris Bruner
-* Absent: Jim Tigwell
+* Present: 
+* Absent: 
 
 ## Call to Order
 * Called to order
@@ -40,7 +40,6 @@ https://drive.google.com/folderview?id=0B1H4pdf5QGKQQi00b3BnTXpvekk
 Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be asked). Goal is to test the waters and see if funding might be available as far as government assistance and to explore the idea of renting space out to professional makers in our group (Ravi, Drew and others). 
 * 171-172: Nothing awesome to report, other than Kwartzlab is awesome. 
 * 173: Not quite the year end summary yet...We're growing as an organization in our ability to deal with membership issues. Plus we got some new tools! Like the new 3d printer. I also heard a rumour that the big vertical mill is approved for use. Has anyone used it yet? 
-* 174: 
 
 ## Report from Treasurer
 * 169: Role is still in transition, but things are progressing. 
@@ -48,7 +47,7 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
 * 171: The insurance has gone up a little bit, which is expected and has been added on the Github. 
 * 172: Still have to properly allocate the tool lockout money. Need to meet with Steph to figure it out. 
 * 173: Tool lockout money allocated. 
-* 174: 
+
 
 * Motion to accept the November, 2017 Financial Report
  * by: 
@@ -81,9 +80,7 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
    * 171: Jim Fare has been consulting with the professional makers in our community about ways to cooperate on an expanded space. Additional consultation needed with the appointed expansion team. Jim Fare to follow up with Josh to talk about assisting the expansion team.
    * 172: Josh has agreed to find us money/grant. Team to go to meeting with Josh includes Doug, Chris,  Thurs 19 at Kwartzlab. Action item Doug to email list about meeting. Open for anyone.
    * 173: Doug to post a message to the announce list to invite comment, to form agenda items for a meeting to follow on Thursday, November 23. 
-   * 174: Tennessee has volunteered to be deputy membership coordinator, with Melissa, Ben, Tennesee and Doug working on a template for the job. 
-     * Resolved to revisit what the board is for, and how to delegate more day to day things
-     * Christine van Walraven recommends assigning jobs to teams, ensuring that everyone has a backup, and that new people are trained. 
+
    
 * Warden report (Christine)
   * 163: Christine to investigate the possibilities of a property maintenance warden
@@ -125,7 +122,6 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
    * 171: Jim Fare to seek an update from Ben Brown on tool lockouts
    * 172: No update available, Shaun will inquire with Ben about tool lockouts
    * 173: Ben and Neil report that they are working on it. Ben has set aside November as his Kwartzlab project month. 
-   * 174: Ben currently waiting on parts
       
  * Probationary term for new members
    * 173: The board would like to introduce a probationary membership status, in order to address issue that may arise from new members. 
@@ -150,9 +146,9 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
  * David Moscoe
  
  * Motion to approve
- * by: Doug
- * seconded: Jim F
- * approved: Unanimous
+ * by: 
+ * seconded: 
+ * approved: 
 
 ### Member Hiatus
  
@@ -172,7 +168,7 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
   
 ## Adjournment
 * Motion to adjourn
- * by: Doug
- * seconded by: Mike
- * passes: Unanimous
+ * by: 
+ * seconded by: 
+ * passes: 
 * Adjourned at: 
