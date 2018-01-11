@@ -137,13 +137,24 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
 
 ## New Business
   * Year End checkin
+    * Christian reports that he has little interest in selling the building, and wishes to renew the lease. Building check require, for new fire extinguishers and safety standards. 
   
   * New Fire Safety Protocol
+    * Christian did not know we blacksmith. 
+    * Doug spoke with the fire department by phone, and a number of members arrived after it started. 
+    * The cause of the fire is curious, and Sean Stoughton can't figure out how it started. 
+    * Investigate whether Christian's insurance covers blacksmithing. 
   
   * Snow Removal Service
+    * Dirt and Snow removal. 519 581 7113 Ghent Winter works Chris will contact
   
   * Safety Report
-  
+    * Safety inspection for month and year: first aid kits replaced, eye shields on grinders are missing, and new goggles to be purchased. 
+    * Motion to approve the expense for new materials
+      * by: Melissa
+      * seconded: Mike
+      * approved: Unanimous
+
    
 ### New Members
 
