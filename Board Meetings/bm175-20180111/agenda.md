@@ -187,6 +187,12 @@ Expansion team set up consisting of Ben Brown, Doug Moen and Josh Bean (to be as
    * $39.50 for Ridgid Shop Vac fine dust filter for heavy lab
 * Shaun Zimmerman
    * $32.42 for cleaning supplies
+* James Bastow
+  * $17.58 for laser repair
+* Sean Stoughton
+  * $48.56 for safety supplies from Princess Auto
+* Tegan Holderness
+  * $183.06 for  6 year inspection/test/refill for 4 5lb fire extinguishers 
 
 * Motion to approve
  * by: 
