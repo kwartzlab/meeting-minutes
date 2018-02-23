@@ -1,41 +1,42 @@
 # Board Meeting 176
 
-* Date: 08 February 2018
+* Date: 22 February 2018
 * Time: 19:00
 * Address: 33 Kent Ave., Kitchener, ON
 * Meeting Type: Board Meeting
 * Minutes by: 
 
 ## Attending
-* Present: 
-* Absent: 
+* Present: Doug Moen,  Melissa Pynkoski Jim Fare Shaun Zimmerman Chris Bruner
+* Absent: Jim Tigwell Mike Robertson
 
 ## Call to Order
 * Called to order
- * by: 
- * seconded: 
- * approved: 
+ * by: Jim Fare
+ * seconded: Shaun
+ * approved: Melisssa
  * at: 
 
 ## Approval of Agenda
 * Motion to approve 
- * by: 
- * seconded: 
- * approved: 
+ * by: Melissa
+ * seconded: Shaun
+ * approved: unammious
 
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from board meeting 175
  * motion to approve 
- * by: 
- * seconded: 
- * approved: 
+ * by: Melissa
+ * seconded: Shaun
+ * approved: unanumous
  
 
 ## Report from President
 * 171-172: Nothing awesome to report, other than Kwartzlab is awesome. 
 * 173: Not quite the year end summary yet...We're growing as an organization in our ability to deal with membership issues. Plus we got some new tools! Like the new 3d printer. I also heard a rumour that the big vertical mill is approved for use. Has anyone used it yet? 
-* 174: 
-* 175: Kwartzlab is awesome. 
+* 174: Kwartzlab is awesome.
+* 175: Kwartzlab is awesome.
+* 176: Kwartzlab is awesome. 
 
 ## Report from Treasurer
 * 171: The insurance has gone up a little bit, which is expected and has been added on the Github. 
@@ -43,11 +44,12 @@
 * 173: Tool lockout money allocated. 
 * 174: 
 * 175: "I just need to never talk." expired rent cheque replaced, a foreseen thing
+* 176: we still have money
 
 * Motion to accept the January, 2018 Financial Report
- * by: 
- * seconded: 
- * approved: 
+ * by: Chris
+ * seconded:Jim 
+ * approved: unamious
 
 ## Recurring Business
 
@@ -58,7 +60,6 @@
    * 165: Further documentation will need to happen with the new Treasurer, or in cooperation with Steph. 
    * 167: ditto
    * 169 - 172: Melissa and Jim  to meet with Steph and continue documenting procedures and best practices. 
- 
  * Long Term Strategic Planning
    * 161: Doug proposed one meeting a year dedicated to discussing the long term vision and strategy of the lab, and to begin organizing an unconference on the direction of Kwartzlab.
    * 162: [...]
@@ -79,6 +80,7 @@
      * Resolved to revisit what the board is for, and how to delegate more day to day things
      * Christine van Walraven recommends assigning jobs to teams, ensuring that everyone has a backup, and that new people are trained. 
    * 175: Strategic Planning Document reviewed by the board, and will be posted to the Members list by Melissa for discussion. 
+   * 176: Melissa will draft a thing, recording best practices for treasurer
    
 * Warden report (Christine)
   * 173: A warden meeting is needed to commiserate and brainstorm how to adequately train people on all of the things we warden. 
@@ -100,65 +102,95 @@
    * 173: Ben and Neil report that they are working on it. Ben has set aside November as his Kwartzlab project month. 
    * 174: Ben currently waiting on parts
    * 175: Ben is testing some new RFID modules, has been printing out cases on the big Cubicon, front door and back door locks have been converted to the new system. Designing the laser lockout and an integrated lockout for the CNC tools
-      
+   * 176: Email meeting, everyone seems happy.      
  
  * Snow Removal Service
     * 174: Dirt and Snow removal. 519 581 7113 Ghent Winter works Chris will contact
     * 175: Ghent didn't meet our needs. Mike has several quotes, to contact the best quote. 
-   
+    * 176: Resolved, Drew is doing it for $75 a visit, things are going well
  
 
 ## New Business
  
-  * New board appointment
+  * New board appointment Possiblies.
+   An email will be sent out, Melissa will do this
   
-  * Signing authority transfer
-  
-  * Warden exemptions
+  * Signing authority transfer from Mike to Shaun
+    
+  * Warden exemptions are done on a case by case basis. Wait for compaints.
   
   * Conditions of membership return
+      Clarification: Once you are no longer a member you MUST re-apply, any amounts owing from previous membership dues, must be repaid before membership is granted.
+  
+  * membership suspention for non payment
+      Clarification: After 3 months they are suspended, they will no longer accrue missed payments, by the 4 month, their membership will be terminated if not resolved.  
+   
    
 ### New Members
   
-  * David Moscoe
   * Nick Read
   * John Potts
   * Wesley Sak
 
 
  * Motion to approve
-   * by: 
-   * seconded: 
-   * approved: 
+   * by: Doug
+   * seconded: Jim 
+   * approved: Unamious
 
 ### Member Hiatus
  
+ . Michael Ahrens  
+
+* Motion to approve
+   * by: Doug
+   * seconded: Jim 
+   * approved: Unamious
+ 
  
 ### Member withdrawals
+. Tony Mantell 
 
- * Mike Robertson
- 
 ### Overdue Accounts (In Camera)
-
 
 ### Reimbursements & Purchase Approvals
 
 * John Potts
    * $57.00 for fence repair materials
+   Questions? Is this actually the downspout? We haven't seen a reimbursment request for this. Talk to John, and Jim.
 * Sean Stoughton
   * $13.55 for firewatch timer
-
+     To be handled by his warden budget
+     
 * Motion to approve
  * by: 
  * seconded: 
  * approved: 
 
 ## Review of New Action Items from this Meeting
+
+Melissa will send out an email asking for director volenteer
+
+Signing authority transfer from Mike to Shaun, Melissa and Shaun will organize this
+
+Chris will move warden list to github  
+ 
+  Chris will receive emails from Melissa on suspeneded memberships, he will update the github csv file until the database is in place, and send out emails to the suspended members. Suspension will last one month and if not resolved will be terminated. 
+ 
+ Doug will put clarifications into the board procedure document:
   
+  * Conditions of membership return
+      Clarification: Once you are no longer a member you MUST re-apply, any amounts owing from previous membership dues, must be repaid before membership is granted.
   
+  * membership suspention for non payment
+      Clarification: After 3 months they are suspended, they will no longer accrue missed payments, by the 4 month, their membership will be terminated if not resolved.  
+
+
+
+
 ## Adjournment
 * Motion to adjourn
- * by: 
- * seconded by: 
- * passes: 
+ * by: Shaun
+ * seconded by: Doug 
+ * passes: aunanimus
 * Adjourned at: 
