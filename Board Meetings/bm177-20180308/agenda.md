@@ -7,45 +7,47 @@
 * Minutes by: 
 
 ## Attending
-* Present: 
-* Absent: 
+* Present: Melissa Pynkoski, Mike Robertson, Jim Fare, Shaun Zimmerman, Doug Moen, Chris Bruner
+* Absent: Jim Tigwell, 
 
 ## Call to Order
 * Called to order
- * by: 
- * seconded: 
- * approved: 
+ * by: Mike
+ * seconded: Shawn 
+ * approved: uamiuous
  * at: 
 
 ## Approval of Agenda
 * Motion to approve 
- * by: 
- * seconded: 
- * approved: 
+ * by: Shaun
+ * seconded: Jim
+ * approved: unamiuous
 
 ## Approval of Previous Meeting Minutes
 * Approval of minutes from board meeting 176
- * motion to approve 
- * by: 
- * seconded: 
- * approved: 
+ * motion to approve
+ * by: Shaun
+ * seconded: Jim
+ * approved: Unanimous
  
 
 ## Report from President
 * 174: Kwartzlab is awesome.
 * 175: Kwartzlab is awesome.
 * 176: Kwartzlab is awesome. 
+* 177: Kwartzlab is awesome.
 
 ## Report from Treasurer
 * 173: Tool lockout money allocated. 
 * 174: 
 * 175: "I just need to never talk." expired rent cheque replaced, a foreseen thing
 * 176: we still have money
+* 177: Situation normal
 
 * Motion to accept the February, 2018 Financial Report
- * by: 
- * seconded: 
- * approved: 
+ * by: Chris
+ * seconded:Shaun 
+ * approved: Unamiuous
 
 ## Recurring Business
 
@@ -99,37 +101,59 @@
  
  * New board appointment
    * 176: Email to be sent out by Melissa
-   
+   * 177 email sent poll was conducted
+         Result is Ben is the new board member  Melissa will inform
+         Doug Motion to approve
+         Chris Seconded
+         unanomous approval
  * Signing authority transfer from Mike to Shaun  
  
- * Warden exemptions are done on a case by case basis. Wait for compaints.
- 
- * Conditions of membership return
-   * 176: Clarification: Once you are no longer a member you MUST re-apply, any amounts owing from previous membership dues, must be repaid before membership is granted.
- 
- * membership suspention for non payment
-   * 176: Clarification: After 3 months they are suspended, they will no longer accrue missed payments, by the 4 month, their membership will be terminated if not resolved.  
-
 
 ## New Business
  
  * Hiatus process clarifications
- 
- * New server for the Kwartzlab site
+   Send out notice to membership about Hiatus and how it is supposed to work.
+   They notify the board and the board accepts or not. They must be a member in good standing.
+   
+ * New server for the Kwartzlab website
+   Motion to approve a budget of a maximum of $30 a month for 2 years: Shaun
+   Seconded: Jim
+   Approve : unanimous
  
  * Metal lathe refurbishing
+    Is already in heavy budget
  
  * Kwartzlab tool trainers
+    Wardens responsibiltiy to make sure that training is available at least once every two months.
+    (not necessarily to do it themselves).
+    All Wardens have the ability to train users.
+    
+    Motion: Chris
+    Seconded: Jim
+    Approved:Unanmious
  
  * Laser tube replacement
+      Doug is sourcing a replacement estimate at around $680, 
+      Motion: Approve budget of $800 for tube replacement
+      Motion Chris
+      Second Shaun
+      Approved: Unanimous
  
  * 3d printer budget
+      Motion to approve $80 starter fund
+      Motion Saun
+      Second Jim
+      Approved: Unamious
    
 ### New Members
   
   * Jen van Overbeeke
   * Barbara Robbi
-
+  * Sunny Omer Hassan
+    Motion to approve as new members
+    Motion: Chris
+    Seond Shaun
+    Approved Unamious
 
  * Motion to approve
    * by: 
@@ -139,11 +163,13 @@
 ### Member Hiatus
  
    * David Moscoe
-
+      Declined until he is paid up.
+   * Michael Ahrens 
+      approved
 * Motion to approve
-   * by: 
-   * seconded: 
-   * approved: 
+   * by: Melissa
+   * seconded: Jim
+   * approved: Unamiums
  
  
 ### Member withdrawals
@@ -161,11 +187,14 @@
 
 ## Review of New Action Items from this Meeting
 
-
+Melissa will inform Ben of board member
+Melissa will inform membership of how hiatus works, and will fix the link in the webpage about it.
+Chris will inform wardens of duties, Wardens need to provide a list of consumables. Will send to Milissa. 
+Doug will source a new laser tube
 
 ## Adjournment
 * Motion to adjourn
- * by: 
- * seconded by: 
- * passes: 
-* Adjourned at: 
+ * by: Chris
+ * seconded by: Mike 
+ * passes: Anamious
+* Adjourned at: 8:43
