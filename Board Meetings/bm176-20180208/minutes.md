@@ -4,7 +4,7 @@
 * Time: 19:00
 * Address: 33 Kent Ave., Kitchener, ON
 * Meeting Type: Board Meeting
-* Minutes by: 
+* Minutes by: Chris Bruner
 
 ## Attending
 * Present: Doug Moen,  Melissa Pynkoski Jim Fare Shaun Zimmerman Chris Bruner
@@ -14,7 +14,7 @@
 * Called to order
  * by: Jim Fare
  * seconded: Shaun
- * approved: Melisssa
+ * approved: Melissa
  * at: 
 
 ## Approval of Agenda
@@ -193,4 +193,4 @@ Chris will move warden list to github
  * by: Shaun
  * seconded by: Doug 
  * passes: aunanimus
-* Adjourned at: 
+* Adjourned at: 20:40
