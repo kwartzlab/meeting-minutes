@@ -116,7 +116,7 @@
 ## New Business
   * Attempted break in
   
-  * Membership dtatabase updates
+  * Membership database updates
   
   * Laser repair
   
