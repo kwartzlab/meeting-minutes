@@ -114,7 +114,15 @@
       * Approved: Unanimous
  
 ## New Business
- 
+  * Attempted break in
+  
+  * Membership dtatabase updates
+  
+  * Laser repair
+  
+  * Intentions to stay at 33 Kent
+  
+  * 
    
 ### New Members
   
@@ -132,7 +140,7 @@
    
  
 ### Member withdrawals
-
+  * Neil Sandison
 
 ### Overdue Accounts (In Camera)
 
