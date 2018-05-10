@@ -138,7 +138,9 @@
  
  * Lease plan
  
- * Repair plan
+ * Fence Repair plan
+ 
+ * Clarify membership process
    
 ### New Members
   
