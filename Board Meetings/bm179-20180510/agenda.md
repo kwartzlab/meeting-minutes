@@ -1,34 +1,34 @@
 # Board Meeting 178
 
-* Date: 12 April 2018
+* Date: 10 May 2018
 * Time: 19:00
 * Address: 33 Kent Ave., Kitchener, ON
 * Meeting Type: Board Meeting
-* Minutes by: Jim Tigwell
+* Minutes by: 
 
 ## Attending
-* Present: Shaun Zimmerman, Melissa Pynkoski, Chris Bruner, Ben Brown, Jim Fare, Jim Tigwell, Doug Moen
+* Present: 
 * Absent: 
 
 ## Call to Order
 * Called to order
- * by: Shaun
- * seconded: Doug
- * approved: Unanimous
- * at: 19:29
+ * by: 
+ * seconded: 
+ * approved: 
+ * at: 
 
 ## Approval of Agenda
 * Motion to approve 
- * by: Melissa
- * seconded: Shaun
- * approved: Unanimous
+ * by: 
+ * seconded: 
+ * approved: 
 
 ## Approval of Previous Meeting Minutes
-* Approval of minutes from board meeting 177
+* Approval of minutes from board meeting 178
  * motion to approve
- * by: Chris
- * seconded: Jim
- * approved: Unanimous
+ * by: 
+ * seconded: 
+ * approved: 
  
 
 ## Report from President
@@ -42,10 +42,10 @@
 * 177: Situation normal
 * 178: 
 
-* Motion to accept the March, 2018 Financial Report
- * by: Ben
- * seconded: Doug
- * approved: Unanimous
+* Motion to accept the April, 2018 Financial Report
+ * by: 
+ * seconded: 
+ * approved: 
 
 ## Recurring Business
 
@@ -120,54 +120,42 @@
           * Seconded: Shaun
           * Approved:Unanimous
 
+ * Membership database updates
+    * 178: Database is ready, the only thing left is to hook up the membership application to it. 
+
  
 ## New Business
-  * Attempted break in
-    * 178: New cameras requested, and the back door lock will now only be openable using the lockout system. Police report has been filed as a matter of course. 
-  
-  * Membership database updates
-    * 178: Database is ready, the only thing left is to hook up the membership application to it. 
-  
-  * Intentions to stay at 33 Kent
-    * 178: We're still looking for spaces, but intend to renew with the traditional lease. Melisa recommends setting a date internally of moving by 2020, if only to stop putting the moving date off. 
-      * Motion to propose a moving date of January 2020 to the membership at the AGM
-          * Motion: Melissa
-          * Seconded: Ben
-          * Approved: Unanimous
-          
-   * Budgets
-     * Motion to increase the cleaning budget to $20/month
-          * Motion: Melissa
-          * Seconded: Jim F
-          * Approved: Unanimous
-          
-     * Motion to create a property maintenance budget of $100/month, with Mike Robertson as Property Warden
-          * Motion: Melissa
-          * Seconded: Chris
-          * Approved: Unanimous
-
-     * Motion to top up the Emergency fund to $8500
-          * Motion: Melissa
-          * Seconded: Jim T
-          * Approved: Unanimous
+         
+ * New Location possibilities
  
+ * AGM preparations
+ 
+ * Proposed changes to role of President
+ 
+ * Training
+ 
+ * Budget adjustments
+ 
+ * Lease plan
+ 
+ * Repair plan
    
 ### New Members
   
-  * Stephen Lizak
-  * Andrew Pys
-  * Robert Gissing
+  * Gordon Waller
+  * Marion Grant
+
  
  * Motion to approve
-   * by: Shaun
-   * seconded: Jim T
-   * approved: Unanimous
+   * by: 
+   * seconded: 
+   * approved: 
 
 ### Member Hiatus
  
 ### Member withdrawals
-  * Neil Sandison
-  * Aarno Aapro
+ 
+  
 
 ### Overdue Accounts (In Camera)
 
@@ -184,7 +172,7 @@
 
 ## Adjournment
 * Motion to adjourn
- * by: Ben
- * seconded by: Chris
- * passes: Unanimous
-* Adjourned at: 20:32
+ * by: 
+ * seconded by: 
+ * passes: 
+* Adjourned at: 
