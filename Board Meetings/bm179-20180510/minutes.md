@@ -162,14 +162,26 @@
    * 179: Fence and wall both need repair. Shaun to reach out to Mike about the fence repair. Done. 
  
  * Clarify membership process
-   * 179: There needs to be a way to enter applicants into the registry, but not have them entered into the cleaning schedule or able to obtain their key. Prioritizing the new membership database and giving out inactive keys on application will help smooth out the logistics. 
-   
+   * 179: There needs to be a way to enter applicants into the registry, but not have them entered into the cleaning schedule or able to obtain their key. Prioritizing the new membership database and giving out inactive keys on application will help smooth out the logistics. Email to be sent to the membership concerning Don's status. 
+
+ * Recent code of conduct violations
+    * 179: Don Liebold has committed several acts which violate the Kwartzlab code of conduct. Jim to work on a draft for code of conduct adjustments to present to the AGM. 
+      * Motion to revoke Don Liebold's key access for major code of conduct violations, effective May 9
+         * by: Doug
+         * seconded: Shaun
+         * approved: Unanimous
+      * Motion to commence termination proceedings for Don Liebold 
+         * by: Doug
+         * seconded: Jim T
+         * approved: Unanimous
+         
+  * Board Transition Document
+    * 179: Everyone to contribute to the transition document. 
    
 ### New Members
   
   * Gordon Waller
   * Marion Grant
-
  
  * Motion to approve
    * by: Doug
@@ -209,11 +221,17 @@
   * Chris to contact Josh and look for city contacts to start the zoning conversation. 
   * Jim T to take point on organizing the AGM.
   * Doug to try and book Christian for the next board meeting to discuss the lease.
+  * Everyone to contribute to the transition document. 
+  * Email to be sent by Jim F to the membership concerning Don's status. 
+    * Summary of termination process
+    * Call for statements
+  * Shaun to notify Don of the change in status. 
+  * Jim T to work on a draft for code of conduct adjustments to present to the AGM. 
   
 
 ## Adjournment
 * Motion to adjourn
- * by: 
- * seconded by: 
- * passes: 
-* Adjourned at: 
+ * by: Chris
+ * seconded by: Ben
+ * passes: Unanimous
+* Adjourned at: 22:09
