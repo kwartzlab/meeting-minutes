@@ -131,6 +131,8 @@
  * Proposed Code of Conduct changes
  
  * AGM Agenda
+ 
+ * Board procedure review
      
 ### New Members
   
