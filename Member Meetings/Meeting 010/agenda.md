@@ -5,7 +5,7 @@
 * Meeting Type: Annual General Meeting
 * Minutes by: 
 
-## Minutes ##
+## Agenda ##
 
 ## Board Attending
 * Present: 
@@ -40,17 +40,23 @@
 			* approved: 
 
 3. Proposed Code of Conduct Changes
+  * Changes proposed for clarification and accountability
 
+4. Strategic Plan Document 
+  * Per the meeting on June 21
 
+5. Potential New Location 
 
-3. Board Elections
+6. Payment accountability
+
+7. Board Elections
 	* Be it resolved that [the elected board] be appointed as the Board of Directors for Kwartzlab Society Inc. for a one year term beginning on July 1, 2018.
 		* Motion to approve
 			* by: 
 			* seconded: 
 			* approved: 
 
-4. Adjournment
+8. Adjournment
 	* Motion to approve
 		* by: 
 			* seconded: 
